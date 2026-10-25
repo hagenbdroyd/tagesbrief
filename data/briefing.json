@@ -1,9 +1,9 @@
 {
   "date": "2026-10-26",
-  "generatedAt": "2026-10-26T00:01:23+01:00",
+  "generatedAt": "2026-10-26T00:33:24+01:00",
   "notice": null,
-  "aiModel": "gemini-3.6-flash",
-  "push": "Machtwechsel in Serbien: Präsident Vučić räumt Niederlage bei Wahl ein",
+  "aiModel": "gemini-3.8-flash",
+  "push": "Serbiens Präsident Aleksandar Vučić räumt Niederlage bei Parlamentswahl ein",
   "breaking": [],
   "sections": [
     {
@@ -12,19 +12,19 @@
       "items": [
         {
           "id": "p1",
-          "headline": "Machtwechsel in Serbien: Vučić räumt Niederlage ein",
-          "summary": "In Serbien hat Präsident Aleksandar Vučić die Niederlage seiner Partei bei der Parlamentswahl eingeräumt. Die studentisch geführte Oppositionsbewegung „Studentische Liste“ errang laut Hochrechnungen die Mehrheit. Die Wahl galt als Referendum über die zwölfjährige Herrschaft von Vučić und verzeichnete eine Rekordbeteiligung.",
-          "perspectives": "Der Spiegel berichtet über den Jubel auf den Straßen Belgrads und betont die historische Rekordwahlbeteiligung (über Jubel berichtet auch der Guardian). Während die BBC die Niederlage als klar beschreibt, hebt der Guardian hervor, dass die Studentische Liste voraussichtlich 138 Sitze und damit eine absolute Mehrheit erzielt.",
+          "headline": "Serbiens Präsident Vučić räumt Wahlniederlage ein",
+          "summary": "Nach zwölf Jahren an der Macht hat Serbiens Präsident Aleksandar Vučić die Niederlage seiner Regierungspartei bei der Parlamentswahl eingeräumt. Die von Protesten getragene oppositionelle Studentenbewegung erzielte laut Hochrechnungen einen deutlichen Sieg. Vučić gratulierte seinen Gegnern überraschend früh, während auf den Straßen von Belgrad Jubel ausbrach.",
+          "perspectives": "BBC und Spiegel betonen Vučićs zwölfjährige Herrschaft sowie die Rekordwahlbeteiligung. Die FAZ hebt hervor, dass die Studentenliste möglicherweise eine absolute Mehrheit errungen habe. Laut New York Times erfolgte das Eingeständnis des serbischen Präsidenten überraschend früh.",
           "sources": [
+            {
+              "name": "New York Times",
+              "country": "US",
+              "url": "https://www.nytimes.com/2026/10/25/world/europe/serbia-vucic-election-defeat.html"
+            },
             {
               "name": "BBC",
               "country": "UK",
               "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo"
-            },
-            {
-              "name": "Guardian",
-              "country": "UK",
-              "url": "https://www.theguardian.com/world/live/2026/oct/25/europe-serbia-elections-aleksander-vucic-student-list-protests-bulgaria-latest-news-updates"
             },
             {
               "name": "FAZ",
@@ -37,47 +37,60 @@
               "url": "https://www.spiegel.de/ausland/serbien-praesident-aleksandar-vucic-gesteht-niederlage-bei-parlamentswahl-ein-a-d46235a6-039e-4242-bf48-8e8313219f59"
             }
           ],
-          "time": "2026-10-25T20:52:00+00:00"
+          "time": "2026-10-25T20:52:00+00:00",
+          "image": {
+            "url": "https://static01.nyt.com/images/2026/10/25/multimedia/25int-serbia-vucic-mpgv/25int-serbia-vucic-mpgv-mediumSquareAt3X.jpg",
+            "source": "New York Times"
+          }
         },
         {
           "id": "p2",
-          "headline": "Stichwahl in Brasilien: Wahllokale geschlossen",
-          "summary": "In Brasilien haben die Wahllokale nach einer vom Obersten Gericht verhängten zweistündigen Verlängerung geschlossen. Die Stichwahl zwischen dem linken Präsidenten Luiz Inácio Lula da Silva und seinem rechtspopulistischen Herausforderer Flávio Bolsonaro gilt als extrem knapp. Erste Ergebnisse werden in der Nacht erwartet.",
-          "perspectives": "Die Financial Times verweist auf fehlende Busse und Fähren im Wahlkampf. Die Zeit betont, dass die Verlängerung der Öffnungszeiten nach Beschwerden von Lula über Wählerbehinderungen erfolgte. Der Guardian hebt hervor, dass Lula nach einer überraschenden Niederlage im ersten Wahlgang nun um seine Wiederwahl kämpft.",
+          "headline": "Kopf-an-Kopf-Rennen bei Präsidentenwahl in Brasilien",
+          "summary": "In Brasilien sind die Wahllokale für die Stichwahl um das Präsidentenamt nach einer zweistündigen Verlängerung geschlossen worden. Amtsinhaber Luiz Inácio Lula da Silva und sein rechter Herausforderer Flávio Bolsonaro lieferten sich ein enges Duell. Die Auszählung läuft, erste Hochrechnungen sahen Bolsonaro zunächst knapp in Führung.",
+          "perspectives": "Laut New York Times ordnete das Oberste Gericht die Verlängerung wegen Verkehrsproblemen an, wobei sich beide Lager gegenseitig Behinderungen vorwarfen. Der Guardian stellt heraus, dass die Stimmzählung nach zweistündiger Verlängerung wieder aufgenommen wurde. Die Zeit berichtet nach Auszählung erster Stimmen von einer leichten Führung Bolsonaros, während die NZZ die rund 159 Millionen Wahlberechtigten betont.",
           "sources": [
             {
-              "name": "Handelsblatt",
-              "country": "DE",
-              "url": "https://www.handelsblatt.com/politik/international/brasilien-brasiliens-wahllokale-schliessen-nach-verlaengertem-wahlgang/100264825.html"
+              "name": "New York Times",
+              "country": "US",
+              "url": "https://www.nytimes.com/live/2026/10/25/world/brazil-election"
             },
             {
               "name": "Guardian",
               "country": "UK",
-              "url": "https://www.theguardian.com/world/ng-interactive/2026/oct/25/brazil-election-2026-live-second-round-results"
-            },
-            {
-              "name": "Financial Times",
-              "country": "UK",
-              "url": "https://www.ft.com/content/29033fb9-2dc7-4af0-a2ff-55d1bdd5dece?syn-25a6b1a6=1"
+              "url": "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula"
             },
             {
               "name": "Zeit",
               "country": "DE",
-              "url": "https://www.zeit.de/politik/ausland/2026-10/stichwahl-brasilien-luiz-inacio-lula-da-silva-praesident-wahlbehinderung"
+              "url": "https://www.zeit.de/politik/ausland/2026-10/stichwahl-brasilien-lula-flavio-bolsonaro-cristiano-zanin-wahl-verlaengerung"
+            },
+            {
+              "name": "NZZ",
+              "country": "CH",
+              "url": "https://www.nzz.ch/international/wegen-problemen-im-busverkehr-auszaehlung-bei-wahlen-in-brasilien-vorerst-unterbrochen-ld.10044454"
             }
           ],
-          "time": "2026-10-25T20:50:42+00:00"
+          "time": "2026-10-25T22:28:17+00:00",
+          "image": {
+            "url": "https://static01.nyt.com/images/2026/10/25/multimedia/25brazile-update-630-whlc/25brazile-update-630-whlc-mediumSquareAt3X.jpg",
+            "source": "New York Times"
+          }
         },
         {
           "id": "p3",
-          "headline": "Oppositionsführerin Machado zurück in Venezuela",
-          "summary": "Die venezolanische Oppositionsführerin und Friedensnobelpreisträgerin María Corina Machado ist nach Exil bzw. Zeit im Verborgenen in ihre Heimat zurückgekehrt. Ihre Rückkehr fordert die von den USA unterstützte Übergangsregierung heraus.",
-          "perspectives": "Zeit und Spiegel zitieren Machados Botschaft an ihre Anhänger („Ich bin hier. Bei euch.“). Die Financial Times betont, dass ihre Rückkehr die von den USA unterstützte Interimsregierung herausfordert. Das Handelsblatt verweist auf Äußerungen von US-Außenminister Marco Rubio. Während die Zeit von der Rückkehr nach einem Jahr im Exil berichtet, gibt der Spiegel an, sie habe das Land im Dezember verlassen.",
+          "headline": "Oppositionsführerin Machado kehrt nach Venezuela zurück",
+          "summary": "Die venezolanische Oppositionsführerin und Friedensnobelpreisträgerin María Corina Machado ist überraschend in ihr Heimatland zurückgekehrt. Nach Monaten im Exil will sie die regierende Führung herausfordern und auf Neuwahlen dringen. Ihre Rückkehr stellt zugleich die von den USA gestützte Übergangsregierung vor neue Spannungen.",
+          "perspectives": "Bei der Dauer des Exils weichen die Berichte ab: Die New York Times spricht von fast zehn Monaten, während die Zeit von einem Jahr berichtet. Das Handelsblatt erwähnt die Rolle von US-Außenminister Marco Rubio im Vorfeld. Die Financial Times betont, dass Machados Ankunft die von Washington gestützte Übergangsregierung herausfordert.",
           "sources": [
             {
               "name": "Financial Times",
               "country": "UK",
               "url": "https://www.ft.com/content/f691e41e-dd01-4ac0-ade7-5f7ca23d6135?syn-25a6b1a6=1"
+            },
+            {
+              "name": "New York Times",
+              "country": "US",
+              "url": "https://www.nytimes.com/2026/10/25/world/americas/machado-venezuela-return.html"
             },
             {
               "name": "Handelsblatt",
@@ -88,30 +101,29 @@
               "name": "Zeit",
               "country": "DE",
               "url": "https://www.zeit.de/politik/ausland/2026-10/maria-corina-machado-rueckkehr-venezuela-opposition-edmundo-gonzalez-urrutia-gxe"
-            },
-            {
-              "name": "Spiegel",
-              "country": "DE",
-              "url": "https://www.spiegel.de/ausland/maria-corina-machado-oppositionspolitikerin-gibt-rueckkehr-nach-venezuela-bekannt-a-0645a250-a873-4c28-b833-748ab7f03b25"
             }
           ],
-          "time": "2026-10-25T16:59:00+00:00"
+          "time": "2026-10-25T19:16:17+00:00",
+          "image": {
+            "url": "https://static01.nyt.com/images/2026/10/25/multimedia/25int-venezuela-machado-wlbq/25int-venezuela-machado-wlbq-mediumSquareAt3X.jpg",
+            "source": "New York Times"
+          }
         },
         {
           "id": "p4",
-          "headline": "Proteste und Krawalle in mehreren Ländern Europas",
-          "summary": "In Frankreich und weiteren europäischen Ländern kam es erneut zu Massenprotesten und schweren Ausschreitungen. Allein in Frankreich meldeten die Behörden mehr als 1.000 Festnahmen. Auch in anderen europäischen Ländern kam es zu Zusammenstößen mit der Polizei.",
-          "perspectives": "BBC und Spiegel betonen die hohe Zahl von mindestens 1.000 (BBC: mehr als 1.300) Festnahmen in Frankreich. Tagesschau und Spiegel heben hervor, dass die Proteste bzw. das Protestwochenende insgesamt friedlicher verliefen als zuvor. Die NZZ beleuchtet die Hintergründe in Paris und beschreibt, wie junge linke Anhänger die Gewalt schönreden.",
+          "headline": "Über 1000 Festnahmen bei Protesten in Frankreich",
+          "summary": "Bei erneuten Massenprotesten gegen soziale Ungerechtigkeit und hohe Lebenshaltungskosten ist es in Frankreich und weiteren europäischen Städten zu Ausschreitungen gekommen. Hunderttausende gingen auf die Straße, teils kam es zu Zusammenstößen mit der Polizei und Plünderungen. Die Sicherheitsbehörden nahmen über tausend Menschen fest.",
+          "perspectives": "Bei den Festnahmezahlen weichen die Medien voneinander ab: Während die BBC und das Handelsblatt von über 1300 Festnahmen in Frankreich berichten, nennt der Spiegel mindestens 1000 Festgenommene. Die Tagesschau betont im Gegensatz zu den anderen Medien, dass die Behörden insgesamt weniger Gewalt als zuvor meldeten.",
           "sources": [
-            {
-              "name": "NZZ",
-              "country": "CH",
-              "url": "https://www.nzz.ch/international/protest-in-paris-junge-linke-demonstrieren-migranten-bewachen-ld.10044252"
-            },
             {
               "name": "Tagesschau",
               "country": "DE",
               "url": "https://www.tagesschau.de/ausland/europa/proteste-frankreich-spanien-italien-protugal-albanien-100.html"
+            },
+            {
+              "name": "Handelsblatt",
+              "country": "DE",
+              "url": "https://www.handelsblatt.com/politik/international/frankreich-1300-festnahmen-bei-erneuten-krawallen-chaos-auch-in-barcelona/100264143.html"
             },
             {
               "name": "BBC",
@@ -124,65 +136,77 @@
               "url": "https://www.spiegel.de/ausland/frankreich-mindestens-1000-festnahmen-bei-protesten-gegen-soziale-ungerechtigkeit-a-3855d41e-82a3-4db7-b14b-91ac1cb2d033"
             }
           ],
-          "time": "2026-10-25T08:08:00+00:00"
+          "time": "2026-10-25T08:08:00+00:00",
+          "image": {
+            "url": "https://images.tagesschau.de/image/12480ce0-3910-4aae-b5a6-7b2d310c06d9/AAABoXIyT6w/AAABnSSvrFg/16x9-big/frankreich-proteste-238.jpg?width=1024",
+            "source": "Tagesschau"
+          }
         },
         {
           "id": "p5",
-          "headline": "Israel vor Wahl: Armee riegelt Westjordanland ab",
-          "summary": "Vor der bevorstehenden Parlamentswahl in Israel hat das Militär eine Abriegelung des besetzten Westjordanlands angekündigt. Nach militanten Angriffen wurden in Hebron hunderte Familien aus ihren Häusern vertrieben. Die Wahl gilt als entscheidende Abstimmung über die politische Zukunft von Ministerpräsident Benjamin Netanjahu.",
-          "perspectives": "Der Guardian spricht von Kollektivstrafen und berichtet, dass israelische Truppen ein Viertel in Hebron eingeebnet und hunderte Familien vertrieben haben. Die FAZ meldet die Vertreibung von 2.000 Palästinensern aus ihren Häusern in Hebron und verweist zudem auf einen heftigen Streit zwischen Netanjahu und dem Generalstabschef. Tagesschau und BBC stellen die sicherheitsrelevanten Themen der Wahl in den Mittelpunkt.",
+          "headline": "Stichwahl entscheidet über Bulgariens Präsidentschaft",
+          "summary": "Bei der Präsidentschaftswahl in Bulgarien hat kein Bewerber im ersten Wahlgang die absolute Mehrheit erreicht. Amtsinhaberin Ilijana Jotowa liegt ersten Prognosen zufolge vorn, verfehlte den Durchmarsch jedoch wegen niedriger Beteiligung. Am kommenden Sonntag kommt es zur Stichwahl gegen den prowestlichen Herausforderer Andrej Gjurow.",
+          "perspectives": "Die Deutsche Welle hebt hervor, dass die Wahl durch die Spaltung über den Krieg in der Ukraine geprägt war und die Wahlbeteiligung einen Tiefstand erreichte. Das Handelsblatt bezeichnet den Vorsprung Jotowas als unerwartet knapp, während die FAZ und der Spiegel vor allem die bevorstehende Stichwahl gegen den prowestlichen Kandidaten Gjurow betonen.",
           "sources": [
             {
-              "name": "BBC",
-              "country": "UK",
-              "url": "https://www.bbc.co.uk/news/videos/c64g1wje3jjwo"
+              "name": "Handelsblatt",
+              "country": "DE",
+              "url": "https://www.handelsblatt.com/politik/international/wahlen-in-bulgarien-stichwahl-entscheidet-ueber-staatsoberhaupt/100264831.html"
+            },
+            {
+              "name": "Spiegel",
+              "country": "DE",
+              "url": "https://www.spiegel.de/ausland/bulgarien-stichwahl-zwischen-ilijana-jotowa-und-andrej-gjurow-um-praesidentenamt-a-9f38ee33-0775-4c66-ba2a-5cb79f39cd3a"
             },
             {
               "name": "FAZ",
               "country": "DE",
-              "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-nahost-heftiger-streit-zwischen-netanjahu-und-generalstabschef-faz-200583539.html"
+              "url": "https://www.faz.net/aktuell/politik/ausland/bulgarien-wahl-amtsinhaberin-ilijana-jotowa-laut-prognosen-knapp-vorn-201620312.html"
             },
             {
-              "name": "Tagesschau",
+              "name": "Deutsche Welle",
               "country": "DE",
-              "url": "https://www.tagesschau.de/ausland/asien/israel-westjordanland-lockdown-parlamentswahlen-100.html"
-            },
-            {
-              "name": "Guardian",
-              "country": "UK",
-              "url": "https://www.theguardian.com/world/2026/oct/24/israel-soldiers-raze-west-bank-neighbourhood-hebron-families-from-homes"
+              "url": "https://www.dw.com/en/in-bulgaria-record-low-voter-turnout-triggers-a-november-1-presidential-run-off-in-a-poll-colored-by-divisions-over-ukraine-war/a-79753496"
             }
           ],
-          "time": "2026-10-25T06:24:46+00:00"
+          "time": "2026-10-25T07:19:00+00:00",
+          "image": {
+            "url": "https://images.handelsblatt.com/3QZq1c1czQ2F/cover/900/506/0/0/313/312/0.5/0.5/bulgarian-president-iotova-casts-ballot-in-presidential-election-sofia-bulgaria-october-25-bulga.jpg",
+            "source": "Handelsblatt"
+          }
         },
         {
           "id": "p6",
-          "headline": "Bund plant Gesetz gegen Vergesellschaftungen",
-          "summary": "Bundesinnenminister Alexander Dobrindt hat Eckpunkte für ein Gesetz vorgelegt, das Enteignungen und Vergesellschaftungen von Immobilien erschweren soll. Anlass sind Pläne der Berliner Linkspartei. Entschädigungen sollen laut dem Entwurf sofort fällig werden.",
-          "perspectives": "Der Spiegel hebt die scharfe Kritik der Linken hervor, die das Vorhaben als rechtswidrig bezeichnet. Handelsblatt, Tagesschau und Zeit stellen heraus, dass die Bundesregierung der Berliner Regierungsbildung mit dem Gesetz zuvorkommen möchte.",
+          "headline": "Streit zwischen Musk und Kiew über Starlink-Nutzung",
+          "summary": "Elon Musk hat der Ukraine vorgeworfen, das Satellitennetzwerk Starlink regelwidrig für offensive militärische Drohnenangriffe genutzt zu haben, und die Verbindung zeitweise gedrosselt. Kiew wies die Vorwürfe zurück und betonte, die Satellitenverbindung laufe inzwischen wieder stabil. Starlink ist für die ukrainische Kommunikation zentral.",
+          "perspectives": "Die BBC und die FAZ stellen Musks Vorwurf in den Vordergrund, die Ukraine habe mit Angriffsdrohnen gegen Nutzungsbedingungen verstoßen. Die New York Times hebt hervor, dass die über das Pentagon finanzierte Starshield-Verbindung wieder normale Geschwindigkeiten erreicht habe. Das Handelsblatt betont zudem Kiews Zurückweisung der Vorwürfe.",
           "sources": [
-            {
-              "name": "Spiegel",
-              "country": "DE",
-              "url": "https://www.spiegel.de/politik/deutschland/nach-berlin-wahl-alexander-dobrindt-plant-hohe-huerden-fuer-vergesellschaftungen-a-9d5feeea-5988-47e5-87c8-d4328a60cb98"
-            },
             {
               "name": "Handelsblatt",
               "country": "DE",
-              "url": "https://www.handelsblatt.com/politik/deutschland/enteignung-dobrindt-will-vergesellschaftungen-komplizierter-machen/100264772.html"
+              "url": "https://www.handelsblatt.com/politik/international/ukraine-krieg-ukraine-starlink-laeuft-wieder-musk-beklagt-missbrauch/100264782.html"
             },
             {
-              "name": "Tagesschau",
+              "name": "FAZ",
               "country": "DE",
-              "url": "https://www.tagesschau.de/inland/innenpolitik/dobrindt-vergesellschaftung-100.html"
+              "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-slowakei-will-wieder-enger-mit-russland-zusammenarbeiten-faz-110683325.html"
             },
             {
-              "name": "Zeit",
-              "country": "DE",
-              "url": "https://www.zeit.de/politik/deutschland/2026-10/investitionsschutzgesetz-enteignung-wohnungen-vergesellschaftung-berlin-gxe"
+              "name": "New York Times",
+              "country": "US",
+              "url": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html"
+            },
+            {
+              "name": "BBC",
+              "country": "UK",
+              "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo"
             }
           ],
-          "time": "2026-10-25T11:42:52+00:00"
+          "time": "2026-10-25T09:00:00+00:00",
+          "image": {
+            "url": "https://images.handelsblatt.com/MujrKVFUCTnN/cover/900/506/0/0/107/106/0.5/0.5/elon-musk.jpg",
+            "source": "Handelsblatt"
+          }
         }
       ]
     },
@@ -192,9 +216,9 @@
       "items": [
         {
           "id": "w1",
-          "headline": "Audi baut erstes US-Werk für vier Milliarden Dollar",
-          "summary": "Audi plant den Bau seines ersten Werks in den USA für rund vier Milliarden Dollar im Bundesstaat Georgia. CEO Gernot Döllner verkündete die Investition gemeinsam mit Donald Trump auf einer Wahlkampfveranstaltung. Der Konzern reagiert damit auf hohe US-Strafzölle.",
-          "perspectives": "Handelsblatt und FAZ bewerten den gemeinsamen Auftritt Döllners mit Trump kritisch als politische Wahlkampfhilfe. Der Guardian verweist darauf, dass die Investition 4.500 Arbeitsplätze schafft und vor dem Hintergrund von Jobstreichungen in Deutschland getätigt wird. Der Spiegel betont Trumps Feier seiner Zollpolitik durch diesen Erfolg.",
+          "headline": "Audi plant Vier-Milliarden-Dollar-Werk in den USA",
+          "summary": "Der deutsche Autobauer Audi will für rund vier Milliarden Dollar sein erstes Werk in den USA im Bundesstaat Georgia errichten. Konzernchef Gernot Döllner kündigte die Investition gemeinsam mit Donald Trump auf einer Wahlkampfveranstaltung an. Das Vorhaben soll rund 4500 Arbeitsplätze schaffen und US-Strafzölle umgehen.",
+          "perspectives": "Der Guardian und der Spiegel heben kritisch hervor, dass Audi in den USA Milliarden investiert und 4500 Jobs schafft, während in Deutschland Stellen abgebaut werden. Das Handelsblatt und die FAZ betonen hingegen vor allem die scharfe Kritik von Politik und Gewerkschaften an Döllners gemeinsamem Wahlkampfauftritt mit Donald Trump.",
           "sources": [
             {
               "name": "Spiegel",
@@ -204,7 +228,7 @@
             {
               "name": "Handelsblatt",
               "country": "DE",
-              "url": "https://www.handelsblatt.com/politik/deutschland/us-wahlkampf-auftritt-bei-trump-audi-will-neues-werk-in-den-usa-bauen/100264729.html"
+              "url": "https://www.handelsblatt.com/unternehmen/industrie/autobauer-trump-bestaetigt-handelsblatt-bericht-audi-baut-werk-in-den-usa/100264447.html"
             },
             {
               "name": "Guardian",
@@ -214,16 +238,43 @@
             {
               "name": "FAZ",
               "country": "DE",
-              "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/audi-plant-erstes-us-werk-trumps-wahlkampfgeschenk-aus-ingolstadt-accg-201618975.html"
+              "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/audi-kuendigt-auf-trump-wahlkampfveranstaltung-sein-erstes-us-werk-an-accg-201618697.html"
             }
           ],
-          "time": "2026-10-25T12:21:56+00:00"
+          "time": "2026-10-25T05:04:07+00:00",
+          "image": {
+            "url": "https://cdn.prod.www.spiegel.de/images/6873522a-2dc4-4b6c-95a5-304beaa3285d_w520_r2.08_fpx37.34_fpy50.jpg",
+            "source": "Spiegel"
+          }
         },
         {
           "id": "w2",
-          "headline": "Frasers Group übernimmt Mehrheit an Hugo Boss",
-          "summary": "Der britische Einzelhandelskonzern Frasers Group hat die Mehrheit der Anteile am deutschen Modekonzern Hugo Boss übernommen. Zuvor war ein freiwilliges Übernahmeangebot gescheitert. Nun hält die Gruppe mehr als 50 Prozent der Aktien.",
-          "perspectives": "Das Handelsblatt hebt hervor, dass Frasers trotz des zuvor gescheiterten freiwilligen Übernahmeangebots nun doch mehr als die Hälfte der Aktien hält. Die FAZ führt die Mehrheitsübernahme im Unternehmens-Liveblog an.",
+          "headline": "Airbus prüft Beteiligung am Kampfjet-Projekt GCAP",
+          "summary": "Nach dem Scheitern des deutsch-französischen Projekts FCAS prüft der Luftfahrtkonzern Airbus eine Beteiligung am rivalisierenden Kampfjet-Programm GCAP. Das Bündnis aus Großbritannien, Italien und Japan entwickelt einen Kampfjet der sechsten Generation. Gespräche mit dem britischen Rüstungskonzern BAE Systems stehen offenbar bevor.",
+          "perspectives": "Die Financial Times berichtet detailliert über anstehende Gespräche zwischen Airbus und BAE Systems sowie über Erwägungen der Bundesregierung, dem Projekt beizutreten. Das Handelsblatt fokussiert sich stärker auf die Suche nach einer internationalen Alternative nach dem Scheitern des FCAS-Vorhabens. Beide Medien stützen sich auf Branchenkreise.",
+          "sources": [
+            {
+              "name": "Handelsblatt",
+              "country": "DE",
+              "url": "https://www.handelsblatt.com/unternehmen/industrie/nach-fcas-aus-airbus-prueft-offenbar-beteiligung-an-neuem-kampfjet-programm/100264792.html"
+            },
+            {
+              "name": "Financial Times",
+              "country": "UK",
+              "url": "https://www.ft.com/content/701768ba-b541-491e-bcc5-e76d1baea2fe?syn-25a6b1a6=1"
+            }
+          ],
+          "time": "2026-10-25T11:00:02+00:00",
+          "image": {
+            "url": "https://images.handelsblatt.com/JC4OsTISV7hy/cover/900/506/0/0/227/228/0.5/0.5/file-photo-an-attendee-sits-in-the-cockpit-of-a-full-scale-mock-up-of-a-gcap-global-combat-air-pro.jpg",
+            "source": "Handelsblatt"
+          }
+        },
+        {
+          "id": "w3",
+          "headline": "Frasers Group sichert sich Mehrheit an Hugo Boss",
+          "summary": "Der britische Sport- und Modehandelskonzern Frasers Group hat die Mehrheit an dem deutschen Modeunternehmen Hugo Boss übernommen. Zuvor war ein freiwilliges Übernahmeangebot noch gescheitert. Frasers stockte seine Anteile nun über den Markt auf mehr als 50 Prozent auf.",
+          "perspectives": "Das Handelsblatt stellt den Kontext her, dass die Frasers Group kürzlich noch mit einem freiwilligen Übernahmeangebot für Hugo Boss gescheitert war. Die FAZ vermeldet den Ausbau der Mehrheit im Unternehmens-Ticker ohne nähere Hintergründe. Beide Quellen berichten in der Sache übereinstimmend.",
           "sources": [
             {
               "name": "Handelsblatt",
@@ -236,21 +287,11 @@
               "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-frasers-group-uebernimmt-bei-hugo-boss-das-ruder-faz-200452404.html"
             }
           ],
-          "time": "2026-10-25T14:59:20+00:00"
-        },
-        {
-          "id": "w3",
-          "headline": "SpaceX leiht sich 40 Milliarden Dollar für Chips",
-          "summary": "Das Raumfahrtunternehmen SpaceX hat sich nach Angaben von Elon Musk 40 Milliarden Dollar geliehen, um KI-Chips zu kaufen. Gute Bonität und Einnahmen aus Starlink sowie Raketenstarts sicherten den Zugang zu Krediten.",
-          "perspectives": "Bisher nur von Handelsblatt berichtet.",
-          "sources": [
-            {
-              "name": "Handelsblatt",
-              "country": "DE",
-              "url": "https://www.handelsblatt.com/technik/ki/kuenstliche-intelligenz-spacex-sichert-sich-40-milliarden-fuer-ki-chips/100264828.html"
-            }
-          ],
-          "time": "2026-10-25T22:38:59+00:00"
+          "time": "2026-10-25T14:59:20+00:00",
+          "image": {
+            "url": "https://images.handelsblatt.com/QAULjLbN49Nh/cover/900/506/0/0/123/122/0.5/0.5/firmensitz-hugo-boss.jpg",
+            "source": "Handelsblatt"
+          }
         }
       ]
     }
@@ -258,30 +299,83 @@
   "more": [
     {
       "section": "politik",
-      "headline": "Bulgarien: Stichwahl zwischen Ilijana Jotowa und Andrej Gjurow um Präsidentenamt",
+      "headline": "Neuer Gebäudetyp E: Schnelles und günstiges Bauen per Gesetz",
+      "source": "Tagesschau",
+      "country": "DE",
+      "url": "https://www.tagesschau.de/inland/gebaeudetyp-e-104.html",
+      "time": "2026-10-25T23:07:11+00:00",
+      "opinion": false,
+      "image": "https://images.tagesschau.de/image/01544186-423c-402f-8bc1-5be4d2385c15/AAABoVhIwSY/AAABnSSvrFg/16x9-big/baustelle-382.jpg?width=1024"
+    },
+    {
+      "section": "politik",
+      "headline": "Dobrindt plant hohe Hürden für Vergesellschaftungen",
+      "source": "Tagesschau",
+      "country": "DE",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/dobrindt-vergesellschaftung-100.html",
+      "time": "2026-10-25T11:51:21+00:00",
+      "opinion": false,
+      "image": "https://images.tagesschau.de/image/2499f771-a9dd-4a29-8486-7b333fd578cc/AAABoXL_6vU/AAABnSSvrFg/16x9-big/berlin-vergesellschaftungen-100.jpg?width=1024"
+    },
+    {
+      "section": "politik",
+      "headline": "Israel steht vor Schicksalswahl",
+      "source": "Deutschlandfunk",
+      "country": "DE",
+      "url": "https://www.deutschlandfunk.de/israel-wahl-netanjahu-eisenkot-102.html",
+      "time": "2026-10-25T09:07:00+00:00",
+      "opinion": false,
+      "image": "https://bilder.deutschlandfunk.de/0a/ae/7b/fc/0aae7bfc-c7e0-4057-b6c6-59652aaf2bf9/gadi-eizenkot-israel-wahl-100-1920x1920.jpg"
+    },
+    {
+      "section": "politik",
+      "headline": "Auftakt der RN-Wahlkampagne: Le Pen spricht von \"Wiedergeburt\" Frankreichs",
+      "source": "Tagesschau",
+      "country": "DE",
+      "url": "https://www.tagesschau.de/ausland/europa/le-pen-frankreich-100.html",
+      "time": "2026-10-25T19:25:14+00:00",
+      "opinion": false,
+      "image": "https://images.tagesschau.de/image/274f91de-e565-4573-9330-b5d370a0773f/AAABoXRQYOc/AAABnSSvrFg/16x9-big/le-pen-frankreich-102.jpg?width=1024"
+    },
+    {
+      "section": "politik",
+      "headline": "Großbritannien: Burnham offen für Rückkehr zu EU-Freizügigkeit",
+      "source": "Tagesschau",
+      "country": "DE",
+      "url": "https://www.tagesschau.de/ausland/burnham-freizuegigkeit-100.html",
+      "time": "2026-10-25T15:12:04+00:00",
+      "opinion": false,
+      "image": "https://images.tagesschau.de/image/b2bad63b-39ca-46d5-a377-4375a6ec0473/AAABoS_ZOsc/AAABnSSvrFg/16x9-big/burnham-158.jpg?width=1024"
+    },
+    {
+      "section": "politik",
+      "headline": "Tschechien: Zehntausende demonstrieren gegen Rundfunkreform in Prag",
       "source": "Spiegel",
       "country": "DE",
-      "url": "https://www.spiegel.de/ausland/bulgarien-stichwahl-zwischen-ilijana-jotowa-und-andrej-gjurow-um-praesidentenamt-a-9f38ee33-0775-4c66-ba2a-5cb79f39cd3a",
-      "time": "2026-10-25T21:53:00+00:00",
-      "opinion": false
+      "url": "https://www.spiegel.de/ausland/tschechien-zehntausende-demonstrieren-gegen-rundfunkreform-in-prag-a-8ccdee78-833c-41ec-8409-83c873f50f16",
+      "time": "2026-10-25T18:14:00+00:00",
+      "opinion": false,
+      "image": "https://cdn.prod.www.spiegel.de/images/dfadf0bf-f4e9-4a15-9e7d-20381e24ed28_w520_r2.08_fpx66.67_fpy50.jpg"
     },
     {
       "section": "politik",
-      "headline": "Cabinet split emerges over controversial Rosebank oilfield decision",
-      "source": "Guardian",
-      "country": "UK",
-      "url": "https://www.theguardian.com/environment/2026/oct/25/cabinet-split-emerges-over-controversial-rosebank-oilfield-decision",
-      "time": "2026-10-25T20:29:25+00:00",
-      "opinion": false
-    },
-    {
-      "section": "politik",
-      "headline": "Tschechische Republik: In tiefer Nacht wird über die Rundfunkgebühren abgestimmt",
-      "source": "FAZ",
+      "headline": "„Koalition der Willigen“: Deutsche Stabsoffiziere und Tankflugzeuge für Ukraine-Übung",
+      "source": "Handelsblatt",
       "country": "DE",
-      "url": "https://www.faz.net/aktuell/politik/ausland/tschechiens-parlament-stimmt-fuer-abschaffung-von-rundfunkgebuehren-201619046.html",
-      "time": "2026-10-25T18:42:18+00:00",
-      "opinion": false
+      "url": "https://www.handelsblatt.com/politik/international/koalition-der-willigen-deutsche-stabsoffiziere-und-tankflugzeuge-fuer-ukraine-uebung/100264742.html",
+      "time": "2026-10-25T12:42:27+00:00",
+      "opinion": false,
+      "image": "https://images.handelsblatt.com/Dg69QCm9Xm50/cover/900/506/0/0/127/127/0.5/0.5/a400m-als-tankflugzeug.jpg"
+    },
+    {
+      "section": "politik",
+      "headline": "Gaza droht eine neue Ernährungskrise",
+      "source": "Tagesschau",
+      "country": "DE",
+      "url": "https://www.tagesschau.de/ausland/gaza-ernaehrung-100.html",
+      "time": "2026-10-25T14:31:54+00:00",
+      "opinion": false,
+      "image": "https://images.tagesschau.de/image/d4fdf3f7-968c-442a-b9c7-ada7308dee2b/AAABoXNL1Lk/AAABnSSvrFg/16x9-big/gaza-1510.jpg?width=1024"
     },
     {
       "section": "politik",
@@ -290,61 +384,8 @@
       "country": "DE",
       "url": "https://www.tagesschau.de/inland/seeunfall-bremerhaven-100.html",
       "time": "2026-10-25T18:30:00+00:00",
-      "opinion": false
-    },
-    {
-      "section": "politik",
-      "headline": "Sachsen-Anhalt: Wahl zum Ministerpräsidenten wird Bewährungsprobe für Kanzler",
-      "source": "Spiegel",
-      "country": "DE",
-      "url": "https://www.spiegel.de/politik/deutschland/sachsen-anhalt-wahl-zum-ministerpraesidenten-wird-bewaehrungsprobe-fuer-kanzler-a-c1f27362-4de4-4fa0-a99b-00ab04af605f",
-      "time": "2026-10-25T17:58:00+00:00",
-      "opinion": false
-    },
-    {
-      "section": "politik",
-      "headline": "Iran: Revolutionswächter greifen kurdische Stellung im Irak an",
-      "source": "Spiegel",
-      "country": "DE",
-      "url": "https://www.spiegel.de/ausland/iran-revolutionswaechter-greifen-kurdische-stellung-im-irak-an-a-f47ed41f-d2d8-4922-917a-474d86e3577e",
-      "time": "2026-10-25T17:36:00+00:00",
-      "opinion": false
-    },
-    {
-      "section": "wirtschaft",
-      "headline": "Weltnaturkonferenz: Wer zahlt für den Naturschutz?",
-      "source": "FAZ",
-      "country": "DE",
-      "url": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/weltnaturkonferenz-in-eriwan-wer-zahlt-fuer-den-naturschutz-201617549.html",
-      "time": "2026-10-25T17:34:06+00:00",
-      "opinion": false
-    },
-    {
-      "section": "politik",
-      "headline": "Lissabon und Porto: Polizei räumt Protestcamps gegen Wohnungsnot",
-      "source": "Spiegel",
-      "country": "DE",
-      "url": "https://www.spiegel.de/ausland/lissabon-und-porto-polizei-raeumt-protestcamps-gegen-wohnungsnot-a-66a6ea6e-4703-4e67-b3fd-e46398d76dc8",
-      "time": "2026-10-25T15:42:00+00:00",
-      "opinion": false
-    },
-    {
-      "section": "politik",
-      "headline": "«Keine Hängematte mehr»: Österreich kürzt Sozialhilfe für Grossfamilien und verschärft Regeln für Migranten",
-      "source": "NZZ",
-      "country": "CH",
-      "url": "https://www.nzz.ch/international/oesterreich-verschaerft-sozialhilfe-kuerzungen-fuer-migranten-und-grossfamilien-ld.10042401",
-      "time": "2026-10-25T15:31:50+00:00",
-      "opinion": false
-    },
-    {
-      "section": "politik",
-      "headline": "+++ Ukraine-Krieg +++: Ukraine weist Vorwürfe von Musk zu Starlink-Nutzung für Offensivangriffe zurück",
-      "source": "Handelsblatt",
-      "country": "DE",
-      "url": "https://www.handelsblatt.com/politik/international/ukraine-ukraine-weist-vorwuerfe-von-musk-zu-starlink-nutzung-zurueck/27982126.html",
-      "time": "2026-10-25T14:57:00+00:00",
-      "opinion": false
+      "opinion": false,
+      "image": "https://images.tagesschau.de/image/6a3f8ef9-940f-4800-be2b-2f708d3bdf2c/AAABoXTVqLQ/AAABnSSvrFg/16x9-big/rb-an-einem-schiff-sind-mittransportierte-rettungsboote-beschaedigt-100.jpg?width=1024"
     },
     {
       "section": "politik",
@@ -353,43 +394,48 @@
       "country": "DE",
       "url": "https://www.tagesschau.de/inland/wetter-sturm-112.html",
       "time": "2026-10-25T14:48:27+00:00",
-      "opinion": false
+      "opinion": false,
+      "image": "https://images.tagesschau.de/image/ec83de56-0d43-400b-a850-82b0fe018a46/AAABoXNgEyQ/AAABnSSvrFg/16x9-big/unwetter-schleswig-holstein-100.jpg?width=1024"
     },
     {
       "section": "politik",
-      "headline": "Uganda says it has no active Ebola cases, but infections in Kenya and Nigeria are prompting fresh scrutiny",
-      "source": "Deutsche Welle",
-      "country": "DE",
-      "url": "https://www.dw.com/en/uganda-says-it-has-no-active-ebola-cases-but-infections-in-kenya-and-nigeria-are-prompting-fresh-scrutiny/a-79741580",
-      "time": "2026-10-25T13:41:00+00:00",
-      "opinion": false
+      "headline": "Two dead and 160,000 properties without power as Storm Boelo batters UK",
+      "source": "Guardian",
+      "country": "UK",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/25/storm-boelo-warnings-scotland-northern-ireland-north-of-england-high-winds-uk",
+      "time": "2026-10-25T22:19:18+00:00",
+      "opinion": false,
+      "image": "https://i.guim.co.uk/img/media/e8efd7482c8993822a97f1bc577830eb113b2f43/852_0_4578_3663/master/4578.jpg?width=700&quality=85&auto=format&fit=max&s=e48cae05c587c08c3d60345383312c27"
     },
     {
-      "section": "wirtschaft",
-      "headline": "Nach FCAS-Aus: Airbus prüft offenbar Beteiligung an neuem Kampfjet-Programm",
+      "section": "politik",
+      "headline": "Sachsen-Anhalt: Wahl zum Ministerpräsidenten wird Bewährungsprobe für Kanzler",
+      "source": "Spiegel",
+      "country": "DE",
+      "url": "https://www.spiegel.de/politik/deutschland/sachsen-anhalt-wahl-zum-ministerpraesidenten-wird-bewaehrungsprobe-fuer-kanzler-a-c1f27362-4de4-4fa0-a99b-00ab04af605f",
+      "time": "2026-10-25T17:58:00+00:00",
+      "opinion": false,
+      "image": "https://cdn.prod.www.spiegel.de/images/b8469935-f901-4fd4-8eb6-d46be1ea71e2_w520_r2.08_fpx65.32_fpy50.jpg"
+    },
+    {
+      "section": "politik",
+      "headline": "AfD-Leak: Wie Alice Weidel ihre Wahlkampfkasse steuerte",
       "source": "Handelsblatt",
       "country": "DE",
-      "url": "https://www.handelsblatt.com/unternehmen/industrie/nach-fcas-aus-airbus-prueft-offenbar-beteiligung-an-neuem-kampfjet-programm/100264792.html",
-      "time": "2026-10-25T13:13:32+00:00",
-      "opinion": false
+      "url": "https://www.handelsblatt.com/politik/deutschland/afd-leak-wie-alice-weidel-ihre-wahlkampfkasse-steuerte/100264557.html",
+      "time": "2026-10-25T11:02:20+00:00",
+      "opinion": false,
+      "image": "https://images.handelsblatt.com/lU1Ox9CfIKps/cover/900/506/0/124/71/212/0.5/0.5/alice-weidel.jpeg"
     },
     {
       "section": "politik",
-      "headline": "Pläne der Koalition: Wahlrechtsreform kommt kaum voran",
+      "headline": "Steinmeier bei Umweltpreis-Verleihung: \"Die Fieberkurve unseres Planeten zeigt deutlich nach oben\"",
       "source": "Tagesschau",
       "country": "DE",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/wahlrecht-reform-104.html",
-      "time": "2026-10-25T11:57:30+00:00",
-      "opinion": false
-    },
-    {
-      "section": "politik",
-      "headline": "Vor Midterms: Ex-US-Präsident Obama schaltet sich mit Trump-Kritik in Wahlkampf ein",
-      "source": "Tagesschau",
-      "country": "DE",
-      "url": "https://www.tagesschau.de/ausland/amerika/usa-trump-wahl-102.html",
-      "time": "2026-10-25T10:35:11+00:00",
-      "opinion": false
+      "url": "https://www.tagesschau.de/inland/umweltpreis-142.html",
+      "time": "2026-10-25T13:13:45+00:00",
+      "opinion": false,
+      "image": "https://images.tagesschau.de/image/c9633176-21ce-44cc-85cd-562872195015/AAABoXMmDjs/AAABnSSvrFg/16x9-big/umweltpreistraeger-steinmeier-100.jpg?width=1024"
     },
     {
       "section": "wirtschaft",
@@ -398,16 +444,28 @@
       "country": "DE",
       "url": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/handel-russische-metro-tochter-spendet-millionen-fuer-krieg-gegen-ukraine/100264760.html",
       "time": "2026-10-25T08:16:18+00:00",
-      "opinion": false
+      "opinion": false,
+      "image": "https://images.handelsblatt.com/4Tqt-nqyJMLT/cover/900/506/0/0/21/168/0.5/0.5/grosshandel-metro.jpeg"
     },
     {
       "section": "politik",
-      "headline": "Großbritannien: Andy Burnham offen für Rückkehr zu EU-Freizügigkeit",
-      "source": "Spiegel",
-      "country": "DE",
-      "url": "https://www.spiegel.de/ausland/brexit-andy-burnham-offen-fuer-rueckkehr-zu-eu-freizuegigkeit-a-aba00f5b-3428-4682-a9c3-e4dbf2661211",
-      "time": "2026-10-25T06:50:00+00:00",
-      "opinion": false
+      "headline": "Luxury groups’ value drops by €250bn as Chinese consumer demand fades",
+      "source": "Financial Times",
+      "country": "UK",
+      "url": "https://www.ft.com/content/1c3065cf-538f-433a-9749-0355a3642c7c?syn-25a6b1a6=1",
+      "time": "2026-10-25T05:00:10+00:00",
+      "opinion": false,
+      "image": null
+    },
+    {
+      "section": "wirtschaft",
+      "headline": "Mark Zuckerberg sichert bei Meta seine Position als Diktator auf Lebenszeit ab",
+      "source": "NZZ",
+      "country": "CH",
+      "url": "https://www.nzz.ch/wirtschaft/mark-zuckerberg-sichert-bei-meta-seine-position-als-diktator-auf-lebenszeit-ab-ld.10040151",
+      "time": "2026-10-25T04:30:00+00:00",
+      "opinion": false,
+      "image": "https://img-msp-prod.nzz.ch/2026/10/19/ce06fe38-3807-45a5-bb3b-6512460d9e91.jpg?width=900&height=900&fit=bounds"
     },
     {
       "section": "politik",
@@ -416,25 +474,28 @@
       "country": "US",
       "url": "https://www.nytimes.com/2026/10/24/world/asia/north-korea-kim-jong-un-china.html",
       "time": "2026-10-25T01:14:39+00:00",
-      "opinion": false
+      "opinion": false,
+      "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24int-nkorea-china-fblv/24int-nkorea-china-fblv-mediumSquareAt3X.jpg"
     },
     {
       "section": "politik",
-      "headline": "Here’s the latest.",
-      "source": "New York Times",
-      "country": "US",
-      "url": "https://www.nytimes.com/live/2026/10/25/world/brazil-election/heres-the-latest",
-      "time": "2026-10-25T22:53:06+00:00",
-      "opinion": false
+      "headline": "Death toll in Nigeria village raided by gunmen rises to 48, police say",
+      "source": "BBC",
+      "country": "UK",
+      "url": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do",
+      "time": "2026-10-25T19:14:27+00:00",
+      "opinion": false,
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/db2e/live/b3593830-d017-11f1-b0c1-71a61e4adacb.jpg"
     },
     {
       "section": "politik",
-      "headline": "The future of the Amazon rainforest could depend on who wins.",
-      "source": "New York Times",
-      "country": "US",
-      "url": "https://www.nytimes.com/live/2026/10/25/world/brazil-election/the-future-of-the-amazon-rainforest-could-depend-on-who-wins",
-      "time": "2026-10-25T22:40:18+00:00",
-      "opinion": false
+      "headline": "LIVE-TICKER - Iran-Krieg: Flughafen in Riad nimmt Betrieb teilweise wieder auf +++ Iran greift Stellung im Irak an",
+      "source": "NZZ",
+      "country": "CH",
+      "url": "https://www.nzz.ch/international/iran-krieg-erneut-tanker-in-strasse-von-hormuz-angegriffen-eu-behoerde-warnt-fluggesellschaften-ld.10021246",
+      "time": "2026-10-25T14:30:36+00:00",
+      "opinion": false,
+      "image": "https://img-msp-prod.nzz.ch/2026/10/11/4c37ffa1-3c81-4bae-9e45-f4ef9f5f955a.jpg?width=900&height=900&fit=bounds"
     }
   ]
 }
