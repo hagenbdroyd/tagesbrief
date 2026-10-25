@@ -1,12 +1,12 @@
 'use strict';
 // =====================================================================
-//  Tagesbrief – Service Worker (offline lesen)
+//  Tagesbrief – Service Worker (offline lesen, Push-Nachrichten)
 // =====================================================================
 // Immer zuerst aus dem Netz laden, damit die News aktuell sind.
 // Nur ohne Verbindung wird die zuletzt gespeicherte Version gezeigt.
 
-const CACHE = 'tagesbrief-v1';
-const SHELL = ['./', 'index.html', 'styles.css', 'app.js', 'manifest.webmanifest', 'data/briefing.json', 'icons/icon.svg', 'icons/apple-touch-icon.png'];
+const CACHE = 'tagesbrief-v2';
+const SHELL = ['./', 'index.html', 'styles.css', 'app.js', 'manifest.webmanifest', 'data/briefing.json', 'data/state.json', 'icons/icon.svg', 'icons/icon-192.png', 'icons/apple-touch-icon.png'];
 
 self.addEventListener('install', (e) => {
   e.waitUntil(caches.open(CACHE).then((c) => c.addAll(SHELL)));
@@ -30,6 +30,33 @@ self.addEventListener('fetch', (e) => {
         }
         return res;
       })
-      .catch(() => caches.match(url.pathname, { ignoreSearch: true }).then((hit) => hit || caches.match('./'))),
+      .catch(() => caches.match(url.pathname, { ignoreSearch: true })
+        .then((hit) => hit || (e.request.mode === 'navigate' ? caches.match('./') : Response.error()))),
   );
+});
+
+// ---------- Push: Morgen-Briefing und Eilmeldungen
+self.addEventListener('push', (e) => {
+  let data = {};
+  try {
+    data = e.data ? e.data.json() : {};
+  } catch {
+    data = { body: e.data?.text() };
+  }
+  // iOS verlangt, dass jeder Push sichtbar angezeigt wird
+  e.waitUntil(self.registration.showNotification(data.title || 'Tagesbrief', {
+    body: data.body || '',
+    icon: 'icons/icon-192.png',
+    tag: data.tag,
+    data: { url: data.url || './' },
+  }));
+});
+
+self.addEventListener('notificationclick', (e) => {
+  e.notification.close();
+  const url = new URL(e.notification.data?.url || './', self.registration.scope).href;
+  e.waitUntil(self.clients.matchAll({ type: 'window', includeUncontrolled: true }).then((windows) => {
+    const open = windows.find((w) => 'focus' in w);
+    return open ? open.focus() : self.clients.openWindow(url);
+  }));
 });

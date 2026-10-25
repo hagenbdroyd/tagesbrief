@@ -46,7 +46,8 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/briefing.json
           git diff --cached --quiet || git commit -m "Briefing $(TZ=Europe/Berlin date '+%d.%m.%Y %H:%M')"
-          git push
+          # der Wächter speichert evtl. gleichzeitig (andere Datei) → erst seinen Stand holen
+          for i in 1 2 3; do git pull --rebase -q && git push -q && break; sleep 5; done
 
       - name: Webseite zusammenstellen
         run: |

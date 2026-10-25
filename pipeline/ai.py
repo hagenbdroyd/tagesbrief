@@ -60,9 +60,11 @@ def _post(model: str, key: str, body: dict) -> dict:
         return json.loads(res.read())
 
 
-def generate_json(system: str, prompt: str, schema: dict, start_with: str | None = None) -> tuple[dict, str]:
+def generate_json(system: str, prompt: str, schema: dict, start_with: str | None = None,
+                  last_resort: bool = True) -> tuple[dict, str]:
     """Fragt Gemini nach einer JSON-Antwort im vorgegebenen Format. Gibt (Antwort, verwendetes Modell) zurück.
-    start_with: Modell, das gerade funktioniert hat – überspringt die (vermutlich noch überlasteten) davor."""
+    start_with: Modell, das gerade funktioniert hat – überspringt die (vermutlich noch überlasteten) davor.
+    last_resort: False = nie das kleine Modell (z. B. für Eilmeldungen: lieber 15 Minuten später als falscher Alarm)."""
     models = MODELS[MODELS.index(start_with):] if start_with in MODELS else MODELS
     key = api_key()
     if not key:
@@ -95,6 +97,8 @@ def generate_json(system: str, prompt: str, schema: dict, start_with: str | None
     # Letzte Rettung: das kleine Modell
     if strong:
         print("  Starke Modelle nicht erreichbar:\n    " + "\n    ".join(e[:160] for e in errors), file=sys.stderr)
+    if not last_resort:
+        raise AIError(" | ".join(errors))
     try:
         return _ask(LAST_RESORT, key, body), LAST_RESORT
     except AIError as err:

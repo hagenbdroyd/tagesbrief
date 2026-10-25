@@ -84,6 +84,19 @@ def pick_more(items: list[dict], section_ids: list[str], known_titles: list[str]
     return sorted(picked, key=lambda h: h["time"], reverse=True)
 
 
+def drop_known_breaking(briefing: dict) -> None:
+    """Was der Wächter schon als Eilmeldung verschickt hat, zeigt die App ohnehin oben an – nicht doppelt."""
+    state = ROOT / "data" / "state.json"
+    known = json.loads(state.read_text(encoding="utf-8"))["breaking"] if state.exists() else []
+
+    def is_known(b: dict) -> bool:
+        urls = {s["url"] for s in b["sources"]}
+        return any(urls & {s["url"] for s in k["sources"]} or same_story(keywords(b["headline"]), keywords(k["headline"]))
+                   for k in known)
+
+    briefing["breaking"] = [b for b in briefing["breaking"] if not is_known(b)]
+
+
 def top_up_more(briefing: dict, items: list[dict]) -> None:
     """Liefert die KI zu wenige weitere Schlagzeilen, mit den neuesten (ohne Doppelte) auffüllen."""
     missing = MORE_TARGET - len(briefing["more"])
@@ -120,6 +133,7 @@ def main() -> None:
         result = summarize(news["items"], now)
         (NEWS_OUT.parent / "ki-antworten.json").write_text(json.dumps(result.pop("_raw"), ensure_ascii=False, indent=2), encoding="utf-8")
         briefing.update(result)
+        drop_known_breaking(briefing)
         top_up_more(briefing, news["items"])
         stories = sum(len(s["items"]) for s in briefing["sections"])
         print(f"KI ({briefing['aiModel']}): {stories} Geschichten, {len(briefing['breaking'])} Eilmeldungen, {len(briefing['more'])} weitere Schlagzeilen.")

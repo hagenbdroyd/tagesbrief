@@ -4,8 +4,12 @@
 // =====================================================================
 
 const DATA_URL = 'data/briefing.json';
+const STATE_URL = 'data/state.json'; // Eilmeldungen vom Wächter (läuft alle 15 Minuten)
 const TZ = 'Europe/Berlin';
 const WORDS_PER_MINUTE = 200;
+const BREAKING_HOURS = 24; // so lange bleibt eine Eilmeldung oben stehen
+// Öffentlicher Push-Schlüssel – der private liegt verschlüsselt bei GitHub
+const VAPID_PUBLIC_KEY = 'BHrzkLFjPGHhYTCJ1DzXY_ZM5eqbVonsdfhnpOduNOaqp2vWgQ1hcpj-WgKrdcTmbaPBcCtlRisCD8gQde3B510';
 
 const app = document.getElementById('app');
 const progressBar = document.getElementById('progress');
@@ -14,7 +18,7 @@ const esc = (s) => String(s ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '
 
 const CHECK_ICON = '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg>';
 
-let current = null; // zuletzt angezeigtes Briefing
+let shownVersion = null; // Stand des zuletzt angezeigten Briefings (Briefing + Eilmeldungen)
 
 // ---------- Datum & Zeit (immer deutsche Zeit, auch im Urlaub)
 const dayKey = (iso) => new Date(iso).toLocaleDateString('en-CA', { timeZone: TZ });
@@ -48,7 +52,7 @@ function renderSources(sources, label) {
 function renderBreaking(b) {
   return `
     <section class="breaking">
-      <div class="breaking-label">Eilmeldung · ${formatTime(b.time)} Uhr</div>
+      <div class="breaking-label">Eilmeldung · ${timeLabel(b.time, dayKey(new Date().toISOString()))}</div>
       <h2>${esc(b.headline)}</h2>
       <p>${esc(b.summary)}</p>
       ${renderSources(b.sources, 'Bestätigt von:')}
@@ -99,8 +103,13 @@ function renderHeadlines(briefing, filter) {
 // "gemini-3.8-flash" → "Gemini 3.8 Flash"
 const modelName = (id) => id.split('-').map((w) => w[0].toUpperCase() + w.slice(1)).join(' ');
 
-function render(briefing) {
-  const breaking = briefing.breaking || [];
+function render(briefing, state) {
+  const since = Date.now() - BREAKING_HOURS * 3600e3;
+  // Eilmeldungen, die ein neueres Briefing schon als normale Geschichte enthält, nicht doppelt zeigen
+  const covered = new Set(briefing.sections.flatMap((s) => s.items).flatMap((i) => i.sources.map((src) => src.url)));
+  const inBriefing = (b) => new Date(b.pushedAt) <= new Date(briefing.generatedAt) && b.sources.some((src) => covered.has(src.url));
+  const watched = (state?.breaking || []).filter((b) => new Date(b.time) >= since && !inBriefing(b)).reverse(); // neueste zuerst
+  const breaking = [...watched, ...(briefing.breaking || [])];
   const items = [...breaking, ...briefing.sections.flatMap((s) => s.items)];
   const headlinesOnly = items.length === 0; // KI ist ausgefallen → gleich die Schlagzeilen zeigen
   let num = 1;
@@ -141,9 +150,12 @@ function render(briefing) {
       <ul class="headlines" id="headlines"></ul>
     </section>
 
+    <section class="push-card" id="push" hidden></section>
+
     ${briefing.aiModel ? `<p class="disclaimer">Zusammenfassungen von KI erstellt (${esc(modelName(briefing.aiModel))}) – Fehler sind möglich. Prüf im Zweifel die verlinkte Originalquelle.</p>` : ''}`;
 
   renderHeadlines(briefing, 'alle');
+  renderPush();
 
   $('#more-btn')?.addEventListener('click', (e) => {
     e.currentTarget.hidden = true;
@@ -179,19 +191,113 @@ window.addEventListener('scroll', scheduleProgress, { passive: true });
 window.addEventListener('resize', scheduleProgress);
 
 // =====================================================================
+//  Push-Benachrichtigungen
+// =====================================================================
+// Ablauf: Erlaubnis holen → beim Push-Dienst des iPhones anmelden → Verbindungs-Code anzeigen.
+// Den Code hinterlegt Claude bei GitHub; von dort kommen Morgen-Push und Eilmeldungen.
+const pushSupported = () => 'serviceWorker' in navigator && 'PushManager' in window && 'Notification' in window;
+const isHomescreenApp = () => window.matchMedia('(display-mode: standalone)').matches || navigator.standalone === true;
+
+function base64UrlToBytes(text) {
+  const base64 = (text + '='.repeat((4 - (text.length % 4)) % 4)).replace(/-/g, '+').replace(/_/g, '/');
+  return Uint8Array.from(atob(base64), (c) => c.charCodeAt(0));
+}
+
+const connectionCode = (sub) => `TB1.${btoa(JSON.stringify(sub.toJSON())).replace(/\+/g, '-').replace(/\//g, '_').replace(/=+$/, '')}`;
+
+async function currentSubscription() {
+  const reg = await navigator.serviceWorker.ready;
+  return reg.pushManager.getSubscription();
+}
+
+async function subscribe() {
+  const reg = await navigator.serviceWorker.ready;
+  const options = { userVisibleOnly: true, applicationServerKey: base64UrlToBytes(VAPID_PUBLIC_KEY) };
+  try {
+    return await reg.pushManager.subscribe(options);
+  } catch (err) {
+    // altes Abo mit anderem Schlüssel → abmelden und neu anmelden
+    await (await reg.pushManager.getSubscription())?.unsubscribe();
+    return reg.pushManager.subscribe(options);
+  }
+}
+
+async function renderPush(showCode = false) {
+  const box = $('#push');
+  if (!box) return;
+  box.hidden = false;
+
+  if (!pushSupported() || !isHomescreenApp()) {
+    box.innerHTML = `
+      <h2>Benachrichtigungen</h2>
+      <p>Morgen-Push und Eilmeldungen gibt es nur, wenn du den Tagesbrief über das Icon auf deinem Homescreen öffnest
+      (Safari → Teilen → „Zum Home-Bildschirm“).</p>`;
+    return;
+  }
+  if (Notification.permission === 'denied') {
+    box.innerHTML = `
+      <h2>Benachrichtigungen</h2>
+      <p>Du hast Benachrichtigungen abgelehnt. Du kannst sie in den iPhone-Einstellungen unter
+      „Mitteilungen → Tagesbrief“ wieder erlauben.</p>`;
+    return;
+  }
+
+  const sub = Notification.permission === 'granted' ? await currentSubscription() : null;
+  if (!sub) {
+    box.innerHTML = `
+      <h2>Benachrichtigungen</h2>
+      <p>Jeden Morgen gegen 7 Uhr die wichtigste Schlagzeile, dazu Eilmeldungen nach deinen Regeln.</p>
+      <button class="btn btn-primary" id="push-on" type="button">Benachrichtigungen aktivieren</button>`;
+    $('#push-on').addEventListener('click', async (e) => {
+      e.currentTarget.disabled = true;
+      // muss direkt im Tipp passieren, sonst blockiert iOS die Abfrage
+      const permission = await Notification.requestPermission();
+      if (permission === 'granted') await subscribe();
+      renderPush(true);
+    });
+    return;
+  }
+
+  const code = connectionCode(sub);
+  box.innerHTML = `
+    <h2>Benachrichtigungen sind an ${CHECK_ICON}</h2>
+    ${showCode ? `
+      <p>Letzter Schritt: Kopier diesen Verbindungs-Code und schick ihn Claude im Chat. Danach kommen die Pushs auf dieses iPhone.</p>
+      <textarea class="push-code" readonly rows="4">${esc(code)}</textarea>
+      <button class="btn btn-primary" id="push-copy" type="button">Code kopieren</button>` : `
+      <button class="btn" id="push-show" type="button">Verbindungs-Code anzeigen</button>`}`;
+  $('#push-show')?.addEventListener('click', () => renderPush(true));
+  $('#push-copy')?.addEventListener('click', async (e) => {
+    const button = e.currentTarget;
+    try {
+      await navigator.clipboard.writeText(code);
+      button.textContent = 'Kopiert ✓';
+    } catch {
+      $('.push-code').select(); // Notlösung: markieren, dann selbst kopieren
+      button.textContent = 'Markiert – jetzt kopieren';
+    }
+  });
+}
+
+// =====================================================================
 //  Laden
 // =====================================================================
+async function fetchJson(url) {
+  const res = await fetch(url, { cache: 'no-store' });
+  if (!res.ok) throw new Error(`${url}: HTTP ${res.status}`);
+  return res.json();
+}
+
 async function load() {
   try {
-    const res = await fetch(DATA_URL, { cache: 'no-store' });
-    if (!res.ok) throw new Error(`HTTP ${res.status}`);
-    const briefing = await res.json();
-    if (current && current.generatedAt === briefing.generatedAt) return;
-    current = briefing;
-    render(briefing);
+    const [briefing, state] = await Promise.all([fetchJson(DATA_URL), fetchJson(STATE_URL).catch(() => null)]);
+    const version = `${briefing.generatedAt}|${state?.updatedAt}`;
+    if (version === shownVersion) return;
+    shownVersion = version;
+    render(briefing, state);
   } catch (err) {
     console.error('Briefing konnte nicht geladen werden', err);
-    if (current) return; // altes Briefing lieber stehen lassen als Fehler zeigen
+    if (shownVersion) return; // altes Briefing lieber stehen lassen als Fehler zeigen
     app.innerHTML = `
       <p class="status">
         Briefing konnte nicht geladen werden.<br>

@@ -1,0 +1,37 @@
+{
+  "updatedAt": "2026-10-26T00:05:58+01:00",
+  "morningPush": null,
+  "breaking": [
+    {
+      "id": "e2026102600050",
+      "time": "2026-10-25T22:09:50+00:00",
+      "pushedAt": "2026-10-26T00:05:58+01:00",
+      "headline": "Serbiens Präsident Vučić räumt Niederlage bei Parlamentswahl ein",
+      "summary": "Nach zwölf Jahren an der Macht hat Serbiens Staatschef Aleksandar Vučić die Niederlage seiner Partei bei der Parlamentswahl gegen eine oppositionelle Studentenbewegung eingestanden. Nach ersten Hochrechnungen erreicht das Bündnis eine parlamentarische Mehrheit.",
+      "reason": "Machtwechsel und Niederlage eines langjährigen europäischen Staatschefs nach einer richtungsweisenden Wahl",
+      "sources": [
+        {
+          "name": "BBC",
+          "country": "UK",
+          "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo"
+        },
+        {
+          "name": "Guardian",
+          "country": "UK",
+          "url": "https://www.theguardian.com/world/live/2026/oct/25/europe-serbia-elections-aleksander-vucic-student-list-protests-bulgaria-latest-news-updates"
+        },
+        {
+          "name": "New York Times",
+          "country": "US",
+          "url": "https://www.nytimes.com/2026/10/25/world/europe/serbia-vucic-election-defeat.html"
+        },
+        {
+          "name": "FAZ",
+          "country": "DE",
+          "url": "https://www.faz.net/aktuell/politik/ausland/wahl-in-serbien-vucic-gesteht-niederlage-ein-201619434.html"
+        }
+      ],
+      "model": "gemini-3.8-flash"
+    }
+  ]
+}
