@@ -19,6 +19,7 @@ import tempfile
 from pathlib import Path
 
 SITE = "https://hagenbdroyd.github.io/tagesbrief/"
+SENDER = "https://hagenbdroyd.github.io"  # Absender für Apple: nur die Domain, ohne Pfad
 VAPID_DIR = Path(__file__).resolve().parent.parent / ".vapid"
 TTL = 6 * 3600  # so lange hebt Apple einen Push auf, falls das iPhone gerade offline ist
 
@@ -63,7 +64,7 @@ def send(title: str, body: str, tag: str | None = None, url: str = SITE, urgent:
                 subscription_info=sub,
                 data=payload,
                 vapid_private_key=keyfile,
-                vapid_claims={"sub": SITE},  # neues dict pro Aufruf, pywebpush ergänzt es
+                vapid_claims={"sub": SENDER},  # neues dict pro Aufruf, pywebpush ergänzt es
                 ttl=TTL,
                 headers={"Urgency": "high" if urgent else "normal"},
             )
