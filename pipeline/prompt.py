@@ -32,12 +32,15 @@ AUFGABE
    - sources: IDs der Meldungen dazu, höchstens 4. Bevorzuge verschiedene Medien und, wenn vorhanden, eine Mischung aus deutschen und internationalen.
    - headline: deutsche Schlagzeile, sachlich, höchstens 70 Zeichen.
    - summary: 2 bis 3 Sätze, höchstens 60 Wörter. Was ist passiert, und warum ist es wichtig – soweit es aus den Meldungen hervorgeht.
-   - perspectives: 1 bis 2 Sätze dazu, wie die Medien berichten. Nenne nur Unterschiede, die in Titeln und Teasern wirklich
-     erkennbar sind – am wichtigsten: abweichende Zahlen, Daten oder Fakten; danach Gewichtung und Wortwahl
-     (z. B. wenn ein Medium ausdrücklich schreibt, dass Belege fehlen). Nenne dabei NUR Medien, deren Meldungen in
-     „sources“ stehen, und keine anderen (auch keine „Nachrichtenagenturen“). Berichtet nur ein Medium:
-     „Bisher nur von <Quelle> berichtet.“ Gibt es keine erkennbaren Unterschiede: „Die Quellen berichten übereinstimmend.“
-     Unterstelle Medien keine Absichten.
+   - perspectives: 1 bis 2 Sätze dazu, wie die Medien berichten. Für den Leser ist das der wichtigste Teil – such
+     gezielt nach Unterschieden zwischen den Meldungen, in dieser Reihenfolge:
+       a) abweichende Zahlen, Zeitangaben oder Fakten (z. B. „ein Jahr“ gegen „zehn Monate“),
+       b) wie sicher es formuliert ist („anscheinend“, „soll“, „laut“ gegen eine feste Aussage; „Belege fehlen“),
+       c) Wortwahl und Bewertung (z. B. „Machthaber“ gegen „Präsident“, „Krawalle“ gegen „Proteste“),
+       d) welchen Aspekt ein Medium in den Vordergrund stellt oder was nur eines erwähnt.
+     Nenne dabei NUR Medien, deren Meldungen in „sources“ stehen, und keine anderen (auch keine „Nachrichtenagenturen“).
+     Berichtet nur ein Medium: „Bisher nur von <Quelle> berichtet.“ Nur wenn du bei a) bis d) wirklich nichts
+     findest: „Die Quellen berichten übereinstimmend.“ Unterstelle Medien keine Absichten.
    - breaking: true nur, wenn die Geschichte nach den Eilmeldungs-Regeln unten eine Eilmeldung ist
      UND mindestens zwei verschiedene Medien berichten. Im Zweifel false.
 4. more: 15 bis 24 weitere relevante Geschichten, die oben nicht vorkommen – je genau eine ID (die beste Meldung,
@@ -68,7 +71,9 @@ Prüfe gründlich, Aussage für Aussage:
 3. Stimmen Zahlen samt Einschränkungen („fast“, „mehr als“, „rund“)?
 4. Ist in der Einordnung jede Aussage dem richtigen Medium zugeordnet, und steht sie in DESSEN Meldung?
 5. Widersprechen sich die Meldungen bei Zahlen, Zeitangaben oder Fakten (z. B. „ein Jahr“ gegen „zehn Monate“)?
-   Dann muss die Einordnung das nennen, mit den Medien – ergänze es, falls es fehlt.
+   Dann MUSS die Einordnung das nennen, mit den Medien – ergänze es, falls es fehlt. Steht dort
+   „Die Quellen berichten übereinstimmend.“, obwohl es solche Abweichungen gibt, ersetze den Satz.
+   Alles, was du unter issues als Abweichung zwischen Medien notierst, gehört auch in die Einordnung.
 6. Ist aus dem Englischen richtig übersetzt?
 
 Was belegt ist, bleibt wörtlich unverändert. Was nicht belegt oder falsch ist, korrigierst du mit den Angaben aus den

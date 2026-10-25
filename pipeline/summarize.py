@@ -128,9 +128,12 @@ def source_line(item: dict) -> str:
 
 
 def majority_section(items: list[dict], fallback: str) -> str:
-    """Rubrik, in der die meisten Quellen der Geschichte stehen (die KI sortiert manchmal falsch ein)."""
-    section, count = Counter(i["section"] for i in items).most_common(1)[0]
-    return section if count > len(items) / 2 else fallback
+    """Die KI sortiert meist richtig ein. Nur wenn alle Quellen (mindestens zwei) aus der anderen Rubrik kommen,
+    wird umsortiert – die Feed-Rubriken allein sind zu grob (z. B. SpaceX-Finanzierung im Politik-Feed)."""
+    sections = Counter(i["section"] for i in items)
+    if len(items) >= 2 and len(sections) == 1:
+        return next(iter(sections))
+    return fallback
 
 
 # ---------- Zweiter Durchgang: Faktenprüfung
