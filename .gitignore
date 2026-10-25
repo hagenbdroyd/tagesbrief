@@ -1,0 +1,4 @@
+pipeline/out/
+__pycache__/
+.DS_Store
+.env
