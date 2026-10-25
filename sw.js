@@ -5,7 +5,7 @@
 // Immer zuerst aus dem Netz laden, damit die News aktuell sind.
 // Nur ohne Verbindung wird die zuletzt gespeicherte Version gezeigt.
 
-const CACHE = 'tagesbrief-v2';
+const CACHE = 'tagesbrief-v3';
 const SHELL = ['./', 'index.html', 'styles.css', 'app.js', 'manifest.webmanifest', 'data/briefing.json', 'data/state.json', 'icons/icon.svg', 'icons/icon-192.png', 'icons/apple-touch-icon.png'];
 
 self.addEventListener('install', (e) => {

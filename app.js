@@ -13,6 +13,7 @@ const VAPID_PUBLIC_KEY = 'BHrzkLFjPGHhYTCJ1DzXY_ZM5eqbVonsdfhnpOduNOaqp2vWgQ1hcp
 
 const app = document.getElementById('app');
 const progressBar = document.getElementById('progress');
+const topbarDate = document.getElementById('topbar-date');
 const $ = (s, el = document) => el.querySelector(s);
 const esc = (s) => String(s ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 
@@ -24,6 +25,7 @@ let shownVersion = null; // Stand des zuletzt angezeigten Briefings (Briefing + 
 const dayKey = (iso) => new Date(iso).toLocaleDateString('en-CA', { timeZone: TZ });
 const formatTime = (iso) => new Intl.DateTimeFormat('de-DE', { hour: '2-digit', minute: '2-digit', timeZone: TZ }).format(new Date(iso));
 const formatDate = (day) => new Intl.DateTimeFormat('de-DE', { weekday: 'long', day: 'numeric', month: 'long', timeZone: TZ }).format(new Date(`${day}T12:00:00Z`));
+const formatDateShort = (day) => new Intl.DateTimeFormat('de-DE', { weekday: 'short', day: 'numeric', month: 'short', timeZone: TZ }).format(new Date(`${day}T12:00:00Z`));
 
 function timeLabel(iso, briefingDay) {
   if (dayKey(iso) === briefingDay) return `${formatTime(iso)} Uhr`;
@@ -49,29 +51,43 @@ function renderSources(sources, label) {
     </div>`;
 }
 
+// Fotos kommen direkt von den Medien; lädt eins nicht, verschwindet der Platz dafür (siehe unten)
+function renderImage(image, eager = false) {
+  if (!image?.url) return '';
+  return `
+    <figure class="card-img">
+      <img src="${esc(image.url)}" alt="" ${eager ? '' : 'loading="lazy"'} decoding="async" referrerpolicy="no-referrer">
+      <figcaption>Foto: ${esc(image.source)}</figcaption>
+    </figure>`;
+}
+
 function renderBreaking(b) {
   return `
-    <section class="breaking">
-      <div class="breaking-label">Eilmeldung · ${timeLabel(b.time, dayKey(new Date().toISOString()))}</div>
-      <h2>${esc(b.headline)}</h2>
-      <p>${esc(b.summary)}</p>
-      ${renderSources(b.sources, 'Bestätigt von:')}
-    </section>`;
+    <article class="card breaking">
+      ${renderImage(b.image, true)}
+      <div class="card-body">
+        <div class="breaking-label">Eilmeldung · ${timeLabel(b.time, dayKey(new Date().toISOString()))}</div>
+        <h2>${esc(b.headline)}</h2>
+        <p class="summary">${esc(b.summary)}</p>
+        ${renderSources(b.sources, 'Bestätigt von')}
+      </div>
+    </article>`;
 }
 
 function renderItem(item, num) {
   return `
-    <article class="item">
-      <div class="num">${num}</div>
-      <div>
+    <article class="card story">
+      ${renderImage(item.image, num === 1)}
+      <div class="card-body">
+        <div class="kicker"><span class="num">${num}</span></div>
         <h3>${esc(item.headline)}</h3>
         <p class="summary">${esc(item.summary)}</p>
-        ${renderSources(item.sources, 'Quellen:')}
         ${item.perspectives ? `
           <details class="perspective">
             <summary>Wie berichten die Medien?</summary>
             <p>${esc(item.perspectives)}</p>
           </details>` : ''}
+        ${renderSources(item.sources, 'Quellen')}
       </div>
     </article>`;
 }
@@ -79,7 +95,7 @@ function renderItem(item, num) {
 function renderSection(section, startNum) {
   return `
     <section class="section" data-id="${esc(section.id)}">
-      <div class="section-head"><h2>${esc(section.title)}</h2></div>
+      <h2 class="section-title">${esc(section.title)}</h2>
       ${section.items.map((item, i) => renderItem(item, startNum + i)).join('')}
     </section>`;
 }
@@ -90,11 +106,14 @@ function renderHeadlines(briefing, filter) {
     ? list.map((h) => `
         <li>
           <a href="${esc(h.url)}" target="_blank" rel="noopener">
-            <span class="hl-title">${esc(h.headline)}</span>
-            <span class="hl-meta">${h.opinion ? '<span class="hl-tag">Meinung</span> ' : ''}${esc(h.source)}${h.country ? ` (${esc(h.country)})` : ''} · ${timeLabel(h.time, briefing.date)}</span>
+            <span class="hl-text">
+              <span class="hl-title">${esc(h.headline)}</span>
+              <span class="hl-meta">${h.opinion ? '<span class="hl-tag">Meinung</span> ' : ''}${esc(h.source)}${h.country ? ` · ${esc(h.country)}` : ''} · ${timeLabel(h.time, briefing.date)}</span>
+            </span>
+            ${h.image ? `<img class="hl-thumb" src="${esc(h.image)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer">` : ''}
           </a>
         </li>`).join('')
-    : '<li class="hl-meta">Keine weiteren Schlagzeilen.</li>';
+    : '<li class="hl-empty">Keine weiteren Schlagzeilen.</li>';
 }
 
 // =====================================================================
@@ -120,16 +139,13 @@ function render(briefing, state) {
   });
   const tabs = [{ id: 'alle', title: 'Alle' }, ...briefing.sections];
   const meta = headlinesOnly
-    ? `Heute nur Schlagzeilen · Stand ${formatTime(briefing.generatedAt)} Uhr`
-    : `${items.length} Punkte · ca. ${readingMinutes(items)} Min. · Stand ${formatTime(briefing.generatedAt)} Uhr`;
+    ? `<span>Heute nur Schlagzeilen</span><span>Stand ${formatTime(briefing.generatedAt)} Uhr</span>`
+    : `<span>${items.length} Themen</span><span>ca. ${readingMinutes(items)} Min.</span><span>Stand ${formatTime(briefing.generatedAt)} Uhr</span>`;
 
+  topbarDate.textContent = formatDateShort(briefing.date);
   app.innerHTML = `
-    <header>
-      <div class="brand">Tagesbrief</div>
-      <h1 class="date">${formatDate(briefing.date).replace(', ', ',<br>')}</h1>
-      <p class="meta">${meta}</p>
-    </header>
-    ${briefing.notice ? `<p class="sample-note">${esc(briefing.notice)}</p>` : ''}
+    <p class="meta">${meta}</p>
+    ${briefing.notice ? `<p class="notice">${esc(briefing.notice)}</p>` : ''}
     ${breaking.map(renderBreaking).join('')}
     ${sections.join('')}
 
@@ -311,6 +327,12 @@ async function load() {
 document.addEventListener('visibilitychange', () => {
   if (document.visibilityState === 'visible') load();
 });
+
+// Foto lädt nicht (gelöscht, gesperrt)? Dann den Platz dafür entfernen statt ein kaputtes Bild zu zeigen
+document.addEventListener('error', (e) => {
+  if (e.target.tagName !== 'IMG') return;
+  (e.target.closest('.card-img') || e.target).remove();
+}, true);
 
 if ('serviceWorker' in navigator) {
   window.addEventListener('load', () => navigator.serviceWorker.register('sw.js').catch(() => {}));

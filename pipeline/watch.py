@@ -114,6 +114,7 @@ def check_breaking(state: dict, items: list[dict], now: datetime) -> list[dict]:
             "summary": story["summary"],
             "reason": (raw.get("reason") or "").strip(),
             "sources": story["sources"],
+            "image": story["image"],
             "model": model,
         })
     return found

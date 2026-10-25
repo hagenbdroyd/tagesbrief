@@ -31,7 +31,11 @@
           "url": "https://www.faz.net/aktuell/politik/ausland/wahl-in-serbien-vucic-gesteht-niederlage-ein-201619434.html"
         }
       ],
-      "model": "gemini-3.8-flash"
+      "model": "gemini-3.8-flash",
+      "image": {
+        "url": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/e676/live/8534e970-d0c8-11f1-b441-2b33b063138f.jpg",
+        "source": "BBC"
+      }
     }
   ]
 }

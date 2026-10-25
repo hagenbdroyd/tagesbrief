@@ -28,6 +28,14 @@ USER_AGENT = "Mozilla/5.0 (compatible; Tagesbrief/1.0; private news reader)"
 TIMEOUT = 15
 MAX_TEASER = 320
 TRACKING_PARAMS = re.compile(r"^(utm_|at_|maca$|ref$|cmpid$|ns_)", re.I)
+# Manche Medien liefern nur kleine Vorschaubilder – über die Adresse lässt sich eine größere Version anfordern
+IMAGE_UPGRADES = [
+    (re.compile(r"(ichef\.bbci\.co\.uk/ace/standard/)\d+/"), r"\g<1>800/"),
+    (re.compile(r"(img\.zeit\.de/.+/)(?:original|wide)__\d+x\d+$"), r"\g<1>wide__820x461"),
+    (re.compile(r"(images\.tagesschau\.de/[^?]+\?width=)\d+"), r"\g<1>1024"),
+    (re.compile(r"(img-msp-prod\.nzz\.ch/[^?]+)\?.*"), r"\1?width=900&height=900&fit=bounds"),
+]
+IMG_TAG = re.compile(r"<img[^>]+src=[\"']([^\"']+)[\"']", re.I)
 OPINION_HINTS = re.compile(r"/(meinung|kommentar[e]?|opinion|commentisfree|leitartikel)/|^(kommentar|meinung|leitartikel|opinion)\b", re.I)
 
 
@@ -73,6 +81,32 @@ def parse_date(raw: str | None) -> datetime | None:
     return dt.astimezone(timezone.utc)
 
 
+def find_image(node: ET.Element, html_text: str | None) -> str | None:
+    """Bestes Foto einer Meldung: größtes media:content/thumbnail, sonst Anhang, sonst erstes <img> im Text."""
+    media, enclosure = [], None
+    for child in node:
+        name, url = local(child.tag), child.get("url")
+        if not url:
+            continue
+        if name in ("content", "thumbnail") and child.get("medium", "image") == "image" \
+                and not child.get("type", "image/").startswith(("video", "audio")):
+            media.append((int(child.get("width") or 0), url))
+        elif name == "enclosure" and child.get("type", "").startswith("image"):
+            enclosure = enclosure or url
+    if media:
+        image = max(media)[1]
+    elif enclosure:
+        image = enclosure
+    else:
+        found = IMG_TAG.search(html_text or "")
+        image = html.unescape(found.group(1)) if found else None
+    if not image or not image.startswith("http"):
+        return None
+    for pattern, replacement in IMAGE_UPGRADES:
+        image = pattern.sub(replacement, image)
+    return image
+
+
 def section_for(feed: dict, url: str) -> str:
     if feed["section"] != "auto":
         return feed["section"]
@@ -104,7 +138,8 @@ def parse_feed(feed: dict, data: bytes) -> list[dict]:
 
         title = clean_text(fields.get("title"))
         link = (fields.get("link") or "").strip()
-        if not title or not link.startswith("http"):
+        # Leer-Titel wie „Here's the latest.“ (Liveblog-Updates) sagen nichts aus
+        if len(title.split()) < 4 or not link.startswith("http"):
             continue
         url = clean_url(link)
         published = parse_date(fields.get("pubdate") or fields.get("date") or fields.get("published") or fields.get("updated"))
@@ -120,6 +155,7 @@ def parse_feed(feed: dict, data: bytes) -> list[dict]:
             "section": section_for(feed, url),
             "published": published.isoformat(timespec="seconds") if published else None,
             "opinion": bool(OPINION_HINTS.search(urlsplit(url).path) or OPINION_HINTS.search(title)),
+            "image": find_image(node, fields.get("encoded") or fields.get("description")),
         })
     return entries
 

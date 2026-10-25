@@ -94,6 +94,14 @@ def source_entry(item: dict) -> dict:
     return {"name": item["source"], "country": item["country"], "url": item["url"]}
 
 
+def pick_image(items: list[dict]) -> dict | None:
+    """Foto aus der ersten Quelle, die eins hat – mit Angabe, von wem es stammt."""
+    for item in items:
+        if item.get("image"):
+            return {"url": item["image"], "source": item["source"]}
+    return None
+
+
 def check_story(raw: dict, by_ref: dict[str, dict], used: set[str]) -> dict | None:
     items, outlets = [], set()
     for ref in raw.get("sources") or []:
@@ -116,6 +124,7 @@ def check_story(raw: dict, by_ref: dict[str, dict], used: set[str]) -> dict | No
         "perspectives": (raw.get("perspectives") or "").strip() or None,
         "sources": [source_entry(i) for i in items],
         "time": min(i["published"] for i in items),
+        "image": pick_image(items),
         "breaking": bool(raw.get("breaking")) and len(outlets) >= 2,
         "_items": items,
     }
@@ -212,6 +221,7 @@ def summarize(items: list[dict], now: datetime) -> dict:
     breaking = []
     for story in stories:
         final_checks(story)
+        story["image"] = pick_image(story["_items"])  # die Faktenprüfung hat evtl. Quellen entfernt
         story["time"] = min(i["published"] for i in story.pop("_items"))
         target = by_section[story.pop("section")]
         # nach der Faktenprüfung nochmal: Eilmeldung nur mit mindestens zwei verschiedenen Medien
@@ -235,6 +245,7 @@ def summarize(items: list[dict], now: datetime) -> dict:
             "url": item["url"],
             "time": item["published"],
             "opinion": item["opinion"],
+            "image": item.get("image"),
         })
         if len(more) == MAX_MORE:
             break

@@ -77,6 +77,7 @@ def pick_more(items: list[dict], section_ids: list[str], known_titles: list[str]
                 "url": item["url"],
                 "time": item["published"],
                 "opinion": item["opinion"],
+                "image": item.get("image"),
             })
             count += 1
             if count == MORE_PER_SECTION:

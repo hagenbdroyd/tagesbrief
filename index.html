@@ -5,11 +5,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <title>Tagesbrief</title>
   <meta name="description" content="Dein tägliches News-Briefing zu Politik und Wirtschaft">
-  <meta name="theme-color" content="#f6f3ec" media="(prefers-color-scheme: light)">
-  <meta name="theme-color" content="#121314" media="(prefers-color-scheme: dark)">
+  <meta name="color-scheme" content="dark">
+  <meta name="theme-color" content="#0b0c0f">
   <meta name="mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-capable" content="yes">
-  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="apple-mobile-web-app-title" content="Tagesbrief">
   <link rel="manifest" href="manifest.webmanifest">
   <link rel="icon" href="icons/icon.svg" type="image/svg+xml">
@@ -17,7 +17,13 @@
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-  <div class="progress" aria-hidden="true"><div class="progress-bar" id="progress"></div></div>
+  <header class="topbar">
+    <div class="topbar-inner">
+      <div class="brand">Tagesbrief</div>
+      <div class="topbar-date" id="topbar-date"></div>
+    </div>
+    <div class="progress" aria-hidden="true"><div class="progress-bar" id="progress"></div></div>
+  </header>
   <main class="page" id="app">
     <p class="status">Briefing wird geladen …</p>
   </main>
