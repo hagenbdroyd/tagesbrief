@@ -21,7 +21,7 @@ from datetime import datetime
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
-from ai import AIError
+from ai import LAST_RESORT, AIError
 from collect import collect
 from summarize import SECTIONS, summarize
 
@@ -110,7 +110,21 @@ def top_up_more(briefing: dict, items: list[dict]) -> None:
     briefing["more"] += extra[:missing]
 
 
+def already_done_today(now: datetime) -> bool:
+    """Gibt es heute schon ein gutes Briefing (ab 4 Uhr, von einem starken Modell)? Dann nicht überschreiben –
+    wichtig, weil GitHub geplante Läufe manchmal stundenlang verschiebt."""
+    if not BRIEFING.exists():
+        return False
+    old = json.loads(BRIEFING.read_text(encoding="utf-8"))
+    made = datetime.fromisoformat(old["generatedAt"]).astimezone(TZ)
+    return made.date() == now.date() and made.hour >= 4 and old.get("aiModel") not in (None, LAST_RESORT)
+
+
 def main() -> None:
+    if "--skip-if-fresh" in sys.argv and already_done_today(datetime.now(TZ)):
+        print("Heute gibt es schon ein gutes Briefing – nichts zu tun.")
+        return
+
     news = collect(hours=WINDOW_HOURS)
     NEWS_OUT.parent.mkdir(parents=True, exist_ok=True)
     NEWS_OUT.write_text(json.dumps(news, ensure_ascii=False, indent=2), encoding="utf-8")

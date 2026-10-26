@@ -37,7 +37,8 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GEMINI_ROUNDS: "5" # morgens ist Zeit: länger auf die starken Modelle warten
           GEMINI_THINKING: medium # gründlicher als beim Testen am Mac, dauert etwas länger
-        run: python3 pipeline/build.py
+        # Ein (verspäteter) geplanter Lauf überschreibt kein gutes Briefing vom selben Tag
+        run: python3 pipeline/build.py ${{ github.event_name == 'schedule' && '--skip-if-fresh' || '' }}
 
       - name: Briefing speichern
         if: github.event_name != 'push'

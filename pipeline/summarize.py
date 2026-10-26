@@ -28,6 +28,7 @@ MAX_MORE = 24
 MAX_TEASER_IN_PROMPT = 220
 WEEKDAYS = ["Montag", "Dienstag", "Mittwoch", "Donnerstag", "Freitag", "Samstag", "Sonntag"]
 LITE_NOTICE = "Die großen KI-Modelle waren überlastet, dieses Briefing stammt vom kleinen Ersatzmodell. Es kann ungenauer sein – prüf Wichtiges in den Quellen."
+CHECK_NOTICE = "Der zweite Prüfdurchgang ist heute ausgefallen (KI-Kontingent aufgebraucht) – die Texte sind ungeprüft."
 MONTHS = ["Januar", "Februar", "März", "April", "Mai", "Juni", "Juli", "August", "September", "Oktober", "November", "Dezember"]
 
 
@@ -156,7 +157,8 @@ def factcheck(stories: list[dict], model: str) -> dict | None:
             f"Einordnung: {s['perspectives'] or ''}\nMeldungen:\n{sources}"
         )
     try:
-        answer, _ = generate_json(CHECK_SYSTEM, "\n\n".join(blocks), CHECK_SCHEMA, start_with=model)
+        # nie mit dem kleinen Modell prüfen – es hat sich als unzuverlässiger Prüfer erwiesen
+        answer, _ = generate_json(CHECK_SYSTEM, "\n\n".join(blocks), CHECK_SCHEMA, start_with=model, last_resort=False)
     except AIError as err:
         print(f"  Faktenprüfung ausgefallen, Texte bleiben ungeprüft: {err}", file=sys.stderr)
         return None
@@ -259,6 +261,6 @@ def summarize(items: list[dict], now: datetime) -> dict:
         "more": more,
         "push": (answer.get("push") or "").strip() or None,
         "aiModel": model,
-        "notice": LITE_NOTICE if model == LAST_RESORT else None,
+        "notice": LITE_NOTICE if model == LAST_RESORT else (CHECK_NOTICE if check is None else None),
         "_raw": {"model": model, "answer": answer, "factcheck": check},  # Rohantworten zum Nachschauen
     }

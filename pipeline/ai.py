@@ -29,6 +29,11 @@ ROUND_PAUSE = 60  # Sekunden vor der zweiten Runde, danach jeweils doppelt so la
 THINKING_LEVEL = os.environ.get("GEMINI_THINKING", "low")
 
 
+# Im Gratis-Tarif hat jedes Modell ein eigenes Tageskontingent (starke Flash-Modelle nur ca. 20 Anfragen,
+# Flash-Lite ca. 500). Ist es aufgebraucht, wird das Modell für den Rest des Laufs übersprungen.
+EXHAUSTED: set[str] = set()
+
+
 class AIError(Exception):
     pass
 
@@ -61,11 +66,17 @@ def _post(model: str, key: str, body: dict) -> dict:
 
 
 def generate_json(system: str, prompt: str, schema: dict, start_with: str | None = None,
-                  last_resort: bool = True) -> tuple[dict, str]:
+                  last_resort: bool = True, models: list[str] | None = None) -> tuple[dict, str]:
     """Fragt Gemini nach einer JSON-Antwort im vorgegebenen Format. Gibt (Antwort, verwendetes Modell) zurück.
     start_with: Modell, das gerade funktioniert hat – überspringt die (vermutlich noch überlasteten) davor.
-    last_resort: False = nie das kleine Modell (z. B. für Eilmeldungen: lieber 15 Minuten später als falscher Alarm)."""
-    models = MODELS[MODELS.index(start_with):] if start_with in MODELS else MODELS
+    last_resort: False = nie das kleine Modell (z. B. für die Faktenprüfung).
+    models: eigene Reihenfolge, z. B. für den Wächter – dann ohne „letzte Rettung“."""
+    if models is None:
+        chain = MODELS[MODELS.index(start_with):] if start_with in MODELS else MODELS
+        strong = [m for m in chain if m != LAST_RESORT]
+        fallback = [LAST_RESORT] if last_resort else []
+    else:
+        strong, fallback = list(models), []
     key = api_key()
     if not key:
         raise AIError("Kein GEMINI_API_KEY gefunden (Datei news-app/.env oder Umgebungsvariable)")
@@ -79,31 +90,32 @@ def generate_json(system: str, prompt: str, schema: dict, start_with: str | None
             "thinkingConfig": {"thinkingLevel": THINKING_LEVEL},
         },
     }
-    strong = [m for m in models if m != LAST_RESORT]
     errors = []
     # Erst die starken Modelle, notfalls in mehreren Runden mit wachsender Pause – morgens ist Zeit genug.
-    for round_no in range(ROUNDS if strong else 0):
+    for round_no in range(ROUNDS):
+        active = [m for m in strong if m not in EXHAUSTED]  # Tageskontingent weg → Warten bringt nichts
+        if not active:
+            break
         if round_no:
             pause = ROUND_PAUSE * 2 ** (round_no - 1)
-            print(f"  Starke Modelle überlastet, neuer Versuch in {pause} Sekunden …", file=sys.stderr)
+            print(f"  Modelle überlastet, neuer Versuch in {pause} Sekunden …", file=sys.stderr)
             time.sleep(pause)
-        for model in strong:
+        for model in active:
             try:
                 return _ask(model, key, body), model
             except AIFatal:
                 raise
             except AIError as err:
                 errors.append(str(err))
-    # Letzte Rettung: das kleine Modell
     if strong:
-        print("  Starke Modelle nicht erreichbar:\n    " + "\n    ".join(e[:160] for e in errors), file=sys.stderr)
-    if not last_resort:
-        raise AIError(" | ".join(errors))
-    try:
-        return _ask(LAST_RESORT, key, body), LAST_RESORT
-    except AIError as err:
-        errors.append(str(err))
-    raise AIError(" | ".join(errors))
+        print("  Nicht erreichbar:\n    " + "\n    ".join(e[:160] for e in errors), file=sys.stderr)
+    # Letzte Rettung: das kleine Modell
+    for model in fallback:
+        try:
+            return _ask(model, key, body), model
+        except AIError as err:
+            errors.append(str(err))
+    raise AIError(" | ".join(errors) or "Alle Modelle haben ihr Tageskontingent aufgebraucht")
 
 
 def _ask(model: str, key: str, body: dict) -> dict:
@@ -111,9 +123,13 @@ def _ask(model: str, key: str, body: dict) -> dict:
     try:
         data = _post(model, key, body)
     except urllib.error.HTTPError as err:
-        message = f"{model}: HTTP {err.code} {err.read().decode(errors='replace')[:200]}"
+        detail = err.read().decode(errors="replace")
+        message = f"{model}: HTTP {err.code} {detail[:200]}"
         if err.code in (400, 401, 403):
             raise AIFatal(message)
+        if err.code == 429 and "per day" in detail.lower():
+            EXHAUSTED.add(model)
+            message = f"{model}: Tageskontingent aufgebraucht"
         raise AIError(message)  # 429/5xx = überlastet, 404 = Modell gibt es nicht (mehr)
     except OSError as err:  # Netzwerkfehler und Zeitüberschreitung (socket.timeout ist in Python 3.9 kein TimeoutError)
         raise AIError(f"{model}: {type(err).__name__} {err}")

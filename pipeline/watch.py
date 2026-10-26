@@ -36,6 +36,10 @@ MORNING_LATEST = 12  # ist bis dahin kein Briefing da, fällt der Morgen-Push au
 WINDOW_HOURS = 3  # so weit zurück schaut der Wächter in die Feeds
 FRESH_MINUTES = 45  # die KI wird nur gefragt, wenn in dieser Zeit eine Geschichte bei zwei Medien neu auftaucht
 KEEP_HOURS = 48  # so lange merkt er sich verschickte Eilmeldungen
+# Die starken Modelle haben nur ca. 20 Anfragen am Tag – die braucht das Morgen-Briefing (das 3.8 und 3.7 zuerst nimmt).
+# Deshalb prüft der Wächter erst mit Flash-Lite vor und fragt ein starkes Modell (3.6 zuerst) nur bei Verdacht.
+SCREEN_MODELS = ["gemini-3.5-flash-lite", "gemini-3.1-flash-lite"]
+CONFIRM_MODELS = ["gemini-3.6-flash", "gemini-3.7-flash", "gemini-3.8-flash"]
 
 
 def load_state() -> dict:
@@ -90,22 +94,39 @@ def already_sent(story: dict, state: dict) -> bool:
     return False
 
 
+def valid_breaking(answer: dict, by_ref: dict[str, dict], state: dict) -> list[tuple[dict, dict]]:
+    """Was von der KI-Antwort übrig bleibt: mindestens zwei Medien, noch nicht verschickt."""
+    result, used = [], set()
+    for raw in answer.get("breaking") or []:
+        story = check_story(raw, by_ref, used)
+        if not story or len(story["sources"]) < 2:
+            continue  # Regel: mindestens zwei verschiedene Medien
+        if already_sent(story, state):
+            print(f"Schon verschickt: {story['headline']}", file=sys.stderr)
+            continue
+        result.append((story, raw))
+    return result
+
+
 def check_breaking(state: dict, items: list[dict], now: datetime) -> list[dict]:
     prompt, by_ref = build_prompt(items, now)
     sent = [f"- {datetime.fromisoformat(b['pushedAt']).astimezone(TZ):%d.%m. %H:%M}: {b['headline']}" for b in state["breaking"]]
     prompt += "\n\nSchon verschickte Eilmeldungen:\n" + ("\n".join(sent) if sent else "keine")
 
-    # nur die starken Modelle: lieber eine Viertelstunde später als ein falscher Alarm
-    answer, model = generate_json(BREAKING_SYSTEM, prompt, BREAKING_SCHEMA, last_resort=False)
-    found, used = [], set()
-    for raw in answer.get("breaking") or []:
-        story = check_story(raw, by_ref, used)
-        if not story or len(story["sources"]) < 2:
-            continue  # Regel: mindestens zwei verschiedene Medien
+    # Stufe 1: Vorprüfung mit dem kleinen Modell (großes Tageskontingent, reicht für jede Viertelstunde)
+    screen, screen_model = generate_json(BREAKING_SYSTEM, prompt, BREAKING_SCHEMA, models=SCREEN_MODELS)
+    candidates = valid_breaking(screen, by_ref, state)
+    if not candidates:
+        print(f"Vorprüfung ({screen_model}): keine Eilmeldung.", file=sys.stderr)
+        return []
+    print(f"Vorprüfung ({screen_model}) sieht: {', '.join(s['headline'] for s, _ in candidates)} – starkes Modell prüft nach.",
+          file=sys.stderr)
+
+    # Stufe 2: nur ein starkes Modell darf eine Eilmeldung auslösen – lieber 15 Minuten später als ein Fehlalarm
+    answer, model = generate_json(BREAKING_SYSTEM, prompt, BREAKING_SCHEMA, models=CONFIRM_MODELS)
+    found = []
+    for story, raw in valid_breaking(answer, by_ref, state):
         final_checks(story)
-        if already_sent(story, state):
-            print(f"Schon verschickt: {story['headline']}", file=sys.stderr)
-            continue
         found.append({
             "id": f"e{now:%Y%m%d%H%M}{len(found)}",
             "time": min(i["published"] for i in story["_items"]),
