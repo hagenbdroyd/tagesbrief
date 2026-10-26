@@ -111,13 +111,13 @@ def top_up_more(briefing: dict, items: list[dict]) -> None:
 
 
 def already_done_today(now: datetime) -> bool:
-    """Gibt es heute schon ein gutes Briefing (ab 4 Uhr, von einem starken Modell)? Dann nicht überschreiben –
+    """Gibt es heute schon ein gutes Briefing (ab 3 Uhr, von einem starken Modell)? Dann nicht überschreiben –
     wichtig, weil GitHub geplante Läufe manchmal stundenlang verschiebt."""
     if not BRIEFING.exists():
         return False
     old = json.loads(BRIEFING.read_text(encoding="utf-8"))
     made = datetime.fromisoformat(old["generatedAt"]).astimezone(TZ)
-    return made.date() == now.date() and made.hour >= 4 and old.get("aiModel") not in (None, LAST_RESORT)
+    return made.date() == now.date() and made.hour >= 3 and old.get("aiModel") not in (None, LAST_RESORT)
 
 
 def main() -> None:

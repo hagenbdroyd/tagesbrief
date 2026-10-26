@@ -5,9 +5,12 @@ name: Briefing
 
 on:
   schedule:
-    # GitHub rechnet in UTC: 04:23 UTC = 5:23 Uhr im Winter, 6:23 Uhr im Sommer.
-    # Geplante Läufe starten oft ein paar Minuten später – das Briefing steht trotzdem vor 7 Uhr.
-    - cron: "23 4 * * *"
+    # GitHub rechnet in UTC (im Winter +1 Stunde, im Sommer +2) und verschiebt oder verschluckt
+    # geplante Läufe manchmal. Deshalb drei Weckzeiten: Steht schon ein gutes Briefing, beendet
+    # sich ein späterer Lauf sofort (--skip-if-fresh), ohne KI-Kontingent zu verbrauchen.
+    - cron: "37 2 * * *"
+    - cron: "37 3 * * *"
+    - cron: "37 4 * * *"
   workflow_dispatch: # Knopf „Run workflow“ zum Testen
   push:
     branches: [main] # Änderungen an der App sofort veröffentlichen
