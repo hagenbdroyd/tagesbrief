@@ -1,9 +1,9 @@
 {
-  "date": "2026-10-26",
-  "generatedAt": "2026-10-26T20:06:44+01:00",
-  "notice": "Die großen KI-Modelle waren überlastet, dieses Briefing stammt vom kleinen Ersatzmodell. Es kann ungenauer sein – prüf Wichtiges in den Quellen.",
-  "aiModel": "gemini-3.5-flash-lite",
-  "push": "Brasilien: Lula gewinnt vierte Amtszeit – Bolsonaro ficht Ergebnis an",
+  "date": "2026-10-27",
+  "generatedAt": "2026-10-27T09:19:53+01:00",
+  "notice": null,
+  "aiModel": "gemini-3.7-flash",
+  "push": "Wahl in Israel angelaufen: Richtungsentscheidung für Benjamin Netanjahu",
   "breaking": [],
   "sections": [
     {
@@ -12,147 +12,167 @@
       "items": [
         {
           "id": "p1",
-          "headline": "Brasilien: Lula gewinnt vierte Amtszeit – Bolsonaro ficht Ergebnis an",
-          "summary": "Nach einer Stichwahl hat Luiz Inácio Lula da Silva die Präsidentschaftswahl in Brasilien gewonnen und tritt eine vierte Amtszeit an. Sein rechter Kontrahent Flávio Bolsonaro will das knappe Ergebnis jedoch anfechten. Die Finanzmärkte reagierten mit massiven Kursverlusten auf den Ausgang.",
-          "perspectives": "BBC und New York Times berichten übereinstimmend von Lulas Comeback und dem Sieg über Flávio Bolsonaro [20, 60]. Financial Times hebt vor allem die extremen Turbulenzen an den Finanzmärkten hervor [54].",
+          "headline": "Parlamentswahl in Israel: Richtungsentscheidung für Netanjahu",
+          "summary": "In Israel hat die Wahl zu einem neuen Parlament begonnen. Es ist die erste Abstimmung seit dem Terrorangriff der Hamas vom Oktober 2023. Nach Umfragen steht Ministerpräsident Benjamin Netanjahu ein enges Rennen gegen das Oppositionslager um Herausforderer Gadi Eisenkot bevor.",
+          "perspectives": "Der Guardian hebt hervor, dass Netanjahus Rechtskoalition laut Umfragen ihre Mehrheit verlieren könnte, während die Financial Times von einem knappen Rennen spricht. Der Spiegel berichtet über das emotionale Gedenken von Angehörigen an getötete Geiseln vor Beginn der Stimmabgabe. Die Zeit betont, dass mehr als sieben Millionen Israelis wahlberechtigt sind.",
           "sources": [
             {
-              "name": "BBC",
+              "name": "Guardian",
               "country": "UK",
-              "url": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo"
+              "url": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates"
             },
             {
-              "name": "New York Times",
-              "country": "US",
-              "url": "https://www.nytimes.com/2026/10/26/world/americas/brazil-election-lula-win-what-to-know.html"
+              "name": "Spiegel",
+              "country": "DE",
+              "url": "https://www.spiegel.de/ausland/israel-wahl-beginnt-mit-gedenken-an-hamas-opfer-a-a634b1dc-e6cd-4a4c-810c-5fb495d2ad90"
+            },
+            {
+              "name": "Zeit",
+              "country": "DE",
+              "url": "https://www.zeit.de/politik/ausland/2026-10/wahl-israel-parlamentswahl-benjamin-netanjahu-opposition-gxe"
             },
             {
               "name": "Financial Times",
               "country": "UK",
-              "url": "https://www.ft.com/content/bffe028e-838d-4e74-b05e-62f6db4978db?syn-25a6b1a6=1"
+              "url": "https://www.ft.com/content/87d81352-5086-44bd-a5bb-797582e2d07c?syn-25a6b1a6=1"
             }
           ],
-          "time": "2026-10-26T17:32:09+00:00",
+          "time": "2026-10-27T05:00:18+00:00",
           "image": {
-            "url": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/eab1/live/a6b767f0-d15c-11f1-a701-fddedf244c16.jpg",
-            "source": "BBC"
+            "url": "https://i.guim.co.uk/img/media/0fa136421184389c6197114f9d02c1573603ca35/494_0_4585_3668/master/4585.jpg?width=700&quality=85&auto=format&fit=max&s=19dee40fb542bc6648357d0ac31f7de3",
+            "source": "Guardian"
           }
         },
         {
           "id": "p2",
-          "headline": "Serbien: Studentenbewegung gewinnt überraschend Parlamentswahl",
-          "summary": "In Serbien hat das studentische Bündnis bei der vorgezogenen Parlamentswahl einen Erdrutschsieg errungen und den langjährigen Machthaber Aleksandar Vučić abgelöst. Vučić räumte seine Niederlage rasch ein. Der Machtwechsel weckt Hoffnungen auf einen politischen Neuanfang und Annäherung an die EU.",
-          "perspectives": null,
+          "headline": "Ausreiseverbot für Flávio Bolsonaro nach Wahlniederlage in Brasilien",
+          "summary": "Nach seiner Niederlage bei der Präsidentschaftswahl in Brasilien darf der Senator Flávio Bolsonaro das Land nicht verlassen und musste seine Pässe abgeben. Hintergrund sind Ermittlungen wegen Geldwäscheverdachts. Während Bolsonaros Partei den Sieg von Luiz Inácio Lula da Silva anerkannte, sät US-Präsident Donald Trump Zweifel am Ergebnis.",
+          "perspectives": "Laut Tagesschau und Guardian ordnete die Justiz die Passabgabe im Rahmen von Geldwäsche-Ermittlungen an. Der Spiegel merkt an, dass Bolsonaros Partei den Sieg Lulas nur unter Vorbehalt akzeptiert habe. Das Handelsblatt berichtet, dass US-Präsident Trump Zweifel am Wahlergebnis sät.",
           "sources": [
             {
-              "name": "FAZ",
+              "name": "Tagesschau",
               "country": "DE",
-              "url": "https://www.faz.net/aktuell/politik/ausland/serbien-nach-vui-was-das-demokratische-experiment-bedeutet-201622722.html"
+              "url": "https://www.tagesschau.de/ausland/amerika/brasilien-bolsonaro-ausreiseverbot-100.html"
+            },
+            {
+              "name": "Handelsblatt",
+              "country": "DE",
+              "url": "https://www.handelsblatt.com/politik/international/brasilien-bolsonaros-partei-erkennt-lulas-sieg-an-trump-zweifelt/100265152.html"
+            },
+            {
+              "name": "Spiegel",
+              "country": "DE",
+              "url": "https://www.spiegel.de/ausland/brasilien-wahl-bolsonaro-partei-erkennt-lula-da-silvas-sieg-an-unter-vorbehalt-a-6fb50463-5e69-4f53-8c11-2b1142698d30"
             },
             {
               "name": "Guardian",
               "country": "UK",
-              "url": "https://www.theguardian.com/world/live/2026/oct/26/serbia-vucic-elections-students-bulgaria-france-urkaine-russia-latest-news-updates"
+              "url": "https://www.theguardian.com/world/2026/oct/26/flavio-bolsonaro-brazil-lula-election"
+            }
+          ],
+          "time": "2026-10-26T23:02:17+00:00",
+          "image": {
+            "url": "https://images.tagesschau.de/image/85c11422-6903-4fc3-aa48-919cf2a26c26/AAABoXwZUIE/AAABnSSvrFg/16x9-big/brasilien-bolsonaro-164.jpg?width=1024",
+            "source": "Tagesschau"
+          }
+        },
+        {
+          "id": "p3",
+          "headline": "Lokale Waffenruhe für umkämpfte ukrainische Frontstadt Oleschky",
+          "summary": "In der russisch besetzten ukrainischen Frontstadt Oleschky ist eine begrenzte Waffenruhe in Kraft getreten. Die Feuerpause soll Hilfslieferungen und die Evakuierung von bis zu 2.000 verbliebenen Zivilisten ermöglichen. Nach Angaben ukrainischer Stellen gingen die russischen Angriffe in anderen Regionen wie Kiew und Charkiw dennoch weiter.",
+          "perspectives": "Laut BBC wurde die humanitäre Feuerpause von US-First-Lady Melania Trump angekündigt; Bewohner hätten sich zuvor teils von Unkraut ernährt. Tagesschau und Spiegel heben hervor, dass russische Angriffe andernorts unvermindert anhielten und Opfer forderten. Das Handelsblatt berichtet ergänzend über Initiativen europäischer Staaten zur militärischen Stärkung vor dem Winter.",
+          "sources": [
+            {
+              "name": "BBC",
+              "country": "UK",
+              "url": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo"
+            },
+            {
+              "name": "Tagesschau",
+              "country": "DE",
+              "url": "https://www.tagesschau.de/ausland/europa/ukraine-oleschky-waffenruhe-100.html"
+            },
+            {
+              "name": "Handelsblatt",
+              "country": "DE",
+              "url": "https://www.handelsblatt.com/politik/international/ukraine-feuerpause-in-russisch-besetzter-stadt-oleschky-hat-begonnen/27982126.html"
+            },
+            {
+              "name": "Spiegel",
+              "country": "DE",
+              "url": "https://www.spiegel.de/ausland/russland-ukraine-krieg-waffenruhe-fuer-besetzte-ukrainische-frontstadt-oleschky-laeuft-a-e3b0a15b-20b4-4216-900d-32ce52bd3051"
+            }
+          ],
+          "time": "2026-10-27T03:14:00+00:00",
+          "image": {
+            "url": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/af90/live/ca109650-d1b0-11f1-93f3-e3ba7480d857.jpg",
+            "source": "BBC"
+          }
+        },
+        {
+          "id": "p4",
+          "headline": "Machtwechsel in Serbien: Studentenliste siegt bei Parlamentswahl",
+          "summary": "Bei den Parlamentswahlen in Serbien hat die studentische Oppositionsbewegung „Studentenliste“ einen überraschenden Sieg errungen. Der seit zwölf Jahren regierende Präsident Aleksandar Vučić räumte die Niederlage seiner Partei öffentlich ein. Die unerprobte Protestbewegung steht nun vor der Herausforderung, eine Regierung zu bilden.",
+          "perspectives": "Die BBC hebt das Eingeständnis der Niederlage durch den langjährigen Staatschef Vučić hervor. Die Tagesschau betont, dass die Bewegung überraschend eine absolute Mehrheit erzielt habe, nun aber vor großen Unklarheiten stehe. Der Guardian berichtet von Aufräumaktionen freiwilliger Studenten in Belgrad am Morgen nach der Wahl.",
+          "sources": [
+            {
+              "name": "Guardian",
+              "country": "UK",
+              "url": "https://www.theguardian.com/world/2026/oct/27/belgrade-cleans-up-after-student-list-triumph-serbia"
+            },
+            {
+              "name": "Tagesschau",
+              "country": "DE",
+              "url": "https://www.tagesschau.de/ausland/europa/serbien-wahlsieg-studentenliste-100.html"
+            },
+            {
+              "name": "NZZ",
+              "country": "CH",
+              "url": "https://www.nzz.ch/international/serbiens-studenten-haben-den-langzeitherrscher-vucic-mit-kluger-strategie-zu-fall-gebracht-ld.10044898"
             },
             {
               "name": "BBC",
               "country": "UK",
               "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo"
-            },
-            {
-              "name": "Spiegel",
-              "country": "DE",
-              "url": "https://www.spiegel.de/ausland/serbien-aleksandar-vucic-gesteht-niederlage-bei-parlamentswahl-ein-a-d46235a6-039e-4242-bf48-8e8313219f59"
             }
           ],
-          "time": "2026-10-25T20:52:00+00:00",
+          "time": "2026-10-26T14:34:52+00:00",
           "image": {
-            "url": "https://media0.faz.net/image/2e753bd5504e/w6000h3375x0y625/202610/54795326-6e6f-47c0-97b0-5f096b798892/anhaenger-der.webp",
-            "source": "FAZ"
-          }
-        },
-        {
-          "id": "p3",
-          "headline": "Audi-Chef Döllner gerät wegen Auftritt bei Trump in die Kritik",
-          "summary": "Der Auftritt von Audi-Chef Gernot Döllner auf einer Wahlkampfveranstaltung von Donald Trump in den USA sorgt in Deutschland für scharfe Empörung. Kritiker werfen ihm vor, gegen interne Konzernrichtlinien verstoßen zu haben. Döllner rechtfertigt sein Handeln mit den Interessen des Unternehmens bei anstehenden US-Investitionen.",
-          "perspectives": null,
-          "sources": [
-            {
-              "name": "Zeit",
-              "country": "DE",
-              "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-10/gernot-doellner-audi-donald-trump-georgia-werk"
-            },
-            {
-              "name": "Tagesschau",
-              "country": "DE",
-              "url": "https://www.tagesschau.de/wirtschaft/unternehmen/audi-usa-trump-neckarsulm-100.html"
-            },
-            {
-              "name": "Spiegel",
-              "country": "DE",
-              "url": "https://www.spiegel.de/wirtschaft/audis-milliarden-investition-in-den-usa-doellners-geisterfahrt-mit-donald-trump-a-461e13c1-685b-46cf-be4f-1e830a34e017"
-            },
-            {
-              "name": "Guardian",
-              "country": "UK",
-              "url": "https://www.theguardian.com/world/2026/oct/26/audi-boss-under-fire-in-germany-for-trump-rally-appearance"
-            }
-          ],
-          "time": "2026-10-26T14:42:27+00:00",
-          "image": {
-            "url": "https://img.zeit.de/wirtschaft/unternehmen/2026-10/gernot-doellner-audi-donald-trump-georgia-werk-foto-1/wide__820x461",
-            "source": "Zeit"
-          }
-        },
-        {
-          "id": "p4",
-          "headline": "Gericht: Entlassung von US-Bundesermittlerin Comey war unzulässig",
-          "summary": "Ein Gericht hat entschieden, dass die Entlassung der Bundesermittlerin Maurene Comey durch die Trump-Regierung im Juli 2025 illegal war. Das Urteil stellt die weitreichenden Entlassungsvollmachten des Präsidenten infrage. Comey war zuvor in den Verdacht geraten, wegen familiärer Verbindungen zu Trump-Gegnern entlassen worden zu sein.",
-          "perspectives": "Spiegel und NZZ betonen die politische Bedeutung des Urteils als juristische Niederlage für Trumps Machtansprüche [29, 68]. Financial Times analysiert die genauen rechtlichen Argumente der Richter bezüglich exekutiver Befugnisse [26].",
-          "sources": [
-            {
-              "name": "Financial Times",
-              "country": "UK",
-              "url": "https://www.ft.com/content/627ed704-f736-4fa2-91c9-67e53577fb7f?syn-25a6b1a6=1"
-            },
-            {
-              "name": "Spiegel",
-              "country": "DE",
-              "url": "https://www.spiegel.de/ausland/maurene-comey-trump-regierung-erleidet-niederlage-im-fall-von-staatsanwaeltin-a-d5b42497-24fe-4f78-9c79-28d11b8af704"
-            },
-            {
-              "name": "NZZ",
-              "country": "CH",
-              "url": "https://www.nzz.ch/international/trumps-zweite-amtszeit-supreme-court-erlaubt-abschiebungen-in-drittlaender-vorerst-ld.1856621"
-            }
-          ],
-          "time": "2026-10-26T17:08:03+00:00",
-          "image": {
-            "url": "https://cdn.prod.www.spiegel.de/images/d91a7a18-55c0-4aa1-8f0b-82bb8481c817_w520_r2.08_fpx43_fpy37.jpg",
-            "source": "Spiegel"
+            "url": "https://i.guim.co.uk/img/media/24eb6fefcb9d3269e723f1f1505d64665c6d332c/1000_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=b3d347315798647e724fb09238d35e3d",
+            "source": "Guardian"
           }
         },
         {
           "id": "p5",
-          "headline": "UN-Ermittler werfen Israel schwere Verbrechen im Westjordanland vor",
-          "summary": "Unabhängige UN-Ermittler werfen Israel einen systematischen Angriff auf Zivilisten im Westjordanland vor, der auch Folter beinhalte. Gleichzeitig treibt die Regierung neue Siedlungsaußenposten voran. Israel weist die Vorwürfe als Desinformationskampagne zurück.",
-          "perspectives": "Spiegel und FAZ berichten übereinstimmend über die Vorwürfe der UN-Kommission sowie die israelische Zurückweisung als Desinformationskampagne [24, 46]. Spiegel hebt zudem die Ankündigung neuer Siedlungen durch Minister Smotrich hervor [157].",
+          "headline": "Jordanische Vergeltungsangriffe auf Ziele in Syrien nach Attentat",
+          "summary": "Jordaniens Luftwaffe hat Angriffe auf Stellungen in Syrien geflogen. Laut jordanischem Militär handelte es sich um eine Vergeltungsaktion nach einem Anschlag auf eine griechisch-orthodoxe Kirche im Süden Jordaniens. Syrien beklagte fehlende Absprachen und schloss daraufhin einen wichtigen Grenzübergang.",
+          "perspectives": "Bei den Opferzahlen der Luftschläge weichen die Quellen ab: Die New York Times meldet unter Berufung auf syrische Staatsmedien sieben getötete Zivilisten, während die BBC von fünf Toten berichtet. Spiegel und Guardian heben hervor, dass die jordanischen Angriffe nach offiziellen Angaben mutmaßlichen Dschihadisten und bewaffneten Gruppen galten.",
           "sources": [
             {
-              "name": "FAZ",
-              "country": "DE",
-              "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-nahost-teheran-iran-saudi-arabien-tuerkei-und-pakistan-wollen-zusammenarbeit-staerken-faz-200583539.html"
+              "name": "New York Times",
+              "country": "US",
+              "url": "https://www.nytimes.com/2026/10/27/world/middleeast/jordan-syria-strikes-attack.html"
+            },
+            {
+              "name": "BBC",
+              "country": "UK",
+              "url": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo"
             },
             {
               "name": "Spiegel",
               "country": "DE",
-              "url": "https://www.spiegel.de/ausland/westjordanland-uno-ermittler-werfen-israel-folter-und-vergewaltigung-vor-a-8a7fa81c-7110-4456-ba5a-dcefe6b75bc8"
+              "url": "https://www.spiegel.de/ausland/jordanien-fliegt-nach-anschlag-auf-kirche-luftangriffe-in-syrien-a-e691de2e-57a3-46e7-abc3-174f9a4c9bda"
+            },
+            {
+              "name": "Guardian",
+              "country": "UK",
+              "url": "https://www.theguardian.com/world/2026/oct/26/jordan-attacks-militants-syria-retaliation-for-last-week-church-attack"
             }
           ],
-          "time": "2026-10-26T17:47:00+00:00",
+          "time": "2026-10-26T22:08:38+00:00",
           "image": {
-            "url": "https://media0.faz.net/image/a7fee35bcc72/w2550h1434x0y266/202610/146a731a-e6cb-461e-bc60-ab071de86401/auf-diesem-vom-iranischen.webp",
-            "source": "FAZ"
+            "url": "https://static01.nyt.com/images/2026/10/27/multimedia/27int-jordan-strikes-wkql/27int-jordan-strikes-wkql-mediumSquareAt3X.jpg",
+            "source": "New York Times"
           }
         }
       ]
@@ -163,32 +183,32 @@
       "items": [
         {
           "id": "w1",
-          "headline": "KI-Pionier Anthropic beantragt Börsengang in den USA",
-          "summary": "Das KI-Unternehmen Anthropic hat den offiziellen Antrag für einen Börsengang an der Nasdaq eingereicht. Der Prospekt offenbart ein rasantes Umsatzwachstum, aber auch hohe Verluste und enorme Investitionsverpflichtungen für Rechenzentren. Es wird einer der größten Börsengänge der Geschichte erwartet.",
-          "perspectives": "FAZ und New York Times betonen die wirtschaftliche Bedeutung von Anthropic als wichtiges Barometer für den gesamten Technologiesektor [1, 8]. Financial Times und Guardian analysieren detailliert die 240.000 Wörter des Prospekts hinsichtlich Risiken und Finanzzahlen [47, 93].",
+          "headline": "KI-Entwickler Anthropic bereitet Mega-Börsengang an US-Börse vor",
+          "summary": "Das US-Start-up Anthropic hat Unterlagen für seinen Börsengang eingereicht, der im November stattfinden soll. Die Premiere gilt als einer der größten Börsengänge der Geschichte. Das KI-Unternehmen verzeichnet enormes Umsatzwachstum, weist im Prospekt aber auch hohe Verluste und Risiken künstlicher Intelligenz aus.",
+          "perspectives": "Die Financial Times hebt den Umfang des Börsenprospekts mit fast 240.000 Wörtern sowie Warnungen vor existenziellen Risiken für die Menschheit hervor. Die FAZ stellt heraus, dass die Gründer nach dem Debüt jeweils bis zu 29 Milliarden Dollar wert sein könnten. Tagesschau und Spiegel betonen den immensen Kapitalbedarf im Rennen um Spitzenmodelle.",
           "sources": [
+            {
+              "name": "Financial Times",
+              "country": "UK",
+              "url": "https://www.ft.com/content/d3a3ee17-7f3f-48b8-af0b-c69a92361a84?syn-25a6b1a6=1"
+            },
             {
               "name": "FAZ",
               "country": "DE",
               "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/anthropic-strebt-boersenbewertung-von-zwei-billionen-dollar-an-201622644.html"
             },
             {
-              "name": "New York Times",
-              "country": "US",
-              "url": "https://www.nytimes.com/2026/10/26/technology/anthropic-going-public-stakes.html"
+              "name": "Spiegel",
+              "country": "DE",
+              "url": "https://www.spiegel.de/wirtschaft/unternehmen/anthropic-ki-entwickler-beantragt-boersengang-in-den-usa-a-3ac6664b-b904-4a48-92c0-174f43d49312"
             },
             {
-              "name": "Financial Times",
-              "country": "UK",
-              "url": "https://www.ft.com/content/a6c43402-719e-4295-ae5f-541edb0aeb29?syn-25a6b1a6=1"
-            },
-            {
-              "name": "Guardian",
-              "country": "UK",
-              "url": "https://www.theguardian.com/technology/2026/oct/26/anthropic-files-listing-stock-market"
+              "name": "Tagesschau",
+              "country": "DE",
+              "url": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-bereitet-boersengang-vor-100.html"
             }
           ],
-          "time": "2026-10-26T16:22:28+00:00",
+          "time": "2026-10-26T15:49:36+00:00",
           "image": {
             "url": "https://media0.faz.net/image/ba679d0eb760/w5000h2813x0y26/202609/43601.0.2555074938/dario-amodei-und-die-sechs.webp",
             "source": "FAZ"
@@ -196,86 +216,86 @@
         },
         {
           "id": "w2",
-          "headline": "Meta plant Kapitalerhöhung von knapp 100 Milliarden Dollar",
-          "summary": "Der Tech-Riese Meta weitet seine Investitionen in KI massiv aus und plant eine Kapitalaufnahme von rund 95 Milliarden US-Dollar über Aktienverkäufe. Marktbeobachter diskutieren, wie der Kapitalmarkt diese enorme Schwemme verdauen kann. Chipkonzerne sollen als Kerninvestoren auftreten.",
-          "perspectives": "Handelsblatt und Financial Times beleuchten die Dimensionen der Kapitalerhöhung und die Beteiligung von Nvidia und anderen als Kerninvestoren [92, 234]. Guardian ordnet die Pläne im Liveblog in den globalen Infrastrukturwettlauf ein [125].",
+          "headline": "Microsoft bietet 60.000 Mitarbeitern Abfindungen zum Abschied an",
+          "summary": "Der US-Softwarekonzern Microsoft hat angekündigt, 60.000 Mitarbeitern ein Abfindungsangebot bei freiwilligem Austritt zu unterbreiten. Der Konzern will damit Kosten senken, um milliardenschwere Investitionen in Künstliche Intelligenz zu finanzieren. Der Stellenabbau betrifft mehr als ein Viertel der Belegschaft.",
+          "perspectives": "Die Zeit hebt hervor, dass die Abfindungen für mehr als ein Viertel der Gesamtbelegschaft gelten. Die FAZ betont, dass dies bereits das zweite Abfindungsprogramm des Technologiekonzerns im laufenden Jahr ist. Der Spiegel stellt den direkten Bezug zu den massiven Ausgaben für Künstliche Intelligenz in den Mittelpunkt.",
           "sources": [
             {
-              "name": "Handelsblatt",
+              "name": "Zeit",
               "country": "DE",
-              "url": "https://www.handelsblatt.com/video/finanzen/handelsblatt-live-us-boersenexperte-koch-meta-plant-massive-kapitalaufnahme/100265067.html"
+              "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-10/microsoft-abfindung-mitarbeiter-usa-kanada-indien"
             },
             {
-              "name": "Guardian",
-              "country": "UK",
-              "url": "https://www.theguardian.com/business/live/2026/oct/26/ai-cloud-computing-companies-guppy-level-death-elon-musk-stock-markets-dollar-oil-bond-yieds-latest-news-updates"
-            },
-            {
-              "name": "Financial Times",
-              "country": "UK",
-              "url": "https://www.ft.com/content/94e5a0ae-874d-447a-bbfc-cd465a1a7555?syn-25a6b1a6=1"
-            }
-          ],
-          "time": "2026-10-26T12:34:22+00:00",
-          "image": {
-            "url": "https://i.guim.co.uk/img/media/afbb0cd83bbf049e769d061a626b00d5b467ae51/0_0_4169_3335/master/4169.jpg?width=700&quality=85&auto=format&fit=max&s=88736519a54d56fc0af88d575d093bd8",
-            "source": "Guardian"
-          }
-        },
-        {
-          "id": "w3",
-          "headline": "Ifo-Index: Deutsche Wirtschaft blickt etwas optimistischer nach vorn",
-          "summary": "Die Stimmung in den deutschen Chefetagen hat sich im Oktober den sechsten Monat in Folge verbessert. Getragen von steigenden Erwartungen im verarbeitenden Gewerbe zeigt sich die Konjunktur robuster. Experten warnen jedoch vor einer voreiligen Trendwende angesichts struktureller Probleme.",
-          "perspectives": null,
-          "sources": [
-            {
-              "name": "Tagesschau",
+              "name": "Spiegel",
               "country": "DE",
-              "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-fed-ezb-100.html"
+              "url": "https://www.spiegel.de/wirtschaft/unternehmen/microsoft-techkonzern-bietet-60-000-mitarbeitern-abfindungen-an-a-b0b9c84d-ab45-4b2f-a353-1f601334571d"
             },
             {
               "name": "FAZ",
               "country": "DE",
-              "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/ifo-geschaeftsklimaindex-steigt-zum-sechsten-mal-in-folge-accg-201622214.html"
-            },
-            {
-              "name": "Zeit",
-              "country": "DE",
-              "url": "https://www.zeit.de/wirtschaft/2026-10/ifo-geschaeftsklimaindex-unternehmen-deutschland-gxe"
+              "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/microsoft-bietet-60-000-beschaeftigten-eine-abfindung-an-201623636.html"
             }
           ],
-          "time": "2026-10-26T09:17:09+00:00",
+          "time": "2026-10-26T18:28:56+00:00",
           "image": {
-            "url": "https://images.tagesschau.de/image/1d9254b0-75a1-48b6-a8e7-77746406dfc0/AAABns_HxYg/AAABnSSvrFg/16x9-big/boerse-518.jpg?width=1024",
-            "source": "Tagesschau"
+            "url": "https://img.zeit.de/wirtschaft/unternehmen/2026-10/microsoft-abfindung-mitarbeiter-usa-kanada-indien-bild-1/wide__820x461",
+            "source": "Zeit"
           }
         },
         {
-          "id": "w4",
-          "headline": "Bundesrechnungshof kritisiert Sanierungsprojekte der Deutschen Bahn",
-          "summary": "Der Bundesrechnungshof hat der Deutschen Bahn gravierende Mängel und wirtschaftliche Fehlentwicklungen bei den Korridorsanierungen des Schienennetzes bescheinigt. Eigentlich sollten hochfrequentierte Strecken grundlegend modernisiert werden. Die Prüfer fordern nun drastische Nachsteuerungen bei der Umsetzung.",
-          "perspectives": "Spiegel und Handelsblatt berichten übereinstimmend über die harten Vorwürfe des Rechnungshofs und die geforderten Korrekturen [104, 121]. Zeit beleuchtet die wirtschaftlichen Folgen für das gesamte Schienennetz [116].",
+          "id": "w3",
+          "headline": "Heftige Kursstürze an Brasiliens Finanzmärkten nach Lulas Wahlsieg",
+          "summary": "Der unerwartete Wahlsieg von Luiz Inácio Lula da Silva bei der Präsidentschaftswahl hat an den brasilianischen Finanzmärkten schwere Turbulenzen ausgelöst. Die Landeswährung Real verzeichnete ihren stärksten Tagesabsturz seit 1999, und die Börsen in São Paulo brachen ein. Investoren hatten mehrheitlich mit einem Sieg seines Gegners gerechnet.",
+          "perspectives": "Die Financial Times hebt den Rekordabsturz des Real hervor. Das Handelsblatt spricht von einem Schock für die Märkte, da Spekulanten auf einen Sieg Bolsonaros gesetzt hatten. Die FAZ und New York Times betonen die abrupte Kehrtwende an den Börsen nach dem unerwarteten Wahlergebnis.",
           "sources": [
             {
-              "name": "Spiegel",
-              "country": "DE",
-              "url": "https://www.spiegel.de/wirtschaft/deutsche-bahn-bundesrechnungshof-wirft-bahn-erhebliche-maengel-bei-sanierungen-vor-a-72373b69-4579-4876-b049-a773fefc484d"
+              "name": "Financial Times",
+              "country": "UK",
+              "url": "https://www.ft.com/content/bffe028e-838d-4e74-b05e-62f6db4978db?syn-25a6b1a6=1"
             },
             {
-              "name": "Zeit",
+              "name": "New York Times",
+              "country": "US",
+              "url": "https://www.nytimes.com/2026/10/26/business/brazil-stock-markets-election-lula.html"
+            },
+            {
+              "name": "FAZ",
               "country": "DE",
-              "url": "https://www.zeit.de/wirtschaft/2026-10/bundesrechnungshof-deutsche-bahn-sanierung-infrago-bundesverkehrsministerium"
+              "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/lula-wiederwahl-brasiliens-boerse-stellt-sich-auf-unruhe-ein-accg-201621022.html"
             },
             {
               "name": "Handelsblatt",
               "country": "DE",
-              "url": "https://www.handelsblatt.com/politik/deutschland/bahn-rechnungshof-sieht-fehlentwicklungen-bei-bahn-sanierungen/100265048.html"
+              "url": "https://www.handelsblatt.com/finanzen/maerkte/brasilien-lulas-wiederwahl-sorgt-fuer-heftige-turbulenzen-an-den-maerkten/100264954.html"
             }
           ],
-          "time": "2026-10-26T15:42:39+00:00",
+          "time": "2026-10-26T14:09:00+00:00",
           "image": {
-            "url": "https://cdn.prod.www.spiegel.de/images/8c6e8679-efd3-46ff-9d51-b4935e79afbe_w520_r2.08_fpx33.34_fpy50.jpg",
-            "source": "Spiegel"
+            "url": "https://static01.nyt.com/images/2026/10/26/multimedia/26Biz-Brazil-Markets-pvmt/26Biz-Brazil-Markets-pvmt-mediumSquareAt3X.jpg",
+            "source": "New York Times"
+          }
+        },
+        {
+          "id": "w4",
+          "headline": "DWS schränkt Rücknahme bei Immobilienfonds Grundbesitz Europa ein",
+          "summary": "Die Vermögensverwaltungstochter der Deutschen Bank, DWS, hat die Anteilserstattung für den Immobilienfonds „Grundbesitz Europa“ eingeschränkt. Kunden erhalten für fällige Rückgabeaufträge vorerst nur einen Bruchteil ihres Geldes ausbezahlt. Damit soll die Liquidität des Flaggschiff-Fonds geschützt und eine vollständige Schließung vermieden werden.",
+          "perspectives": "Die Financial Times nennt das konkrete Limit von zehn Prozent der Rücknahmeforderungen, die DWS bedient. Das Handelsblatt hebt hervor, dass die Fondsgesellschaft Anleger vor einer möglichen persönlichen Belastung warnte, wobei beide Medien übereinstimmend über die Sicherung der Fondsliquidität berichten.",
+          "sources": [
+            {
+              "name": "Handelsblatt",
+              "country": "DE",
+              "url": "https://www.handelsblatt.com/finanzen/banken-versicherungen/geldanlage-dws-beschraenkt-ruecknahme-ihres-groessten-offenen-immobilienfonds/100265044.html"
+            },
+            {
+              "name": "Financial Times",
+              "country": "UK",
+              "url": "https://www.ft.com/content/8868926c-3ee2-45e8-9705-0cb195fcc493?syn-25a6b1a6=1"
+            }
+          ],
+          "time": "2026-10-26T18:16:52+00:00",
+          "image": {
+            "url": "https://images.handelsblatt.com/QFayM0rkk8N7/cover/900/506/0/0/71/156/0.5/0.5/vermoegensverwalter-dws.jpeg",
+            "source": "Handelsblatt"
           }
         }
       ]
@@ -284,173 +304,103 @@
   "more": [
     {
       "section": "politik",
-      "headline": "French government fails to convince students to stop protests",
-      "source": "Politico Europe",
-      "country": "EU",
-      "url": "https://www.politico.eu/article/government-concessions-fail-to-convince-french-students-to-stop-protests/",
-      "time": "2026-10-26T19:02:22+00:00",
-      "opinion": false,
-      "image": null
-    },
-    {
-      "section": "wirtschaft",
-      "headline": "Parag Khanna: »Aus asiatischer Sicht ist das nur ein weiterer Besuch«",
-      "source": "Zeit",
-      "country": "DE",
-      "url": "https://www.zeit.de/wirtschaft/2026-10/parag-khanna-friedrich-merz-singapur-asien-bundesregierung",
-      "time": "2026-10-26T19:00:13+00:00",
-      "opinion": false,
-      "image": "https://img.zeit.de/politik/ausland/2026-10/bundeskanzler-merz-reist-nach-asien-bild-2/wide__820x461"
-    },
-    {
-      "section": "politik",
-      "headline": "Liveblog Ukrainekrieg: Rumänien deckt mutmaßliches russisches Spionagenetz auf",
-      "source": "FAZ",
-      "country": "DE",
-      "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-rumaenien-deckt-mutmassliches-russisches-spionagenetz-auf-faz-110683325.html",
-      "time": "2026-10-26T18:51:13+00:00",
-      "opinion": false,
-      "image": "https://media0.faz.net/image/3fe0c7049622/w6144h3456x0y320/202608/43601.0.2411473896/rumaenische-kampfflugzeuge.webp"
-    },
-    {
-      "section": "politik",
-      "headline": "Southern California prepares for flooding amid forecast of ‘record-breaking tides’",
-      "source": "Guardian",
-      "country": "UK",
-      "url": "https://www.theguardian.com/us-news/2026/oct/26/southern-california-flooding-tides",
-      "time": "2026-10-26T18:39:27+00:00",
-      "opinion": false,
-      "image": "https://i.guim.co.uk/img/media/f24b58166d35fce01c4bd0b7a5839218f14135a0/656_0_7276_5822/master/7276.jpg?width=700&quality=85&auto=format&fit=max&s=dd252e3c3d01b6ca9404ee8e43852228"
-    },
-    {
-      "section": "politik",
-      "headline": "Epstein-Skandal: Demokraten fordern Ermittler zu Trumps Epstein-Verbindungen",
+      "headline": "Kanzler auf Asienreise: Merz will großes Freihandelsabkommen mit Pazifik-Region",
       "source": "Handelsblatt",
       "country": "DE",
-      "url": "https://www.handelsblatt.com/politik/international/epstein-skandal-demokraten-fordern-ermittler-zu-trumps-epstein-verbindungen/100265081.html",
-      "time": "2026-10-26T18:27:17+00:00",
+      "url": "https://www.handelsblatt.com/politik/international/kanzler-auf-asienreise-merz-will-grosses-freihandelsabkommen-mit-pazifik-region/100265112.html",
+      "time": "2026-10-27T07:48:34+00:00",
       "opinion": false,
-      "image": "https://images.handelsblatt.com/JCmPfjfKRWt-/cover/900/506/0/0/107/106/0.5/0.5/us-praesident-trump.jpg"
+      "image": "https://images.handelsblatt.com/yB9q5ZWqea9K/cover/900/506/0/0/107/106/0.5/0.5/bundeskanzler-merz-in-singapur.jpg"
     },
     {
       "section": "politik",
-      "headline": "Major clean-up under way after two storms cause havoc in Britain",
-      "source": "Guardian",
-      "country": "UK",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/26/power-cuts-storm-boelo-austen-uk",
-      "time": "2026-10-26T18:25:07+00:00",
+      "headline": "James Comey: US-Regierung geht erneut gegen Ex-FBI-Chef James Comey vor",
+      "source": "Zeit",
+      "country": "DE",
+      "url": "https://www.zeit.de/politik/ausland/2026-10/james-comey-anklage-fbi-donald-trump",
+      "time": "2026-10-26T23:57:14+00:00",
       "opinion": false,
-      "image": "https://i.guim.co.uk/img/media/458126018f1b9ccb6d073bbbcc3e29cc008b4c62/6_0_4003_3204/master/4003.jpg?width=700&quality=85&auto=format&fit=max&s=a8fb8ad2c53412ce1e6eed9b209aba20"
-    },
-    {
-      "section": "politik",
-      "headline": "NHS consultants to go on two-day strike in England in November",
-      "source": "Guardian",
-      "country": "UK",
-      "url": "https://www.theguardian.com/society/2026/oct/26/nhs-consultants-two-day-doctors-strike-england-november-bma",
-      "time": "2026-10-26T18:05:16+00:00",
-      "opinion": false,
-      "image": "https://i.guim.co.uk/img/media/6ba916a7c2b999d2a668ead8600d6bf99d85147e/488_0_3011_2409/master/3011.jpg?width=700&quality=85&auto=format&fit=max&s=dfcb04310be55ff994a31498c666b3e7"
+      "image": "https://img.zeit.de/politik/ausland/2026-10/james-comey-anklage-fbi-donald-trump-foto-1/wide__820x461"
     },
     {
       "section": "wirtschaft",
-      "headline": "Katherina Reiche: Katherina Reiche sagt Asienreise wegen Corona-Erkrankung ab",
-      "source": "Zeit",
-      "country": "DE",
-      "url": "https://www.zeit.de/wirtschaft/2026-10/katherina-reiche-reise-suedkorea-corona-cdu",
-      "time": "2026-10-26T17:58:52+00:00",
-      "opinion": false,
-      "image": "https://img.zeit.de/wirtschaft/2026-10/katherina-reiche-reise-suedkorea-corona-cdu-foto-1/wide__820x461"
-    },
-    {
-      "section": "politik",
-      "headline": "Kommunen setzen auf neue Konzepte bei Cybersicherheit",
+      "headline": "Ifo-Index: Konjunkturbelebung setzt sich fort",
       "source": "Tagesschau",
       "country": "DE",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/cybersicherheit-ki-kommunen-100.html",
-      "time": "2026-10-26T17:56:13+00:00",
+      "url": "https://www.tagesschau.de/wirtschaft/konjunktur/ifo-index-oktober-102.html",
+      "time": "2026-10-26T10:29:32+00:00",
       "opinion": false,
-      "image": "https://images.tagesschau.de/image/9a6b9845-a5ab-4bad-9e0f-57006d91c532/AAABnHr-qfs/AAABnSSvrFg/16x9-big/cyberangriff-144.jpg?width=1024"
-    },
-    {
-      "section": "politik",
-      "headline": "Nachfolge von Frank-Walter Steinmeier als Bundespräsident: So diskutiert die CDU",
-      "source": "Spiegel",
-      "country": "DE",
-      "url": "https://www.spiegel.de/politik/deutschland/nachfolge-von-frank-walter-steinmeier-als-bundespraesident-so-diskutiert-die-cdu-a-67208d48-fd15-411c-a469-62a003a6e8f4",
-      "time": "2026-10-26T17:52:00+00:00",
-      "opinion": false,
-      "image": "https://cdn.prod.www.spiegel.de/images/7c0d6ebf-d965-43b2-aac3-dc81a0ed3803_w520_r2.08_fpx50.66_fpy50.jpg"
-    },
-    {
-      "section": "politik",
-      "headline": "Fisch: Keine neuen Einschränkungen für Ostseefischer",
-      "source": "Handelsblatt",
-      "country": "DE",
-      "url": "https://www.handelsblatt.com/politik/deutschland/fisch-keine-neuen-einschraenkungen-fuer-ostseefischer/100265077.html",
-      "time": "2026-10-26T17:45:20+00:00",
-      "opinion": false,
-      "image": "https://images.handelsblatt.com/304DrxK9LRdE/cover/900/506/0/0/107/106/0.5/0.5/fischer-auf-der-ostsee.jpg"
+      "image": "https://images.tagesschau.de/image/bb390a96-5b78-430c-8e58-96caf63ec1dd/AAABoXeSqqk/AAABnSSvrFg/16x9-big/konjunktur-418.jpg?width=1024"
     },
     {
       "section": "wirtschaft",
-      "headline": "Gefährliche Viruserkrankung: Ebola-Patientin von Nigeria in die Schweiz evakuiert",
+      "headline": "Rohstoff: Europäischer Gaspreis weiter im Höhenflug – knapp unter 100 Euro",
       "source": "Handelsblatt",
       "country": "DE",
-      "url": "https://www.handelsblatt.com/technik/forschung-innovation/gefaehrliche-viruserkrankung-ebola-patientin-von-nigeria-in-die-schweiz-evakuiert/100264997.html",
-      "time": "2026-10-26T17:34:09+00:00",
+      "url": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/rohstoff-europaeischer-gaspreis-weiter-im-hoehenflug-knapp-unter-100-euro/100265010.html",
+      "time": "2026-10-26T13:52:10+00:00",
       "opinion": false,
-      "image": "https://images.handelsblatt.com/ARF0sGeUJVh6/cover/900/506/0/0/107/106/0.5/0.5/ebola-ausbruch.jpg"
+      "image": "https://images.handelsblatt.com/s1pyFI2Wbvqf/cover/900/506/0/0/0/572/0.5/0.5/technische-anlagen-zur-ein-und-ausspeicherung-von-erdgas-darunter-mehrere-prozesswassertanks-steh.jpg"
     },
     {
       "section": "politik",
-      "headline": "Wahlen in Israel: Sie haben das Land vor langer Zeit verlassen, nun könnten sie die Wahl entscheiden",
+      "headline": "Die Oppositionsführerin María Corina Machado kehrt nach Venezuela zurück",
+      "source": "NZZ",
+      "country": "CH",
+      "url": "https://www.nzz.ch/international/oppositionsfuehrerin-maria-corina-machado-ist-nach-venezuela-zurueckgekehrt-ld.10044244",
+      "time": "2026-10-26T15:02:17+00:00",
+      "opinion": false,
+      "image": "https://img-msp-prod.nzz.ch/2026/10/26/43cbc30e-aa4e-40bc-8335-51c198ecab6d.jpg?width=900&height=900&fit=bounds"
+    },
+    {
+      "section": "wirtschaft",
+      "headline": "Deutsche Bahn: Bundesrechnungshof wirft Bahn erhebliche Mängel bei Sanierungen vor",
       "source": "Spiegel",
       "country": "DE",
-      "url": "https://www.spiegel.de/ausland/wahlen-in-israel-sie-haben-das-land-vor-langer-zeit-verlassen-nun-koennten-sie-die-wahl-entscheiden-a-5b90b6f9-bf7c-4eae-adef-a679e740a347",
-      "time": "2026-10-26T17:19:00+00:00",
+      "url": "https://www.spiegel.de/wirtschaft/deutsche-bahn-bundesrechnungshof-wirft-bahn-erhebliche-maengel-bei-sanierungen-vor-a-72373b69-4579-4876-b049-a773fefc484d",
+      "time": "2026-10-26T16:07:00+00:00",
       "opinion": false,
-      "image": "https://cdn.prod.www.spiegel.de/images/3d5290fd-a75b-4ce6-8f25-27f79f892a13_w520_r2.08_fpx30_fpy45.jpg"
+      "image": "https://cdn.prod.www.spiegel.de/images/8c6e8679-efd3-46ff-9d51-b4935e79afbe_w520_r2.08_fpx33.34_fpy50.jpg"
+    },
+    {
+      "section": "wirtschaft",
+      "headline": "US-Midterms: Audi-Chef verteidigt Auftritt mit Donald Trump",
+      "source": "Zeit",
+      "country": "DE",
+      "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-10/gernot-doellner-audi-donald-trump-georgia-werk",
+      "time": "2026-10-26T17:57:17+00:00",
+      "opinion": false,
+      "image": "https://img.zeit.de/wirtschaft/unternehmen/2026-10/gernot-doellner-audi-donald-trump-georgia-werk-foto-1/wide__820x461"
     },
     {
       "section": "politik",
-      "headline": "Ukrainekrieg: Slowakischer Außenminister reist nach Moskau – Opposition übt harte Kritik",
+      "headline": "Westjordanland: Uno-Ermittler werfen Israel Folter und Vergewaltigung vor",
       "source": "Spiegel",
       "country": "DE",
-      "url": "https://www.spiegel.de/ausland/ukraine-krieg-slowakischer-aussenminister-reist-nach-moskau-opposition-uebt-harte-kritik-a-688253ef-a290-415f-b0a9-a8de5c7179c3",
-      "time": "2026-10-26T17:00:00+00:00",
+      "url": "https://www.spiegel.de/ausland/westjordanland-uno-ermittler-werfen-israel-folter-und-vergewaltigung-vor-a-8a7fa81c-7110-4456-ba5a-dcefe6b75bc8",
+      "time": "2026-10-26T17:47:00+00:00",
       "opinion": false,
-      "image": "https://cdn.prod.www.spiegel.de/images/5a8253bc-fc7b-439d-b407-45a9b6527424_w520_r2.08_fpx49_fpy32.jpg"
+      "image": "https://cdn.prod.www.spiegel.de/images/b2ee6939-3289-4ad1-89ce-e45dcc9197ca_w520_r2.08_fpx58.72_fpy50.jpg"
     },
     {
       "section": "politik",
-      "headline": "AfD: AfD-Spitze kündigt lückenlose Aufklärung von E-Mail-Leak an",
-      "source": "Zeit",
+      "headline": "Frankreich: Regierung reagiert mit Bildungsreformen auf anhaltende Schulproteste",
+      "source": "Spiegel",
       "country": "DE",
-      "url": "https://www.zeit.de/politik/deutschland/2026-10/afd-e-mail-leak-hackerangriff-daten-aufklaerung",
-      "time": "2026-10-26T16:54:26+00:00",
+      "url": "https://www.spiegel.de/ausland/frankreich-regierung-reagiert-mit-bildungsreformen-auf-anhaltende-schulproteste-a-04a6eead-08ec-4134-97b8-fa11712f1377",
+      "time": "2026-10-26T21:29:00+00:00",
       "opinion": false,
-      "image": "https://img.zeit.de/politik/deutschland/2026-10/afd-e-mail-leak-hackerangriff-daten-421000-foto-1/wide__820x461"
+      "image": "https://cdn.prod.www.spiegel.de/images/e98d129f-b4dd-4b85-a2ee-566b63638bc0_w520_r2.08_fpx33.34_fpy50.jpg"
     },
     {
       "section": "politik",
-      "headline": "Metro AG in Russland: Metro distanziert sich wegen Kriegsspende von russischer Tochterfirma",
-      "source": "Zeit",
-      "country": "DE",
-      "url": "https://www.zeit.de/wirtschaft/2026-10/metro-russland-zwangsverwaltung-spende-ukraine",
-      "time": "2026-10-26T16:41:47+00:00",
-      "opinion": false,
-      "image": "https://img.zeit.de/wirtschaft/2026-10/metro-russland-zwangsverwaltung-spende-ukraine-bild/wide__820x461"
-    },
-    {
-      "section": "politik",
-      "headline": "Klima: EU-Kommission will Europa besser auf Klimafolgen vorbereiten",
+      "headline": "Chipindustrie: Infineon investiert 1,1 Milliarden in Österreich",
       "source": "Handelsblatt",
       "country": "DE",
-      "url": "https://www.handelsblatt.com/politik/international/klima-eu-kommission-will-europa-besser-auf-klimafolgen-vorbereiten/100265071.html",
-      "time": "2026-10-26T16:40:24+00:00",
+      "url": "https://www.handelsblatt.com/politik/deutschland/chipindustrie-infineon-investiert-11-milliarden-in-oesterreich/100265185.html",
+      "time": "2026-10-27T07:35:47+00:00",
       "opinion": false,
-      "image": "https://images.handelsblatt.com/CAliT5PhgOWH/cover/900/506/0/0/32/178/0.5/0.5/26.10.2026-belgien-bruessel-die-praesidentin-der-europaeischen-kommission-ursula-von-der-leyen-gib.jpg"
+      "image": "https://images.handelsblatt.com/ZkPx-6AjG4SI/cover/900/506/0/0/107/106/0.5/0.5/infineon-chef-hanebeck.jpg"
     },
     {
       "section": "politik",
@@ -463,24 +413,94 @@
       "image": "https://cdn.prod.www.spiegel.de/images/9e513b46-796d-4e29-b077-5f4dd27e5c88_w520_r2.08_fpx41.31_fpy54.98.jpg"
     },
     {
-      "section": "politik",
-      "headline": "Demonstation: Frankreichs Regierung geht auf Forderungen der Schulproteste ein",
-      "source": "Handelsblatt",
+      "section": "wirtschaft",
+      "headline": "Metro AG in Russland: Metro distanziert sich wegen Kriegsspende von russischer Tochterfirma",
+      "source": "Zeit",
       "country": "DE",
-      "url": "https://www.handelsblatt.com/politik/international/demonstation-frankreichs-regierung-geht-auf-forderungen-der-schulproteste-ein/100265084.html",
-      "time": "2026-10-26T18:55:07+00:00",
+      "url": "https://www.zeit.de/wirtschaft/2026-10/metro-russland-zwangsverwaltung-spende-ukraine",
+      "time": "2026-10-26T16:41:47+00:00",
       "opinion": false,
-      "image": "https://images.handelsblatt.com/iyoJk9etxxV5/cover/900/506/0/0/516/0/0.5/0.5/16.10.2026-italien-turin-studenten-demonstrieren-unter-dem-motto-macht-es-wie-in-frankreich.-fo.jpg"
+      "image": "https://img.zeit.de/wirtschaft/2026-10/metro-russland-zwangsverwaltung-spende-ukraine-bild/wide__820x461"
     },
     {
       "section": "politik",
-      "headline": "Walter Koenig, actor best known as Chekov on Star Trek, dies aged 90",
-      "source": "Guardian",
-      "country": "UK",
-      "url": "https://www.theguardian.com/culture/2026/oct/26/walter-koenig-actor-star-trek-dies",
-      "time": "2026-10-26T18:42:11+00:00",
+      "headline": "Sudan: Tote bei Drohnenangriff auf Markt in sudanesischer Region Darfur",
+      "source": "Spiegel",
+      "country": "DE",
+      "url": "https://www.spiegel.de/ausland/sudan-tote-bei-drohnenangriff-auf-markt-in-sudanesischer-region-darfur-a-88529f0a-9a3c-4051-9f46-6d7dec7e0fde",
+      "time": "2026-10-27T07:30:00+00:00",
       "opinion": false,
-      "image": "https://i.guim.co.uk/img/media/918d6d33374b484bf2b6e6fa18a26a262c362b17/374_377_1785_1428/master/1785.jpg?width=700&quality=85&auto=format&fit=max&s=0ee4bcd9cb11c73d96c216f4f578fe18"
+      "image": "https://cdn.prod.www.spiegel.de/images/29c3f12a-632f-4774-8ca5-483eb8d02bc8_w520_r2.08_fpx62_fpy55.jpg"
+    },
+    {
+      "section": "wirtschaft",
+      "headline": "Autobauer: Mercedes baut nicht nur in Verwaltung und Entwicklung Personal ab – so hoch sind die Abfindungen",
+      "source": "Handelsblatt",
+      "country": "DE",
+      "url": "https://www.handelsblatt.com/unternehmen/industrie/autobauer-mercedes-bietet-bis-zu-330.000-euro-abfindung-in-der-produktion/100263206.html",
+      "time": "2026-10-27T03:00:00+00:00",
+      "opinion": false,
+      "image": "https://images.handelsblatt.com/X4BcvKWYaGcz/cover/900/506/0/0/0/0/0.5/0.5/mercedes.jpg"
+    },
+    {
+      "section": "wirtschaft",
+      "headline": "Meta and SpaceX to Raise Billions More to Fund A.I. Ambitions",
+      "source": "New York Times",
+      "country": "US",
+      "url": "https://www.nytimes.com/2026/10/26/business/meta-spacex-artificial-intelligence.html",
+      "time": "2026-10-26T13:31:25+00:00",
+      "opinion": false,
+      "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26Biz-meta-spacex-ai-zhlv/26Biz-meta-spacex-ai-zhlv-mediumSquareAt3X.jpg"
+    },
+    {
+      "section": "wirtschaft",
+      "headline": "Fischerei in der Ostsee: EU-Agrarminister halten an Ausnahme für Ostseefischer fest",
+      "source": "Zeit",
+      "country": "DE",
+      "url": "https://www.zeit.de/wirtschaft/2026-10/ostsee-fischerei-eu-agrarminister-fangquoten-hering-dorsch",
+      "time": "2026-10-27T00:32:14+00:00",
+      "opinion": false,
+      "image": "https://img.zeit.de/wirtschaft/2026-10/sonnenaufgang-an-der-ostsee-bild/wide__820x461"
+    },
+    {
+      "section": "wirtschaft",
+      "headline": "Unternehmensinsolvenzen: Insolvenzen sollen 2027 auf hohem Niveau bleiben",
+      "source": "Zeit",
+      "country": "DE",
+      "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-10/unternehmensinsolvenzen-deutschland-allianz-trade-prognose-gxe",
+      "time": "2026-10-27T05:49:07+00:00",
+      "opinion": false,
+      "image": "https://img.zeit.de/wirtschaft/unternehmen/2026-10/unternehmensinsolvenzen-deutschland-allianz-trade-prognose-gxe-foto-1/wide__820x461"
+    },
+    {
+      "section": "wirtschaft",
+      "headline": "Wohnungsbau: Regierung plant Gebäudetyp E gegen schleppenden Neubau",
+      "source": "Spiegel",
+      "country": "DE",
+      "url": "https://www.spiegel.de/wirtschaft/wohnungsbau-regierung-plant-gebaeudetyp-e-gegen-schleppenden-neubau-a-5da93de5-a7a1-43e6-b9f9-edab7dde7fcb",
+      "time": "2026-10-26T09:44:00+00:00",
+      "opinion": false,
+      "image": "https://cdn.prod.www.spiegel.de/images/78d6d505-7150-4998-bab1-4778f94abc0d_w520_r2.08_fpx63.2_fpy50.jpg"
+    },
+    {
+      "section": "politik",
+      "headline": "+++ US-Zollpolitik +++: USA und Kanada verhandeln laut Insidern über Lockerung von Zöllen",
+      "source": "Handelsblatt",
+      "country": "DE",
+      "url": "https://www.handelsblatt.com/politik/international/us-zoelle-usa-und-kanada-verhandeln-laut-insidern-ueber-lockerung-von-zoellen/30026990.html",
+      "time": "2026-10-27T13:00:00+00:00",
+      "opinion": false,
+      "image": "https://images.handelsblatt.com/4PejOa-a29Ng/cover/900/506/0/0/209/208/0.5/0.5/flaggen-der-usa-und-kanada-das-handelsverhaeltnis-der-nachbarlaender-ist-schon-lange-angespannt..jpg"
+    },
+    {
+      "section": "politik",
+      "headline": "US-Parteien: Nicht mehr selbstverständlich an der Seite Israels",
+      "source": "Tagesschau",
+      "country": "DE",
+      "url": "https://www.tagesschau.de/ausland/amerika/usa-midterms-wahlkampfthema-israel-102.html",
+      "time": "2026-10-27T08:12:51+00:00",
+      "opinion": false,
+      "image": "https://images.tagesschau.de/image/52591b6b-9d44-4c5d-b251-c10540fa2e37/AAABoXxe0fo/AAABnSSvrFg/16x9-big/trump-mamdani-104.jpg?width=1024"
     }
   ]
 }
