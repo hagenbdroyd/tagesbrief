@@ -138,9 +138,11 @@ function render(briefing, state) {
     return html;
   });
   const tabs = [{ id: 'alle', title: 'Alle' }, ...briefing.sections];
+  // „Stand gestern, 09:56 Uhr“ statt nur „09:56 Uhr“, damit ein altes Briefing nicht wie ein aktuelles aussieht
+  const stand = `Stand ${timeLabel(briefing.generatedAt, dayKey(new Date().toISOString()))}`;
   const meta = headlinesOnly
-    ? `<span>Heute nur Schlagzeilen</span><span>Stand ${formatTime(briefing.generatedAt)} Uhr</span>`
-    : `<span>${items.length} Themen</span><span>ca. ${readingMinutes(items)} Min.</span><span>Stand ${formatTime(briefing.generatedAt)} Uhr</span>`;
+    ? `<span>Heute nur Schlagzeilen</span><span>${stand}</span>`
+    : `<span>${items.length} Themen</span><span>ca. ${readingMinutes(items)} Min.</span><span>${stand}</span>`;
 
   topbarDate.textContent = formatDateShort(briefing.date);
   app.innerHTML = `
