@@ -12,5 +12,7 @@ unterschiedlich die Medien berichten. Ein zweiter KI-Durchgang prüft jede Aussa
 - `pipeline/prompt.py` – der Auftrag an die KI, inklusive Eilmeldungs-Regeln
 - `pipeline/build.py` – erstellt `data/briefing.json`
 - `.github/workflows/briefing.yml` – läuft jeden Morgen automatisch
+- `.github/workflows/waechter.yml` – Eilmeldungen und Morgen-Push, etwa alle 15 Minuten
+- `wecker/Code.gs` – Google-Apps-Script, das beide Abläufe pünktlich anstößt (GitHubs eigener Zeitplan ist zu unzuverlässig)
 
 Die Zusammenfassungen schreibt eine KI – Fehler sind möglich. Jede Meldung verlinkt auf die Originalquelle.
