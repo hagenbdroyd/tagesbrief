@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T10:27:27+01:00",
+  "updatedAt": "2026-10-29T11:12:26+01:00",
   "morningPush": "2026-10-29",
   "breaking": [
     {
@@ -31,6 +31,41 @@
         "source": "Tagesschau"
       },
       "model": "gemini-3.7-flash"
+    },
+    {
+      "id": "e2026102911120",
+      "time": "2026-10-29T10:04:40+00:00",
+      "pushedAt": "2026-10-29T11:12:26+01:00",
+      "headline": "EZB-Präsidentin Christine Lagarde kündigt Rücktritt für Februar an",
+      "summary": "Christine Lagarde hat angekündigt, am 7. Februar von ihrem Amt als Präsidentin der Europäischen Zentralbank zurückzutreten. Sie beendet ihre Amtszeit damit vorzeitig vor dem regulären Ende im Oktober 2027.",
+      "reason": "Rücktritt der EZB-Präsidentin ist eine überraschende und folgenreiche Personalentscheidung an der Spitze einer zentralen EU-Institution.",
+      "sources": [
+        {
+          "name": "New York Times",
+          "country": "US",
+          "url": "https://www.nytimes.com/2026/10/29/business/christine-lagarde-resigns-ecb.html"
+        },
+        {
+          "name": "Politico Europe",
+          "country": "EU",
+          "url": "https://www.politico.eu/article/ecb-president-lagarde-to-step-down-in-february/"
+        },
+        {
+          "name": "CNBC",
+          "country": "US",
+          "url": "https://www.cnbc.com/2026/10/29/lagarde-ecb-stand-down.html"
+        },
+        {
+          "name": "Financial Times",
+          "country": "UK",
+          "url": "https://www.ft.com/content/b9294b91-0eee-413b-bdde-0569f48539b9?syn-25a6b1a6=1"
+        }
+      ],
+      "image": {
+        "url": "https://static01.nyt.com/images/2026/09/10/multimedia/00biz-lagarde-pkgc/00biz-lagarde-pkgc-mediumSquareAt3X.jpg",
+        "source": "New York Times"
+      },
+      "model": "gemini-3.6-flash"
     }
   ]
 }
