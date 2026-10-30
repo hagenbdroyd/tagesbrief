@@ -1,9 +1,9 @@
 {
-  "date": "2026-10-29",
-  "generatedAt": "2026-10-29T09:39:19+01:00",
+  "date": "2026-10-30",
+  "generatedAt": "2026-10-30T05:11:33+01:00",
   "notice": null,
-  "aiModel": "gemini-3.7-flash",
-  "push": "Schweres Zugunglück in Spanien: Mindestens 68 Tote nach Kollision bei Toledo",
+  "aiModel": "gemini-3.8-flash",
+  "push": "Verdacht auf Milliarden-Hack bei weltgrößter Krypto-Börse Binance",
   "breaking": [],
   "sections": [
     {
@@ -12,134 +12,167 @@
       "items": [
         {
           "id": "p1",
-          "headline": "Wahl in Israel: Keine klare Mehrheit für Netanjahu oder Opposition",
-          "summary": "Nach der Parlamentswahl in Israel hat keines der Lager eine klare Mehrheit erzielt. Ein überraschend starkes Ergebnis der arabischen Parteien bringt diese in den Blickpunkt, während Koalitionsgespräche bevorstehen.",
-          "perspectives": "Die New York Times hebt das überraschende Abschneiden der arabischen Parteien hervor. Der Guardian berichtet, dass die Chancen von Herausforderer Gadi Eisenkot davon abhängen, ob er bereit ist, mit palästinensischen/arabischen Parteien zusammenzuarbeiten. Die NZZ erörtert eine mögliche Regierungsbildung Netanjahus mit der Opposition, während die Tagesschau auf Netanjahus kämpferisches Auftreten hinweist.",
+          "headline": "Patt nach Wahl in Israel: Likud spricht von gestohlener Wahl",
+          "summary": "Nach der Auszählung aller Stimmen bei der israelischen Parlamentswahl verfehlen sowohl das Lager von Benjamin Netanjahu als auch die Opposition eine Mehrheit. Netanjahus Likud-Partei sprach laut FAZ von einer „gestohlenen Wahl“ durch arabische Parteien. Oppositionsführer Gadi Eisenkot warf Netanjahu daraufhin vor, das Ergebnis gezielt zu delegitimieren.",
+          "perspectives": "Während die New York Times die genaue Sitzverteilung mit 53 Mandaten für Netanjahus Bündnis und 48 für Eisenkots Block beziffert, heben Tagesschau und FAZ vor allem das politische Patt und die schwierige Regierungsbildung hervor. Spiegel und FAZ betonen Eisenkots scharfe Zurückweisung der Betrugsvorwürfe. Die Tagesschau berichtet über Vorwürfe des Likud bezüglich einer gestohlenen Wahl, ohne wie die FAZ auf die Betrugsvorwürfe gegen arabische Parteien und das Dementi Qatars einzugehen.",
           "sources": [
             {
-              "name": "Guardian",
-              "country": "UK",
-              "url": "https://www.theguardian.com/world/live/2026/oct/29/israel-election-results-live-updates-poll-netanyahu-eisenkot-bloc-coalition-latest-news"
+              "name": "Tagesschau",
+              "country": "DE",
+              "url": "https://www.tagesschau.de/ausland/asien/israel-wahl-ergebnis-102.html"
             },
             {
-              "name": "NZZ",
-              "country": "CH",
-              "url": "https://www.nzz.ch/international/netanyahu-und-das-verlorene-vertrauen-seiner-frueheren-partner-ld.10047422"
+              "name": "Spiegel",
+              "country": "DE",
+              "url": "https://www.spiegel.de/ausland/eisenkot-wirft-netanyahu-vor-er-wolle-das-wahlergebnis-delegitimieren-a-08d5b593-ed32-4722-b74d-ddc409ad1b72"
             },
             {
               "name": "New York Times",
               "country": "US",
-              "url": "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-arab-parties.html"
-            },
-            {
-              "name": "Tagesschau",
-              "country": "DE",
-              "url": "https://www.tagesschau.de/ausland/asien/israel-wahl-178.html"
-            }
-          ],
-          "time": "2026-10-28T14:03:46+00:00",
-          "image": {
-            "url": "https://i.guim.co.uk/img/media/061146992efb74a7e25365e4198451b2e2eae177/567_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=e83c7152652b1828c69530d3c84002a2",
-            "source": "Guardian"
-          }
-        },
-        {
-          "id": "p2",
-          "headline": "Wahlverlierer Flávio Bolsonaro nach Miami geflohen",
-          "summary": "Nach seiner Wahlniederlage gegen Luiz Inácio Lula da Silva ist Flávio Bolsonaro in die USA gereist. In Brasilien wird wegen Korruption und Geldwäsche gegen ihn ermittelt, zudem stornierte die Polizei seinen Pass. In Florida erklärte er sich entgegen den offiziellen Ergebnissen zum Wahlsieger.",
-          "perspectives": "Tagesschau und NZZ berichten, dass sich Bolsonaro in den USA zum Wahlsieger erklärt habe. Die New York Times und NZZ erwähnen die Flucht über Argentinien, während die NYT zudem auf die Stornierung seines Passes verweist. Die BBC ordnet seine Vorwürfe des Wahlbetrugs als unbegründet ein. Während Tagesschau, NZZ und NYT von einer Flucht sprechen, bestreitet Bolsonaro laut BBC, geflohen zu sein.",
-          "sources": [
-            {
-              "name": "New York Times",
-              "country": "US",
-              "url": "https://www.nytimes.com/2026/10/28/world/americas/flavio-bolsonaro-us-miami-brazil-trump.html"
-            },
-            {
-              "name": "BBC",
-              "country": "UK",
-              "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo"
-            },
-            {
-              "name": "NZZ",
-              "country": "CH",
-              "url": "https://www.nzz.ch/international/wie-flavio-bolsonaro-der-brasilianischen-justiz-entkam-ld.10047048"
-            },
-            {
-              "name": "Tagesschau",
-              "country": "DE",
-              "url": "https://www.tagesschau.de/ausland/amerika/flavio-bolsonaro-erklaerung-wahlsieger-100.html"
-            }
-          ],
-          "time": "2026-10-28T21:56:25+00:00",
-          "image": {
-            "url": "https://static01.nyt.com/images/2026/10/28/multimedia/28int-bolsonaro-flight-fqlp/28int-bolsonaro-flight-fqlp-mediumSquareAt3X.jpg",
-            "source": "New York Times"
-          }
-        },
-        {
-          "id": "p3",
-          "headline": "EU-Staaten bremsen Assoziierungspläne für Kanada aus",
-          "summary": "Vor dem Gipfeltreffen in Montreal haben Bundeskanzler Friedrich Merz und weitere EU-Regierungschefs den Vorschlag von Kommissionspräsidentin Ursula von der Leyen abgeschwächt, Kanada den Status eines assoziierten EU-Mitglieds zu verleihen. Die geplante Abschlusserklärung sieht nun eine immer engere Assoziierung vor.",
-          "perspectives": "Laut FAZ war den EU-Regierungschefs von der Leyens Konzept zu vage. Die Tagesschau und die FAZ heben die Rolle von Kanzler Merz und weiteren Regierungschefs beim Abschwächen der Pläne hervor. Der Guardian verweist auf die geänderte Formulierung der Erklärung, die statt einer assoziierten Mitgliedschaft eine immer engere Assoziierung sieht. Auch Die Zeit berichtet über die geänderte Formulierung im Gipfeldokument.",
-          "sources": [
-            {
-              "name": "Tagesschau",
-              "country": "DE",
-              "url": "https://www.tagesschau.de/ausland/europa/eu-kanada-gipfel-100.html"
-            },
-            {
-              "name": "Zeit",
-              "country": "DE",
-              "url": "https://www.zeit.de/politik/ausland/2026-10/kanada-eu-assoziierte-mitgliedschaft-gipfel-ursula-von-der-leyen-friedrich-merz"
+              "url": "https://www.nytimes.com/2026/10/29/world/middleeast/israel-election-results-netanyahu-eisenkot.html"
             },
             {
               "name": "FAZ",
               "country": "DE",
-              "url": "https://www.faz.net/aktuell/politik/ausland/eu-kanada-gipfel-assoziierte-mitgliedschaft-vorerst-gescheitert-accg-201631084.html"
-            },
-            {
-              "name": "Guardian",
-              "country": "UK",
-              "url": "https://www.theguardian.com/world/2026/oct/28/european-union-canada"
+              "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-nahost-eisenkot-netanjahu-will-wahlergebnisse-deligitimieren-faz-200583539.html"
             }
           ],
-          "time": "2026-10-28T21:27:33+00:00",
+          "time": "2026-10-29T17:44:40+00:00",
           "image": {
-            "url": "https://images.tagesschau.de/image/93996ff9-bc64-447b-b6af-4a96aca5bca9/AAABoK2g_CE/AAABnSSvrFg/16x9-big/carney-von-der-leyen-100.jpg?width=1024",
+            "url": "https://images.tagesschau.de/image/721030da-7f64-441f-8cbe-9c96622df662/AAABoYlXMEU/AAABnSSvrFg/16x9-big/israel-wahl-auszaehlung-100.jpg?width=1024",
             "source": "Tagesschau"
           }
         },
         {
-          "id": "p4",
-          "headline": "Hacker erbeuten Daten von über 40.000 Heimatschutz-Kräften",
-          "summary": "Aktivisten haben bei einem großangelegten Cyberangriff vertrauliche Personaldaten von mehr als 41.000 Mitarbeitern des US-Heimatschutzministeriums erbeutet und veröffentlicht. Betroffen sind vor allem Einsatzkräfte der Einwanderungsbehörde ICE. Die Veröffentlichung löst erhebliche Sicherheitsbedenken aus, da auch verdeckte Ermittler identifiziert werden könnten.",
-          "perspectives": "Der Guardian nennt die Whistleblower-Plattform Distributed Denial of Secrets als Quelle der Veröffentlichung und spricht vom dritten Datenleck im laufenden Monat. Die BBC führt die Urheberschaft auf eine Gruppe namens Department of Peace zurück. Der Spiegel stellt heraus, dass sich unter den entwendeten Daten anscheinend auch Kontaktdaten verdeckter Ermittler befinden, während die Zeit die Dimension des Angriffs betont.",
+          "id": "p2",
+          "headline": "Koalitionsstreit in Berlin nach Angst-Äußerung von Elif Eralp",
+          "summary": "Interne Äußerungen der Berliner Linken-Spitzenkandidatin Elif Eralp über Furcht vor extremistischen Hamas-Sympathisanten belasten die Koalitionsverhandlungen. Während Grünen-Politiker Verständnis äußerten, forderte die Union einen Abbruch der Gespräche. Eralp erklärte, sie lasse sich nicht einschüchtern.",
+          "perspectives": "Der Spiegel und die FAZ stellen Eralps eigene Erklärung heraus, dass sie sich nicht einschüchtern lassen wolle. Das Handelsblatt rückt die scharfe Kritik von Vertretern von CDU und SPD sowie Zweifel an Eralps Eignung in den Vordergrund. Die Zeit berichtet abweichend über die Kritik von Bodo Ramelow an der Berichterstattung des Spiegel.",
           "sources": [
             {
               "name": "Spiegel",
               "country": "DE",
-              "url": "https://www.spiegel.de/ausland/usa-hacker-erbeuten-sensible-daten-von-heimatschutzministerium-a-86dd92ff-7e64-4699-a7c6-119b11ca25ff"
+              "url": "https://www.spiegel.de/politik/elif-eralp-gruenen-chefin-brantner-zeigt-verstaendnis-unionsfraktionschef-frei-fuer-abbruch-der-koalitionsverhandlungen-a-730b602e-534a-4a3f-a1f3-1f49b5f1c980"
             },
             {
               "name": "Zeit",
               "country": "DE",
-              "url": "https://www.zeit.de/politik/ausland/2026-10/datenleck-us-heimatschutzministerium-activisten-ice-markwayne-mullin"
+              "url": "https://www.zeit.de/politik/deutschland/2026-10/elif-eralp-spiegel-interview-bodo-ramelow-berlin-buergermeister"
+            },
+            {
+              "name": "Handelsblatt",
+              "country": "DE",
+              "url": "https://www.handelsblatt.com/politik/deutschland/elif-eralp-angst-vor-hamas-unterstuetzern-wird-zur-machtfrage-in-berlin/100265958.html"
+            },
+            {
+              "name": "FAZ",
+              "country": "DE",
+              "url": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-gruene-fall-eralp-zeigt-einfluss-von-extremisten-in-berlin-faz-110093143.html"
+            }
+          ],
+          "time": "2026-10-29T17:10:27+00:00",
+          "image": {
+            "url": "https://cdn.prod.www.spiegel.de/images/3ff7c8ee-615d-4f60-a3cd-5d021a168f4f_w520_r2.08_fpx29.99_fpy54.99.jpg",
+            "source": "Spiegel"
+          }
+        },
+        {
+          "id": "p3",
+          "headline": "Ermittlungen nach schwerem Zugunglück in Spanien dauern an",
+          "summary": "Nach der Kollision zweier Züge in Spanien mit mindestens 69 Toten prüfen spanische Ermittler Funkprotokolle. Die Aufnahmen zwischen Leitstelle und Lokführern deuten auf eine verfrühte Freigabe hin, obwohl ein Zug auf dem Gleis stand.",
+          "perspectives": "NZZ und New York Times problematisieren, dass es bereits das zweite schwere Bahnzeugunglück in Spanien innerhalb eines Jahres war, und hinterfragen den Zustand des Streckennetzes. Die BBC stützt sich auf Mitschnitte von Funksprüchen, wonach ein Zug trotz blockierten Gleises normale Fahrtfreigabe erhalten haben soll. Die Tagesschau berichtet vor allem über die laufende Identifizierung von Opfern durch Forensiker.",
+          "sources": [
+            {
+              "name": "New York Times",
+              "country": "US",
+              "url": "https://www.nytimes.com/2026/10/29/world/europe/spain-train-crash-renfe.html"
             },
             {
               "name": "BBC",
               "country": "UK",
-              "url": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo"
+              "url": "https://www.bbc.co.uk/news/videos/c6vgjeg0myzgo"
+            },
+            {
+              "name": "Tagesschau",
+              "country": "DE",
+              "url": "https://www.tagesschau.de/ausland/europa/spanien-zugunglueck-132.html"
+            },
+            {
+              "name": "NZZ",
+              "country": "CH",
+              "url": "https://www.nzz.ch/international/spanien-trauert-nach-schwerem-zugunfall-steigen-aengste-ld.10048561"
+            }
+          ],
+          "time": "2026-10-29T15:36:12+00:00",
+          "image": {
+            "url": "https://static01.nyt.com/images/2026/10/29/multimedia/29int-spain-crash-01-cjqk/29int-spain-crash-01-cjqk-mediumSquareAt3X.jpg",
+            "source": "New York Times"
+          }
+        },
+        {
+          "id": "p4",
+          "headline": "Brasiliens Ex-Kandidat Flávio Bolsonaro setzt sich in USA ab",
+          "summary": "Nach seiner Niederlage bei der brasilianischen Präsidentschaftswahl ist Flávio Bolsonaro in die USA ausgereist. In Brasilien laufen Ermittlungen wegen Geldwäsche gegen ihn. Von Miami aus kündigte Bolsonaro an, die Opposition anzuführen, und zweifelte den Wahlausgang an.",
+          "perspectives": "Die New York Times berichtet unter Verweis auf US-Regierungsbeamte, dass Donald Trump und dessen Berater Bolsonaro bei der Einreise in die USA behilflich gewesen seien. Der Spiegel und die NZZ heben hervor, dass selbst Verbündete Bolsonaros Vorwürfe von Wahlbetrug zurückweisen. Die Financial Times betont vor allem den Widerspruch zwischen Bolsonaros voriger Zusicherung, Brasilien nicht zu verlassen, und seiner heimlichen Abreise am Folgetag.",
+          "sources": [
+            {
+              "name": "Financial Times",
+              "country": "UK",
+              "url": "https://www.ft.com/content/0cb91253-62e1-4cdf-864e-61174b297e51?syn-25a6b1a6=1"
+            },
+            {
+              "name": "Spiegel",
+              "country": "DE",
+              "url": "https://www.spiegel.de/ausland/brasilien-flavio-bolsonaro-stoesst-nach-ausreise-auf-kritik-im-eigenen-lager-a-38b339b3-a0e1-4a76-b846-603be45b471b"
+            },
+            {
+              "name": "New York Times",
+              "country": "US",
+              "url": "https://www.nytimes.com/2026/10/29/world/americas/flavio-bolsonaro-trump-brazil-us.html"
+            },
+            {
+              "name": "NZZ",
+              "country": "CH",
+              "url": "https://www.nzz.ch/international/bolsonaros-flucht-in-die-usa-koennte-ausgerechnet-praesident-lula-staerken-ld.10048568"
+            }
+          ],
+          "time": "2026-10-29T15:25:15+00:00",
+          "image": {
+            "url": "https://cdn.prod.www.spiegel.de/images/cc5dd34e-4582-43db-8fc3-3c847e1bec40_w520_r2.08_fpx63.99_fpy50.jpg",
+            "source": "Spiegel"
+          }
+        },
+        {
+          "id": "p5",
+          "headline": "KP Chinas schließt Rekordzahl an Spitzenfunktionären aus",
+          "summary": "Beim fünften Plenum der Kommunistischen Partei Chinas ist der Ausschluss von 33 Spitzenfunktionären bestätigt worden. Betroffen sind ranghohe Militärs und der prominente Ex-Diplomat Liu Jianchao. Partei- und Staatschef Xi Jinping mahnte vor den Delegierten strikte Parteidisziplin an, um seine Führungsposition weiter abzusichern.",
+          "perspectives": "New York Times und Spiegel nennen übereinstimmend die konkrete Zahl von 33 ausgeschlossenen Kadern, während BBC und Guardian allgemein von einer Rekordzahl an Säuberungen berichten. Der Guardian hebt die vielen leeren Stühle im Plenum als Symbol hervor. Die New York Times stellt den Bezug zu Xi Jinpings angestrebter vierter Amtszeit her, wohingegen die BBC Beobachter zitiert, die eine gezielte Festigung von Xis Autorität betonen.",
+          "sources": [
+            {
+              "name": "BBC",
+              "country": "UK",
+              "url": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo"
             },
             {
               "name": "Guardian",
               "country": "UK",
-              "url": "https://www.theguardian.com/us-news/2026/oct/28/homeland-security-data-leak"
+              "url": "https://www.theguardian.com/world/2026/oct/30/china-expels-record-number-communist-party-xi-jinping-purges-officials-fifth-plenum"
+            },
+            {
+              "name": "New York Times",
+              "country": "US",
+              "url": "https://www.nytimes.com/2026/10/29/world/asia/china-communist-party-purges.html"
+            },
+            {
+              "name": "Spiegel",
+              "country": "DE",
+              "url": "https://www.spiegel.de/ausland/china-kommunistische-partei-schliesst-33-funktionaere-aus-a-e5689615-0119-48c0-90ed-6e11461cd884"
             }
           ],
-          "time": "2026-10-29T01:25:35+00:00",
+          "time": "2026-10-29T11:27:00+00:00",
           "image": {
-            "url": "https://cdn.prod.www.spiegel.de/images/8a5d8dde-e845-4368-829f-ee7efb775192_w520_r2.08_fpx44_fpy33.jpg",
-            "source": "Spiegel"
+            "url": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/3573/live/24bff950-d388-11f1-b5f4-fd541fd21001.jpg",
+            "source": "BBC"
           }
         }
       ]
@@ -150,134 +183,134 @@
       "items": [
         {
           "id": "w1",
-          "headline": "Volkswagen verbucht 5,8 Milliarden Euro Verlust im Quartal",
-          "summary": "Volkswagen ist im dritten Quartal mit einem Nettoverlust von 5,82 Milliarden Euro tief in die Verlustzone gerutscht. Neben milliardenschweren Abschreibungen auf die Tochter Porsche belasten schwache Absatzzahlen das Ergebnis. Erstmals schreibt der Konzern auch im chinesischen Pkw-Markt rote Zahlen.",
-          "perspectives": "Das Handelsblatt hebt die Verluste im chinesischen Markt hervor und zitiert Finanzvorstand Antlitz, der mehr Tempo anmahnt. Der Spiegel verweist auf die Ertragseinbrüche bei Umsatz und Absatz sowie auf Abschreibungen bei Porsche. Die NZZ berichtet, dass bis 2030 ein Abbau von 50.000 Stellen anstehe. FAZ und Handelsblatt nennen Sondereffekte als Grund für den Verlust.",
+          "headline": "Verdacht auf Milliarden-Hack bei Krypto-Börse Binance",
+          "summary": "Die Kryptowährungsbörse Binance untersucht einen schweren Sicherheitsvorfall und hat Auszahlungen vorübergehend gestoppt. Nach Unternehmensangaben sind Krypto-Werte in Höhe von etwa 6,3 Milliarden Dollar betroffen. Binance teilte mit, rund drei Milliarden Dollar an Vermögenswerten seien eingefroren worden, und sicherte die Deckung aller Verluste zu.",
+          "perspectives": "Financial Times, BBC und New York Times nennen übereinstimmend 6,3 Milliarden Dollar als betroffene Summe und sprechen von einem potenziell beispiellosen Vorfall. Das Handelsblatt formuliert vorsichtiger von einem „möglichen Hackerangriff“ und fokussiert auf Marktreaktionen wie den Kurssturz des Bitcoins auf ein Sechs-Wochen-Tief. Die BBC betont eigens das Versprechen der Plattform, sämtliche Einbußen der Kunden auszugleichen.",
           "sources": [
             {
               "name": "Handelsblatt",
               "country": "DE",
-              "url": "https://www.handelsblatt.com/unternehmen/industrie/autobauer-volkswagen-rutscht-wegen-porsche-und-china-in-die-roten-zahlen/100265266.html"
+              "url": "https://www.handelsblatt.com/finanzen/diebstahl-moeglicher-hackerangriff-auf-kryptowaehrungsboerse-binance/100266046.html"
             },
             {
-              "name": "NZZ",
-              "country": "CH",
-              "url": "https://www.nzz.ch/wirtschaft/umbruch-bei-vw-was-in-den-kommenden-tagen-zu-erwarten-ist-ld.10020783"
+              "name": "BBC",
+              "country": "UK",
+              "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o"
             },
             {
-              "name": "Spiegel",
-              "country": "DE",
-              "url": "https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-umsatz-und-absatz-brechen-ein-milliardenverlust-im-dritten-quartal-a-88c5c68a-79d0-4d3a-b4b8-59a784aba3e9"
+              "name": "New York Times",
+              "country": "US",
+              "url": "https://www.nytimes.com/2026/10/29/technology/binance-grapples-with-security-incident-that-may-cause-6-3-billion-in-losses.html"
             },
             {
-              "name": "FAZ",
-              "country": "DE",
-              "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/vw-meldet-milliardenverlust-im-dritten-quartal-accg-201631461.html"
+              "name": "Financial Times",
+              "country": "UK",
+              "url": "https://www.ft.com/content/c7f5e395-c3a9-430e-b757-5014527b4d49?syn-25a6b1a6=1"
             }
           ],
-          "time": "2026-10-29T06:40:19+00:00",
+          "time": "2026-10-30T02:54:12+00:00",
           "image": {
-            "url": "https://images.handelsblatt.com/LKNE11xjMHU8/cover/900/506/0/0/0/649/0.5/0.5/arno-antlitz.jpg",
+            "url": "https://images.handelsblatt.com/EnQyP9Gcfco6/cover/900/506/0/0/76/195/0.5/0.5/binance-logo.jpeg",
             "source": "Handelsblatt"
           }
         },
         {
           "id": "w2",
-          "headline": "US-Notenbank Fed belässt Leitzins vor Zwischenwahlen stabil",
-          "summary": "Die US-Notenbank Federal Reserve hält den Leitzins trotz hoher Inflation unverändert. Fed-Chef Kevin Warsh verwies auf abzuwartende Konjunkturdaten vor der Sitzung im Dezember. Die Zinspause erfolgt kurz vor den US-Zwischenwahlen.",
-          "perspectives": "Der Spiegel verweist darauf, dass zwei Gouverneure eine Zinserhöhung forderten, und wirft die Frage nach dem Einfluss der Midterms auf. Das Handelsblatt berichtet über Kritik von Ökonomen sowie über Pläne für weniger Zinsentscheidungen ab 2027. Die New York Times beleuchtet Warshs Ankündigung einer datenreichen Phase vor der Dezember-Sitzung. Die FAZ zitiert Warsh mit der Aussage, dass es kein softes Inflationsziel gebe.",
+          "headline": "EZB hält Leitzins stabil – Lagarde kündigt Rücktritt an",
+          "summary": "Die Europäische Zentralbank belässt ihren Leitzins unverändert bei 2,5 Prozent. Zugleich kündigte EZB-Präsidentin Christine Lagarde an, ihr Amt vorzeitig im Februar niederzulegen. Sie begründete den Schritt mit dem Wunsch, künftig wieder frei über Weltgeschehen sprechen zu können.",
+          "perspectives": "Das Handelsblatt und der Guardian thematisieren vorrangig Lagardes Begründung, vor der anstehenden Wahl in Frankreich wieder offen sprechen zu wollen. Der Guardian bringt sie zudem als mögliche Führungskraft beim Weltwirtschaftsforum ins Spiel. Während sich die Tagesschau rein auf die Zinsentscheidung beschränkt, verweist die New York Times auf den beginnenden Auswahlprozess der europäischen Regierungschefs für die Nachfolge.",
           "sources": [
-            {
-              "name": "Spiegel",
-              "country": "DE",
-              "url": "https://www.spiegel.de/wirtschaft/us-notenbank-analysten-wetten-schon-auf-die-naechste-erhoehung-der-zinsen-a-eac685b1-966f-4ef4-89cc-33f1adadc6eb"
-            },
             {
               "name": "New York Times",
               "country": "US",
-              "url": "https://www.nytimes.com/2026/10/28/business/economy/warsh-interest-rates-fed.html"
+              "url": "https://www.nytimes.com/2026/10/29/business/christine-lagarde-resigns-ecb.html"
+            },
+            {
+              "name": "Guardian",
+              "country": "UK",
+              "url": "https://www.theguardian.com/world/2026/oct/29/european-central-bank-chief-christine-lagarde-to-step-down-nine-months-early"
+            },
+            {
+              "name": "Tagesschau",
+              "country": "DE",
+              "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/ezb-570.html"
             },
             {
               "name": "Handelsblatt",
               "country": "DE",
-              "url": "https://www.handelsblatt.com/finanzen/geldpolitik/geldpolitik-fed-laesst-zinsen-unveraendert-weniger-zinsentscheidungen-ab-2027/100264521.html"
-            },
-            {
-              "name": "FAZ",
-              "country": "DE",
-              "url": "https://www.faz.net/aktuell/finanzen/fed-haelt-leitzins-stabil-kevin-warsh-sieht-keinen-grund-zur-eile-201630363.html"
+              "url": "https://www.handelsblatt.com/finanzen/geldpolitik/ezb-das-sagt-ezb-praesidentin-lagarde-zu-ihrem-vorzeitigen-abschied/100265926.html"
             }
           ],
-          "time": "2026-10-28T20:17:02+00:00",
+          "time": "2026-10-29T14:42:33+00:00",
           "image": {
-            "url": "https://cdn.prod.www.spiegel.de/images/e615fb64-53af-4a9b-80cd-a7cdd2b2b5ad_w520_r2.08_fpx34.01_fpy44.99.jpg",
-            "source": "Spiegel"
+            "url": "https://static01.nyt.com/images/2026/10/29/multimedia/29biz-lagarde-ECB-fkmw/29biz-lagarde-ECB-fkmw-mediumSquareAt3X.jpg",
+            "source": "New York Times"
           }
         },
         {
           "id": "w3",
-          "headline": "Großbritanniens Schatzkanzler Healey legt ersten Haushalt vor",
-          "summary": "Der neue britische Schatzkanzler John Healey hat seinen ersten Haushaltsplan vorgelegt. Das Paket sieht unter anderem eine Entlastung von 100 Pfund bei den Energiekosten vor, die durch eine Sonderabgabe für Banken gegenfinanziert werden soll.",
-          "perspectives": "Die BBC und die New York Times heben die Entlastungen bei den Energiekosten vor dem Hintergrund einer schwierigen Weltwirtschaftslage hervor. Die NZZ merkt an, dass die Banken zur Kasse gebeten werden, dabei aber noch Glück gehabt hätten. Die FAZ kritisiert den Haushalt als dünnes Budget, das gemessen an den Ankündigungen von Premierminister Andy Burnham mickrig ausfalle.",
+          "headline": "Milliardenverluste bei Tech-Konzernen Alphabet und Intel",
+          "summary": "Schwache Quartalsberichte und hohe Ausgaben für Künstliche Intelligenz belasten die US-Börsen. Die Google-Mutter Alphabet verlor rund 500 Milliarden Dollar an Börsenwert, nachdem Belastungen im Werbegeschäft bekannt wurden. Der Chiphersteller Intel brach nach einer trüben Umsatzprognose nachbörslich um mehr als 20 Prozent ein.",
+          "perspectives": "BBC und Financial Times beziffern Alphabets Börsenwertverlust auf exakt 500 Milliarden Dollar und machen KI-generierte Suchübersichten für Werbeeinbußen verantwortlich. Die FAZ stellt bei Intel die Rolle der Teilverstaatlichung unter Donald Trump heraus. Das Handelsblatt hebt bei Intel gestiegene Speicherpreise und anhaltende Lieferprobleme als Auslöser für den Kurssturz hervor.",
           "sources": [
             {
               "name": "FAZ",
               "country": "DE",
-              "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/grossbritanniens-neues-budget-wenig-spielraum-fuer-andy-burnham-201628586.html"
+              "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/intel-aktie-bricht-um-fast-20-prozent-ein-pc-markt-belastet-201634722.html"
             },
             {
               "name": "BBC",
               "country": "UK",
-              "url": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go"
+              "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o"
             },
             {
-              "name": "NZZ",
-              "country": "CH",
-              "url": "https://www.nzz.ch/wirtschaft/grossbritannien-banken-zahlen-mehr-fuer-entlastung-bei-energiekosten-ld.10047001"
+              "name": "Financial Times",
+              "country": "UK",
+              "url": "https://www.ft.com/content/eb386156-5bf9-4edd-80f2-803fdee1e33d?syn-25a6b1a6=1"
             },
             {
-              "name": "New York Times",
-              "country": "US",
-              "url": "https://www.nytimes.com/2026/10/28/business/uk-budget-chancellor-healey.html"
+              "name": "Handelsblatt",
+              "country": "DE",
+              "url": "https://www.handelsblatt.com/technik/it-internet/chiphersteller-intel-prognose-enttaeuscht-aktie-bricht-um-ein-fuenftel-ein/100266014.html"
             }
           ],
-          "time": "2026-10-28T16:40:52+00:00",
+          "time": "2026-10-29T20:41:17+00:00",
           "image": {
-            "url": "https://media0.faz.net/image/6acdf15c9700/w6000h3375x0y625/202610/87e54248-b5cf-4f42-b553-0ce6e239bb21/schatzkanzler-john-healey-mit.webp",
+            "url": "https://media0.faz.net/image/aa04979cb921/w4754h2674x0y245/202610/ad7f28f5-c616-4939-891b-a7bcc0b163d3/erwartet-keine-schnelle.webp",
             "source": "FAZ"
           }
         },
         {
           "id": "w4",
-          "headline": "Europäischer Gaspreis steigt wieder über 100 Euro",
-          "summary": "Wegen der Furcht vor einer Ausweitung des Irankriegs ist der europäische Gaspreis erstmals seit Ende 2022 wieder über die Marke von 100 Euro geklettert. Die Sorge vor Lieferengpässen trifft auf niedrige Füllstände in europäischen Gasspeichern. Energiekonzerne wie Shell verzeichnen infolge der hohen Margen stark steigende Gewinne.",
-          "perspectives": "Handelsblatt und Zeit stellen übereinstimmend die Parallele zu den Höchstständen von 2022 dar, wobei die Zeit explizit auf die niedrigen Reserven in Deutschland hinweist. Die Financial Times betont neben dem Krieg im Nahen Osten zusätzlich die Warnungen vor einem bevorstehenden harten Winter. Der Guardian beleuchtet vor allem den auf 10,8 Milliarden Dollar verdoppelten Quartalsgewinn von Shell und die Kritik von Umweltschützern.",
+          "headline": "Volkswagen verbucht Milliardenverlust im dritten Quartal",
+          "summary": "Der Volkswagen-Konzern verzeichnete im dritten Quartal einen operativen Verlust von über 5,8 Milliarden Euro. Auslöser waren schwache Absatzzahlen in China sowie eine erhebliche Abschreibung auf die Sportwagentochter Porsche. Das Management betonte die Notwendigkeit rascher und entschlossener Kostensenkungen.",
+          "perspectives": "Die Deutsche Welle nennt einen operativen Fehlbetrag von 5,86 Milliarden Euro und verweist auf das schwächste Quartal seit dem Dieselskandal 2015, während der Spiegel 5,82 Milliarden Euro beziffert. Die New York Times stellt Mahnungen der Konzernführung nach schnellen Einsparungen heraus. Die FAZ beleuchtet vor allem den zunehmenden Druck auf das globale Geschäftsmodell durch die Rivalität zwischen den USA und China.",
           "sources": [
             {
-              "name": "Guardian",
-              "country": "UK",
-              "url": "https://www.theguardian.com/business/2026/oct/29/shell-profits-double-iran-war-pushes-up-profit-margin-on-oil"
+              "name": "New York Times",
+              "country": "US",
+              "url": "https://www.nytimes.com/2026/10/29/business/volkswagen-loss-china.html"
             },
             {
-              "name": "Financial Times",
-              "country": "UK",
-              "url": "https://www.ft.com/content/afe6e244-8433-4371-a26f-7aacbc9b8dcd?syn-25a6b1a6=1"
-            },
-            {
-              "name": "Handelsblatt",
+              "name": "Deutsche Welle",
               "country": "DE",
-              "url": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/energie-europaeischer-gaspreis-steigt-auf-mehr-als-100-euro/100265601.html"
+              "url": "https://www.dw.com/en/volkswagen-logs-q3-operating-loss-of-€5-86-billion-on-porsche-writedown/a-79793796"
             },
             {
-              "name": "Zeit",
+              "name": "FAZ",
               "country": "DE",
-              "url": "https://www.zeit.de/wirtschaft/2026-10/gaspreis-europa-ttf-iran-krieg-gasspeicher"
+              "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/kommentar-vw-wird-zwischen-den-weltmaechten-zerrieben-201632812.html"
+            },
+            {
+              "name": "Spiegel",
+              "country": "DE",
+              "url": "https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-umsatz-und-absatz-brechen-ein-milliardenverlust-im-dritten-quartal-a-88c5c68a-79d0-4d3a-b4b8-59a784aba3e9"
             }
           ],
-          "time": "2026-10-28T16:31:13+00:00",
+          "time": "2026-10-29T06:53:00+00:00",
           "image": {
-            "url": "https://i.guim.co.uk/img/media/e9018efa03fb2d572ae7b4778c88b588542c391d/25_24_4966_3976/master/4966.jpg?width=700&quality=85&auto=format&fit=max&s=ca6d58357ccb31f0e40c02f224ac005b",
-            "source": "Guardian"
+            "url": "https://static01.nyt.com/images/2026/10/29/multimedia/biz-volkswagen-china-hbvl/biz-volkswagen-china-hbvl-mediumSquareAt3X.jpg",
+            "source": "New York Times"
           }
         }
       ]
@@ -286,23 +319,163 @@
   "more": [
     {
       "section": "politik",
-      "headline": "Raketentest: Nordkorea testet offenbar zehn Kurzstreckenraketen",
-      "source": "Zeit",
+      "headline": "EU und Kanada: Friedrich Merz durchkreuzt Kanada-Plan von Ursula von der Leyen",
+      "source": "Spiegel",
       "country": "DE",
-      "url": "https://www.zeit.de/politik/ausland/2026-10/nordkorea-raketen-kurzstreckenraketen-japanisches-meer-gxe",
-      "time": "2026-10-29T08:16:11+00:00",
+      "url": "https://www.spiegel.de/politik/deutschland/eu-und-kanada-friedrich-merz-durchkreuzt-kanada-plan-von-ursula-von-der-leyen-a-d972d632-6667-485a-888f-968c823de942",
+      "time": "2026-10-29T19:55:00+00:00",
       "opinion": false,
-      "image": "https://img.zeit.de/politik/ausland/2026-10/nordkorea-raketen-kurzstreckenraketen-japanisches-meer-gxe-foto-1/wide__820x461"
+      "image": "https://cdn.prod.www.spiegel.de/images/1b2aa5c4-cddc-4aaa-b78d-85b554221aa5_w520_r2.08_fpx30_fpy45.jpg"
     },
     {
       "section": "politik",
-      "headline": "Serbien: Polizist vor israelischer Botschaft in Belgrad angegriffen",
+      "headline": "+++ Iran-Krieg +++: Iran meldet drei brennende Tanker in der Straße von Hormus",
+      "source": "Handelsblatt",
+      "country": "DE",
+      "url": "https://www.handelsblatt.com/politik/international/iran-krieg-iran-meldet-drei-brennende-tanker-in-der-strasse-von-hormus/100136895.html",
+      "time": "2026-10-30T01:24:00+00:00",
+      "opinion": false,
+      "image": "https://images.handelsblatt.com/-VtocaaUGGlD/cover/900/506/0/0/313/312/0.5/0.5/archiv-16.06.2026-oman-im-golf-von-oman-entlang-der-schifffahrtsrouten-zwischen-der-strasse.jpg"
+    },
+    {
+      "section": "politik",
+      "headline": "Zahlreiche Tote bei Angriff auf Bahnhof in Dnipro",
       "source": "Tagesschau",
       "country": "DE",
-      "url": "https://www.tagesschau.de/ausland/europa/serbien-anschlag-israelische-botschaft-100.html",
-      "time": "2026-10-28T09:54:58+00:00",
+      "url": "https://www.tagesschau.de/ausland/europa/russland-ukraine-angriffe-120.html",
+      "time": "2026-10-29T14:04:36+00:00",
       "opinion": false,
-      "image": "https://images.tagesschau.de/image/131cc0e1-d5e9-4df8-9273-b9269865e62b/AAABoYH9kBg/AAABnSSvrFg/16x9-big/botschaft-israel-belgrad-102.jpg?width=1024"
+      "image": "https://images.tagesschau.de/image/b6cffbf3-12b7-4c72-b7cb-67f744b32dc2/AAABoYeG6C4/AAABnSSvrFg/16x9-big/ukraine-dnipro-angriff-100.jpg?width=1024"
+    },
+    {
+      "section": "politik",
+      "headline": "Bosnien und Herzegowina: Vier Tote bei Absturz von Helikopter der EU-Friedenstruppe in Bosnien",
+      "source": "Zeit",
+      "country": "DE",
+      "url": "https://www.zeit.de/politik/ausland/2026-10/eufor-helikopterabsturz-bosnien-herzegowina-brcko",
+      "time": "2026-10-29T23:56:06+00:00",
+      "opinion": false,
+      "image": "https://img.zeit.de/politik/ausland/2026-10/eufor-helikopterabsturz-bosnien-herzegowina-brcko-foto-1/wide__820x461"
+    },
+    {
+      "section": "wirtschaft",
+      "headline": "USA: Wirtschaftswachstum beschleunigt sich stärker als erwartet",
+      "source": "Spiegel",
+      "country": "DE",
+      "url": "https://www.spiegel.de/wirtschaft/unternehmen/usa-wirtschaftswachstum-beschleunigt-sich-staerker-als-erwartet-a-99cd2228-fe47-4a38-aefa-fdc51abace41",
+      "time": "2026-10-29T15:35:00+00:00",
+      "opinion": false,
+      "image": "https://cdn.prod.www.spiegel.de/images/4da4406f-2ab6-4191-8751-53938875c868_w520_r2.08_fpx49.44_fpy50.jpg"
+    },
+    {
+      "section": "wirtschaft",
+      "headline": "Welthandel: Merz wirbt in Asien für Allianz »gleichgesinnter« Freihandelsstaaten",
+      "source": "Zeit",
+      "country": "DE",
+      "url": "https://www.zeit.de/wirtschaft/2026-10/friedrich-merz-asien-freihandelsallianz-wto-eu-asean",
+      "time": "2026-10-30T03:27:02+00:00",
+      "opinion": false,
+      "image": "https://img.zeit.de/wirtschaft/2026-10/friedrich-merz-asien-freihandelsallianz-wto-eu-asean-foto-1/wide__820x461"
+    },
+    {
+      "section": "politik",
+      "headline": "US-Parlamentswahlen: Medien: US-Ministerium weitet Ermittlung zu Alaska-Wahl aus",
+      "source": "Handelsblatt",
+      "country": "DE",
+      "url": "https://www.handelsblatt.com/politik/international/us-parlamentswahlen-medien-us-ministerium-weitet-ermittlung-zu-alaska-wahl-aus/100265777.html",
+      "time": "2026-10-29T21:47:54+00:00",
+      "opinion": false,
+      "image": "https://images.handelsblatt.com/jTs0VyESG18w/cover/900/506/0/0/107/106/0.5/0.5/wahlen-im-us-bundesstaat-alaska.jpg"
+    },
+    {
+      "section": "politik",
+      "headline": "Oppositionspolitikerin Machado: Was bedeutet ihre Rückkehr für Venezuela?",
+      "source": "Tagesschau",
+      "country": "DE",
+      "url": "https://www.tagesschau.de/ausland/amerika/venezuela-machado-106.html",
+      "time": "2026-10-30T03:22:31+00:00",
+      "opinion": false,
+      "image": "https://images.tagesschau.de/image/96583fa6-e034-4a6f-892a-048db265b22b/AAABoYpPIjU/AAABnSSvrFg/16x9-big/machado-134.jpg?width=1024"
+    },
+    {
+      "section": "wirtschaft",
+      "headline": "Inflation: Japans Notenbank hält Zinsen stabil – Inflationsrisiken im Blick",
+      "source": "Handelsblatt",
+      "country": "DE",
+      "url": "https://www.handelsblatt.com/finanzen/geldpolitik/inflation-japans-notenbank-haelt-zinsen-stabil-inflationsrisiken-im-blick/100266049.html",
+      "time": "2026-10-30T04:03:03+00:00",
+      "opinion": false,
+      "image": "https://images.handelsblatt.com/UtWn8f6o0cdp/cover/900/506/0/0/104/104/0.5/0.5/kazuo-ueda-der-chef-der-boj-stand-geldpolitisch-unter-druck..jpg"
+    },
+    {
+      "section": "wirtschaft",
+      "headline": "USA sollen Audi zehn Prozent Zoll für Einfuhren angeboten haben",
+      "source": "Spiegel",
+      "country": "DE",
+      "url": "https://www.spiegel.de/wirtschaft/usa-sollen-audi-zehn-prozent-zoll-fuer-einfuhren-angeboten-haben-a-dc3287f0-503e-4f6e-ac10-6cbf6c2adbad",
+      "time": "2026-10-30T00:35:00+00:00",
+      "opinion": false,
+      "image": "https://cdn.prod.www.spiegel.de/images/db88f79e-d0ad-4f3d-bbe5-8f82281fbcdc_w520_r2.08_fpx31.8_fpy50.jpg"
+    },
+    {
+      "section": "politik",
+      "headline": "Frankreich: Täter bekennt sich zu rassistischem Motiv nach Anschlag bei Paris",
+      "source": "Spiegel",
+      "country": "DE",
+      "url": "https://www.spiegel.de/ausland/frankreich-taeter-bekennt-sich-zu-rassistischem-motiv-nach-anschlag-bei-paris-a-79b23965-fd5d-478b-9eca-776624757965",
+      "time": "2026-10-29T19:24:00+00:00",
+      "opinion": false,
+      "image": "https://cdn.prod.www.spiegel.de/images/e58fde7e-c267-4c14-8cab-4ddeacd3988d_w520_r2.08_fpx30_fpy55.jpg"
+    },
+    {
+      "section": "politik",
+      "headline": "Hongkong: Ministerin tritt nach Hochhausbrand zurück",
+      "source": "Spiegel",
+      "country": "DE",
+      "url": "https://www.spiegel.de/ausland/hongkong-ministerin-tritt-nach-hochhausbrand-zurueck-a-7e149c5b-bff5-4282-b7a4-c571112e75a3",
+      "time": "2026-10-29T15:53:00+00:00",
+      "opinion": false,
+      "image": "https://cdn.prod.www.spiegel.de/images/fffda0e5-394b-4778-a06c-291571cb4d5e_w520_r2.08_fpx29.99_fpy55.jpg"
+    },
+    {
+      "section": "politik",
+      "headline": "Metall- und Elektroindustrie: IG Metall startet Warnstreiks am Sonntag",
+      "source": "Handelsblatt",
+      "country": "DE",
+      "url": "https://www.handelsblatt.com/politik/deutschland/metall-und-elektroindustrie-ig-metall-startet-warnstreiks-am-sonntag/100266042.html",
+      "time": "2026-10-30T03:00:38+00:00",
+      "opinion": false,
+      "image": "https://images.handelsblatt.com/XDk-HCs1ZYJt/cover/900/506/0/0/88/88/0.5/0.5/vorstand-der-ig-metall.jpg"
+    },
+    {
+      "section": "politik",
+      "headline": "Homeland Security Leak Exposes More Than 41,000 Employees",
+      "source": "New York Times",
+      "country": "US",
+      "url": "https://www.nytimes.com/2026/10/29/us/politics/homeland-security-hack.html",
+      "time": "2026-10-30T00:23:59+00:00",
+      "opinion": false,
+      "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29dc-dhs-hack-pzhf/29dc-dhs-hack-pzhf-mediumSquareAt3X.jpg"
+    },
+    {
+      "section": "politik",
+      "headline": "Südkorea: Nordkorea testet ballistische Kurzstreckenraketen",
+      "source": "Spiegel",
+      "country": "DE",
+      "url": "https://www.spiegel.de/ausland/suedkorea-nordkorea-testet-ballistische-kurzstreckenraketen-a-432a82a2-4d17-48bb-bd53-ff7b8506a649",
+      "time": "2026-10-29T10:51:00+00:00",
+      "opinion": false,
+      "image": "https://cdn.prod.www.spiegel.de/images/c797f5cf-ca22-4d42-98af-99233be3c367_w520_r2.08_fpx69.53_fpy48.98.jpg"
+    },
+    {
+      "section": "politik",
+      "headline": "AfD Niedersachsen: AfD-Beschwerde gegen Hochstufung durch Verfassungsschutz abgewiesen",
+      "source": "Zeit",
+      "country": "DE",
+      "url": "https://www.zeit.de/politik/deutschland/2026-10/afd-niedersachsen-verfassungsschutz-ovg-beobachtung-rechtsextremismus",
+      "time": "2026-10-29T17:16:18+00:00",
+      "opinion": false,
+      "image": "https://img.zeit.de/politik/deutschland/2026-10/afd-niedersachsen-verfassungsschutz-ovg-beobachtung-rechtsextremismus-foto-1/wide__820x461"
     },
     {
       "section": "politik",
@@ -310,199 +483,39 @@
       "source": "Tagesschau",
       "country": "DE",
       "url": "https://www.tagesschau.de/inland/innenpolitik/linnemann-kuerzungen-pflegeleistungen-100.html",
-      "time": "2026-10-29T07:45:00+00:00",
+      "time": "2026-10-29T09:27:28+00:00",
       "opinion": false,
-      "image": "https://images.tagesschau.de/image/3120d5f9-ef8d-4e66-9fd7-24b7be835795/AAABoYadyuo/AAABnSSvrFg/16x9-big/linnemann-208.jpg?width=1024"
-    },
-    {
-      "section": "politik",
-      "headline": "Bayern: Ermittlungen gegen zwei Belarusen wegen Sabotageverdacht",
-      "source": "Tagesschau",
-      "country": "DE",
-      "url": "https://www.tagesschau.de/inland/bayern-ermittlungen-gegen-belarusen-sabotage-100.html",
-      "time": "2026-10-28T19:03:51+00:00",
-      "opinion": false,
-      "image": "https://images.tagesschau.de/image/8f11107f-1b64-4339-87f0-565a908f35cc/AAABoYPWI6M/AAABnSSvrFg/16x9-big/generalstaatsanwaltschaft-muenchen-100.jpg?width=1024"
-    },
-    {
-      "section": "politik",
-      "headline": "Weiterhin 14 Monate - Rolle rückwärts beim Elterngeld",
-      "source": "Tagesschau",
-      "country": "DE",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/elterngeld-bezugsdauer-prien-100.html",
-      "time": "2026-10-28T15:11:17+00:00",
-      "opinion": false,
-      "image": "https://images.tagesschau.de/image/0cd768bc-7da9-4a13-b607-9280ff7d6011/AAABnnkyHqc/AAABnSSvrFg/16x9-big/prien-128.jpg?width=1024"
-    },
-    {
-      "section": "politik",
-      "headline": "Statistisches Bundesamt: Schulden der Kommunen um fast zehn Prozent gestiegen",
-      "source": "Zeit",
-      "country": "DE",
-      "url": "https://www.zeit.de/politik/deutschland/2026-10/kommunale-verschuldung-schulden-kommunen-hessen-saarland-gxe",
-      "time": "2026-10-29T08:34:26+00:00",
-      "opinion": false,
-      "image": null
-    },
-    {
-      "section": "politik",
-      "headline": "Duldung: Zahl der Geduldeten in Deutschland steigt an",
-      "source": "Zeit",
-      "country": "DE",
-      "url": "https://www.zeit.de/politik/deutschland/2026-10/duldung-geduldete-ausreisepflicht-deutschland-gxe",
-      "time": "2026-10-29T08:22:08+00:00",
-      "opinion": false,
-      "image": "https://img.zeit.de/politik/deutschland/2026-10/duldung-geduldete-ausreisepflicht-deutschland-gxe-foto-1/wide__820x461"
-    },
-    {
-      "section": "politik",
-      "headline": "Staatssender in Serbien: Serbische Intendantin tritt nach Wahlsieg von Studentenbündnis zurück",
-      "source": "Zeit",
-      "country": "DE",
-      "url": "https://www.zeit.de/politik/ausland/2026-10/rts-serbien-manja-grcic-aleksandar-vucic-medienfreiheit",
-      "time": "2026-10-29T00:30:49+00:00",
-      "opinion": false,
-      "image": "https://img.zeit.de/politik/ausland/2026-10/rts-serbien-manja-grcic-aleksandar-vucic-medienfreiheit-foto-1/wide__820x461"
+      "image": "https://images.tagesschau.de/image/3120d5f9-ef8d-4e66-9fd7-24b7be835795/AAABoYfH7m4/AAABnSSvrFg/16x9-big/linnemann-208.jpg?width=1024"
     },
     {
       "section": "wirtschaft",
-      "headline": "Indien: Jio Platforms schafft stärksten Börsengang des Landes",
-      "source": "Spiegel",
-      "country": "DE",
-      "url": "https://www.spiegel.de/wirtschaft/unternehmen/jio-platforms-schafft-staerksten-boersengang-indiens-a-6c866e2a-9262-4f31-81b2-72bc1d1a117f",
-      "time": "2026-10-28T11:36:00+00:00",
+      "headline": "DoorDash to Buy Instacart for $17 Billion, Uniting 2 Delivery Giants",
+      "source": "New York Times",
+      "country": "US",
+      "url": "https://www.nytimes.com/2026/10/29/technology/doordash-instacart-acquisition-delivery.html",
+      "time": "2026-10-29T18:52:07+00:00",
       "opinion": false,
-      "image": "https://cdn.prod.www.spiegel.de/images/f80a583a-579f-41d5-bc51-5d670f317201_w520_r2.08_fpx53.31_fpy49.99.jpg"
-    },
-    {
-      "section": "politik",
-      "headline": "Afghanistan: Deutschland schiebt 40 Straftäter ab",
-      "source": "Spiegel",
-      "country": "DE",
-      "url": "https://www.spiegel.de/politik/deutschland-schiebt-40-straftaeter-nach-afghanistan-ab-a-c4772a3e-474c-4b50-bad6-a7f8f3459750",
-      "time": "2026-10-28T16:09:00+00:00",
-      "opinion": false,
-      "image": "https://cdn.prod.www.spiegel.de/images/83037f74-2e02-4d01-a9c9-220c75cf85db_w520_r2.08_fpx57.78_fpy50.jpg"
-    },
-    {
-      "section": "politik",
-      "headline": "Iran: Nach Midterms drohen neue Angriffe - USA versuchen es mit Diplomatie",
-      "source": "Spiegel",
-      "country": "DE",
-      "url": "https://www.spiegel.de/ausland/iran-konflikt-usa-versuchen-es-mit-diplomatie-doch-nach-midterms-drohen-neue-angriffe-a-8c382815-bfe1-452d-939e-7c837e13805d",
-      "time": "2026-10-29T02:28:00+00:00",
-      "opinion": false,
-      "image": "https://cdn.prod.www.spiegel.de/images/80010373-4c1f-4e0d-9a8c-5d0a23ba1edf_w520_r2.08_fpx49.36_fpy50.jpg"
-    },
-    {
-      "section": "politik",
-      "headline": "Kritische Infrastruktur: Mehr Prüfungen auf Sabotagerisiko",
-      "source": "Tagesschau",
-      "country": "DE",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/kritische-infrastruktur-sabotage-schutz-100.html",
-      "time": "2026-10-28T14:48:08+00:00",
-      "opinion": false,
-      "image": "https://images.tagesschau.de/image/2e8ce252-71c5-4fc6-a240-d3b5cfc07789/AAABoYLVK_w/AAABnSSvrFg/16x9-big/hochspannungsleitung-120.jpg?width=1024"
-    },
-    {
-      "section": "politik",
-      "headline": "Italien plant Steuersenkungen und höhere Bankenabgaben",
-      "source": "Spiegel",
-      "country": "DE",
-      "url": "https://www.spiegel.de/ausland/haushaltsplan-2027-italien-plant-steuersenkungen-und-hoehere-bankenabgaben-a-c311c087-48d6-456b-8a80-6e6991d4953b",
-      "time": "2026-10-28T22:46:00+00:00",
-      "opinion": false,
-      "image": "https://cdn.prod.www.spiegel.de/images/35b5cc1e-cfe4-4cbb-a7be-58a7673fd0f6_w520_r2.08_fpx66.67_fpy50.jpg"
-    },
-    {
-      "section": "politik",
-      "headline": "Vor den Midterms: Schlappe für Trump im Streit um 20.000 Wähler in Kalifornien",
-      "source": "Handelsblatt",
-      "country": "DE",
-      "url": "https://www.handelsblatt.com/politik/international/vor-den-midterms-schlappe-fuer-trump-im-streit-um-20000-waehler-in-kalifornien/100265777.html",
-      "time": "2026-10-29T04:12:08+00:00",
-      "opinion": false,
-      "image": "https://images.handelsblatt.com/5jGRlsHs778f/cover/900/506/0/0/58/58/0.5/0.5/kongresswahlen-in-den-usa.jpg"
-    },
-    {
-      "section": "politik",
-      "headline": "Tommy Robinson: Rechtsextremist aus Großbritannien wegen Belästigung schuldig gesprochen",
-      "source": "Spiegel",
-      "country": "DE",
-      "url": "https://www.spiegel.de/ausland/grossbritannien-rechtsextremist-tommy-robinson-wegen-belaestigung-schuldig-gesprochen-a-f86c0ccc-1985-49fe-bf2e-333cde39970b",
-      "time": "2026-10-28T18:56:00+00:00",
-      "opinion": false,
-      "image": "https://cdn.prod.www.spiegel.de/images/66a799f5-1ff4-47c7-af28-3fe319f4a296_w520_r2.08_fpx48.8_fpy44.98.jpg"
-    },
-    {
-      "section": "politik",
-      "headline": "Afghanistan: Opiumproduktion in Afghanistan binnen eines Jahres verfünffacht",
-      "source": "Zeit",
-      "country": "DE",
-      "url": "https://www.zeit.de/politik/ausland/2026-10/opium-produktion-afghanistan-taliban-unodc-gxe",
-      "time": "2026-10-29T08:00:41+00:00",
-      "opinion": false,
-      "image": "https://img.zeit.de/politik/ausland/2026-10/opiumproduktion-afghanistan-taliban-mohnanbau-unodc-gxe-foto-1/wide__820x461"
-    },
-    {
-      "section": "politik",
-      "headline": "El Salvador sends 2,000 troops to Haiti to rescue four missing soldiers",
-      "source": "BBC",
-      "country": "UK",
-      "url": "https://www.bbc.co.uk/news/articles/ck0e075n79j5o",
-      "time": "2026-10-29T06:24:56+00:00",
-      "opinion": false,
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/846b/live/2e1cb430-d355-11f1-a772-cb496d11fa15.jpg"
-    },
-    {
-      "section": "politik",
-      "headline": "Africa’s ‘unprecedented’ Ebola outbreak could reach UK, says top health official",
-      "source": "Guardian",
-      "country": "UK",
-      "url": "https://www.theguardian.com/global-development/2026/oct/28/africa-ebola-outbreak-could-reach-uk-says-top-health-official",
-      "time": "2026-10-28T09:37:49+00:00",
-      "opinion": false,
-      "image": "https://i.guim.co.uk/img/media/4c8a92421c88cf3bb5c2743cd8f6b4900e511a1f/538_0_4583_3667/master/4583.jpg?width=700&quality=85&auto=format&fit=max&s=8d2290453cbf85b2a597ebedc995f05a"
+      "image": "https://static01.nyt.com/images/2026/10/26/multimedia/-00biz-doordash-hfo-2-gqtv/-00biz-doordash-hfo-2-gqtv-mediumSquareAt3X.jpg"
     },
     {
       "section": "wirtschaft",
-      "headline": "Trump says government to ‘terminate’ Biden-era methane emissions rules",
-      "source": "Guardian",
-      "country": "UK",
-      "url": "https://www.theguardian.com/us-news/2026/oct/27/trump-biden-era-methane-emissions-rules-oil-gas",
-      "time": "2026-10-28T14:30:29+00:00",
+      "headline": "How One Country Became the Unlikely Crossroads of the Global A.I. Boom",
+      "source": "New York Times",
+      "country": "US",
+      "url": "https://www.nytimes.com/2026/10/30/business/malaysia-data-center-china.html",
+      "time": "2026-10-30T04:01:14+00:00",
       "opinion": false,
-      "image": "https://i.guim.co.uk/img/media/e44d5b615ceabf3cdfe559f758df4401572c268f/940_0_5969_4775/master/5969.jpg?width=700&quality=85&auto=format&fit=max&s=a1a523fed66165a57f8960fdffb1f0f9"
+      "image": "https://static01.nyt.com/images/2026/10/30/multimedia/Biz-Malaysia-Video-Still-bvqt/Biz-Malaysia-Video-Still-bvqt-mediumSquareAt3X.jpg"
     },
     {
       "section": "politik",
-      "headline": "Hong Kong leader apologises after devastating fire",
-      "source": "Financial Times",
-      "country": "UK",
-      "url": "https://www.ft.com/content/7f8eb778-80bc-446a-8e03-4c694bca2240?syn-25a6b1a6=1",
-      "time": "2026-10-29T08:22:14+00:00",
+      "headline": "In China, the War on Mosquitoes Has Entered the A.I. Era",
+      "source": "New York Times",
+      "country": "US",
+      "url": "https://www.nytimes.com/2026/10/30/business/mosquito-laser-ai.html",
+      "time": "2026-10-30T04:01:12+00:00",
       "opinion": false,
-      "image": null
-    },
-    {
-      "section": "wirtschaft",
-      "headline": "Banken: ING verfehlt Gewinnerwartungen und streicht 400 Stellen",
-      "source": "Handelsblatt",
-      "country": "DE",
-      "url": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/banken-ing-verfehlt-gewinnerwartungen-und-streicht-400-stellen/100264270.html",
-      "time": "2026-10-29T07:05:36+00:00",
-      "opinion": false,
-      "image": "https://images.handelsblatt.com/guMpRd1y7Xwg/cover/900/506/0/0/121/120/0.5/0.5/ing-diba-bank-zentrale-bijlmerdreef-stadtbezirk-zuidoost-amsterdam-niederlande-ing-diba-ban.jpg"
-    },
-    {
-      "section": "wirtschaft",
-      "headline": "Die UBS erzielt einen Vorsteuergewinn von 3,6 Milliarden Dollar und wehrt sich gegen zu strenge Eigenkapitalregeln",
-      "source": "NZZ",
-      "country": "CH",
-      "url": "https://www.nzz.ch/wirtschaft/die-ubs-erzielt-einen-vorsteuergewinn-von-36-milliarden-dollar-und-wirbt-weiter-fuer-guenstige-eigenkapitalvorschriften-ld.10044810",
-      "time": "2026-10-28T12:13:45+00:00",
-      "opinion": false,
-      "image": "https://img-msp-prod.nzz.ch/2026/10/27/8773e49b-f664-4544-83ef-c53f9568bb11.jpg?width=900&height=900&fit=bounds"
+      "image": "https://static01.nyt.com/images/2026/10/19/arts/rv-ai-mosquitos-final-v3/rv-ai-mosquitos-final-v3-mediumSquareAt3X.jpg"
     }
   ]
 }
