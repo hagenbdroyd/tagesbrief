@@ -1,37 +1,7 @@
 {
-  "updatedAt": "2026-10-30T07:12:24+01:00",
-  "morningPush": "2026-10-30",
+  "updatedAt": "2026-10-31T07:12:27+01:00",
+  "morningPush": "2026-10-31",
   "breaking": [
-    {
-      "id": "e2026102821570",
-      "time": "2026-10-28T20:26:04+00:00",
-      "pushedAt": "2026-10-28T21:57:01+01:00",
-      "headline": "Mindestens 68 Tote bei schwerem Zugunglück in Spanien",
-      "summary": "Bei einer Kollision zweier Hochgeschwindigkeitszüge in Spanien sind mindestens 68 Menschen ums Leben gekommen. Dutzende weitere wurden verletzt.",
-      "reason": "Katastrophe mit vielen Todesopfern (mindestens 68 Tote bei Zugunglück in Spanien).",
-      "sources": [
-        {
-          "name": "Tagesschau",
-          "country": "DE",
-          "url": "https://www.tagesschau.de/ausland/europa/zugunglueck-spanien-144.html"
-        },
-        {
-          "name": "Guardian",
-          "country": "UK",
-          "url": "https://www.theguardian.com/world/live/2026/oct/28/spain-train-crash-toledo-europe-latest-news-updates"
-        },
-        {
-          "name": "New York Times",
-          "country": "US",
-          "url": "https://www.nytimes.com/2026/10/28/world/europe/spain-train-crash-rescue-victims.html"
-        }
-      ],
-      "image": {
-        "url": "https://images.tagesschau.de/image/98ce9bb3-189f-46dc-87b0-64bc0c327ea9/AAABoYPNV7E/AAABnSSvrFg/16x9-big/zugunglueck-spanien-142.jpg?width=1024",
-        "source": "Tagesschau"
-      },
-      "model": "gemini-3.7-flash"
-    },
     {
       "id": "e2026102911120",
       "time": "2026-10-29T10:04:40+00:00",
