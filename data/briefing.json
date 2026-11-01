@@ -1,9 +1,9 @@
 {
-  "date": "2026-10-31",
-  "generatedAt": "2026-10-31T09:47:53+01:00",
-  "notice": null,
-  "aiModel": "gemini-3.6-flash",
-  "push": "Machtkampf in Polen: Tumulte und Polizei-Einsatz vor dem Verfassungsgericht",
+  "date": "2026-11-01",
+  "generatedAt": "2026-11-01T05:11:32+01:00",
+  "notice": "Die großen KI-Modelle waren überlastet, dieses Briefing stammt vom kleinen Ersatzmodell. Es kann ungenauer sein – prüf Wichtiges in den Quellen.",
+  "aiModel": "gemini-3.5-flash-lite",
+  "push": "Machtkampf in Polen: Präsident Nawrocki dringt in Verfassungsgericht ein",
   "breaking": [],
   "sections": [
     {
@@ -12,157 +12,147 @@
       "items": [
         {
           "id": "p1",
-          "headline": "Machtkampf um Polens Verfassungsgericht eskaliert",
-          "summary": "In Polen hat sich der Konflikt um die Besetzung des Verfassungsgerichts verschärft. Die Regierung von Ministerpräsident Tusk ließ Spitzenrichter absetzen, während Präsident Nawrocki eine Auslandsreise abbruch. Vor dem Gerichtsgebäude kam es zu Protesten und Polizeieinsätzen.",
-          "perspectives": "Die Medien betonen unterschiedliche Aspekte des Konflikts. Laut der FAZ setzte die Regierung die Gerichtsspitze ab, während Die Zeit berichtet, dass ein abgesetzter Richter von einem „Staatsstreich“ spricht. Der Guardian beschreibt den Einsatz von Bereitschaftspolizei vor dem Gebäude, während die Tagesschau hervorhebt, dass Auslöser der Unruhen die mutmaßliche Suspendierung bisheriger Richter war.",
+          "headline": "Machtkampf um Polens Verfassungsgericht spitzt sich zu",
+          "summary": "Im Streit um das Verfassungsgericht hat Polens Präsident Karol Nawrocki das Gebäude betreten und eine Richterin bedrängt. Regierungschef Donald Tusk wirft ihm einen Angriff auf den Rechtsstaat vor, während die Opposition der Regierung einen institutionellen Putsch unterstellt.",
+          "perspectives": null,
           "sources": [
-            {
-              "name": "Tagesschau",
-              "country": "DE",
-              "url": "https://www.tagesschau.de/ausland/europa/polen-verfassungsgericht-streit-100.html"
-            },
-            {
-              "name": "FAZ",
-              "country": "DE",
-              "url": "https://www.faz.net/aktuell/politik/ausland/machtkampf-in-polen-accg-201638508.html"
-            },
             {
               "name": "Zeit",
               "country": "DE",
-              "url": "https://www.zeit.de/politik/ausland/2026-10/karol-nawrocki-praesident-polen-verfassungsgericht-krise-gxe"
+              "url": "https://www.zeit.de/politik/ausland/2026-11/polen-donald-tusk-justiz-streit-verfassungsgericht-nawrocki"
             },
             {
-              "name": "Guardian",
-              "country": "UK",
-              "url": "https://www.theguardian.com/world/2026/oct/31/riot-police-deployed-to-polands-constitutional-court-after-judge-suspended"
+              "name": "Spiegel",
+              "country": "DE",
+              "url": "https://www.spiegel.de/ausland/polen-donald-tusk-attackiert-karol-nawrocki-nach-rueder-visite-im-verfassungsgericht-a-9fabfec6-cb4a-4a33-802a-77a3d1812167"
+            },
+            {
+              "name": "Tagesschau",
+              "country": "DE",
+              "url": "https://www.tagesschau.de/ausland/europa/polen-eskalation-verfassungsgericht-100.html"
+            },
+            {
+              "name": "Politico Europe",
+              "country": "EU",
+              "url": "https://www.politico.eu/article/poland-president-karol-nawrocki-rule-of-law-crisis/"
             }
           ],
-          "time": "2026-10-31T04:27:25+00:00",
+          "time": "2026-10-31T10:03:04+00:00",
           "image": {
-            "url": "https://images.tagesschau.de/image/519b2f4f-df27-4e95-8bcf-d77a469a8d94/AAABoY9o_tw/AAABnSSvrFg/16x9-big/warschau-verfassungsgericht-100.jpg?width=1024",
-            "source": "Tagesschau"
+            "url": "https://img.zeit.de/politik/ausland/2026-11/polen-donald-tusk-justiz-streit-verfassungsgericht-nawrocki-bild-2/wide__820x461",
+            "source": "Zeit"
           }
         },
         {
           "id": "p2",
-          "headline": "Bundesweite Jugendproteste der Gen Z in Deutschland",
-          "summary": "Für Samstag wurden bundesweit in mehr als 30 Städten Demonstrationen angekündigt. Die Initiatoren fordern mehr Investitionen in Bildung, Klimaschutz sowie mehr politische Teilhabe.",
-          "perspectives": "Die Tagesschau hebt die wachsende Unzufriedenheit und Zukunftsängste der Jugendlichen hervor, die für bessere Bildung, Klimaschutz und politische Teilhabe demonstrieren. Das Handelsblatt berichtet, dass sich die Polizei am Samstag auch wegen Halloween auf viel Arbeit gefasst macht.",
+          "headline": "Ausschreitungen nach friedlichen Jugendprotesten",
+          "summary": "Zehntausende Jugendliche haben in Deutschland und Europa für Bildung und gegen die Wehrpflicht demonstriert. Während die Kundgebungen tagsüber weitgehend friedlich verliefen, kam es am Abend in Städten wie Frankfurt, Köln und Berlin zu schweren Ausschreitungen, Plünderungen und Angriffen auf Polizisten.",
+          "perspectives": "Die Tagesschau betont, dass die Proteste am Nachmittag weitgehend friedlich blieben, bevor es abends zu Krawallen kam. Die BBC und Zeit berichten direkt von geplünderten Geschäften und gewaltsamen Ausschreitungen in Frankfurt, Berlin und Köln. Die FAZ hebt die Reaktionen von Politikern wie Ministerpräsident Rhein hervor, der schockiert von der Gewalt war.",
           "sources": [
-            {
-              "name": "Handelsblatt",
-              "country": "DE",
-              "url": "https://www.handelsblatt.com/politik/deutschland/jugendprotest-diffuse-ziele-sorge-vor-gewalt-wie-laeuft-die-gen-z-demo-ab/100265923.html"
-            },
             {
               "name": "Tagesschau",
               "country": "DE",
-              "url": "https://www.tagesschau.de/inland/gesellschaft/gen-z-proteste-112.html"
+              "url": "https://www.tagesschau.de/inland/ausschreitungen-frankfurt-koeln-100.html"
+            },
+            {
+              "name": "BBC",
+              "country": "UK",
+              "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o"
+            },
+            {
+              "name": "FAZ",
+              "country": "DE",
+              "url": "https://www.faz.net/aktuell/politik/inland/liveticker-gen-z-proteste-ausschreitungen-in-frankfurt-jugendliche-werfen-scheiben-ein-faz-201635936.html"
             }
           ],
-          "time": "2026-10-31T04:52:31+00:00",
+          "time": "2026-11-01T01:46:52+00:00",
           "image": {
-            "url": "https://images.handelsblatt.com/T5ZWMweNK8EF/cover/900/506/0/0/314/313/0.5/0.5/protestaufruf-in-duesseldorf.jpg",
-            "source": "Handelsblatt"
+            "url": "https://images.tagesschau.de/image/17d67126-2747-4a82-b1c3-15cd570eaa3f/AAABoZR_zgc/AAABnSSvrFg/16x9-big/frankfurt-ausschreitungen-102.jpg?width=1024",
+            "source": "Tagesschau"
           }
         },
         {
           "id": "p3",
-          "headline": "USA genehmigen Patriot-Raketenlieferung an die Ukraine",
-          "summary": "Das US-Außenministerium hat den Verkauf von 500 Patriot-Abwehrraketen an die Ukraine freigegeben. Die Kosten des 2,1 Milliarden Dollar schweren Pakets werden unter anderem von Deutschland, Kanada und Norwegen mitfinanziert. Der ukrainische Präsident Selenskyj begrüßte die Entscheidung, warnte jedoch vor potenziell jahrelangen Lieferzeiten.",
-          "perspectives": "Die Financial Times gibt den Wert des Geschäfts exakt mit 2,1 Milliarden US-Dollar für Patriot-Abwehrraketen an und berichtet, dass Selenskyj eine sofortige Bereitstellung forderte. Der Spiegel hebt hervor, dass Selenskyj langwierige Lieferfristen befürchtet. Die FAZ und Die Zeit erwähnen ausdrücklich die finanzielle Beteiligung von Deutschland, Kanada und Norwegen.",
+          "headline": "FBI macht Nordkorea für Krypto-Diebstahl verantwortlich",
+          "summary": "Bei einem Hackerangriff auf die Kryptobörse Binance wurden rund 6,3 Milliarden Dollar gestohlen. Das FBI macht die nordkoreanische Hackergruppe TraderTraitor für den Rekorddiebstahl verantwortlich. Binance kündigte an, den Grossteil des Schadens abzusichern.",
+          "perspectives": null,
           "sources": [
+            {
+              "name": "Guardian",
+              "country": "UK",
+              "url": "https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency"
+            },
             {
               "name": "FAZ",
               "country": "DE",
-              "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-us-aussenministerium-genehmigt-patriot-lieferung-an-ukraine-faz-110683325.html"
+              "url": "https://www.faz.net/aktuell/finanzen/fbi-macht-nordkorea-fuer-milliardendiebstahl-bei-binance-verantwortlich-accg-201640102.html"
             },
             {
-              "name": "Spiegel",
-              "country": "DE",
-              "url": "https://www.spiegel.de/ausland/ukraine-krieg-selenskyj-warnt-vor-langen-lieferfristen-bei-patriot-system-a-b25c5ded-a9e8-4493-870e-adc3bc2eff77"
-            },
-            {
-              "name": "Financial Times",
-              "country": "UK",
-              "url": "https://www.ft.com/content/321cf4f9-d236-4b50-a52c-c2a21f7c447b?syn-25a6b1a6=1"
-            },
-            {
-              "name": "Zeit",
-              "country": "DE",
-              "url": "https://www.zeit.de/politik/ausland/2026-10/patriot-raketen-usa-ukraine-verkauf"
+              "name": "NZZ",
+              "country": "CH",
+              "url": "https://www.nzz.ch/wirtschaft/fbi-bestaetigt-nordkorea-steckt-hinter-milliardenschwerem-krypto-diebstahl-bei-binance-ld.10050756"
             }
           ],
-          "time": "2026-10-31T01:07:15+00:00",
+          "time": "2026-10-31T23:03:21+00:00",
           "image": {
-            "url": "https://media0.faz.net/image/8d51cb7be5ac/w5688h3199x0y400/202610/bdc19eca-ba09-4e4a-9f68-7a4f22f2667f/selenskyj-2024-in-deutschland.webp",
-            "source": "FAZ"
+            "url": "https://i.guim.co.uk/img/media/014fc1ce91dea85eaf93eb5754927a50e19c8040/379_0_3791_3034/master/3791.jpg?width=700&quality=85&auto=format&fit=max&s=86d8dd4ddf060d5d40f4adbc4461a24b",
+            "source": "Guardian"
           }
         },
         {
           "id": "p4",
-          "headline": "EU und Kanada gründen Allianz für die Zukunft",
-          "summary": "Bei einem Gipfeltreffen in Montreal haben die Europäische Union und Kanada eine engere Zusammenarbeit in Bereichen wie KI und Raumfahrt vereinbart. Die neue Initiative „Allianz für die Zukunft“ soll auch anderen Ländern offenstehen. Hintergrund ist das Bestreben nach mehr geopolitischer Unabhängigkeit.",
-          "perspectives": "Der Guardian betont, dass die Allianz als Netzwerk gleichgesinnter Staaten in einer unsicheren Welt konzipiert sei. Die FAZ und Der Spiegel weisen auf eine Unstimmigkeit bezüglich der Bezeichnung der Partnerschaft hin, da uneins ist, ob es sich um eine „Allianz“ oder eine „assoziierte Mitgliedschaft“ handelt.",
+          "headline": "Rekordbeteiligung bei US-Zwischenwahlen und enge Rennen",
+          "summary": "Kurz vor den US-Zwischenwahlen haben bereits mehr als 50 Millionen Amerikaner ihre Stimme abgegeben. Umfragen deuten auf ein schwieriges Rennen für die Republikaner hin, wobei umkämpfte Bundesstaaten wie Texas und Alaska die Mehrheitsverhältnisse im Senat entscheiden könnten.",
+          "perspectives": "Die Tagesschau hebt die ungewöhnliche Spannung in Texas hervor, wo ein Demokrat den Senatssitz gewinnen könnte. Der Guardian berichtet über den Rekord bei der Briefwahl und verweist darauf, dass in entsprechenden Staaten mehr Demokraten als Republikaner abgestimmt haben. Der Spiegel fokussiert sich auf enge und umstrittene Rennen wie in Alaska, die Donald Trumps Macht im Senat gefährden könnten.",
           "sources": [
             {
               "name": "Tagesschau",
               "country": "DE",
-              "url": "https://www.tagesschau.de/ausland/amerika/kanada-eu-allianz-zukunft-100.html"
-            },
-            {
-              "name": "FAZ",
-              "country": "DE",
-              "url": "https://www.faz.net/aktuell/politik/ausland/begriff-mitgliedschaft-wird-zum-stoerfaktor-beim-eu-kanada-gipfel-accg-201638580.html"
-            },
-            {
-              "name": "Guardian",
-              "country": "UK",
-              "url": "https://www.theguardian.com/world/2026/oct/30/canada-european-union-alliance"
+              "url": "https://www.tagesschau.de/ausland/amerika/usa-midterms-wahlkampf-texas-100.html"
             },
             {
               "name": "Spiegel",
               "country": "DE",
-              "url": "https://www.spiegel.de/ausland/eu-kanada-gipfel-streit-um-einen-namen-mitgliedschaft-wird-zum-stoerfaktor-a-c285fb01-d854-4e3c-bbbd-561905b261bc"
+              "url": "https://www.spiegel.de/ausland/midterm-wahlkampf-in-alaska-trump-wird-so-lange-weitermachen-bis-ihn-jemand-stoppt-a-c8cd7822-3b01-44e3-ba79-3d0aae5c7322"
+            },
+            {
+              "name": "Guardian",
+              "country": "UK",
+              "url": "https://www.theguardian.com/us-news/2026/oct/31/early-voting-midterms"
             }
           ],
-          "time": "2026-10-30T19:03:00+00:00",
+          "time": "2026-10-31T16:13:17+00:00",
           "image": {
-            "url": "https://images.tagesschau.de/image/b24841d1-87c4-4a16-ba6c-c4db63284842/AAABoY4uPLA/AAABnSSvrFg/16x9-big/kanada-eu-buendnis-100.jpg?width=1024",
+            "url": "https://images.tagesschau.de/image/e9f16895-9ebb-4142-af64-dd559d5ebdcb/AAABoYvDJ2U/AAABnSSvrFg/16x9-big/anhaenger-trump-102.jpg?width=1024",
             "source": "Tagesschau"
           }
         },
         {
           "id": "p5",
-          "headline": "US-Ermittlungen wegen Doppelgänger-Kandidat in Alaska",
-          "summary": "Vor den US-Midterms untersucht das US-Justizministerium das Senatsrennen in Alaska. Grund ist die Aufstellung eines namensgleichen Scheinkandidaten, was die Demokraten belasten könnte.",
-          "perspectives": "Die New York Times berichtet, dass Demokraten dem Justizministerium vorwerfen, aus politischen Motiven zu handeln, da die Aktion nach alaskanischem Recht nicht illegal sei. Die NZZ beschreibt die Aufstellung des gleichnamigen Kandidaten als manipulatives Manöver der Demokraten. Der Spiegel meldet, dass das US-Ministerium strafrechtliche Ermittlungen bestätigt hat, während Die Zeit von Klagen wegen angeblichen Wahlbetrugs schreibt.",
+          "headline": "Berliner Linke stimmt für Koalitionsverhandlungen",
+          "summary": "Nach SPD und Grünen hat auch der Parteitag der Berliner Linken mit deutlicher Mehrheit für die Aufnahme von Koalitionsverhandlungen gestimmt. Ab Montag soll über eine gemeinsame Regierung verhandelt werden. Begleitet wurde der Parteitag von internen Streitigkeiten und Protesten.",
+          "perspectives": null,
           "sources": [
+            {
+              "name": "Tagesschau",
+              "country": "DE",
+              "url": "https://www.tagesschau.de/inland/innenpolitik/linke-parteitag-koalitionsverhandlungen-100.html"
+            },
             {
               "name": "Zeit",
               "country": "DE",
-              "url": "https://www.zeit.de/politik/ausland/2026-10/alaska-kongresswahl-dan-s-sullivan-mary-peltola-donald-trump-gxe"
-            },
-            {
-              "name": "New York Times",
-              "country": "US",
-              "url": "https://www.nytimes.com/2026/10/30/us/politics/justice-dept-alaska-senate-inquiry.html"
-            },
-            {
-              "name": "NZZ",
-              "country": "CH",
-              "url": "https://www.nzz.ch/international/midterms-demokraten-setzen-in-alaska-doppelgaenger-kandidaten-sullivan-ein-ld.10048450"
+              "url": "https://www.zeit.de/politik/deutschland/2026-10/berliner-linke-stimmt-fuer-aufnahme-von-koalitionsverhandlungen"
             },
             {
               "name": "Spiegel",
               "country": "DE",
-              "url": "https://www.spiegel.de/ausland/alaska-wahl-us-ministerium-bestaetigt-strafrechtliche-ermittlungen-im-fall-sullivan-gegen-sullivan-a-be41de5f-e526-4b00-ab48-bb75ff297c09"
+              "url": "https://www.spiegel.de/politik/deutschland/berlin-linke-entscheidet-sich-fuer-koalitionsverhandlungen-a-ce69c976-ef3d-4ee7-8568-8b36fb089720"
             }
           ],
-          "time": "2026-10-31T00:29:00+00:00",
+          "time": "2026-10-31T15:51:00+00:00",
           "image": {
-            "url": "https://img.zeit.de/politik/ausland/2026-10/alaska-kongresswahl-dan-s-sullivan-mary-peltola-donald-trump-gxe-foto-1/wide__820x461",
-            "source": "Zeit"
+            "url": "https://images.tagesschau.de/image/3c693696-01d8-4305-a50e-b410eef58dc0/AAABoZKxZXE/AAABnSSvrFg/16x9-big/berlin-die-linke-100.jpg?width=1024",
+            "source": "Tagesschau"
           }
         }
       ]
@@ -173,134 +163,76 @@
       "items": [
         {
           "id": "w1",
-          "headline": "Milliardenschwerer Cyberangriff auf Kryptobörse Binance",
-          "summary": "Die Kryptoplattform Binance ist Opfer des bislang größten Hackerangriffs der Geschichte geworden. Dabei wurden digitale Werte im Schätzwert von rund 6,3 Milliarden US-Dollar entwendet. Das Unternehmen kündigte an, die entstandenen Verluste der Kunden vollständig zu ersetzen.",
-          "perspectives": "Die Financial Times berichtet, dass nordkoreanische Hacker hinter dem Angriff vermutet werden und der Diebstahl innerhalb von 30 Minuten stattfand. Die Tagesschau hebt hervor, dass Binance alle Verluste ersetzen will. Das Handelsblatt und die FAZ bestätigen die Schadenssumme von 6,3 Milliarden Dollar, und die FAZ verweist darauf, dass die Rufe nach Regulierung lauter werden.",
+          "headline": "IG Metall startet Warnstreiks in Industrie",
+          "summary": "Kurz nach Mitternacht hat die IG Metall mit sogenannten Mitternachtsaktionen in der deutschen Metall- und Elektroindustrie begonnen. Die Gewerkschaft will in den Tarifverhandlungen für Auto- und Maschinenbau Druck machen, um Jobs und Kaufkraft zu sichern.",
+          "perspectives": "Die Tagesschau spricht allgemein von starken Warnstreiks, die kurz nach Mitternacht angelaufen seien. Das Handelsblatt verwendet den Begriff Mitternachtsaktionen und betont die schwierige wirtschaftliche Lage, bei der es um den Erhalt der Jobs geht. Bisher nur von diesen Medien berichtet.",
           "sources": [
-            {
-              "name": "FAZ",
-              "country": "DE",
-              "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/binance-der-groesste-kryptodiebstahl-der-geschichte-201635848.html"
-            },
-            {
-              "name": "Financial Times",
-              "country": "UK",
-              "url": "https://www.ft.com/content/e84eceda-040b-4e5f-b906-09768085933a?syn-25a6b1a6=1"
-            },
             {
               "name": "Tagesschau",
               "country": "DE",
-              "url": "https://www.tagesschau.de/wirtschaft/technologie/usa-binance-hackerangriff-verluste-100.html"
+              "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/ig-metall-warnstreiks-108.html"
             },
             {
               "name": "Handelsblatt",
               "country": "DE",
-              "url": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/binance-kryptoboerse-meldet-hackerangriff-bitcoin-verliert-deutlich/100266046.html"
+              "url": "https://www.handelsblatt.com/politik/deutschland/metall-und-elektroindustrie-warnstreiks-der-ig-metall-kurz-nach-mitternacht-angelaufen/100266377.html"
             }
           ],
-          "time": "2026-10-30T14:50:24+00:00",
+          "time": "2026-11-01T00:46:35+00:00",
           "image": {
-            "url": "https://media0.faz.net/image/4ddb4213abf7/w2000h1125x0y104/202610/43601.0.2639984258/richard-teng-der-ko.webp",
-            "source": "FAZ"
+            "url": "https://images.tagesschau.de/image/ee2a223d-bc92-4963-8f3f-bb64caca5e5b/AAABoZU5U5o/AAABnSSvrFg/16x9-big/warnstreik-456.jpg?width=1024",
+            "source": "Tagesschau"
           }
         },
         {
           "id": "w2",
-          "headline": "Kurseinbrüche bei US-Tech-Aktien wegen KI-Ausgaben",
-          "summary": "Stark steigende Ausgaben für Künstliche Intelligenz belasten die Bilanzen großer US-Technologiekonzerne. An den US-Börsen kam es zu deutlichen Kursverlusten, insbesondere bei Halbleiter- und Tech-Giganten. Die Aktie von Intel verzeichnete dabei den stärksten Einbruch der Firmengeschichte.",
-          "perspectives": "Das Handelsblatt spricht von einer „absolut brutalen Woche“ für Tech-Investoren und verweist auf einen Kursverlust von rund 29 Prozent bei Intel, während Die Zeit bei Intel gar vom größten Verlust der Firmengeschichte schreibt. Die Financial Times hebt die Sorgen der Anleger über die hohe Schuldenaufnahme im KI-Sektor hervor. Die FAZ betont, dass Quartalsberichte Befürchtungen schüren, KI könne bestehende Geschäftsmodelle bedrohen.",
+          "headline": "Bericht: OpenAI senkt Finanzierungsziel deutlich ab",
+          "summary": "Angesichts eines Ausverkaufs bei US-Techwerten und zunehmender Sorgen von Anlegern über die enormen Kosten für Künstliche Intelligenz hat OpenAI sein Finanzierungsziel angeblich um zehn Milliarden Dollar gesenkt.",
+          "perspectives": "Das Handelsblatt und die FAZ erwähnen den Rückgang des Finanzierungsziels im Kontext der steigenden Skepsis gegenüber den extremen KI-Investitionen. Das Handelsblatt verknüpft dies direkt mit dem allgemeinen Abverkauf von Tech-Werten. Die Quellen berichten ansonsten übereinstimmend.",
           "sources": [
             {
-              "name": "Financial Times",
-              "country": "UK",
-              "url": "https://www.ft.com/content/3ba953ae-84bb-4de4-959e-baec3e908fb3?syn-25a6b1a6=1"
+              "name": "FAZ",
+              "country": "DE",
+              "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-kryptoboerse-binance-90-prozent-der-gestohlenen-summe-abgesichert-faz-200452404.html"
             },
             {
               "name": "Handelsblatt",
               "country": "DE",
-              "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-nasdaq-100-auf-talfahrt-intel-aktie-verliert-29-prozent/100266181.html"
-            },
-            {
-              "name": "FAZ",
-              "country": "DE",
-              "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/ki-investitionen-unter-druck-google-und-amazon-enttaeuschen-maerkte-201636860.html"
-            },
-            {
-              "name": "Zeit",
-              "country": "DE",
-              "url": "https://www.zeit.de/wirtschaft/2026-10/intel-aktie-prognose-boerse-amd-nvidia"
+              "url": "https://www.handelsblatt.com/technik/ki/ki-openai-senkt-wohl-finanzierungsziel-um-zehn-milliarden-dollar/100266323.html"
             }
           ],
-          "time": "2026-10-30T15:27:07+00:00",
+          "time": "2026-10-31T10:24:14+00:00",
           "image": {
-            "url": "https://images.handelsblatt.com/i-czf8gHONfz/cover/900/506/0/0/209/0/0.5/0.5/haendler-an-der-new-yorker-boerse.jpg",
-            "source": "Handelsblatt"
-          }
-        },
-        {
-          "id": "w3",
-          "headline": "Deutsche Wirtschaft wächst im dritten Quartal um 0,2 Prozent",
-          "summary": "Entgegen den Erwartungen vieler Ökonomen ist die deutsche Wirtschaftsleistung im dritten Quartal um 0,2 Prozent gewachsen. Die privaten Ausgaben blieben jedoch verhalten und die Investitionen gingen zurück. Im Gegensatz dazu schrumpfte die Wirtschaft im Nachbarland Frankreich im selben Zeitraum.",
-          "perspectives": "Die Tagesschau und Der Spiegel berichten übereinstimmend, dass Experten zuvor mit einer Stagnation gerechnet hatten. Die FAZ hebt hervor, dass sich die Wachstumsschere zwischen Deutschland und Frankreich weiter öffnet, da die französische Wirtschaft schrumpfte. Die Financial Times beziffert den Rückgang der französischen Wirtschaft exakt auf 0,1 Prozent im dritten Quartal.",
-          "sources": [
-            {
-              "name": "FAZ",
-              "country": "DE",
-              "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/deutschlands-wirtschaft-waechst-trotz-gegenwind-frankreich-schrumpft-201636905.html"
-            },
-            {
-              "name": "Financial Times",
-              "country": "UK",
-              "url": "https://www.ft.com/content/6f879bc5-be07-4a66-afea-bcbe73723a9f?syn-25a6b1a6=1"
-            },
-            {
-              "name": "Spiegel",
-              "country": "DE",
-              "url": "https://www.spiegel.de/wirtschaft/bip-in-deutschland-wirtschaftsleistung-legt-im-dritten-quartal-leicht-zu-a-fd34e9f5-40ab-41c2-bc12-2c34fb488c3f"
-            },
-            {
-              "name": "Tagesschau",
-              "country": "DE",
-              "url": "https://www.tagesschau.de/wirtschaft/konjunktur/entwicklung-bip-deutschland-sommer-100.html"
-            }
-          ],
-          "time": "2026-10-30T09:50:45+00:00",
-          "image": {
-            "url": "https://media0.faz.net/image/1d110a9a66c7/w5442h3061x0y586/202608/43601.0.2403966081/die-hoehere-auslandsnachfrage.webp",
+            "url": "https://media0.faz.net/image/2073669ebdd8/w6000h3375x0y0/202611/87734fa9-aa5b-4615-895e-97390454885b/mit-feuertonnen-und-fackeln.webp",
             "source": "FAZ"
           }
         },
         {
-          "id": "w4",
-          "headline": "Arbeitslosenzahl in Deutschland sinkt im Oktober leicht",
-          "summary": "Die Zahl der Arbeitslosen in Deutschland ist im Oktober saisonbedingt um etwa 40.000 auf rund 2,95 Millionen Menschen gesunken. Allerdings fiel die übliche Herbstbelebung am Arbeitsmarkt schwächer aus als in den Vorjahren. Im Vergleich zum Vorjahresmonat liegt die Arbeitslosigkeit weiterhin höher.",
-          "perspectives": "Der Spiegel beziffert die Gesamtzahl der Arbeitslosen exakt auf 2,95 Millionen und nennt 654.000 offene Stellen. Die Zeit und die Tagesschau heben hervor, dass die Zahl der Arbeitslosen zwar um 40.000 gegenüber September gesunken sei, aber über dem Niveau des Vorjahres liege. Die FAZ ergänzt die Einschätzung der Bundesagentur für Arbeit, dass die Lage auf dem Ausbildungsmarkt besonders angespannt bleibt.",
+          "id": "w3",
+          "headline": "UN-Weltnaturkonferenz endet mit Einigung zum Artenschutz",
+          "summary": "Nach langen Verhandlungen ist die UN-Biodiversitätskonferenz in Armenien mit einer Einigung zu Ende gegangen. Staaten erneuerten ihre Zusagen zum Schutz der Artenvielfalt, blieben bei der Finanzierung jedoch vage. Umweltschützer bewerteten den Ausgang gemischt.",
+          "perspectives": "Die Tagesschau spricht von einer Einigung, die jedoch nicht besonders ambitioniert ausgefallen sei. Das Handelsblatt und Politico Europe betonen vor allem das ungelöste Finanzierungsdefizit und den Streit darüber, wie die Kosten gedeckt werden sollen. Die Quellen werten den Erfolg damit unterschiedlich stark ein.",
           "sources": [
+            {
+              "name": "Handelsblatt",
+              "country": "DE",
+              "url": "https://www.handelsblatt.com/technik/forschung-innovation/biodiversitaet-schneller-beim-artenschutz-weltnaturkonferenz-endet/100266326.html"
+            },
+            {
+              "name": "Politico Europe",
+              "country": "EU",
+              "url": "https://www.politico.eu/article/funding-deadlock-derails-global-effort-to-save-nature/"
+            },
             {
               "name": "Tagesschau",
               "country": "DE",
-              "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/arbeitslose-statistik-oktober-100.html"
-            },
-            {
-              "name": "Spiegel",
-              "country": "DE",
-              "url": "https://www.spiegel.de/wirtschaft/arbeitsmarkt-zahl-der-arbeitslosen-sinkt-im-oktober-auf-2-95-millionen-a-b7c98379-0fbd-4b82-bbae-bb21315098af"
-            },
-            {
-              "name": "Zeit",
-              "country": "DE",
-              "url": "https://www.zeit.de/wirtschaft/2026-10/arbeitslose-zahlen-deutschland-rueckgang-bundesagentur-fuer-arbeit-gxe"
-            },
-            {
-              "name": "FAZ",
-              "country": "DE",
-              "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/zahl-der-arbeitslosen-in-deutschland-sinkt-im-oktober-accg-201635918.html"
+              "url": "https://www.tagesschau.de/ausland/asien/biodiversitaet-cop-armenien-100.html"
             }
           ],
-          "time": "2026-10-30T09:12:49+00:00",
+          "time": "2026-10-31T07:09:41+00:00",
           "image": {
-            "url": "https://images.tagesschau.de/image/b34a2f44-e641-4777-8bfc-9c23098254d6/AAABoYwJNjo/AAABnSSvrFg/16x9-big/flaggen-logo-bundesagentur-fuer-arbeit-100.jpg?width=1024",
-            "source": "Tagesschau"
+            "url": "https://images.handelsblatt.com/eDHS3Hu56AkU/cover/900/506/0/0/107/107/0.5/0.5/un-generalsekretaer-antonio-guterres.jpg",
+            "source": "Handelsblatt"
           }
         }
       ]
@@ -309,203 +241,203 @@
   "more": [
     {
       "section": "politik",
-      "headline": "Linkenparteitag in Berlin: Elif Eralp rechnet mit klarer Zustimmung für Koalitionsgespräche",
-      "source": "Zeit",
-      "country": "DE",
-      "url": "https://www.zeit.de/politik/deutschland/2026-10/elif-eralp-linke-berlin-koalition-spd-gruene-gxe",
-      "time": "2026-10-31T08:39:13+00:00",
-      "opinion": false,
-      "image": "https://img.zeit.de/politik/deutschland/2026-10/elif-eralp-linke-berlin-koalition-spd-gruene-gxe-foto-1/wide__820x461"
-    },
-    {
-      "section": "politik",
-      "headline": "Nach Steinmeier-Besuch: China will mehr deutsche Produkte importieren",
-      "source": "Spiegel",
-      "country": "DE",
-      "url": "https://www.spiegel.de/ausland/nach-steinmeier-besuch-china-will-mehr-deutsche-produkte-importieren-a-70011b91-2e9e-4e99-88fc-c79022334652",
-      "time": "2026-10-31T08:05:00+00:00",
-      "opinion": false,
-      "image": "https://cdn.prod.www.spiegel.de/images/5f09f1ac-18f2-4fe0-aa2a-1c1e53a3681b_w520_r2.08_fpx53.99_fpy45.jpg"
-    },
-    {
-      "section": "politik",
-      "headline": "AfD-Leaks: Die Österreich-Connection der AfD",
-      "source": "Spiegel",
-      "country": "DE",
-      "url": "https://www.spiegel.de/ausland/afd-leaks-die-oesterreich-connection-der-afd-a-7dc922c8-429e-4cde-b82f-8a5824cbf8d9",
-      "time": "2026-10-31T08:02:00+00:00",
-      "opinion": false,
-      "image": "https://cdn.prod.www.spiegel.de/images/5a04b894-aada-4992-b4c7-125f083a4903_w520_r2.08_fpx32.94_fpy50.jpg"
-    },
-    {
-      "section": "politik",
-      "headline": "Brasilien: Flávio Bolsonaro begründet Flucht nach Wahlniederlage mit »Verfolgung«",
-      "source": "Zeit",
-      "country": "DE",
-      "url": "https://www.zeit.de/politik/ausland/2026-10/flavio-bolsonaro-flucht-brasilien-instagram-video-jair-bolsonaro-gxe",
-      "time": "2026-10-31T07:42:56+00:00",
-      "opinion": false,
-      "image": "https://img.zeit.de/politik/ausland/2026-10/flavio-bolsonaro-flucht-brasilien-instagram-video-jair-bolsonaro-gxe-foto-1/wide__820x461"
-    },
-    {
-      "section": "politik",
-      "headline": "Einigung bei der UN-Biodiversitätskonferenz erzielt",
-      "source": "Tagesschau",
-      "country": "DE",
-      "url": "https://www.tagesschau.de/ausland/asien/biodiversitaet-cop-armenien-100.html",
-      "time": "2026-10-31T07:09:41+00:00",
-      "opinion": false,
-      "image": "https://images.tagesschau.de/image/db3e4b22-08c6-4259-8053-cb76eff5a286/AAABoZCoOXY/AAABnSSvrFg/16x9-big/armenien-konferenz-100.jpg?width=1024"
-    },
-    {
-      "section": "politik",
-      "headline": "Ukrainekrieg: Russischer Außenminister Lawrow provoziert beim G20-Treffen",
-      "source": "Zeit",
-      "country": "DE",
-      "url": "https://www.zeit.de/politik/ausland/2026-10/sergej-lawrow-russland-usa-beziehungen-sanktionen-g20",
-      "time": "2026-10-31T06:28:50+00:00",
-      "opinion": false,
-      "image": "https://img.zeit.de/politik/ausland/2026-10/sergej-lawrow-russland-usa-beziehungen-sanktionen-g20-foto-1/wide__820x461"
-    },
-    {
-      "section": "politik",
-      "headline": "‘Reparations now’: King and Burnham face protests at Antigua Commonwealth summit",
-      "source": "Guardian",
-      "country": "UK",
-      "url": "https://www.theguardian.com/world/2026/oct/31/protests-expected-king-charles-reparations-slave-trade-commonwealth-summit-antigua",
-      "time": "2026-10-31T06:00:37+00:00",
-      "opinion": false,
-      "image": "https://i.guim.co.uk/img/media/6a830596e1bb347ac94446780a9a0b3eedb0a50d/510_0_5160_4128/master/5160.jpg?width=700&quality=85&auto=format&fit=max&s=efa03cc44451e82526cf2e7c4e8b3189"
-    },
-    {
-      "section": "politik",
-      "headline": "Spain train disaster clouds Sánchez chances of re-election",
-      "source": "BBC",
-      "country": "UK",
-      "url": "https://www.bbc.co.uk/news/articles/cmeweppr990qo",
-      "time": "2026-10-31T05:44:21+00:00",
-      "opinion": false,
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/a970/live/20e78ee0-d4ed-11f1-93e1-3b657b665bcf.jpg"
-    },
-    {
-      "section": "wirtschaft",
-      "headline": "Ebola im Kongo: Schon mehr als 5.000 Ebola-Tote im Kongo",
-      "source": "Handelsblatt",
-      "country": "DE",
-      "url": "https://www.handelsblatt.com/technik/forschung-innovation/ebola-im-kongo-schon-mehr-als-5000-ebola-tote-im-kongo/100266298.html",
-      "time": "2026-10-31T05:23:30+00:00",
-      "opinion": false,
-      "image": "https://images.handelsblatt.com/soe3Qdblmh0k/cover/900/506/0/0/0/0/0.5/0.5/ebola-im-kongo.jpg"
-    },
-    {
-      "section": "politik",
-      "headline": "Bulgaria votes as Russian attacks in Black Sea reach its shores",
-      "source": "Financial Times",
-      "country": "UK",
-      "url": "https://www.ft.com/content/b5a519d5-149c-45d3-8319-a9a40b601864?syn-25a6b1a6=1",
-      "time": "2026-10-31T05:00:20+00:00",
-      "opinion": false,
-      "image": null
-    },
-    {
-      "section": "politik",
-      "headline": "Wer sind Serbiens Wahlsieger, und was haben sie vor? Ein Psychologieprofessor auf dem Sprung ins Parlament sagt: «Es wird kein Kinderspiel»",
-      "source": "NZZ",
-      "country": "CH",
-      "url": "https://www.nzz.ch/international/wer-sind-serbiens-wahlsieger-und-was-haben-sie-vor-ein-psychologieprofessor-auf-dem-sprung-ins-parlament-sagt-es-wird-kein-kinderspiel-ld.10048075",
-      "time": "2026-10-31T04:30:00+00:00",
-      "opinion": false,
-      "image": "https://img-msp-prod.nzz.ch/2026/10/29/1668146e-44d0-4ff9-9741-2edbefcbe55e.jpg?width=900&height=900&fit=bounds"
-    },
-    {
-      "section": "wirtschaft",
-      "headline": "Bei der EZB wird die Lagarde-Nachfolge wohl zum Duell Falke gegen Taube, Niederländer gegen Spanier",
-      "source": "NZZ",
-      "country": "CH",
-      "url": "https://www.nzz.ch/wirtschaft/die-nachfolge-von-christine-lagarde-an-der-spitze-der-ezb-wird-wohl-zum-duell-zweier-kandidaten-spanier-gegen-niederlaender-ld.10049327",
-      "time": "2026-10-31T04:30:00+00:00",
-      "opinion": false,
-      "image": "https://img-msp-prod.nzz.ch/2026/09/18/5a0e636f-d986-4a9d-9a14-352c114c80e0.jpg?width=900&height=900&fit=bounds"
-    },
-    {
-      "section": "politik",
-      "headline": "Karin Prien: Jüdische Studenten wollen Prien als Bundespräsidentin",
-      "source": "Spiegel",
-      "country": "DE",
-      "url": "https://www.spiegel.de/politik/deutschland/karin-prien-juedische-studenten-wollen-prien-als-bundespraesidentin-a-73648445-f324-460a-a437-fc5462ca69d8",
-      "time": "2026-10-31T04:00:00+00:00",
-      "opinion": false,
-      "image": "https://cdn.prod.www.spiegel.de/images/a79bdb9b-3edd-46e8-aa3e-9f497cd1edda_w520_r2.08_fpx42.58_fpy51.jpg"
-    },
-    {
-      "section": "politik",
-      "headline": "He questioned Thailand's monarchy dressed as Harry Potter. Now he's in jail for 34 years",
-      "source": "BBC",
-      "country": "UK",
-      "url": "https://www.bbc.co.uk/news/articles/cmjwepvd0qq9o",
-      "time": "2026-10-30T23:26:16+00:00",
-      "opinion": false,
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/2371/live/1f84cb60-d4bd-11f1-a701-fddedf244c16.jpg"
-    },
-    {
-      "section": "wirtschaft",
-      "headline": "Glyphosat: Bayer siegt erneut vor US-Gericht",
-      "source": "Spiegel",
-      "country": "DE",
-      "url": "https://www.spiegel.de/wirtschaft/unternehmen/streit-ueber-pestizid-glyphosat-bayer-siegt-erneut-vor-us-gericht-a-bf6f80e4-d0a9-449a-bc00-ca46ba189e4b",
-      "time": "2026-10-30T17:52:00+00:00",
-      "opinion": false,
-      "image": "https://cdn.prod.www.spiegel.de/images/f5939ef7-d114-4962-b97f-6761d85b2847_w520_r2.08_fpx62.04_fpy55.jpg"
-    },
-    {
-      "section": "wirtschaft",
-      "headline": "Hubert Burda Media: Burda legt Redaktionen von »Focus« und »Focus Online« zusammen",
-      "source": "Zeit",
-      "country": "DE",
-      "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-10/hubert-burda-media-focus-redaktionen-zusammenlegung",
-      "time": "2026-10-30T16:21:55+00:00",
-      "opinion": false,
-      "image": "https://img.zeit.de/wirtschaft/unternehmen/2026-10/hubert-burda-media-focus-redaktionen-zusammenlegung-foto-1/wide__820x461"
-    },
-    {
-      "section": "politik",
-      "headline": "No Clear Winner in Israel Election, Final Results Show",
+      "headline": "He’s the Top Snake Catcher, and Business Is Booming. There’s Just One Problem.",
       "source": "New York Times",
       "country": "US",
-      "url": "https://www.nytimes.com/2026/10/29/world/middleeast/israel-election-results-netanyahu-eisenkot.html",
-      "time": "2026-10-30T15:02:51+00:00",
+      "url": "https://www.nytimes.com/2026/11/01/world/asia/hes-the-top-snake-catcher-and-business-is-booming-theres-just-one-problem.html",
+      "time": "2026-11-01T04:01:15+00:00",
       "opinion": false,
-      "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29int-israel-result-netanyahu-hflp/29int-israel-result-netanyahu-hflp-mediumSquareAt3X-v4.jpg"
+      "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01int-snake-catcher-profile-promoimage-qtfg/01int-snake-catcher-profile-promoimage-qtfg-mediumSquareAt3X.jpg"
     },
     {
       "section": "politik",
-      "headline": "Unterhaltsvorschuss: Die Grenzen des Sparens",
-      "source": "Deutschlandfunk",
-      "country": "DE",
-      "url": "https://www.deutschlandfunk.de/unterhaltsvorschuss-kuerzung-familienministerium-prien-alleinerziehende-armut-100.html",
-      "time": "2026-10-30T13:18:00+00:00",
+      "headline": "‘I Came as Donald Trump’: The President Hosts a Luxury Halloween at Mar-a-Lago",
+      "source": "New York Times",
+      "country": "US",
+      "url": "https://www.nytimes.com/2026/10/31/us/politics/trump-halloween-party-scene.html",
+      "time": "2026-11-01T03:37:24+00:00",
       "opinion": false,
-      "image": "https://bilder.deutschlandfunk.de/5c/8a/75/ce/5c8a75ce-1c57-4ea8-98f2-41bdba0fd72c/alleinerziehende-mutter-symbolbild-100-1920x1920.jpg"
+      "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31DC-TRUMP-PARTY-SCENE-01-bmvk/31DC-TRUMP-PARTY-SCENE-01-bmvk-mediumSquareAt3X.jpg"
+    },
+    {
+      "section": "politik",
+      "headline": "USA unter Trump: Trump erlaubt Bolsonaro unbegrenzten US-Aufenthalt",
+      "source": "FAZ",
+      "country": "DE",
+      "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-us-gericht-verbietet-trumps-regierung-druck-auf-wahlhelfer-faz-19444916.html",
+      "time": "2026-11-01T03:13:43+00:00",
+      "opinion": false,
+      "image": "https://media0.faz.net/image/7f13a354f3ee/w2659h1496x0y163/202610/6ce2d12f-8306-4e60-b5fd-fcb8ccc581f1/der-unterlegene-brasilianische.webp"
+    },
+    {
+      "section": "politik",
+      "headline": "Brasilien: Donald Trump gewährt Flávio Bolsonaro unbegrenztes Bleiberecht",
+      "source": "Spiegel",
+      "country": "DE",
+      "url": "https://www.spiegel.de/ausland/brasilien-donald-trump-gewaehrt-flavio-bolsonaro-unbegrenztes-bleiberecht-a-a214a183-4ca3-4ede-b2d1-02f92fb03bbe",
+      "time": "2026-11-01T01:26:00+00:00",
+      "opinion": false,
+      "image": "https://cdn.prod.www.spiegel.de/images/35db0e9b-36d3-44a6-91c2-496c5b9eabb1_w520_r2.08_fpx37.96_fpy46.94.jpg"
+    },
+    {
+      "section": "politik",
+      "headline": "Niederlande: Küstenwache rettet 36 Migranten aus manövrierunfähigem Boot",
+      "source": "Spiegel",
+      "country": "DE",
+      "url": "https://www.spiegel.de/ausland/niederlande-kuestenwache-rettet-36-migranten-aus-manoevrierunfaehigem-boot-a-dbd00dd6-ea48-4c2a-82e9-d173efe88549",
+      "time": "2026-11-01T00:35:00+00:00",
+      "opinion": false,
+      "image": "https://cdn.prod.www.spiegel.de/images/d6ef4d39-a268-4a8f-910e-f2d64bcc98db_w520_r2.08_fpx66.67_fpy50.jpg"
+    },
+    {
+      "section": "politik",
+      "headline": "Donald Trump und die Jeffrey-Epstein-Files: Gericht stoppt Klage gegen Zeitung",
+      "source": "Spiegel",
+      "country": "DE",
+      "url": "https://www.spiegel.de/ausland/donald-trump-und-die-jeffrey-epstein-files-gericht-stoppt-klage-gegen-zeitung-a-e1ce2fc6-447c-4034-ae98-d34fcc6eec5b",
+      "time": "2026-10-31T21:36:00+00:00",
+      "opinion": false,
+      "image": "https://cdn.prod.www.spiegel.de/images/58860e69-510f-45e2-a07c-a9fbd7012121_w520_r2.08_fpx51_fpy29.jpg"
+    },
+    {
+      "section": "politik",
+      "headline": "Israel: Präsident Isaac Herzog kündigt Gespräche zur Regierungsbildung an",
+      "source": "Spiegel",
+      "country": "DE",
+      "url": "https://www.spiegel.de/ausland/israel-praesident-isaac-herzog-kuendigt-gespraeche-zur-regierungsbildung-an-a-b4a4ccb0-09e9-484f-be8e-1e750f403ab1",
+      "time": "2026-10-31T20:51:00+00:00",
+      "opinion": false,
+      "image": "https://cdn.prod.www.spiegel.de/images/c81742cc-6004-42c5-ad8a-6f58d941a85e_w520_r2.08_fpx59.31_fpy54.96.jpg"
+    },
+    {
+      "section": "politik",
+      "headline": "Briten offen für offizielle Entschuldigung für Sklavenhandel, aber keine Reparationszahlungen",
+      "source": "Spiegel",
+      "country": "DE",
+      "url": "https://www.spiegel.de/ausland/briten-offen-fuer-offizielle-entschuldigung-fuer-sklavenhandel-aber-keine-reparationszahlungen-a-f0348d38-0eca-4b48-80c0-ab9ee910d386",
+      "time": "2026-10-31T20:43:00+00:00",
+      "opinion": false,
+      "image": "https://cdn.prod.www.spiegel.de/images/1bdbc9be-d897-40f9-9e0d-10a7ff2eaab5_w520_r2.08_fpx33.34_fpy50.jpg"
+    },
+    {
+      "section": "politik",
+      "headline": "Krieg gegen die Ukraine: Rubio bringt begrenzte Waffenruhe am Schwarzen Meer ins Gespräch",
+      "source": "Zeit",
+      "country": "DE",
+      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+      "time": "2026-10-31T19:58:08+00:00",
+      "opinion": false,
+      "image": "https://img.zeit.de/politik/ausland/2026-10/ukraine-krieg-news-liveblog-bild-5/wide__820x461"
     },
     {
       "section": "wirtschaft",
-      "headline": "Gen-Z-Demos: Die Klagen der Schüler im Faktencheck",
-      "source": "FAZ",
+      "headline": "Bildungsökonom Ludger Wößmann: »Bessere Schulbildung könnte Deutschland 20 Billionen Euro einbringen«",
+      "source": "Spiegel",
       "country": "DE",
-      "url": "https://www.faz.net/aktuell/wirtschaft/arm-und-reich/genz-die-klagen-der-schueler-im-faktencheck-accg-201628286.html",
-      "time": "2026-10-31T08:35:47+00:00",
+      "url": "https://www.spiegel.de/wirtschaft/soziales/bildungsoekonom-ludger-woessmann-bessere-schulbildung-koennte-deutschland-20-billionen-euro-einbringen-a-ee40144a-48f4-4a35-a0a2-5b6b5edb8fd9",
+      "time": "2026-10-31T19:31:00+00:00",
       "opinion": false,
-      "image": "https://media0.faz.net/image/d229dbbc6592/w5598h3149x402y432/202610/4fb88958-e5c4-48b2-89ff-2cf0c3524473/viele-junge-menschen-wuenschen.webp"
+      "image": "https://cdn.prod.www.spiegel.de/images/bdd1ce37-0b18-4702-accd-6b2df722367f_w520_r2.08_fpx54.67_fpy50.jpg"
     },
     {
       "section": "politik",
-      "headline": "Italien: Erneut protestiert die Jugend: „Italien ist ein Land für Alte“",
+      "headline": "Jemen: Huthis sollen Uno-Mitarbeiter zu Tode gefoltert haben",
+      "source": "Spiegel",
+      "country": "DE",
+      "url": "https://www.spiegel.de/ausland/jemen-huthis-sollen-uno-mitarbeiter-zu-tode-gefoltert-haben-a-489179d9-6b0a-462e-9b63-e4c7fc483ca0",
+      "time": "2026-10-31T18:35:00+00:00",
+      "opinion": false,
+      "image": "https://cdn.prod.www.spiegel.de/images/a8adb4b6-dd42-4242-b907-d7d407fa6ba1_w520_r2.08_fpx45.92_fpy50.jpg"
+    },
+    {
+      "section": "politik",
+      "headline": "Uno-Mission in Somalia nach mehr als 30 Jahren beendet",
+      "source": "Spiegel",
+      "country": "DE",
+      "url": "https://www.spiegel.de/ausland/uno-mission-in-somalia-nach-mehr-als-30-jahren-beendet-a-26e6ad1b-b631-4639-a676-7170836a5f14",
+      "time": "2026-10-31T18:00:00+00:00",
+      "opinion": false,
+      "image": "https://cdn.prod.www.spiegel.de/images/f464693b-65be-441d-9d31-72cd1fc6f10a_w520_r2.08_fpx40.66_fpy45.jpg"
+    },
+    {
+      "section": "politik",
+      "headline": "Russland: Deutsche Botschaft warnt vor möglichem Terroranschlag in Moskau",
+      "source": "Spiegel",
+      "country": "DE",
+      "url": "https://www.spiegel.de/ausland/russland-us-botschaft-in-moskau-warnt-vor-zwischenfall-mit-massenhaften-verlusten-a-6ce8ee5c-3969-43a6-b7c7-b3795a8dc942",
+      "time": "2026-10-31T16:07:00+00:00",
+      "opinion": false,
+      "image": "https://cdn.prod.www.spiegel.de/images/767bb0d1-876a-4b16-b849-b30ccd116ed2_w520_r2.08_fpx65.27_fpy51.jpg"
+    },
+    {
+      "section": "politik",
+      "headline": "Syrien erwägt Beitritt zu Mekka-Verteidigungsabkommen",
+      "source": "Spiegel",
+      "country": "DE",
+      "url": "https://www.spiegel.de/ausland/syrien-erwaegt-beitritt-zu-mekka-verteidigungsabkommen-a-b3f9d248-5d63-45a7-92a5-d1334bb8f2eb",
+      "time": "2026-10-31T15:15:00+00:00",
+      "opinion": false,
+      "image": "https://cdn.prod.www.spiegel.de/images/e82c0c94-c934-49af-b0ea-71f68bcf3e33_w520_r2.08_fpx33.33_fpy49.99.jpg"
+    },
+    {
+      "section": "politik",
+      "headline": "Algerien schickt erstmals seit 50 Jahren Truppen ins Ausland - nach Niger",
+      "source": "Spiegel",
+      "country": "DE",
+      "url": "https://www.spiegel.de/ausland/algerien-schickt-erstmals-seit-50-jahren-truppen-ins-ausland-nach-niger-a-0f473d2b-0932-48f3-b966-c9352474a948",
+      "time": "2026-10-31T15:06:00+00:00",
+      "opinion": false,
+      "image": "https://cdn.prod.www.spiegel.de/images/1b980a6b-e216-42aa-90fa-b7d43726dc34_w520_r2.08_fpx52.1_fpy49.99.jpg"
+    },
+    {
+      "section": "politik",
+      "headline": "Train Disaster Is Blow to Spain’s Leader, Already Election Underdog",
+      "source": "New York Times",
+      "country": "US",
+      "url": "https://www.nytimes.com/2026/10/31/world/europe/spain-train-crash-politics.html",
+      "time": "2026-10-31T14:14:19+00:00",
+      "opinion": false,
+      "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31int-spain-crash-politics-1-fwzt/31int-spain-crash-politics-1-fwzt-mediumSquareAt3X.jpg"
+    },
+    {
+      "section": "politik",
+      "headline": "EU-Kanada-Gipfel: Ursula von der Leyen übergeht Wunsch von Friedrich Merz",
+      "source": "Spiegel",
+      "country": "DE",
+      "url": "https://www.spiegel.de/politik/deutschland/eu-kanada-gipfel-ursula-von-der-leyen-uebergeht-wunsch-von-friedrich-merz-a-cee7cf99-9197-46ff-8bf7-ce444313540f",
+      "time": "2026-10-31T13:07:00+00:00",
+      "opinion": false,
+      "image": "https://cdn.prod.www.spiegel.de/images/e93d0873-2ad2-46e9-8c52-e652a41fb7e5_w520_r2.08_fpx67.91_fpy50.jpg"
+    },
+    {
+      "section": "politik",
+      "headline": "Lars Klingbeil muss Silbermünzen für 1,4 Millionen Euro einschmelzen lassen",
+      "source": "Spiegel",
+      "country": "DE",
+      "url": "https://www.spiegel.de/politik/deutschland/lars-klingbeil-muss-silbermuenzen-fuer-1-4-millionen-euro-einschmelzen-lassen-a-1258f348-0593-4ddb-8852-27ca4b863dce",
+      "time": "2026-10-31T11:41:00+00:00",
+      "opinion": false,
+      "image": "https://cdn.prod.www.spiegel.de/images/30573afa-5cc2-42f1-b8c2-9417f9f508ff_w520_r2.08_fpx53.77_fpy44.97.jpg"
+    },
+    {
+      "section": "politik",
+      "headline": "Asien-Pazifik-Konferenz: China nutzen, Asien umwerben – die Doppelstrategie der deutschen Wirtschaft",
       "source": "Handelsblatt",
       "country": "DE",
-      "url": "https://www.handelsblatt.com/politik/international/italien-erneut-protestiert-die-jugend-italien-ist-ein-land-fuer-alte/100265636.html",
-      "time": "2026-10-31T08:34:30+00:00",
+      "url": "https://www.handelsblatt.com/politik/international/china-nutzen-asien-umwerben-die-doppelstrategie-der-deutschen-wirtschaft-in-asien/100266068.html",
+      "time": "2026-10-31T11:00:00+00:00",
       "opinion": false,
-      "image": "https://images.handelsblatt.com/5aQQYS5AZKai/cover/900/506/0/0/222/147/0.5/0.5/genua.jpg"
+      "image": "https://images.handelsblatt.com/ORU2ofe3-QjH/cover/900/506/0/0/303/303/0.5/0.5/bundeskanzler-in-seoul-apk-30.10.2026seoul-south-korea-intercontinental-hotel-bundeskanzler-frie.jpg"
+    },
+    {
+      "section": "politik",
+      "headline": "Handelskonflikt: Steinmeier in Peking: „Nicht zulassen, dass die industrielle Basis verloren geht“",
+      "source": "Handelsblatt",
+      "country": "DE",
+      "url": "https://www.handelsblatt.com/politik/international/handelskonflikt-nicht-zulassen-dass-die-industrielle-basis-verloren-geht/100265455.html",
+      "time": "2026-10-31T08:58:46+00:00",
+      "opinion": false,
+      "image": "https://images.handelsblatt.com/xMoCZFB7DVN7/cover/900/506/0/0/251/250/0.5/0.5/chinas-staatspraesident-xi-und-bundespraesident-steinmeier-in-peking..jpg"
     }
   ]
 }
