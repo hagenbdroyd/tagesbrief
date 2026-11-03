@@ -1,5 +1,41 @@
 {
-  "updatedAt": "2026-11-03T07:12:28+01:00",
+  "updatedAt": "2026-11-03T18:57:30+01:00",
   "morningPush": "2026-11-03",
-  "breaking": []
+  "breaking": [
+    {
+      "id": "e2026110318570",
+      "time": "2026-11-03T17:17:11+00:00",
+      "pushedAt": "2026-11-03T18:57:30+01:00",
+      "headline": "Trump kündigt Ende der US-Militärhilfe für Israel an",
+      "summary": "US-Präsident Donald Trump hat überraschend angekündigt, die jährliche Militärhilfe für Israel in Höhe von vier Milliarden US-Dollar zum Jahresende einzustellen. In Israel löste die Ankündigung scharfe Kritik aus.",
+      "reason": "Überraschende und folgenreiche außenpolitische Kehrtwende des US-Präsidenten bezüglich eines wichtigen Verbündeten.",
+      "sources": [
+        {
+          "name": "FAZ",
+          "country": "DE",
+          "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-nahost-trump-ende-von-milliardenschwerer-militaerhilfe-an-israel-faz-200583539.html"
+        },
+        {
+          "name": "Handelsblatt",
+          "country": "DE",
+          "url": "https://www.handelsblatt.com/politik/international/nahost-trump-kuendigt-ende-milliardenschwerer-hilfen-an-israel-an/100267091.html"
+        },
+        {
+          "name": "New York Times",
+          "country": "US",
+          "url": "https://www.nytimes.com/2026/11/03/us/politics/trump-israel-aid-netanyahu.html"
+        },
+        {
+          "name": "Guardian",
+          "country": "UK",
+          "url": "https://www.theguardian.com/us-news/2026/nov/03/donald-trump-usa-end-military-aid-to-israel-end-year-midterms"
+        }
+      ],
+      "image": {
+        "url": "https://media0.faz.net/image/048a7885a01b/w2891h1626x0y22/202611/ee6259ba-76eb-498e-9789-2f3eb4a52364/us-praesident-donald-trump-r.webp",
+        "source": "FAZ"
+      },
+      "model": "gemini-3.6-flash"
+    }
+  ]
 }
