@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T18:57:30+01:00",
+  "updatedAt": "2026-11-03T23:22:44+01:00",
   "morningPush": "2026-11-03",
   "breaking": [
     {
@@ -36,6 +36,41 @@
         "source": "FAZ"
       },
       "model": "gemini-3.6-flash"
+    },
+    {
+      "id": "e2026110323220",
+      "time": "2026-11-03T20:58:56+00:00",
+      "pushedAt": "2026-11-03T23:22:44+01:00",
+      "headline": "Spaniens Verkehrsminister Puente tritt nach Zugunglück zurück",
+      "summary": "Nach einem schweren Zugunglück mit mindestens 69 Toten hat der spanische Verkehrsminister Óscar Puente seinen Rücktritt eingereicht. Es war der zweite schwere Unfall eines Hochgeschwindigkeitszugs innerhalb eines Jahres.",
+      "reason": "Rücktritt eines Bundesministers bzw. Ministers einer bedeutenden europäischen Regierung nach einer schweren Katastrophe.",
+      "sources": [
+        {
+          "name": "BBC",
+          "country": "UK",
+          "url": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo"
+        },
+        {
+          "name": "Guardian",
+          "country": "UK",
+          "url": "https://www.theguardian.com/world/2026/nov/03/spain-transport-minister-oscar-puente-resigns-deadly-train-crash"
+        },
+        {
+          "name": "FAZ",
+          "country": "DE",
+          "url": "https://www.faz.net/aktuell/politik/ausland/spaniens-verkehrsminister-oscar-puente-tritt-nach-zugunglueck-zurueck-201649112.html"
+        },
+        {
+          "name": "Tagesschau",
+          "country": "DE",
+          "url": "https://www.tagesschau.de/ausland/spanien-zugunglueck-puente-ruecktritt-100.html"
+        }
+      ],
+      "image": {
+        "url": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/d61f/live/6dc1cd30-d7c6-11f1-a701-fddedf244c16.jpg",
+        "source": "BBC"
+      },
+      "model": "gemini-3.7-flash"
     }
   ]
 }
