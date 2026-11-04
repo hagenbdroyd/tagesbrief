@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T23:22:44+01:00",
+  "updatedAt": "2026-11-04T05:57:28+01:00",
   "morningPush": "2026-11-03",
   "breaking": [
     {
@@ -71,6 +71,41 @@
         "source": "BBC"
       },
       "model": "gemini-3.7-flash"
+    },
+    {
+      "id": "e2026110405570",
+      "time": "2026-11-04T04:48:08+00:00",
+      "pushedAt": "2026-11-04T05:57:28+01:00",
+      "headline": "Midterms in den USA: Demokraten gewinnen laut Prognosen den US-Kongress",
+      "summary": "Bei den US-Zwischenwahlen sichern sich die Demokraten nach Hochrechnungen und Prognosen die Mehrheit im Senat sowie im Repräsentantenhaus.",
+      "reason": "Machtwechsel im US-Kongress fällt unter die Politik-Regel (große politische Wende/Machtwechsel).",
+      "sources": [
+        {
+          "name": "Spiegel",
+          "country": "DE",
+          "url": "https://www.spiegel.de/ausland/midterms-2026-in-den-usa-demokraten-erobern-laut-prognosen-mehrheit-im-repraesentantenhaus-und-im-senat-a-c6a7c5b3-24a1-4e70-a78e-067745ed4103"
+        },
+        {
+          "name": "Zeit",
+          "country": "DE",
+          "url": "https://www.zeit.de/politik/ausland/2026-10/midterms-usa-kongresswahlen-liveblog"
+        },
+        {
+          "name": "NZZ",
+          "country": "CH",
+          "url": "https://www.nzz.ch/international/midterms-2026-die-resultate-der-us-wahlen-im-ueberblick-ld.10047365"
+        },
+        {
+          "name": "Tagesschau",
+          "country": "DE",
+          "url": "https://www.tagesschau.de/ausland/amerika/eilmeldung-midterms-usa-100.html"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.prod.www.spiegel.de/images/07d74bd6-adcc-4d79-a45b-32446408123e_w520_r2.08_fpx44_fpy43.jpg",
+        "source": "Spiegel"
+      },
+      "model": "gemini-3.6-flash"
     }
   ]
 }
