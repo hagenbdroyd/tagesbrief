@@ -1,9 +1,9 @@
 {
-  "date": "2026-11-03",
-  "generatedAt": "2026-11-03T05:11:33+01:00",
-  "notice": null,
-  "aiModel": "gemini-3.6-flash",
-  "push": "US-Midterms: Supreme Court weist Trumps Antrag zu Briefwahl ab",
+  "date": "2026-11-04",
+  "generatedAt": "2026-11-04T05:11:31+01:00",
+  "notice": "Die großen KI-Modelle waren überlastet, dieses Briefing stammt vom kleinen Ersatzmodell. Es kann ungenauer sein – prüf Wichtiges in den Quellen.",
+  "aiModel": "gemini-3.5-flash-lite",
+  "push": "US-Midterms: Demokraten erobern laut Prognosen das Repräsentantenhaus",
   "breaking": [],
   "sections": [
     {
@@ -12,200 +12,119 @@
       "items": [
         {
           "id": "p1",
-          "headline": "Supreme Court weist Trumps Eilantrag zu Briefwahl in Kalifornien ab",
-          "summary": "Der Oberste Gerichtshof der USA hat einen Eilantrag der Regierung unter Donald Trump abgelehnt, kurz vor den Midterm-Wahlen 20.000 Briefwahlstimmen in Kalifornien auszusondern. Die US-Regierung hatte argumentiert, die Stimmen stammten von Ausländern.",
-          "perspectives": "Spiegel betont, dass die Trump-Regierung vor dem Obersten Gericht mit dem Vorwurf des Wahlbetrugs scheiterte, während die Zeit berichtet, dass die Stimmen angeblich von Ausländern stammten. BBC hebt hervor, dass das Urteil Trumps Versuch, die Stimmen zu disqualifizieren, im Wesentlichen beendet. The New York Times berichtet ergänzend, dass die Entscheidung nur wenige Stunden nach dem Eilantrag der Regierungsanwälte erging.",
+          "headline": "US-Midterms: Demokraten erobern das Repräsentantenhaus",
+          "summary": "Bei den US-Zwischenwahlen zeichnet sich ein Erfolg für die Demokraten ab. Laut übereinstimmenden US-Medienberichten gewinnen sie die Mehrheit im Repräsentantenhaus. Zudem sicherten sie sich ersten Prognosen zufolge Senatssitze von den Republikanern.",
+          "perspectives": "Die NZZ berichtet, dass erste Ergebnisse auf eine Machtübernahme in beiden Kammern hindeuten, während Zeit und Tagesschau betonen, dass die Senatsentscheidung noch aussteht. Die NZZ bezeichnet Präsident Trump dabei als Ballast für die Republikaner. Tagesschau und Zeit heben stattdessen die gewonnenen Senatssitze hervor.",
           "sources": [
             {
-              "name": "Spiegel",
+              "name": "NZZ",
+              "country": "CH",
+              "url": "https://www.nzz.ch/international/midterms-2026-die-resultate-der-us-wahlen-im-ueberblick-ld.10047365"
+            },
+            {
+              "name": "Tagesschau",
               "country": "DE",
-              "url": "https://www.spiegel.de/ausland/midterms-donald-trump-scheitert-im-kalifornien-streit-vor-supreme-court-a-1769275e-a646-4cd1-b8a0-7e9d72a05570"
+              "url": "https://www.tagesschau.de/newsticker/liveblog-midterms-2026-100.html"
             },
             {
               "name": "Zeit",
               "country": "DE",
-              "url": "https://www.zeit.de/politik/ausland/2026-11/supreme-court-briefwahl-kalifornien-donald-trump"
-            },
-            {
-              "name": "BBC",
-              "country": "UK",
-              "url": "https://www.bbc.co.uk/news/articles/cm5ynekkn5qko"
-            },
-            {
-              "name": "New York Times",
-              "country": "US",
-              "url": "https://www.nytimes.com/2026/11/02/us/politics/trump-supreme-court-california-ballots.html"
+              "url": "https://www.zeit.de/politik/ausland/2026-11/demokraten-holen-die-mehrheit-im-us-repraesentantenhaus"
             }
           ],
-          "time": "2026-11-03T00:11:26+00:00",
+          "time": "2026-11-04T03:40:31+00:00",
           "image": {
-            "url": "https://cdn.prod.www.spiegel.de/images/06465823-27bf-4fbb-bb72-dfc40fa60575_w520_r2.08_fpx61_fpy46.jpg",
-            "source": "Spiegel"
+            "url": "https://img-msp-prod.nzz.ch/2026/11/03/15062e02-79d8-41ed-b1a5-05cd6fb8d8cb.png?width=900&height=900&fit=bounds",
+            "source": "NZZ"
           }
         },
         {
           "id": "p2",
-          "headline": "USA führen begrenzte Angriffe auf iranische Insel Keschm aus",
-          "summary": "Die USA haben Angriffe auf die iranische Insel Keschm in der Straße von Hormus durchgeführt. US-Vertreter bezeichnen das Vorgehen laut New York Times und BBC als begrenzte Defensivmaßnahme ohne unmittelbare Eskalationspläne. Die Attacken erfolgten unmittelbar vor den US-Zwischenwahlen.",
-          "perspectives": "Tagesschau berichtet von einzelnen Angriffen und keiner vollständigen Wiederaufnahme der Kampfhandlungen, während die Zeit über Berichte des iranischen Staatsfernsehens und von US-Medien zu den Schlägen auf Keschm berichtet. The New York Times zitiert US-Offizielle, die die Aktion als Abwehrmaßnahme bezeichnen. BBC verweist bei den Angaben zum defensiven Charakter der Schläge auf den US-Partner CBS.",
+          "headline": "Nach schwerem Zugunglück: Spaniens Verkehrsminister tritt zurück",
+          "summary": "Nach dem schweren Zugunglück mit 69 Toten hat der spanische Verkehrsminister Óscar Puente seinen Rücktritt erklärt. Zuvor hatte er einen Rücktritt noch vehement ausgeschlossen. Die Regierung kündigte zudem neue Sicherheitsmaßnahmen für den Bahnverkehr an.",
+          "perspectives": null,
           "sources": [
-            {
-              "name": "Tagesschau",
-              "country": "DE",
-              "url": "https://www.tagesschau.de/ausland/asien/usa-iran-angriffe-126.html"
-            },
-            {
-              "name": "New York Times",
-              "country": "US",
-              "url": "https://www.nytimes.com/2026/11/02/us/politics/us-military-strike-defensive-iran.html"
-            },
             {
               "name": "BBC",
               "country": "UK",
-              "url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo"
-            },
-            {
-              "name": "Zeit",
-              "country": "DE",
-              "url": "https://www.zeit.de/politik/ausland/2026-05/iran-krieg-donald-trump-hormus-live"
-            }
-          ],
-          "time": "2026-11-03T02:35:59+00:00",
-          "image": {
-            "url": "https://images.tagesschau.de/image/c46f62dc-c9a2-446e-b6b2-842dfd189d8a/AAABoZ85e7g/AAABnSSvrFg/16x9-big/trump-5400.jpg?width=1024",
-            "source": "Tagesschau"
-          }
-        },
-        {
-          "id": "p3",
-          "headline": "USA kündigen neue Gespräche mit Russland und der Ukraine an",
-          "summary": "Die USA planen für kommende Woche neue dreiseitige Verhandlungen mit Russland und der Ukraine, die in Abu Dhabi stattfinden sollen. Nach Angaben des US-Sondergesandten Steve Witkoff verfolgt Washington dabei konkrete Verhandlungsziele. Es sind die ersten Verhandlungen in diesem Dreierformat seit Februar.",
-          "perspectives": "Tagesschau und Spiegel heben hervor, dass die drei Staaten seit Februar nicht mehr gemeinsam verhandelt haben und Witkoff konkrete Ziele verfolge. Financial Times nennt Abu Dhabi als Verhandlungsort. Handelsblatt betont ergänzend, dass trotz der geplanten Gespräche die tödlichen Angriffe im laufenden Konflikt weitergehen.",
-          "sources": [
-            {
-              "name": "Tagesschau",
-              "country": "DE",
-              "url": "https://www.tagesschau.de/ausland/amerika/ukraine-verhandlungen-104.html"
-            },
-            {
-              "name": "Handelsblatt",
-              "country": "DE",
-              "url": "https://www.handelsblatt.com/politik/international/ringen-um-kriegsende-usa-naechste-woche-verhandlungen-mit-ukraine-und-russland/100266793.html"
-            },
-            {
-              "name": "Spiegel",
-              "country": "DE",
-              "url": "https://www.spiegel.de/ausland/steve-witkoff-kuendigt-neue-gespraeche-mit-kyjiw-und-moskau-an-a-4d38d326-451d-496d-ac9e-f5ac4491253c"
-            },
-            {
-              "name": "Financial Times",
-              "country": "UK",
-              "url": "https://www.ft.com/content/cb91f234-85af-4686-9cc5-6f6189e0304c?syn-25a6b1a6=1"
-            }
-          ],
-          "time": "2026-11-03T00:35:42+00:00",
-          "image": {
-            "url": "https://images.tagesschau.de/image/1b12b7ff-2ca8-4272-8679-a4ee42bd6fc3/AAABoZ96qyE/AAABnSSvrFg/16x9-big/witkoff-164.jpg?width=1024",
-            "source": "Tagesschau"
-          }
-        },
-        {
-          "id": "p4",
-          "headline": "Russland greift Hilfszentrum in Ukraine an: Mindestens 26 Tote",
-          "summary": "Bei einem russischen Luftangriff auf ein Verteilzentrum für Hilfsgüter in der ukrainischen Region Saporischschja sind mindestens 26 Menschen getötet worden. Nach Angaben von Präsident Wolodymyr Selenskyj traf die Attacke eine Schule, in der Hilfen ausgegeben wurden. Die Ukraine wirft Moskau eine gezielte Bombardierung vor.",
-          "perspectives": "Tagesschau, BBC und Guardian berichten unter Berufung auf ukrainische Angaben von mindestens 26 Toten, während der Spiegel über 24 Tote berichtet. BBC verweist darauf, dass laut Kiew 3.000 Kilogramm schwere Fliegerbomben eingesetzt wurden. Guardian zitiert Selenskyj, der den Angriff als niederträchtig bezeichnete.",
-          "sources": [
-            {
-              "name": "Tagesschau",
-              "country": "DE",
-              "url": "https://www.tagesschau.de/ausland/ukraine-saporischschja-tote-100.html"
-            },
-            {
-              "name": "BBC",
-              "country": "UK",
-              "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o"
-            },
-            {
-              "name": "Spiegel",
-              "country": "DE",
-              "url": "https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-berichtet-von-luftangriff-mit-18-toten-bei-saporischschja-a-bc3b3fee-59a1-4120-8686-a7a64a7d0921"
+              "url": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo"
             },
             {
               "name": "Guardian",
               "country": "UK",
-              "url": "https://www.theguardian.com/world/2026/nov/03/russia-bombs-ukrainian-aid-centre-komyshuvakha"
-            }
-          ],
-          "time": "2026-11-02T18:15:00+00:00",
-          "image": {
-            "url": "https://images.tagesschau.de/image/86f7cb7c-53f7-4f94-b11f-dc56bbe00cb7/AAABoZ2pwgw/AAABnSSvrFg/16x9-big/truemmer-schule-saporischschja-100.jpg?width=1024",
-            "source": "Tagesschau"
-          }
-        },
-        {
-          "id": "p5",
-          "headline": "Streit in der Union über Schuldzuweisungen nach Krawallen bei Demos",
-          "summary": "Nach Ausschreitungen am Rande von Jugendprotesten streitet die Politik über die Herkunft der Krawallmacher. CSU-Innenminister Alexander Dobrindt hatte Randale einem migrantischen Milieu zugeschrieben. Norbert Röttgen widersprach der pauschalen Zuordnung, während Kanzler Friedrich Merz ein hartes Vorgehen ankündigte.",
-          "perspectives": "Zeit und Spiegel berichten über die Kritik von Norbert Röttgen an Dobrindts Aussagen und betonen, Röttgen fordere einen differenzierten Blick auf die Täter. Handelsblatt hebt hervor, dass die Polizeigewerkschaft GdP kein Verständnis für die Kritik an der Zuordnung zeigt. Tagesschau stellt Merz' Ankündigung heraus, mit der Härte des Gesetzes gegen Randalierer vorzugehen.",
-          "sources": [
-            {
-              "name": "Zeit",
-              "country": "DE",
-              "url": "https://www.zeit.de/politik/deutschland/2026-11/norbert-roettgen-alexander-dobrindt-cdu-randalierer"
+              "url": "https://www.theguardian.com/world/2026/nov/03/spain-transport-minister-oscar-puente-resigns-deadly-train-crash"
             },
             {
-              "name": "Spiegel",
+              "name": "FAZ",
               "country": "DE",
-              "url": "https://www.spiegel.de/politik/norbert-roettgen-widerspricht-alexander-dobrindt-bei-chaoten-aus-migrantischem-milieu-a-1db48d48-0a58-4633-b51f-98f3c3fd9aa2"
-            },
-            {
-              "name": "Handelsblatt",
-              "country": "DE",
-              "url": "https://www.handelsblatt.com/politik/deutschland/ausschreitungen-polizeigewerkschaft-kontert-kritik-an-zuordnung-der-krawalle/100266818.html"
+              "url": "https://www.faz.net/aktuell/politik/ausland/spaniens-verkehrsminister-oscar-puente-tritt-nach-zugunglueck-zurueck-201649112.html"
             },
             {
               "name": "Tagesschau",
               "country": "DE",
-              "url": "https://www.tagesschau.de/inland/jugendproteste-gewalt-merz-100.html"
+              "url": "https://www.tagesschau.de/ausland/spanien-zugunglueck-puente-ruecktritt-100.html"
             }
           ],
-          "time": "2026-11-02T14:59:58+00:00",
+          "time": "2026-11-03T20:58:56+00:00",
           "image": {
-            "url": "https://img.zeit.de/politik/deutschland/2026-11/norbert-roettgen-alexander-dobrindt-cdu-randalierer-foto-1/wide__820x461",
-            "source": "Zeit"
+            "url": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/d61f/live/6dc1cd30-d7c6-11f1-a701-fddedf244c16.jpg",
+            "source": "BBC"
           }
         },
         {
-          "id": "p6",
-          "headline": "Friedrich Merz fordert Frau als Nachfolgerin von Steinmeier",
-          "summary": "Bundeskanzler Friedrich Merz hat erklärt, dass auf Bundespräsident Frank-Walter Steinmeier eine Frau folgen soll. Nach langen Spekulationen legte sich Merz in einer internen Sitzung fest. Er kündigte an, eine Kandidatin der politischen Mitte vorzuschlagen.",
-          "perspectives": "Tagesschau und Handelsblatt berichten übereinstimmend über die Äußerung des Kanzlers, eine Frau für die Steinmeier-Nachfolge vorzuschlagen. Spiegel verweist darauf, dass sich Merz lange nicht klar positioniert hatte und die Zusage in einer internen Sitzung fiel. Zeit bestätigt, dass Merz keinen konkreten Namen nannte, sich aber auf eine Frau festlegte.",
+          "id": "p3",
+          "headline": "Trump kündigt Stopp der US-Militärhilfe für Israel an",
+          "summary": "US-Präsident Donald Trump hat angekündigt, die jährliche Militärhilfe in Höhe von vier Milliarden US-Dollar für Israel zum Jahresende zu stoppen. Dies sei Teil einer vor Monaten getroffenen Vereinbarung. In Israel löste der Schritt scharfe Kritik aus.",
+          "perspectives": null,
           "sources": [
             {
-              "name": "Tagesschau",
-              "country": "DE",
-              "url": "https://www.tagesschau.de/inland/merz-nachfolge-steinmeier-100.html"
+              "name": "New York Times",
+              "country": "US",
+              "url": "https://www.nytimes.com/2026/11/03/us/politics/trump-israel-aid-netanyahu.html"
             },
             {
               "name": "Handelsblatt",
               "country": "DE",
-              "url": "https://www.handelsblatt.com/politik/deutschland/bundespraesidentenwahl-merz-will-eine-frau-an-der-staatsspitze/100266760.html"
+              "url": "https://www.handelsblatt.com/politik/international/usa-israel-trump-will-militaerhilfe-an-israel-bis-jahresende-stoppen/100267032.html"
+            },
+            {
+              "name": "Guardian",
+              "country": "UK",
+              "url": "https://www.theguardian.com/us-news/2026/nov/03/donald-trump-usa-end-military-aid-to-israel-end-year-midterms"
+            }
+          ],
+          "time": "2026-11-03T17:17:11+00:00",
+          "image": {
+            "url": "https://static01.nyt.com/images/2026/11/03/us/politics/03vid-trump-israel-aid/03vid-trump-israel-aid-mediumSquareAt3X.jpg",
+            "source": "New York Times"
+          }
+        },
+        {
+          "id": "p4",
+          "headline": "Selenskyj zu Gesprächen mit Kanzler Merz in Berlin",
+          "summary": "Vor den anstehenden Friedensgesprächen ist der ukrainische Präsident Wolodymyr Selenskyj nach Berlin gereist, um sich mit Bundeskanzler Friedrich Merz abzustimmen. Merz sagte der Ukraine weitere Unterstützung zu und forderte mehr Engagement von europäischen Partnern.",
+          "perspectives": null,
+          "sources": [
+            {
+              "name": "FAZ",
+              "country": "DE",
+              "url": "https://www.faz.net/aktuell/politik/ukraine/selenskyj-bei-merz-in-berlin-europa-fordert-platz-am-verhandlungstisch-201647163.html"
+            },
+            {
+              "name": "Tagesschau",
+              "country": "DE",
+              "url": "https://www.tagesschau.de/ausland/europa/merz-selenskyj-134.html"
             },
             {
               "name": "Spiegel",
               "country": "DE",
-              "url": "https://www.spiegel.de/politik/deutschland/friedrich-merz-legt-sich-fest-das-naechste-staatsoberhaupt-soll-eine-frau-sein-a-95f4944b-b4b6-42d5-9dee-4af59ff8bdb2"
-            },
-            {
-              "name": "Zeit",
-              "country": "DE",
-              "url": "https://www.zeit.de/politik/deutschland/2026-11/bundespraesidentin-2027-cdu-ilse-aigner-friedrich-merz"
+              "url": "https://www.spiegel.de/politik/deutschland/friedrich-merz-empfaengt-wolodymyr-selenskyj-in-berlin-a-a4a7b25b-f7cd-4d42-aabe-d23ca56d5b63"
             }
           ],
-          "time": "2026-11-02T17:36:00+00:00",
+          "time": "2026-11-03T11:49:00+00:00",
           "image": {
-            "url": "https://images.tagesschau.de/image/a36daf46-80c0-4aed-a8c4-104c19a43449/AAABoZyaaIc/AAABnSSvrFg/16x9-big/merz-1776.jpg?width=1024",
-            "source": "Tagesschau"
+            "url": "https://media0.faz.net/image/253f25c574fd/w2038h1146x0y3/v/2026/11/03/vGxizMF0/der-ukrainische-praesident.webp",
+            "source": "FAZ"
           }
         }
       ]
@@ -216,157 +135,91 @@
       "items": [
         {
           "id": "w1",
-          "headline": "Binance-Kunden ziehen nach Hackerangriff Milliarden ab",
-          "summary": "Nach dem Diebstahl von 6,3 Milliarden Dollar bei der Kryptobörse Binance ziehen Kunden Milliardenbeträge ab. Das FBI macht nordkoreanische Hacker für den bisher größten Krypto-Raub verantwortlich. Nordkorea wies die Anschuldigungen als absurd und unbegründet zurück.",
-          "perspectives": "Tagesschau berichtet, dass Binance-Kunden trotz des Ersetzens eines Großteils der Gelder 3,6 Milliarden Dollar abgezogen haben. FAZ und BBC heben Pjöngjangs Dementi hervor. Handelsblatt betont, dass sich die Kurse von Bitcoin und anderen Kryptowährungen nach dem Schock wieder normalisiert haben.",
-          "sources": [
-            {
-              "name": "Handelsblatt",
-              "country": "DE",
-              "url": "https://www.handelsblatt.com/finanzen/maerkte/kryptowaehrungen-diese-folgen-hat-der-binance-hack-fuer-bitcoin-ether-und-co./100266746.html"
-            },
-            {
-              "name": "BBC",
-              "country": "UK",
-              "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo"
-            },
-            {
-              "name": "FAZ",
-              "country": "DE",
-              "url": "https://www.faz.net/aktuell/politik/ausland/nordkorea-weist-fbi-anschuldigung-zu-hackerangriff-auf-binance-zurueck-accg-201645717.html"
-            },
-            {
-              "name": "Tagesschau",
-              "country": "DE",
-              "url": "https://www.tagesschau.de/wirtschaft/finanzen/binance-kundengelder-100.html"
-            }
-          ],
-          "time": "2026-11-02T08:59:47+00:00",
-          "image": {
-            "url": "https://images.handelsblatt.com/LKpSuLNaTTBQ/cover/900/506/0/0/627/0/0.5/0.5/binance.jpg",
-            "source": "Handelsblatt"
-          }
-        },
-        {
-          "id": "w2",
-          "headline": "Apple erzielt Rekordumsatz dank starker iPhone-Verkäufe",
-          "summary": "Der US-Technologiekonzern Apple hat im vergangenen Quartal seinen Umsatz auf 114,5 Milliarden Dollar gesteigert. Treibende Kraft war das iPhone-Geschäft. Allerdings belasten drastisch steigende Preise für Speicherchips und Lieferengpässe bei neuen Modellen die Aussichten.",
-          "perspectives": "Spiegel beziffert den Quartalsumsatz exakt auf 114,5 Milliarden Dollar und weist auf den verhaltenen Ausblick hin. Zeit und Handelsblatt betonen, dass explodierende Speicherchippreise und Bauteilmangel das wichtigste Quartal vor Weihnachten belasten. FAZ hebt hervor, dass sich Apples Gesamtwachstum trotz des guten iPhone-Verkaufs verlangsamt.",
+          "headline": "BMW senkt Gewinnprognose für 2026 erneut ab",
+          "summary": "Der Autokonzern BMW hat seine Jahresprognose für 2026 zum zweiten Mal gesenkt und rechnet mit Verlusten im Automobilsegment. Verantwortlich dafür sind unter anderem Abschreibungen auf Teile des Produktportfolios sowie Kosten für den beschleunigten Stellenabbau.",
+          "perspectives": "Spiegel und Handelsblatt heben den beschleunigten Personalabbau als wesentlichen Kostentreiber hervor. Zeit und Handelsblatt betonen die Belastung durch Produktabschreibungen. Alle genannten Medien berichten übereinstimmend über die nachbörslich fallenden Aktienkurse.",
           "sources": [
             {
               "name": "Spiegel",
               "country": "DE",
-              "url": "https://www.spiegel.de/wirtschaft/apple-iphone-geschaeft-treibt-umsatz-auf-rekordniveau-a-5709dfd3-fc74-4efb-a4b0-75c9e7929db7"
+              "url": "https://www.spiegel.de/wirtschaft/bmw-prognose-fuer-2026-erneut-gesenkt-a-ec19601a-7b36-4467-860d-01e655ba77bb"
             },
             {
               "name": "Zeit",
               "country": "DE",
-              "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-11/apple-quartalszahlen-iphone-john-ternus-aktie"
-            },
-            {
-              "name": "FAZ",
-              "country": "DE",
-              "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/trotz-faltbarem-iphone-apples-wachstum-schwaecht-sich-ab-201645589.html"
+              "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-11/bmw-prognose-gewinnmarge-auto-unternehmen"
             },
             {
               "name": "Handelsblatt",
               "country": "DE",
-              "url": "https://www.handelsblatt.com/technik/it-internet/iphone-konzern-teure-speicherchips-treffen-apple-im-weihnachtsgeschaeft/100266784.html"
+              "url": "https://www.handelsblatt.com/unternehmen/industrie/autoindustrie-bmw-passt-prognose-zum-zweiten-mal-in-diesem-jahr-an/100267097.html"
             }
           ],
-          "time": "2026-11-02T23:53:00+00:00",
+          "time": "2026-11-03T20:19:46+00:00",
           "image": {
-            "url": "https://cdn.prod.www.spiegel.de/images/1950c744-0e82-4163-ac98-ac3af7e2855b_w520_r2.08_fpx50_fpy35.jpg",
+            "url": "https://cdn.prod.www.spiegel.de/images/e8bf344e-64f0-4cc2-8ec8-b0abf645382b_w520_r2.08_fpx67.34_fpy55.01.jpg",
             "source": "Spiegel"
           }
         },
         {
-          "id": "w3",
-          "headline": "KI-Start-up Anthropic offenbart vor Börsengang hohe Verluste",
-          "summary": "Vor dem geplanten Börsengang hat das US-KI-Unternehmen Anthropic seine Geschäftszahlen ergänzt. Der Quartalsumsatz stieg zwar kräftig im Vergleich zum Vorjahr, zeitgleich verzeichnet die Firma jedoch enorme Verluste. Grund dafür sind deutlich gestiegene Ausgaben.",
-          "perspectives": "The New York Times nennt für das dritte Quartal einen Umsatz von 17 Milliarden Dollar bei einem Nettoverlust von 23 Milliarden Dollar. Spiegel verweist darauf, dass sich die Verluste seit Jahresbeginn auf 104 Milliarden Dollar aufsummiert haben. Zeit hebt das Umsatzplus von 1.100 Prozent im Vergleich zum Vorjahresquartal hervor.",
+          "id": "w2",
+          "headline": "Autozulieferer Schaeffler streicht Tausende Stellen",
+          "summary": "Wegen der Krise in der Autoindustrie baut der Zulieferer Schaeffler fast 3.500 Stellen ab, davon rund 2.600 in Deutschland. Zudem sollen fünf Standorte geschlossen werden, vier davon in Deutschland.",
+          "perspectives": "NZZ nennt in ihrem Bericht mehr als 3.000 betroffene Mitarbeiter, während Zeit und Spiegel die genauere Zahl von knapp 3.500 Stellen nennen. NZZ berichtet exklusiv unter den Quellen, dass der Vorstand auf einen freiwilligen Gehaltsverzicht der Mitarbeiter hofft. Tagesschau spricht im Gegensatz dazu drastisch von einem Kahlschlag.",
           "sources": [
             {
-              "name": "New York Times",
-              "country": "US",
-              "url": "https://www.nytimes.com/2026/11/02/business/anthropic-earnings-ai.html"
+              "name": "NZZ",
+              "country": "CH",
+              "url": "https://www.nzz.ch/wirtschaft/automobilzulieferer-schaeffler-baut-tausende-weitere-jobs-ab-viele-davon-in-deutschland-ld.10052678"
             },
             {
-              "name": "Spiegel",
+              "name": "Tagesschau",
               "country": "DE",
-              "url": "https://www.spiegel.de/wirtschaft/anthropic-macht-vor-boersengang-milliardenverluste-a-de7f75ee-9284-4ae3-a433-8cc2d016df02"
+              "url": "https://www.tagesschau.de/wirtschaft/unternehmen/schaeffler-154.html"
             },
             {
               "name": "Zeit",
               "country": "DE",
-              "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-11/anthropic-boersengang-umsatz-kuenstliche-intelligenz-sec"
+              "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-11/autozulieferer-schaeffler-streicht-2600-jobs-standorte-deutschland"
             },
             {
-              "name": "Handelsblatt",
+              "name": "Spiegel",
               "country": "DE",
-              "url": "https://www.handelsblatt.com/technik/ki/ipo-anthropic-schreibt-wieder-verluste-bei-geringerer-marge/100266735.html"
+              "url": "https://www.spiegel.de/wirtschaft/unternehmen/schaeffler-baut-tausende-stellen-ab-und-schliesst-vier-deutsche-werke-a-d8d594dc-cc55-4a16-9ece-e3c76fcf22b3"
             }
           ],
-          "time": "2026-11-02T16:58:40+00:00",
+          "time": "2026-11-03T07:38:00+00:00",
           "image": {
-            "url": "https://static01.nyt.com/images/2026/11/02/multimedia/02Biz-Anthropic-Earnings-lvbz/02Biz-Anthropic-Earnings-lvbz-mediumSquareAt3X.jpg",
-            "source": "New York Times"
+            "url": "https://img-msp-prod.nzz.ch/2023/10/10/a7c68e0b-e3b3-414c-ac3b-7401ead23248.jpeg?width=900&height=900&fit=bounds",
+            "source": "NZZ"
           }
         },
         {
-          "id": "w4",
-          "headline": "Cyberangriff erhitzt Supermarkt-Kühlschränke in mehreren EU-Ländern",
-          "summary": "In mehreren europäischen Ländern sind Supermärkte Ziel von Hackerangriffen auf ihre Kühl- und Gefriersysteme geworden. Kriminelle veränderten die Temperatursteuerung aus der Ferne. Es ist nicht die erste Welle solcher Cyberattacken.",
-          "perspectives": "FAZ und BBC berichten, dass Angreifer die Kühltruhen aus der Ferne auf bis zu 50 Grad Celsius erhitzten. BBC und Guardian sprechen von betroffenen Supermärkten in sieben europäischen Ländern, während Tagesschau vor allem Geschäfte in Belgien und Schweden nennt. Tagesschau und FAZ verweisen zudem auf einen vorausgegangenen Cyberangriff auf Geschäfte in Frankreich.",
+          "id": "w3",
+          "headline": "Binance-Hack: Gefingierte Jobinterviews führten zum Raub",
+          "summary": "Nach dem historischen Krypto-Raub bei Binance im Wert von 6,3 Milliarden US-Dollar zeigen interne Untersuchungen, dass Hacker gefingierte Jobinterviews und KI-Werkzeuge nutzten. US-Behörden machen Nordkorea für den Angriff verantwortlich, was dieses bestreitet.",
+          "perspectives": "Handelsblatt erwähnt, dass der Angriff bereits im Juni begann, während Financial Times und BBC die Details zu den gefingerten Jobinterviews auf Plattformen hervorheben. Die BBC hebt als einzige Quelle das offizielle Dementi Nordkoreas hervor. Handelsblatt beleuchtet zudem die Absicherung deutscher Krypto-Anbieter.",
           "sources": [
             {
-              "name": "Tagesschau",
+              "name": "Handelsblatt",
               "country": "DE",
-              "url": "https://www.tagesschau.de/wirtschaft/technologie/cyberangriff-supermaerkte-100.html"
+              "url": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/milliarden-hack-hacker-nutzten-fingiertes-vorstellungsgespraech-fuer-attacke-auf-binance/100267116.html"
             },
             {
-              "name": "FAZ",
-              "country": "DE",
-              "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/cyberangriffe-auf-supermaerkte-in-belgien-und-schweden-accg-201643770.html"
+              "name": "Financial Times",
+              "country": "UK",
+              "url": "https://www.ft.com/content/1ed838c0-a525-49bb-b494-15e4d1296791?syn-25a6b1a6=1"
             },
             {
               "name": "BBC",
               "country": "UK",
-              "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo"
-            },
-            {
-              "name": "Guardian",
-              "country": "UK",
-              "url": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack"
+              "url": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o"
             }
           ],
-          "time": "2026-11-02T12:55:26+00:00",
+          "time": "2026-11-03T16:19:29+00:00",
           "image": {
-            "url": "https://images.tagesschau.de/image/9ee3a479-39fe-4adb-ab99-efee3f8f9598/AAABoZwkqqE/AAABnSSvrFg/16x9-big/cyberangriff-supermarkt-100.jpg?width=1024",
-            "source": "Tagesschau"
-          }
-        },
-        {
-          "id": "w5",
-          "headline": "Australiens Notenbank hebt Leitzins auf Höchststand seit 2008",
-          "summary": "Die Reserve Bank of Australia hat ihren Leitzins auf 4,85 Prozent angehoben. Dies ist die fünfte Zinserhöhung im laufenden Jahr und bringt den Zins auf den höchsten Stand seit 2008. Die Notenbank reagiert damit auf die anhaltend hohe Inflation im Land.",
-          "perspectives": "CNBC und Guardian berichten über die Zinsanhebung der Notenbank. CNBC betont, dass der Schritt den Erwartungen von Ökonomen entsprach. Guardian hebt hervor, dass die erneute Erhöhung auf 4,85 Prozent eine erhebliche Belastung für Hypothekennehmer darstellt.",
-          "sources": [
-            {
-              "name": "CNBC",
-              "country": "US",
-              "url": "https://www.cnbc.com/2026/11/03/australia-hikes-rates-18-year-high-finflation.html"
-            },
-            {
-              "name": "Guardian",
-              "country": "UK",
-              "url": "https://www.theguardian.com/australia-news/2026/nov/03/rba-interest-rates-decision-cash-rate-november-reserve-bank-australia"
-            }
-          ],
-          "time": "2026-11-03T03:46:20+00:00",
-          "image": {
-            "url": "https://i.guim.co.uk/img/media/4b59f9affe07234b60bcd306cbe130d9aa41c2ee/10_0_2500_2000/master/2500.jpg?width=700&quality=85&auto=format&fit=max&s=1b8def01e7b2868da14444f65a3b82d4",
-            "source": "Guardian"
+            "url": "https://images.handelsblatt.com/LKpSuLNaTTBQ/cover/900/506/0/0/627/0/0.5/0.5/binance.jpg",
+            "source": "Handelsblatt"
           }
         }
       ]
@@ -375,43 +228,93 @@
   "more": [
     {
       "section": "politik",
-      "headline": "Digitalgipfel in Berlin: Merz fordert mehr digitale Souveränität",
-      "source": "Tagesschau",
-      "country": "DE",
-      "url": "https://www.tagesschau.de/inland/digitalgipfel-wildberger-merz-ki-100.html",
-      "time": "2026-11-02T18:33:00+00:00",
+      "headline": "Nordkorea testet offenbar schon wieder eine Rakete",
+      "source": "NZZ",
+      "country": "CH",
+      "url": "https://www.nzz.ch/international/asien-und-pazifik/nordkorea-testet-offenbar-schon-wieder-eine-rakete-ld.10053655",
+      "time": "2026-11-04T03:57:39+00:00",
       "opinion": false,
-      "image": "https://images.tagesschau.de/image/8c3a5c5e-61ca-4caa-8488-8443339438aa/AAABoZzH20g/AAABnSSvrFg/16x9-big/merz-wildberger-100.jpg?width=1024"
+      "image": "https://img-msp-prod.nzz.ch/2026/11/04/a5495b96-3d65-4362-ba65-08a59ded54a7.jpg?width=900&height=900&fit=bounds"
     },
     {
       "section": "politik",
-      "headline": "US to drop South Africa, Rwanda from duty-free trade initiative",
-      "source": "Deutsche Welle",
+      "headline": "Migrationspolitik: Chancen-Aufenthaltsrecht: Knapp 40 Prozent bleiben dauerhaft",
+      "source": "Handelsblatt",
       "country": "DE",
-      "url": "https://www.dw.com/en/us-to-drop-south-africa-rwanda-from-duty-free-trade-initiative/a-79834508",
-      "time": "2026-11-02T21:40:00+00:00",
+      "url": "https://www.handelsblatt.com/politik/deutschland/migrationspolitik-chancen-aufenthaltsrecht-knapp-40-prozent-bleiben-dauerhaft/100267140.html",
+      "time": "2026-11-04T03:45:04+00:00",
+      "opinion": false,
+      "image": "https://images.handelsblatt.com/IK3B0SQGXU9F/cover/900/506/0/0/86/86/0.5/0.5/chancen-aufenthaltsrecht.jpg"
+    },
+    {
+      "section": "politik",
+      "headline": "US, Russia and China discuss meeting between Trump, Putin and Xi",
+      "source": "Financial Times",
+      "country": "UK",
+      "url": "https://www.ft.com/content/73c1d1cc-6bb2-43a6-8532-7823e5c1a40b?syn-25a6b1a6=1",
+      "time": "2026-11-04T03:44:52+00:00",
       "opinion": false,
       "image": null
     },
     {
       "section": "politik",
-      "headline": "Polen: Die Verfassungsgerichtskrise - kein Ende in Sicht",
-      "source": "Tagesschau",
-      "country": "DE",
-      "url": "https://www.tagesschau.de/ausland/europa/polen-verfassungsgericht-krise-100.html",
-      "time": "2026-11-03T02:25:42+00:00",
+      "headline": "Burnham revives hopes UK’s crumbling parliament will get a fix",
+      "source": "Politico Europe",
+      "country": "EU",
+      "url": "https://www.politico.eu/article/andy-burnham-revive-hope-uk-parliament-fix/",
+      "time": "2026-11-04T03:00:00+00:00",
       "opinion": false,
-      "image": "https://images.tagesschau.de/image/68b15cfe-a327-413c-8de4-27b126062e1a/AAABoZ8Sn_c/AAABnSSvrFg/16x9-big/polen-verfassungsgericht-130.jpg?width=1024"
+      "image": "https://www.politico.eu/wp-content/uploads/2026/10/07/GettyImages-2299044755-1024x682.jpg"
+    },
+    {
+      "section": "wirtschaft",
+      "headline": "No more rice grains in Kellogg's Rice Krispies due to changing weather",
+      "source": "BBC",
+      "country": "UK",
+      "url": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo",
+      "time": "2026-11-04T01:36:06+00:00",
+      "opinion": false,
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/dfad/live/fe845730-d7e3-11f1-8a01-8d54cbcf7487.jpg"
     },
     {
       "section": "politik",
-      "headline": "Korea-Konflikt: Nordkorea testet Streusprengkopf für Marschflugkörper",
-      "source": "Handelsblatt",
-      "country": "DE",
-      "url": "https://www.handelsblatt.com/politik/international/korea-konflikt-nordkorea-testet-streusprengkopf-fuer-marschflugkoerper/100266795.html",
-      "time": "2026-11-03T00:54:25+00:00",
+      "headline": "Canva layoffs: design giant to cut or relocate more than 1,200 jobs in major restructure",
+      "source": "Guardian",
+      "country": "UK",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/04/canva-layoffs-job-cuts-restructure",
+      "time": "2026-11-04T00:14:49+00:00",
       "opinion": false,
-      "image": "https://images.handelsblatt.com/ZY-yomBgHwVM/cover/900/506/0/0/288/288/0.5/0.5/nordkorea-testet-streusprengkopf.jpg"
+      "image": "https://i.guim.co.uk/img/media/1df62ce1cc8ffecf2d4291f28ff2212397c08553/473_0_3000_2400/master/3000.jpg?width=700&quality=85&auto=format&fit=max&s=0b9679fb3f4053219af2c60bd4c0c0ad"
+    },
+    {
+      "section": "politik",
+      "headline": "Renewable groups will have to invest in UK communities where they build projects",
+      "source": "Financial Times",
+      "country": "UK",
+      "url": "https://www.ft.com/content/834d9afc-a6d8-4916-85e6-a1d01490fc2e?syn-25a6b1a6=1",
+      "time": "2026-11-04T00:00:05+00:00",
+      "opinion": false,
+      "image": null
+    },
+    {
+      "section": "politik",
+      "headline": "U.S. Assisted Venezuela in Deadly Drone Strike, Officials Say",
+      "source": "New York Times",
+      "country": "US",
+      "url": "https://www.nytimes.com/2026/11/03/world/americas/us-venezuela-strike-eln-drug-trafficking.html",
+      "time": "2026-11-03T23:03:45+00:00",
+      "opinion": false,
+      "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03int-venezuela-us-bombing01-photo-vwmt/03int-venezuela-us-bombing01-photo-vwmt-mediumSquareAt3X.jpg"
+    },
+    {
+      "section": "politik",
+      "headline": "British lawyer Dapo Akande elected to UN top court in big diplomatic win",
+      "source": "Guardian",
+      "country": "UK",
+      "url": "https://www.theguardian.com/law/2026/nov/03/british-lawyer-dapo-akande-elected-to-un-international-court-of-justice-diplomatic-win",
+      "time": "2026-11-03T21:09:39+00:00",
+      "opinion": false,
+      "image": "https://i.guim.co.uk/img/media/42967ad5430df204dee5ec39b2565b922863454d/510_0_5112_4088/master/5112.jpg?width=700&quality=85&auto=format&fit=max&s=a2dad38ac07f607e762f43230caa4f4e"
     },
     {
       "section": "wirtschaft",
@@ -419,159 +322,109 @@
       "source": "BBC",
       "country": "UK",
       "url": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo",
-      "time": "2026-11-03T02:11:13+00:00",
+      "time": "2026-11-03T20:53:03+00:00",
       "opinion": false,
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/665c/live/802099e0-d6de-11f1-b2be-0146bf989691.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/2a94/live/6d035ba0-d778-11f1-a701-fddedf244c16.jpg"
     },
     {
       "section": "politik",
-      "headline": "Angriffe auf iPhones: Apple schickte Spionagewarnung an Teilnehmer von Merz' Asienreise",
-      "source": "Spiegel",
-      "country": "DE",
-      "url": "https://www.spiegel.de/politik/angriffe-auf-iphones-apple-schickte-spionagewarnung-an-teilnehmer-von-merz-asienreise-a-98dbae94-5415-4745-8df1-6d05c5a859c8",
-      "time": "2026-11-02T14:18:00+00:00",
-      "opinion": false,
-      "image": "https://cdn.prod.www.spiegel.de/images/23ce9d1d-9c54-4d49-a8c2-aaf54951ee8c_w520_r2.08_fpx45.3_fpy49.99.jpg"
-    },
-    {
-      "section": "politik",
-      "headline": "Afghanistan: Paris plant Rückführungen, USA prüfen Abschiebung auf Umwegen",
-      "source": "Spiegel",
-      "country": "DE",
-      "url": "https://www.spiegel.de/ausland/afghanistan-paris-plant-rueckfuehrungen-usa-pruefen-abschiebung-auf-umwegen-a-3904824b-52ab-4ce2-8dce-c7e73069667f",
-      "time": "2026-11-02T23:50:00+00:00",
-      "opinion": false,
-      "image": "https://cdn.prod.www.spiegel.de/images/aa10c7f7-56ae-4990-917d-ba70d5d1029a_w520_r2.08_fpx40.66_fpy53.jpg"
-    },
-    {
-      "section": "politik",
-      "headline": "Tarifstreit: Warnstreiks in der Metall- und Elektroindustrie",
-      "source": "Handelsblatt",
-      "country": "DE",
-      "url": "https://www.handelsblatt.com/video/politik/tarifstreit-warnstreiks-in-der-metall-und-elektroindustrie/100266723.html",
-      "time": "2026-11-02T15:38:42+00:00",
+      "headline": "Clash intensifies between Tusk and Nawrocki over Poland’s top court",
+      "source": "Politico Europe",
+      "country": "EU",
+      "url": "https://www.politico.eu/article/clash-intensifies-between-tusk-and-nawrocki-over-polands-top-court/",
+      "time": "2026-11-03T20:16:05+00:00",
       "opinion": false,
       "image": null
     },
     {
       "section": "politik",
-      "headline": "Ungarn: Flugzeug muss wegen Bombendrohung in Budapest notlanden",
-      "source": "Spiegel",
-      "country": "DE",
-      "url": "https://www.spiegel.de/ausland/ungarn-flugzeug-muss-wegen-bombendrohung-in-budapest-notlanden-a-c17974e2-af3e-419e-a630-e8f4cde67c21",
-      "time": "2026-11-02T20:13:00+00:00",
-      "opinion": false,
-      "image": "https://cdn.prod.www.spiegel.de/images/f90ee68a-76c4-4282-8c90-a9d892d503da_w520_r2.08_fpx62.66_fpy50.jpg"
-    },
-    {
-      "section": "politik",
-      "headline": "Militärkooperation: Pistorius will Klarheit über Kampfjet-Kooperation",
-      "source": "Handelsblatt",
-      "country": "DE",
-      "url": "https://www.handelsblatt.com/politik/international/militaerkooperation-pistorius-will-klarheit-ueber-kampfjet-kooperation/100266768.html",
-      "time": "2026-11-02T18:26:03+00:00",
-      "opinion": false,
-      "image": "https://images.handelsblatt.com/ZBM7wmCEEth0/cover/900/506/0/0/3/469/0.5/0.5/02.11.2026-berlin-boris-pistorius-l-spd-bundesminister-der-verteidigung-empfaengt-den-britisch.jpg"
-    },
-    {
-      "section": "politik",
-      "headline": "French pupils resume school blockades as country braces for more protests",
-      "source": "Guardian",
-      "country": "UK",
-      "url": "https://www.theguardian.com/education/2026/nov/02/franch-students-school-blockades-protests",
-      "time": "2026-11-02T18:17:33+00:00",
-      "opinion": false,
-      "image": "https://i.guim.co.uk/img/media/a2e2132d3e04846091f71be5fa7932ef1dcd20b9/0_0_4069_3255/master/4069.jpg?width=700&quality=85&auto=format&fit=max&s=3fce89e0204ae41568f154a6dd44f52f"
-    },
-    {
-      "section": "politik",
-      "headline": "Ministerin Reiche legt ersten Entwurf für Spritpreisdeckel-Gesetz vor",
+      "headline": "Renten könnten 2027 um 4,1 Prozent steigen",
       "source": "Tagesschau",
       "country": "DE",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/reiche-spritpreisdeckel-entwurf-100.html",
-      "time": "2026-11-02T17:05:39+00:00",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/rentenerhoehung-entwurf-100.html",
+      "time": "2026-11-03T19:05:51+00:00",
       "opinion": false,
-      "image": "https://images.tagesschau.de/image/cf5a8317-6f6d-4d52-8005-d01621cc19e2/AAABoZwyatQ/AAABnSSvrFg/16x9-big/tankstelle-394.jpg?width=1024"
+      "image": "https://images.tagesschau.de/image/17fdc558-340f-4273-b84d-ff571e7bb5d1/AAABndmPgZ0/AAABnSSvrFg/16x9-big/rente-416.jpg?width=1024"
     },
     {
       "section": "politik",
-      "headline": "Hubig legt Gesetzentwurf zur Verschärfung des Sexualstrafrechts vor",
-      "source": "Tagesschau",
-      "country": "DE",
-      "url": "https://www.tagesschau.de/inland/hubig-sexualstrafrecht-102.html",
-      "time": "2026-11-02T16:36:39+00:00",
-      "opinion": false,
-      "image": "https://images.tagesschau.de/image/00541fcf-2b21-4cc5-8f1d-087dfaf3e03f/AAABoZz_W50/AAABnSSvrFg/16x9-big/hubig-152.jpg?width=1024"
-    },
-    {
-      "section": "politik",
-      "headline": "Massive Cyberattacke auf Linken-Abgeordnete in Berlin",
-      "source": "Tagesschau",
-      "country": "DE",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/cyberattacke-linkspartei-mail-postfaecher-100.html",
-      "time": "2026-11-02T14:14:53+00:00",
-      "opinion": false,
-      "image": "https://images.tagesschau.de/image/268e7440-08c6-4492-84ec-6bd867a0afde/AAABnRAAbFU/AAABnSSvrFg/16x9-big/die-linke-logo-100.jpg?width=1024"
-    },
-    {
-      "section": "politik",
-      "headline": "Neun Tote bei Flugzeugabsturz in Florida",
-      "source": "Tagesschau",
-      "country": "DE",
-      "url": "https://www.tagesschau.de/ausland/amerika/flugzeugabsturz-usa-florida-100.html",
-      "time": "2026-11-02T12:33:01+00:00",
-      "opinion": false,
-      "image": "https://images.tagesschau.de/image/0e994a0d-39a0-4378-a18b-758a6a761f61/AAABoZsrMFA/AAABnSSvrFg/16x9-big/florida-186.jpg?width=1024"
-    },
-    {
-      "section": "politik",
-      "headline": "Bulgariens amtierende Präsidentin Jotowa gewinnt Stichwahl",
-      "source": "Tagesschau",
-      "country": "DE",
-      "url": "https://www.tagesschau.de/ausland/europa/stichwahl-bulgarien-102.html",
-      "time": "2026-11-02T09:57:30+00:00",
-      "opinion": false,
-      "image": "https://images.tagesschau.de/image/34fd81e3-ab88-4dbf-878b-3d7c22ad7dec/AAABoZjUoew/AAABnSSvrFg/16x9-big/ilijana-jotowa-102.jpg?width=1024"
-    },
-    {
-      "section": "politik",
-      "headline": "Kolumbien: Fünf Menschen bei Sprengstoffanschlägen getötet",
-      "source": "Spiegel",
-      "country": "DE",
-      "url": "https://www.spiegel.de/ausland/kolumbien-fuenf-menschen-bei-sprengstoffanschlaegen-getoetet-a-4470854a-f848-409e-b8f0-dd788ee5f7a9",
-      "time": "2026-11-02T19:32:00+00:00",
-      "opinion": false,
-      "image": "https://cdn.prod.www.spiegel.de/images/1230559c-4c73-4317-91bb-7ee4870d39f8_w520_r2.08_fpx33.33_fpy49.99.jpg"
-    },
-    {
-      "section": "politik",
-      "headline": "Nach dem Zugunglück: Die Spanier verlieren das Vertrauen in ihren Staat",
+      "headline": "Integrationsbeauftragte: „Niemand kommt gewalttätig zur Welt“",
       "source": "FAZ",
       "country": "DE",
-      "url": "https://www.faz.net/aktuell/politik/ausland/nach-unglueck-spanier-verlieren-vertrauen-in-den-staat-201644086.html",
-      "time": "2026-11-02T19:39:29+00:00",
+      "url": "https://www.faz.net/aktuell/politik/inland/gen-z-demos-integrationsbeauftragte-natalie-pawlik-warnt-davor-ganze-gruppen-abzustempeln-201646696.html",
+      "time": "2026-11-03T17:57:03+00:00",
       "opinion": false,
-      "image": "https://media0.faz.net/image/dafd69b5a64d/w6000h3375x0y214/202610/c2ee647a-f8d3-40fd-8129-afb308f18b1c/der-spanische.webp"
+      "image": "https://media0.faz.net/image/76dfbb35e749/w8256h4644x0y430/066836bc-a76a-45b5-8191-3129698e4cdf-_1VL6777.jpg/pluederungen-in-der-nacht-zu.webp"
     },
     {
       "section": "politik",
-      "headline": "Who Is Jason Turkish, Haley Stevens’s Fiancé?",
-      "source": "New York Times",
-      "country": "US",
-      "url": "https://www.nytimes.com/2026/11/02/us/politics/jason-turkish-haley-stevens-fiance.html",
-      "time": "2026-11-03T04:06:50+00:00",
+      "headline": "Oberbürgermeister in Kritik: Belästigungsvorwürfe: Palmer lässt Ehrenamt fürs Land ruhen",
+      "source": "Handelsblatt",
+      "country": "DE",
+      "url": "https://www.handelsblatt.com/politik/deutschland/oberbuergermeister-in-kritik-belaestigungsvorwuerfe-palmer-laesst-ehrenamt-fuers-land-ruhen/100267038.html",
+      "time": "2026-11-03T16:21:30+00:00",
       "opinion": false,
-      "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02pol-jason-turkish-topart-01-mkzj/02pol-jason-turkish-topart-01-mkzj-mediumSquareAt3X.jpg"
+      "image": "https://images.handelsblatt.com/1SR0mAiZQdQT/cover/900/506/0/0/146/145/0.5/0.5/boris-palmer.jpg"
+    },
+    {
+      "section": "politik",
+      "headline": "Briefversand wird teurer: Monopolkommission übt scharfe Kritik an Briefporto-Anhebung",
+      "source": "Handelsblatt",
+      "country": "DE",
+      "url": "https://www.handelsblatt.com/politik/deutschland/briefversand-wird-teurer-monopolkommission-uebt-scharfe-kritik-an-briefporto-anhebung/100266975.html",
+      "time": "2026-11-03T16:09:50+00:00",
+      "opinion": false,
+      "image": "https://images.handelsblatt.com/cJWmhzp1eyY9/cover/900/506/0/0/214/214/0.5/0.5/briefporto.jpg"
     },
     {
       "section": "wirtschaft",
-      "headline": "Digital-Gipfel: Sechs Bundesländer starten Open-Source-Bildungsplattform",
-      "source": "Handelsblatt",
+      "headline": "Renten sollen im kommenden Jahr um mehr als vier Prozent steigen",
+      "source": "Spiegel",
       "country": "DE",
-      "url": "https://www.handelsblatt.com/technik/it-internet/digital-gipfel-sechs-bundeslaender-starten-open-source-bildungsplattform/100266817.html",
-      "time": "2026-11-03T04:00:12+00:00",
+      "url": "https://www.spiegel.de/wirtschaft/soziales/renten-sollen-im-kommenden-jahr-um-mehr-als-vier-prozent-steigen-a-2eb94e51-0c6b-44b0-b521-0283b5ba9afa",
+      "time": "2026-11-03T15:52:00+00:00",
       "opinion": false,
-      "image": "https://images.handelsblatt.com/T2nsXjs1GPYW/cover/900/506/0/0/107/106/0.5/0.5/computer.jpg"
+      "image": "https://cdn.prod.www.spiegel.de/images/5b61f92f-05a0-4386-8eda-1353f09fcffb_w520_r2.08_fpx70_fpy54.99.jpg"
+    },
+    {
+      "section": "wirtschaft",
+      "headline": "starke pharmasparte: Bayer sieht den „Wendepunkt“ erreicht",
+      "source": "FAZ",
+      "country": "DE",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/bayer-sieht-den-wendepunkt-erreicht-201646732.html",
+      "time": "2026-11-03T15:05:50+00:00",
+      "opinion": false,
+      "image": "https://media0.faz.net/image/c09f156aec69/w5906h3322x0y273/202610/43601.0.2638740044/sieht-fortschritte-im-umbau.webp"
+    },
+    {
+      "section": "wirtschaft",
+      "headline": "Cyberangriffe auf Kühlanlagen auch in deutschen Supermärkten",
+      "source": "Tagesschau",
+      "country": "DE",
+      "url": "https://www.tagesschau.de/wirtschaft/digitales/cyberangriffe-supermarkt-hacker-100.html",
+      "time": "2026-11-03T13:49:27+00:00",
+      "opinion": false,
+      "image": "https://images.tagesschau.de/image/445e58cf-c3c2-4911-b9d3-21ade4e40cb7/AAABoaEEmkU/AAABnSSvrFg/16x9-big/kuehlregal-102.jpg?width=1024"
+    },
+    {
+      "section": "politik",
+      "headline": "Democrat James Talarico wins Texas Senate seat as blue wave sweeps US",
+      "source": "Financial Times",
+      "country": "UK",
+      "url": "https://www.ft.com/content/77c2eaca-4fe1-4c69-b3bd-c517b045ff37?syn-25a6b1a6=1",
+      "time": "2026-11-04T04:10:33+00:00",
+      "opinion": false,
+      "image": null
+    },
+    {
+      "section": "politik",
+      "headline": "GASTBEITRAG - Die Maschine optimiert Zwecke, der Mensch stiftet Sinn",
+      "source": "NZZ",
+      "country": "CH",
+      "url": "https://www.nzz.ch/meinung/die-maschine-optimiert-zwecke-der-mensch-stiftet-sinn-ld.10026387",
+      "time": "2026-11-04T04:05:00+00:00",
+      "opinion": true,
+      "image": "https://img-msp-prod.nzz.ch/2026/10/26/af80774d-26e5-4264-98ac-894d8a917449.jpg?width=900&height=900&fit=bounds"
     }
   ]
 }
