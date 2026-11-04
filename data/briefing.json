@@ -1,9 +1,9 @@
 {
   "date": "2026-11-04",
-  "generatedAt": "2026-11-04T05:11:31+01:00",
+  "generatedAt": "2026-11-04T10:46:07+01:00",
   "notice": "Die großen KI-Modelle waren überlastet, dieses Briefing stammt vom kleinen Ersatzmodell. Es kann ungenauer sein – prüf Wichtiges in den Quellen.",
   "aiModel": "gemini-3.5-flash-lite",
-  "push": "US-Midterms: Demokraten erobern laut Prognosen das Repräsentantenhaus",
+  "push": "US-Zwischenwahlen: Demokraten erobern die Mehrheit in beiden Kongresskammern",
   "breaking": [],
   "sections": [
     {
@@ -12,47 +12,42 @@
       "items": [
         {
           "id": "p1",
-          "headline": "US-Midterms: Demokraten erobern das Repräsentantenhaus",
-          "summary": "Bei den US-Zwischenwahlen zeichnet sich ein Erfolg für die Demokraten ab. Laut übereinstimmenden US-Medienberichten gewinnen sie die Mehrheit im Repräsentantenhaus. Zudem sicherten sie sich ersten Prognosen zufolge Senatssitze von den Republikanern.",
-          "perspectives": "Die NZZ berichtet, dass erste Ergebnisse auf eine Machtübernahme in beiden Kammern hindeuten, während Zeit und Tagesschau betonen, dass die Senatsentscheidung noch aussteht. Die NZZ bezeichnet Präsident Trump dabei als Ballast für die Republikaner. Tagesschau und Zeit heben stattdessen die gewonnenen Senatssitze hervor.",
+          "headline": "US-Zwischenwahlen: Demokraten erobern Repräsentantenhaus und Senat",
+          "summary": "Bei den US-Zwischenwahlen haben die Demokraten die Mehrheiten in beiden Kammern des Kongresses gewonnen. Präsident Trump räumte die Niederlage ein und kündigte Kooperation an, machte jedoch den Konflikt mit dem Iran und wirtschaftliche Faktoren für das Debakel verantwortlich.",
+          "perspectives": "Laut Tagesschau und Handelsblatt sprachen die Demokraten von einem historischen Erfolg und einem großen Comeback. Die New York Times bewertet den Ausgang als scharfe Abrechnung der Wähler mit der Agenda von Präsident Trump. Die Quellen berichten ansonsten übereinstimmend über den Kontrollverlust der Republikaner in beiden Kongresskammern.",
           "sources": [
             {
-              "name": "NZZ",
-              "country": "CH",
-              "url": "https://www.nzz.ch/international/midterms-2026-die-resultate-der-us-wahlen-im-ueberblick-ld.10047365"
+              "name": "New York Times",
+              "country": "US",
+              "url": "https://www.nytimes.com/2026/11/04/us/politics/midterm-election-photos.html"
             },
             {
               "name": "Tagesschau",
               "country": "DE",
-              "url": "https://www.tagesschau.de/newsticker/liveblog-midterms-2026-100.html"
+              "url": "https://www.tagesschau.de/eilmeldung/usa-midterms-118.html"
             },
             {
-              "name": "Zeit",
+              "name": "Handelsblatt",
               "country": "DE",
-              "url": "https://www.zeit.de/politik/ausland/2026-11/demokraten-holen-die-mehrheit-im-us-repraesentantenhaus"
+              "url": "https://www.handelsblatt.com/politik/international/us-parlamentswahl-trumps-republikaner-verlieren-us-parlamentswahl-deutlich/100267117.html"
             }
           ],
-          "time": "2026-11-04T03:40:31+00:00",
+          "time": "2026-11-04T08:37:25+00:00",
           "image": {
-            "url": "https://img-msp-prod.nzz.ch/2026/11/03/15062e02-79d8-41ed-b1a5-05cd6fb8d8cb.png?width=900&height=900&fit=bounds",
-            "source": "NZZ"
+            "url": "https://static01.nyt.com/images/2026/11/03/multimedia/03midterms-voting-photos-01-htkb/03midterms-voting-photos-01-htkb-mediumSquareAt3X.jpg",
+            "source": "New York Times"
           }
         },
         {
           "id": "p2",
-          "headline": "Nach schwerem Zugunglück: Spaniens Verkehrsminister tritt zurück",
-          "summary": "Nach dem schweren Zugunglück mit 69 Toten hat der spanische Verkehrsminister Óscar Puente seinen Rücktritt erklärt. Zuvor hatte er einen Rücktritt noch vehement ausgeschlossen. Die Regierung kündigte zudem neue Sicherheitsmaßnahmen für den Bahnverkehr an.",
-          "perspectives": null,
+          "headline": "Spaniens Verkehrsminister tritt nach schwerem Zugunglück zurück",
+          "summary": "Nach dem verheerenden Zusammenstoß zweier Züge in Spanien hat Verkehrsminister Óscar Puente die politischen Konsequenzen gezogen und seinen Rücktritt erklärt. Die Regierung beschloss zudem neue Sicherheitsmaßnahmen für den Bahnverkehr.",
+          "perspectives": "BBC nennt eine Zahl von mindestens 69 Getöteten, während FAZ und Tagesschau exakt 69 Tote angeben. FAZ hebt hervor, dass Puente einer der wichtigsten Vertrauten von Ministerpräsident Pedro Sánchez war. Die Quellen betonen übereinstimmend, dass der immense öffentliche Druck zum Rücktritt führte.",
           "sources": [
             {
               "name": "BBC",
               "country": "UK",
               "url": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo"
-            },
-            {
-              "name": "Guardian",
-              "country": "UK",
-              "url": "https://www.theguardian.com/world/2026/nov/03/spain-transport-minister-oscar-puente-resigns-deadly-train-crash"
             },
             {
               "name": "FAZ",
@@ -67,43 +62,15 @@
           ],
           "time": "2026-11-03T20:58:56+00:00",
           "image": {
-            "url": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/d61f/live/6dc1cd30-d7c6-11f1-a701-fddedf244c16.jpg",
+            "url": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/6eee/live/c7353ed0-d81e-11f1-a701-fddedf244c16.jpg",
             "source": "BBC"
           }
         },
         {
           "id": "p3",
-          "headline": "Trump kündigt Stopp der US-Militärhilfe für Israel an",
-          "summary": "US-Präsident Donald Trump hat angekündigt, die jährliche Militärhilfe in Höhe von vier Milliarden US-Dollar für Israel zum Jahresende zu stoppen. Dies sei Teil einer vor Monaten getroffenen Vereinbarung. In Israel löste der Schritt scharfe Kritik aus.",
-          "perspectives": null,
-          "sources": [
-            {
-              "name": "New York Times",
-              "country": "US",
-              "url": "https://www.nytimes.com/2026/11/03/us/politics/trump-israel-aid-netanyahu.html"
-            },
-            {
-              "name": "Handelsblatt",
-              "country": "DE",
-              "url": "https://www.handelsblatt.com/politik/international/usa-israel-trump-will-militaerhilfe-an-israel-bis-jahresende-stoppen/100267032.html"
-            },
-            {
-              "name": "Guardian",
-              "country": "UK",
-              "url": "https://www.theguardian.com/us-news/2026/nov/03/donald-trump-usa-end-military-aid-to-israel-end-year-midterms"
-            }
-          ],
-          "time": "2026-11-03T17:17:11+00:00",
-          "image": {
-            "url": "https://static01.nyt.com/images/2026/11/03/us/politics/03vid-trump-israel-aid/03vid-trump-israel-aid-mediumSquareAt3X.jpg",
-            "source": "New York Times"
-          }
-        },
-        {
-          "id": "p4",
-          "headline": "Selenskyj zu Gesprächen mit Kanzler Merz in Berlin",
-          "summary": "Vor den anstehenden Friedensgesprächen ist der ukrainische Präsident Wolodymyr Selenskyj nach Berlin gereist, um sich mit Bundeskanzler Friedrich Merz abzustimmen. Merz sagte der Ukraine weitere Unterstützung zu und forderte mehr Engagement von europäischen Partnern.",
-          "perspectives": null,
+          "headline": "Selenskyj in Berlin: Kanzler Merz sichert weitere Ukraine-Hilfe zu",
+          "summary": "Vor anstehenden Gesprächen ist der ukrainische Präsident Wolodymyr Selenskyj nach Berlin gereist. Kanzler Friedrich Merz betonte die feste Unterstützung Deutschlands für die Ukraine vor dem kommenden Winter und forderte ein stärkeres Engagement der europäischen Partner.",
+          "perspectives": "Der Spiegel hebt hervor, dass Merz die USA aufforderte, Selenskyj zu einem G20-Gipfel einzuladen, während Tagesschau und FAZ vor allem den Fokus auf die deutsche Unterstützung und die Sorge vor russisch-amerikanischen Deals legen. Die Quellen stimmen darin überein, dass der Ukraine ein harter Kriegswinter bevorsteht.",
           "sources": [
             {
               "name": "FAZ",
@@ -111,20 +78,43 @@
               "url": "https://www.faz.net/aktuell/politik/ukraine/selenskyj-bei-merz-in-berlin-europa-fordert-platz-am-verhandlungstisch-201647163.html"
             },
             {
+              "name": "Spiegel",
+              "country": "DE",
+              "url": "https://www.spiegel.de/politik/deutschland/friedrich-merz-der-kanzler-hat-drei-ukraine-botschaften-eine-davon-an-trump-a-44309bb4-59da-4595-a373-2ac92a5e90f1"
+            },
+            {
               "name": "Tagesschau",
               "country": "DE",
               "url": "https://www.tagesschau.de/ausland/europa/merz-selenskyj-134.html"
+            }
+          ],
+          "time": "2026-11-03T16:08:15+00:00",
+          "image": {
+            "url": "https://media0.faz.net/image/253f25c574fd/w2038h1146x0y3/v/2026/11/03/vGxizMF0/der-ukrainische-praesident.webp",
+            "source": "FAZ"
+          }
+        },
+        {
+          "id": "p4",
+          "headline": "Israel nach Parlamentswahl in politischer Blockade",
+          "summary": "Nach der Parlamentswahl in Israel hat Staatspräsident Herzog Konsultationen zur Regierungsbildung gestartet und zu historischen Kompromissen aufgerufen. Laut Spiegel ist die Bildung einer Koalition angesichts der Weigerung jüdischer Politiker zur Zusammenarbeit mit arabischen Parteien schwierig.",
+          "perspectives": "Tagesschau beschreibt den Start der Konsultationen als Ausweg aus der politischen Blockade, während Spiegel detailliert auf das Dilemma der arabischen Wähler und Parteien bei Koalitionsverhandlungen eingeht.",
+          "sources": [
+            {
+              "name": "Tagesschau",
+              "country": "DE",
+              "url": "https://www.tagesschau.de/ausland/asien/israel-wahl-konsultationen-herzog-100.html"
             },
             {
               "name": "Spiegel",
               "country": "DE",
-              "url": "https://www.spiegel.de/politik/deutschland/friedrich-merz-empfaengt-wolodymyr-selenskyj-in-berlin-a-a4a7b25b-f7cd-4d42-aabe-d23ca56d5b63"
+              "url": "https://www.spiegel.de/ausland/arabische-waehler-in-israel-schawarma-ja-koalition-nein-a-02415954-2c06-40a8-81ce-1f4198f7a529"
             }
           ],
-          "time": "2026-11-03T11:49:00+00:00",
+          "time": "2026-11-03T16:17:00+00:00",
           "image": {
-            "url": "https://media0.faz.net/image/253f25c574fd/w2038h1146x0y3/v/2026/11/03/vGxizMF0/der-ukrainische-praesident.webp",
-            "source": "FAZ"
+            "url": "https://images.tagesschau.de/image/b2f2524d-772c-46f6-9f34-819ba44b950a/AAABoaXCJOY/AAABnSSvrFg/16x9-big/herzog-180.jpg?width=1024",
+            "source": "Tagesschau"
           }
         }
       ]
@@ -135,75 +125,47 @@
       "items": [
         {
           "id": "w1",
-          "headline": "BMW senkt Gewinnprognose für 2026 erneut ab",
-          "summary": "Der Autokonzern BMW hat seine Jahresprognose für 2026 zum zweiten Mal gesenkt und rechnet mit Verlusten im Automobilsegment. Verantwortlich dafür sind unter anderem Abschreibungen auf Teile des Produktportfolios sowie Kosten für den beschleunigten Stellenabbau.",
-          "perspectives": "Spiegel und Handelsblatt heben den beschleunigten Personalabbau als wesentlichen Kostentreiber hervor. Zeit und Handelsblatt betonen die Belastung durch Produktabschreibungen. Alle genannten Medien berichten übereinstimmend über die nachbörslich fallenden Aktienkurse.",
+          "headline": "BMW senkt Gewinnprognose nach Einbruch im dritten Quartal",
+          "summary": "Wegen einer anhaltenden Absatzkrise in China hat BMW seine Gewinnprognose erneut gesenkt. Im dritten Quartal brach der Gewinn des Autobauers deutlich ein, und auch für das Schlussquartal rechnet der Konzern mit weiteren Belastungen.",
+          "perspectives": "Handelsblatt und Financial Times sprechen von einer Kürzung um mehr als ein Drittel beziehungsweise einer Reduzierung der Finanzziele zum zweiten Mal seit Juni. Tagesschau ergänzt, dass auch teure Abfindungen und das vorgezogene Aus älterer Modelle die Bilanz verhagelt haben.",
           "sources": [
             {
-              "name": "Spiegel",
+              "name": "Tagesschau",
               "country": "DE",
-              "url": "https://www.spiegel.de/wirtschaft/bmw-prognose-fuer-2026-erneut-gesenkt-a-ec19601a-7b36-4467-860d-01e655ba77bb"
-            },
-            {
-              "name": "Zeit",
-              "country": "DE",
-              "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-11/bmw-prognose-gewinnmarge-auto-unternehmen"
+              "url": "https://www.tagesschau.de/wirtschaft/unternehmen/bmw-gewinnwarnung-100.html"
             },
             {
               "name": "Handelsblatt",
               "country": "DE",
-              "url": "https://www.handelsblatt.com/unternehmen/industrie/autoindustrie-bmw-passt-prognose-zum-zweiten-mal-in-diesem-jahr-an/100267097.html"
+              "url": "https://www.handelsblatt.com/unternehmen/industrie/bmw-gewinn-des-autobauers-bricht-um-mehr-als-ein-drittel-ein/100265068.html"
+            },
+            {
+              "name": "Financial Times",
+              "country": "UK",
+              "url": "https://www.ft.com/content/ae311844-83e5-4612-8fa3-4c86f4c53b0e?syn-25a6b1a6=1"
             }
           ],
-          "time": "2026-11-03T20:19:46+00:00",
+          "time": "2026-11-04T07:16:02+00:00",
           "image": {
-            "url": "https://cdn.prod.www.spiegel.de/images/e8bf344e-64f0-4cc2-8ec8-b0abf645382b_w520_r2.08_fpx67.34_fpy55.01.jpg",
-            "source": "Spiegel"
+            "url": "https://images.tagesschau.de/image/439375cb-2e39-42d4-8d84-daed8c64c763/AAABlgxkf6Q/AAABnSSvrFg/16x9-big/bmw-235.jpg?width=1024",
+            "source": "Tagesschau"
           }
         },
         {
           "id": "w2",
-          "headline": "Autozulieferer Schaeffler streicht Tausende Stellen",
-          "summary": "Wegen der Krise in der Autoindustrie baut der Zulieferer Schaeffler fast 3.500 Stellen ab, davon rund 2.600 in Deutschland. Zudem sollen fünf Standorte geschlossen werden, vier davon in Deutschland.",
-          "perspectives": "NZZ nennt in ihrem Bericht mehr als 3.000 betroffene Mitarbeiter, während Zeit und Spiegel die genauere Zahl von knapp 3.500 Stellen nennen. NZZ berichtet exklusiv unter den Quellen, dass der Vorstand auf einen freiwilligen Gehaltsverzicht der Mitarbeiter hofft. Tagesschau spricht im Gegensatz dazu drastisch von einem Kahlschlag.",
-          "sources": [
-            {
-              "name": "NZZ",
-              "country": "CH",
-              "url": "https://www.nzz.ch/wirtschaft/automobilzulieferer-schaeffler-baut-tausende-weitere-jobs-ab-viele-davon-in-deutschland-ld.10052678"
-            },
-            {
-              "name": "Tagesschau",
-              "country": "DE",
-              "url": "https://www.tagesschau.de/wirtschaft/unternehmen/schaeffler-154.html"
-            },
-            {
-              "name": "Zeit",
-              "country": "DE",
-              "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-11/autozulieferer-schaeffler-streicht-2600-jobs-standorte-deutschland"
-            },
-            {
-              "name": "Spiegel",
-              "country": "DE",
-              "url": "https://www.spiegel.de/wirtschaft/unternehmen/schaeffler-baut-tausende-stellen-ab-und-schliesst-vier-deutsche-werke-a-d8d594dc-cc55-4a16-9ece-e3c76fcf22b3"
-            }
-          ],
-          "time": "2026-11-03T07:38:00+00:00",
-          "image": {
-            "url": "https://img-msp-prod.nzz.ch/2023/10/10/a7c68e0b-e3b3-414c-ac3b-7401ead23248.jpeg?width=900&height=900&fit=bounds",
-            "source": "NZZ"
-          }
-        },
-        {
-          "id": "w3",
-          "headline": "Binance-Hack: Gefingierte Jobinterviews führten zum Raub",
-          "summary": "Nach dem historischen Krypto-Raub bei Binance im Wert von 6,3 Milliarden US-Dollar zeigen interne Untersuchungen, dass Hacker gefingierte Jobinterviews und KI-Werkzeuge nutzten. US-Behörden machen Nordkorea für den Angriff verantwortlich, was dieses bestreitet.",
-          "perspectives": "Handelsblatt erwähnt, dass der Angriff bereits im Juni begann, während Financial Times und BBC die Details zu den gefingerten Jobinterviews auf Plattformen hervorheben. Die BBC hebt als einzige Quelle das offizielle Dementi Nordkoreas hervor. Handelsblatt beleuchtet zudem die Absicherung deutscher Krypto-Anbieter.",
+          "headline": "Binance-Hack: Gefälschte Vorstellungsgespräche führten zum Milliardenraub",
+          "summary": "Interne Ermittlungen der Kryptobörse Binance haben ergeben, dass der Cyberangriff im Juni, bei dem Kryptowerte im Wert von 6,3 Milliarden Dollar erbeutet wurden, durch gefälschte Jobinterviews eingeleitet wurde. Hacker nutzten manipulierte Profile, um Schadsoftware einzuschleusen.",
+          "perspectives": null,
           "sources": [
             {
               "name": "Handelsblatt",
               "country": "DE",
               "url": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/milliarden-hack-hacker-nutzten-fingiertes-vorstellungsgespraech-fuer-attacke-auf-binance/100267116.html"
+            },
+            {
+              "name": "New York Times",
+              "country": "US",
+              "url": "https://www.nytimes.com/2026/10/30/business/binances-hack-customer-protections.html"
             },
             {
               "name": "Financial Times",
@@ -221,6 +183,52 @@
             "url": "https://images.handelsblatt.com/LKpSuLNaTTBQ/cover/900/506/0/0/627/0/0.5/0.5/binance.jpg",
             "source": "Handelsblatt"
           }
+        },
+        {
+          "id": "w3",
+          "headline": "EU-Kommission genehmigt JD.com-Übernahme von MediaMarktSaturn",
+          "summary": "Die Europäische Kommission hat dem chinesischen Tech-Riesen JD.com die Übernahme der MediaMarktSaturn-Muttergesellschaft genehmigt. An die Freigabe sind jedoch Auflagen geknüpft, um unfaire Staatshilfen und Wettbewerbsverzerrungen zu verhindern.",
+          "perspectives": "Zeit und Tagesschau berichten übereinstimmend über die erfolgte Zustimmung der EU, wobei Tagesschau betont, dass es sich um Europas größten Elektronikfachhändler handelt. Spiegel hebt die explizite Zusicherung von JD.com hervor, keine unfairen Staatshilfen zur Wettbewerbsverzerrung einzusetzen.",
+          "sources": [
+            {
+              "name": "Tagesschau",
+              "country": "DE",
+              "url": "https://www.tagesschau.de/wirtschaft/unternehmen/eu-mediamarkt-saturn-jd-genehmigung-100.html"
+            },
+            {
+              "name": "Zeit",
+              "country": "DE",
+              "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-11/mediamarktsaturn-jd-com-ceconomy-eu-kommission-uebernahme-gxe"
+            },
+            {
+              "name": "Spiegel",
+              "country": "DE",
+              "url": "https://www.spiegel.de/wirtschaft/unternehmen/mediamarkt-saturn-eu-kommission-genehmigt-uebernahme-durch-chinesischen-techriesen-jd-com-a-72d1e702-9517-4dd9-a124-16d050f8e556"
+            }
+          ],
+          "time": "2026-11-03T10:51:00+00:00",
+          "image": {
+            "url": "https://images.tagesschau.de/image/95591cc8-7e78-42f1-92f2-fc324115d59b/AAABoaEcUVU/AAABnSSvrFg/16x9-big/mediamarkt-saturn-102.jpg?width=1024",
+            "source": "Tagesschau"
+          }
+        },
+        {
+          "id": "w4",
+          "headline": "Continental rechnet trotz Autokrise mit höherer Rendite",
+          "summary": "Der Reifenhersteller Continental hat trotz der Krise auf dem Automarkt seine Renditeerwartungen gesteigert. Das Unternehmen plant, das Ergebnis durch höhere Preise zu verbessern.",
+          "perspectives": "Bisher nur von Handelsblatt berichtet.",
+          "sources": [
+            {
+              "name": "Handelsblatt",
+              "country": "DE",
+              "url": "https://www.handelsblatt.com/unternehmen/industrie/reifenhersteller-conti-erwartet-trotz-hoeherer-kautschukpreise-mehr-rendite/100267224.html"
+            }
+          ],
+          "time": "2026-11-04T09:33:44+00:00",
+          "image": {
+            "url": "https://images.handelsblatt.com/MSMeE0-4Z6ET/cover/900/506/0/0/0/464/0.5/0.5/file-photo-the-logo-of-german-tyremaker-continental-is-pictured-on-tyres-at-the-plant-in-korbach-g.jpg",
+            "source": "Handelsblatt"
+          }
         }
       ]
     }
@@ -228,113 +236,173 @@
   "more": [
     {
       "section": "politik",
-      "headline": "Nordkorea testet offenbar schon wieder eine Rakete",
-      "source": "NZZ",
-      "country": "CH",
-      "url": "https://www.nzz.ch/international/asien-und-pazifik/nordkorea-testet-offenbar-schon-wieder-eine-rakete-ld.10053655",
-      "time": "2026-11-04T03:57:39+00:00",
-      "opinion": false,
-      "image": "https://img-msp-prod.nzz.ch/2026/11/04/a5495b96-3d65-4362-ba65-08a59ded54a7.jpg?width=900&height=900&fit=bounds"
-    },
-    {
-      "section": "politik",
-      "headline": "Migrationspolitik: Chancen-Aufenthaltsrecht: Knapp 40 Prozent bleiben dauerhaft",
+      "headline": "Reform: Wie viel Netto bleibt Ihnen 2027 vom Gehalt?",
       "source": "Handelsblatt",
       "country": "DE",
-      "url": "https://www.handelsblatt.com/politik/deutschland/migrationspolitik-chancen-aufenthaltsrecht-knapp-40-prozent-bleiben-dauerhaft/100267140.html",
-      "time": "2026-11-04T03:45:04+00:00",
+      "url": "https://www.handelsblatt.com/politik/deutschland/regierung-was-bedeuten-die-reformplaene-2027-fuer-ihr-nettogehalt/100260104.html",
+      "time": "2026-11-04T09:44:00+00:00",
       "opinion": false,
-      "image": "https://images.handelsblatt.com/IK3B0SQGXU9F/cover/900/506/0/0/86/86/0.5/0.5/chancen-aufenthaltsrecht.jpg"
+      "image": "https://images.handelsblatt.com/7Bz1BzTBpXTM/cover/900/506/0/0/0/0/0.5/0.5/reformpaket-rechner.jpg"
     },
     {
       "section": "politik",
-      "headline": "US, Russia and China discuss meeting between Trump, Putin and Xi",
-      "source": "Financial Times",
-      "country": "UK",
-      "url": "https://www.ft.com/content/73c1d1cc-6bb2-43a6-8532-7823e5c1a40b?syn-25a6b1a6=1",
-      "time": "2026-11-04T03:44:52+00:00",
-      "opinion": false,
-      "image": null
-    },
-    {
-      "section": "politik",
-      "headline": "Burnham revives hopes UK’s crumbling parliament will get a fix",
+      "headline": "Elon Musk suffers major blow in US midterms",
       "source": "Politico Europe",
       "country": "EU",
-      "url": "https://www.politico.eu/article/andy-burnham-revive-hope-uk-parliament-fix/",
-      "time": "2026-11-04T03:00:00+00:00",
+      "url": "https://www.politico.eu/article/elon-musk-dealt-major-blow-in-midterm-elections-2026/",
+      "time": "2026-11-04T09:43:13+00:00",
       "opinion": false,
-      "image": "https://www.politico.eu/wp-content/uploads/2026/10/07/GettyImages-2299044755-1024x682.jpg"
+      "image": null
     },
     {
       "section": "wirtschaft",
-      "headline": "No more rice grains in Kellogg's Rice Krispies due to changing weather",
-      "source": "BBC",
-      "country": "UK",
-      "url": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo",
-      "time": "2026-11-04T01:36:06+00:00",
+      "headline": "Dax aktuell: Midterms bewegen Dax ins Plus – Heidelberg-Aktie springt nach oben",
+      "source": "Handelsblatt",
+      "country": "DE",
+      "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-midterms-bewegen-dax-ins-plus-heidelberg-aktie-springt-nach-oben/100267175.html",
+      "time": "2026-11-04T09:37:17+00:00",
       "opinion": false,
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/dfad/live/fe845730-d7e3-11f1-8a01-8d54cbcf7487.jpg"
-    },
-    {
-      "section": "politik",
-      "headline": "Canva layoffs: design giant to cut or relocate more than 1,200 jobs in major restructure",
-      "source": "Guardian",
-      "country": "UK",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/04/canva-layoffs-job-cuts-restructure",
-      "time": "2026-11-04T00:14:49+00:00",
-      "opinion": false,
-      "image": "https://i.guim.co.uk/img/media/1df62ce1cc8ffecf2d4291f28ff2212397c08553/473_0_3000_2400/master/3000.jpg?width=700&quality=85&auto=format&fit=max&s=0b9679fb3f4053219af2c60bd4c0c0ad"
-    },
-    {
-      "section": "politik",
-      "headline": "Renewable groups will have to invest in UK communities where they build projects",
-      "source": "Financial Times",
-      "country": "UK",
-      "url": "https://www.ft.com/content/834d9afc-a6d8-4916-85e6-a1d01490fc2e?syn-25a6b1a6=1",
-      "time": "2026-11-04T00:00:05+00:00",
-      "opinion": false,
-      "image": null
-    },
-    {
-      "section": "politik",
-      "headline": "U.S. Assisted Venezuela in Deadly Drone Strike, Officials Say",
-      "source": "New York Times",
-      "country": "US",
-      "url": "https://www.nytimes.com/2026/11/03/world/americas/us-venezuela-strike-eln-drug-trafficking.html",
-      "time": "2026-11-03T23:03:45+00:00",
-      "opinion": false,
-      "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03int-venezuela-us-bombing01-photo-vwmt/03int-venezuela-us-bombing01-photo-vwmt-mediumSquareAt3X.jpg"
-    },
-    {
-      "section": "politik",
-      "headline": "British lawyer Dapo Akande elected to UN top court in big diplomatic win",
-      "source": "Guardian",
-      "country": "UK",
-      "url": "https://www.theguardian.com/law/2026/nov/03/british-lawyer-dapo-akande-elected-to-un-international-court-of-justice-diplomatic-win",
-      "time": "2026-11-03T21:09:39+00:00",
-      "opinion": false,
-      "image": "https://i.guim.co.uk/img/media/42967ad5430df204dee5ec39b2565b922863454d/510_0_5112_4088/master/5112.jpg?width=700&quality=85&auto=format&fit=max&s=a2dad38ac07f607e762f43230caa4f4e"
+      "image": "https://images.handelsblatt.com/bckzfpdOn42n/cover/900/506/0/1/0/0/0.5/0.5/graph-aktienkurs-aktienchart-dax-online-dax-bericht.jpg"
     },
     {
       "section": "wirtschaft",
-      "headline": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
-      "source": "BBC",
-      "country": "UK",
-      "url": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo",
-      "time": "2026-11-03T20:53:03+00:00",
+      "headline": "Führungskräfte in Deutschland: Weibliche Führungskräfte verdienen im Vergleich deutlich weniger",
+      "source": "Zeit",
+      "country": "DE",
+      "url": "https://www.zeit.de/wirtschaft/2026-11/fuehrungskraefte-deutschland-arbeitsmarkt-gehalt-branche-gxe",
+      "time": "2026-11-04T09:28:23+00:00",
       "opinion": false,
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/2a94/live/6d035ba0-d778-11f1-a701-fddedf244c16.jpg"
+      "image": "https://img.zeit.de/wirtschaft/2026-11/fuehrungskraefte-deutschland-arbeitsmarkt-gehalt-branche-gxe-foto-1/wide__820x461"
+    },
+    {
+      "section": "wirtschaft",
+      "headline": "Digitale Hausmeister: „Die Reinigungstour nachts macht der Roboter allein“",
+      "source": "FAZ",
+      "country": "DE",
+      "url": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/buero-gewerbe/wolf-dieter-adlhoch-wie-dussmann-auf-reinigungsroboter-setzt-accg-201623340.html",
+      "time": "2026-11-04T09:10:00+00:00",
+      "opinion": false,
+      "image": "https://media0.faz.net/image/293bc3645701/w5408h3042x0y350/202607/43601.0.2308696537/kleiner-saugroboter.webp"
+    },
+    {
+      "section": "wirtschaft",
+      "headline": "Immobilien: Vonovia unter Druck – droht nun eine Kürzung der Dividende?",
+      "source": "Handelsblatt",
+      "country": "DE",
+      "url": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-vonovia-unter-druck-droht-nun-eine-kuerzung-der-dividende/100265173.html",
+      "time": "2026-11-04T09:05:53+00:00",
+      "opinion": false,
+      "image": "https://images.handelsblatt.com/XVjlO4GSIZPe/cover/900/506/0/0/143/142/0.5/0.5/vonovia.jpg"
+    },
+    {
+      "section": "wirtschaft",
+      "headline": "+++ Geschäftszahlen +++: Novo Nordisk hebt Prognose zum dritten Mal an – Deutliches Gewinnplus bei Heidelberg Materials",
+      "source": "Handelsblatt",
+      "country": "DE",
+      "url": "https://www.handelsblatt.com/unternehmen/industrie/quartalszahlen-novo-nordisk-hebt-seine-prognose-zum-dritten-mal-an/24098412.html",
+      "time": "2026-11-04T08:52:00+00:00",
+      "opinion": false,
+      "image": "https://images.handelsblatt.com/xE1OAyXxGojb/cover/900/506/0/0/177/284/0.5/0.5/the-logo-of-pharmaceutical-company-novo-is-displayed-in-front-of-its-offices-in-bagsvaerd-copenhage.jpg"
     },
     {
       "section": "politik",
-      "headline": "Clash intensifies between Tusk and Nawrocki over Poland’s top court",
-      "source": "Politico Europe",
-      "country": "EU",
-      "url": "https://www.politico.eu/article/clash-intensifies-between-tusk-and-nawrocki-over-polands-top-court/",
-      "time": "2026-11-03T20:16:05+00:00",
+      "headline": "Migration: Knapp 40 Prozent der Menschen im Chancen-Aufenthalt bleiben dauerhaft",
+      "source": "Spiegel",
+      "country": "DE",
+      "url": "https://www.spiegel.de/politik/deutschland/migration-knapp-40-prozent-der-menschen-im-chancen-aufenthalt-bleiben-dauerhaft-a-587d6b3f-aa59-4db5-8a5b-cb3386f9975e",
+      "time": "2026-11-04T08:51:00+00:00",
+      "opinion": false,
+      "image": "https://cdn.prod.www.spiegel.de/images/7bc4aef8-a064-47a5-a6bf-70cace72a046_w520_r2.08_fpx61.31_fpy49.99.jpg"
+    },
+    {
+      "section": "politik",
+      "headline": "Indonesia deploys 20,000 soldiers as wiretapping scandal erupts",
+      "source": "Financial Times",
+      "country": "UK",
+      "url": "https://www.ft.com/content/b82627c8-726b-471d-9e49-f28b06765e79?syn-25a6b1a6=1",
+      "time": "2026-11-04T08:46:38+00:00",
       "opinion": false,
       "image": null
+    },
+    {
+      "section": "politik",
+      "headline": "Oberbürgermeister in Kritik: Belästigungsvorwürfe - Palmer lässt Ehrenamt fürs Land ruhen",
+      "source": "Handelsblatt",
+      "country": "DE",
+      "url": "https://www.handelsblatt.com/politik/deutschland/oberbuergermeister-in-kritik-belaestigungsvorwuerfe-palmer-laesst-ehrenamt-fuers-land-ruhen/100267038.html",
+      "time": "2026-11-04T08:10:25+00:00",
+      "opinion": false,
+      "image": "https://images.handelsblatt.com/1SR0mAiZQdQT/cover/900/506/0/0/146/145/0.5/0.5/boris-palmer.jpg"
+    },
+    {
+      "section": "politik",
+      "headline": "Irankrieg: Seeminen zerstören offenbar vier Tanker in der Straße von Hormus",
+      "source": "Zeit",
+      "country": "DE",
+      "url": "https://www.zeit.de/politik/ausland/2026-05/iran-krieg-donald-trump-hormus-live",
+      "time": "2026-11-04T07:43:31+00:00",
+      "opinion": false,
+      "image": "https://img.zeit.de/politik/2026-11/usa-iran-angriffe-militaer/wide__820x461"
+    },
+    {
+      "section": "politik",
+      "headline": "Aukus is ‘worst, riskiest and most costly’ Australian defence decision ever, public inquiry into submarine deal says",
+      "source": "Guardian",
+      "country": "UK",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/04/aukus-worst-australian-defence-decision-ever-public-inquiry",
+      "time": "2026-11-04T07:02:44+00:00",
+      "opinion": false,
+      "image": "https://i.guim.co.uk/img/media/167a379cd3783bea5006d33041f5bc593bdc7518/796_281_5493_4394/master/5493.jpg?width=700&quality=85&auto=format&fit=max&s=c871b901fa68069a26d0d5060a1885e3"
+    },
+    {
+      "section": "politik",
+      "headline": "Ukraine-Krieg: Drohnen treffen Logistikzentrum von russischem Onlinehändler Ozon",
+      "source": "Spiegel",
+      "country": "DE",
+      "url": "https://www.spiegel.de/ausland/ukraine-krieg-drohnen-treffen-logistikzentrum-von-russischem-onlinehaendler-ozon-a-a09598ba-54e5-4691-9911-a1b2f8933c78",
+      "time": "2026-11-04T06:50:00+00:00",
+      "opinion": false,
+      "image": "https://cdn.prod.www.spiegel.de/images/99e43931-8704-4e2e-a409-9e6e367df43f_w520_r2.08_fpx54.98_fpy59.02.jpg"
+    },
+    {
+      "section": "politik",
+      "headline": "Liveblog Nahost: Trump: Keine unmittelbaren Pläne für Angriff auf Iran",
+      "source": "FAZ",
+      "country": "DE",
+      "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-nahost-trump-keine-unmittelbaren-plaene-fuer-angriff-auf-iran-faz-200583539.html",
+      "time": "2026-11-04T06:35:45+00:00",
+      "opinion": false,
+      "image": "https://media0.faz.net/image/e71b277c54d4/w2058h1158x0y15/202611/8db1a50e-5d88-4377-b997-26e7f9a4f726/us-praesident-donald-trump-am.webp"
+    },
+    {
+      "section": "politik",
+      "headline": "Verfassungskrise: Jetzt ermittelt Polens Justiz gegen Präsident Nawrocki",
+      "source": "FAZ",
+      "country": "DE",
+      "url": "https://www.faz.net/aktuell/politik/ausland/krise-um-polnisches-verfassungsgericht-justiz-gegen-praesident-nawrocki-accg-201649240.html",
+      "time": "2026-11-04T05:58:01+00:00",
+      "opinion": false,
+      "image": "https://media0.faz.net/image/e8ded0a28253/w640h360x0y109/202611/b224d451-e035-48e2-867b-03f373191f41/haende-weg-vom.webp"
+    },
+    {
+      "section": "politik",
+      "headline": "ANC faces anger over poor services as South Africans vote in local elections",
+      "source": "Guardian",
+      "country": "UK",
+      "url": "https://www.theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts",
+      "time": "2026-11-04T04:00:23+00:00",
+      "opinion": false,
+      "image": "https://i.guim.co.uk/img/media/ab849d0dfce7fca0440c040983efe4e27460cf1e/1440_0_7200_5760/master/7200.jpg?width=700&quality=85&auto=format&fit=max&s=2b4b7bc65d60feb67a8ced55d59c7921"
+    },
+    {
+      "section": "politik",
+      "headline": "Seven flights across Europe targeted by suspected bomb threats",
+      "source": "BBC",
+      "country": "UK",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo",
+      "time": "2026-11-03T20:42:47+00:00",
+      "opinion": false,
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/db91/live/79069d70-d79d-11f1-84dd-e55f4bec0ecd.png"
     },
     {
       "section": "politik",
@@ -348,83 +416,23 @@
     },
     {
       "section": "politik",
-      "headline": "Integrationsbeauftragte: „Niemand kommt gewalttätig zur Welt“",
-      "source": "FAZ",
+      "headline": "Cyprus: From ties with Russia to a strategic alignment with the US",
+      "source": "Deutsche Welle",
       "country": "DE",
-      "url": "https://www.faz.net/aktuell/politik/inland/gen-z-demos-integrationsbeauftragte-natalie-pawlik-warnt-davor-ganze-gruppen-abzustempeln-201646696.html",
-      "time": "2026-11-03T17:57:03+00:00",
-      "opinion": false,
-      "image": "https://media0.faz.net/image/76dfbb35e749/w8256h4644x0y430/066836bc-a76a-45b5-8191-3129698e4cdf-_1VL6777.jpg/pluederungen-in-der-nacht-zu.webp"
-    },
-    {
-      "section": "politik",
-      "headline": "Oberbürgermeister in Kritik: Belästigungsvorwürfe: Palmer lässt Ehrenamt fürs Land ruhen",
-      "source": "Handelsblatt",
-      "country": "DE",
-      "url": "https://www.handelsblatt.com/politik/deutschland/oberbuergermeister-in-kritik-belaestigungsvorwuerfe-palmer-laesst-ehrenamt-fuers-land-ruhen/100267038.html",
-      "time": "2026-11-03T16:21:30+00:00",
-      "opinion": false,
-      "image": "https://images.handelsblatt.com/1SR0mAiZQdQT/cover/900/506/0/0/146/145/0.5/0.5/boris-palmer.jpg"
-    },
-    {
-      "section": "politik",
-      "headline": "Briefversand wird teurer: Monopolkommission übt scharfe Kritik an Briefporto-Anhebung",
-      "source": "Handelsblatt",
-      "country": "DE",
-      "url": "https://www.handelsblatt.com/politik/deutschland/briefversand-wird-teurer-monopolkommission-uebt-scharfe-kritik-an-briefporto-anhebung/100266975.html",
-      "time": "2026-11-03T16:09:50+00:00",
-      "opinion": false,
-      "image": "https://images.handelsblatt.com/cJWmhzp1eyY9/cover/900/506/0/0/214/214/0.5/0.5/briefporto.jpg"
-    },
-    {
-      "section": "wirtschaft",
-      "headline": "Renten sollen im kommenden Jahr um mehr als vier Prozent steigen",
-      "source": "Spiegel",
-      "country": "DE",
-      "url": "https://www.spiegel.de/wirtschaft/soziales/renten-sollen-im-kommenden-jahr-um-mehr-als-vier-prozent-steigen-a-2eb94e51-0c6b-44b0-b521-0283b5ba9afa",
-      "time": "2026-11-03T15:52:00+00:00",
-      "opinion": false,
-      "image": "https://cdn.prod.www.spiegel.de/images/5b61f92f-05a0-4386-8eda-1353f09fcffb_w520_r2.08_fpx70_fpy54.99.jpg"
-    },
-    {
-      "section": "wirtschaft",
-      "headline": "starke pharmasparte: Bayer sieht den „Wendepunkt“ erreicht",
-      "source": "FAZ",
-      "country": "DE",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/bayer-sieht-den-wendepunkt-erreicht-201646732.html",
-      "time": "2026-11-03T15:05:50+00:00",
-      "opinion": false,
-      "image": "https://media0.faz.net/image/c09f156aec69/w5906h3322x0y273/202610/43601.0.2638740044/sieht-fortschritte-im-umbau.webp"
-    },
-    {
-      "section": "wirtschaft",
-      "headline": "Cyberangriffe auf Kühlanlagen auch in deutschen Supermärkten",
-      "source": "Tagesschau",
-      "country": "DE",
-      "url": "https://www.tagesschau.de/wirtschaft/digitales/cyberangriffe-supermarkt-hacker-100.html",
-      "time": "2026-11-03T13:49:27+00:00",
-      "opinion": false,
-      "image": "https://images.tagesschau.de/image/445e58cf-c3c2-4911-b9d3-21ade4e40cb7/AAABoaEEmkU/AAABnSSvrFg/16x9-big/kuehlregal-102.jpg?width=1024"
-    },
-    {
-      "section": "politik",
-      "headline": "Democrat James Talarico wins Texas Senate seat as blue wave sweeps US",
-      "source": "Financial Times",
-      "country": "UK",
-      "url": "https://www.ft.com/content/77c2eaca-4fe1-4c69-b3bd-c517b045ff37?syn-25a6b1a6=1",
-      "time": "2026-11-04T04:10:33+00:00",
+      "url": "https://www.dw.com/en/cyprus-from-ties-with-russia-to-a-strategic-alignment-with-the-us/a-79841251",
+      "time": "2026-11-03T14:28:00+00:00",
       "opinion": false,
       "image": null
     },
     {
       "section": "politik",
-      "headline": "GASTBEITRAG - Die Maschine optimiert Zwecke, der Mensch stiftet Sinn",
-      "source": "NZZ",
-      "country": "CH",
-      "url": "https://www.nzz.ch/meinung/die-maschine-optimiert-zwecke-der-mensch-stiftet-sinn-ld.10026387",
-      "time": "2026-11-04T04:05:00+00:00",
-      "opinion": true,
-      "image": "https://img-msp-prod.nzz.ch/2026/10/26/af80774d-26e5-4264-98ac-894d8a917449.jpg?width=900&height=900&fit=bounds"
+      "headline": "US-Kongresswahlen: Die Ergebnisse der Midterms 2026 – live",
+      "source": "Zeit",
+      "country": "DE",
+      "url": "https://www.zeit.de/politik/ausland/2026-11/midterms-us-kongresswahlen-ergebnisse-live",
+      "time": "2026-11-04T09:41:47+00:00",
+      "opinion": false,
+      "image": "https://img.zeit.de/politik/ausland/2026-11/midterms-us-kongresswahlen-ergebnisse-live-teaserbild/wide__820x461"
     }
   ]
 }
