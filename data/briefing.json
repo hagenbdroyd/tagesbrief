@@ -1,9 +1,9 @@
 {
   "date": "2026-11-04",
-  "generatedAt": "2026-11-04T12:28:43+01:00",
+  "generatedAt": "2026-11-04T13:27:07+01:00",
   "notice": "Die großen KI-Modelle waren überlastet, dieses Briefing stammt vom kleinen Ersatzmodell. Es kann ungenauer sein – prüf Wichtiges in den Quellen.",
   "aiModel": "gemini-3.5-flash-lite",
-  "push": "US-Zwischenwahlen: Demokraten erobern die Mehrheit in beiden Kongresskammern",
+  "push": "US-Midterms: Demokraten erobern Mehrheiten in Senat und Repräsentantenhaus",
   "breaking": [],
   "sections": [
     {
@@ -12,93 +12,103 @@
       "items": [
         {
           "id": "p1",
-          "headline": "US-Zwischenwahlen: Demokraten erobern Mehrheiten im Kongress",
-          "summary": "Bei den Midterms in den USA haben die Demokraten die Kontrolle über Senat und Repräsentantenhaus übernommen. Präsident Donald Trump räumte die Wahlniederlage ein und machte unter anderem den Irankrieg mitverantwortlich für das schlechte Abschneiden der Republikaner.",
-          "perspectives": null,
+          "headline": "Demokraten gewinnen bei US-Midterms beide Kammern des Kongresses",
+          "summary": "Bei den Zwischenwahlen in den USA haben die Demokraten die Mehrheit im Senat und im Repräsentantenhaus errungen. Präsident Trump und die Republikaner müssen eine deutliche Wahlniederlage einstecken.",
+          "perspectives": "NZZ spricht von einem Blutbad für die Republikaner und einem möglichen Rekordergebnis, während Tagesschau und Handelsblatt von einer verheerenden Niederlage berichten. New York Times und Handelsblatt betonen zudem den historischen Gewinn von bisherigen Republikaner-Hochburgen.",
           "sources": [
             {
               "name": "Tagesschau",
               "country": "DE",
-              "url": "https://www.tagesschau.de/ausland/amerika/midterms-historische-siege-100.html"
+              "url": "https://www.tagesschau.de/eilmeldung/usa-midterms-118.html"
             },
             {
-              "name": "Zeit",
-              "country": "DE",
-              "url": "https://www.zeit.de/politik/ausland/2026-11/midterms-us-kongresswahlen-ergebnisse-live"
+              "name": "NZZ",
+              "country": "CH",
+              "url": "https://www.nzz.ch/international/midterms-2026-der-kampf-um-die-macht-in-den-usa-ld.10045181"
             },
             {
-              "name": "Deutschlandfunk",
+              "name": "Handelsblatt",
               "country": "DE",
-              "url": "https://www.deutschlandfunk.de/midterms-erdrutschsieg-demokraten-schlappe-trump-100.html"
+              "url": "https://www.handelsblatt.com/politik/international/us-parlamentswahl-trump-abgestraft-demokraten-triumphieren-bei-kongresswahl/100267117.html"
+            },
+            {
+              "name": "New York Times",
+              "country": "US",
+              "url": "https://www.nytimes.com/2026/11/04/us/politics/election-takeaways-democrats-win.html"
             }
           ],
-          "time": "2026-11-04T07:15:00+00:00",
+          "time": "2026-11-04T10:16:36+00:00",
           "image": {
-            "url": "https://images.tagesschau.de/image/461df750-4955-4f69-abda-7fe57ba2e154/AAABoaXN7Go/AAABnSSvrFg/16x9-big/bottoms-102.jpg?width=1024",
+            "url": "https://images.tagesschau.de/image/779e1043-888e-49d8-920a-f1a0b512324f/AAABoaUgUws/AAABnSSvrFg/16x9-big/jeffries-106.jpg?width=1024",
             "source": "Tagesschau"
           }
         },
         {
           "id": "p2",
-          "headline": "Nach schwerem Zugunglück: Spaniens Verkehrsminister tritt zurück",
-          "summary": "Nach einer verheerenden Kollision zweier Hochgeschwindigkeitszüge mit 69 Toten hat der spanische Verkehrsminister Óscar Puente sein Amt niedergelegt. Die Regierung kündigte daraufhin neue Maßnahmen zur Verbesserung der Sicherheit im Bahnverkehr an.",
-          "perspectives": "BBC und Tagesschau berichten übereinstimmend über den Rücktritt des Ministers und die Zahl von 69 Todesopfern. Die Tagesschau ergänzt, dass es sich bereits um das zweite schwere Zugunglück in Spanien in diesem Jahr handelt.",
+          "headline": "Trump räumt Einfluss des Irankriegs auf Republikaner-Niederlage ein",
+          "summary": "US-Präsident Donald Trump hat eingeräumt, dass der Konflikt mit dem Iran eine Rolle bei der Wahlniederlage seiner Partei gespielt hat. Gleichzeitig drohte er den Demokraten mit dem Veto und deutete an, die Konfrontation fortzuführen.",
+          "perspectives": "Financial Times und BBC stellen in den Vordergrund, dass Trump die Schuld beim Irankrieg sucht, während Spiegel ergänzt, dass Trump den Demokraten mit dem Veto droht. Die Quellen berichten ansonsten übereinstimmend über das Eingeständnis des Präsidenten.",
           "sources": [
             {
               "name": "BBC",
               "country": "UK",
-              "url": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo"
+              "url": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o"
             },
             {
-              "name": "Guardian",
+              "name": "Financial Times",
               "country": "UK",
-              "url": "https://www.theguardian.com/world/2026/nov/03/spain-transport-minister-oscar-puente-resigns-deadly-train-crash"
+              "url": "https://www.ft.com/content/6bc8be51-5bd8-468c-bd3c-82bbc2866ba1"
             },
             {
-              "name": "Tagesschau",
+              "name": "Spiegel",
               "country": "DE",
-              "url": "https://www.tagesschau.de/ausland/spanien-zugunglueck-puente-ruecktritt-100.html"
+              "url": "https://www.spiegel.de/ausland/midterms-donald-trump-akzeptiert-wahlsieg-der-demokraten-und-deutet-an-wie-er-weiterregieren-will-a-b78ea089-2380-4585-bc70-3f495cf32e04"
             }
           ],
-          "time": "2026-11-03T20:58:56+00:00",
+          "time": "2026-11-04T06:19:00+00:00",
           "image": {
-            "url": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/6eee/live/c7353ed0-d81e-11f1-a701-fddedf244c16.jpg",
+            "url": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/fd62/live/d825bb50-d82f-11f1-a701-fddedf244c16.jpg",
             "source": "BBC"
           }
         },
         {
           "id": "p3",
-          "headline": "Selenskyj zu Gesprächen mit Kanzler Merz in Berlin",
-          "summary": "Der ukrainische Präsident Wolodymyr Selenskyj ist zu Beratungen mit Bundeskanzler Friedrich Merz nach Berlin gereist. Beide stimmen ihre Positionen vor anstehenden Verhandlungen ab, während Russland seine Angriffe auf ukrainische Energie- und Gesundheitseinrichtungen fortsetzt.",
-          "perspectives": "FAZ und Tagesschau berichten übereinstimmend über den Berlin-Besuch Selenskyjs und die Abstimmung mit der Bundesregierung. Die Tagesschau hebt dabei konkret die russischen Bombardierungen von medizinischen Einrichtungen in Charkiw hervor.",
+          "headline": "Spaniens Verkehrsminister Puente tritt nach Zugunglück zurück",
+          "summary": "Nach einem schweren Zugunglück mit 69 Toten in Spanien hat Verkehrsminister Óscar Puente sein Amt niedergelegt. Die Regierung beschloss daraufhin neue Sicherheitsmaßnahmen für den Bahnverkehr.",
+          "perspectives": "FAZ und Tagesschau berichten übereinstimmend über den Rücktritt und verweisen auf zwei schwere Zugunglücke in diesem Jahr als Auslöser. Spiegel nennt zusätzlich das konkrete Unglück von Toledo sowie frühere Vorfälle als Hintergrund für die wachsenden Rücktrittsforderungen.",
           "sources": [
             {
               "name": "FAZ",
               "country": "DE",
-              "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-selenskyj-verleiht-staatsorden-an-melania-trump-faz-110683325.html"
+              "url": "https://www.faz.net/aktuell/politik/ausland/spaniens-verkehrsminister-oscar-puente-tritt-nach-zugunglueck-zurueck-201649112.html"
             },
             {
               "name": "Tagesschau",
               "country": "DE",
-              "url": "https://www.tagesschau.de/ausland/europa/ukraine-russische-angriffe-118.html"
+              "url": "https://www.tagesschau.de/ausland/spanien-zugunglueck-puente-ruecktritt-100.html"
+            },
+            {
+              "name": "Spiegel",
+              "country": "DE",
+              "url": "https://www.spiegel.de/ausland/spanien-verkehrsminister-oscar-puente-tritt-nach-toedlichen-zugungluecken-zurueck-a-94e07b2a-3563-4419-aebd-67a4385091bc"
             }
           ],
-          "time": "2026-11-03T12:16:22+00:00",
+          "time": "2026-11-03T20:37:00+00:00",
           "image": {
-            "url": "https://media0.faz.net/image/afae6956763a/w5061h2847x0y133/202611/3e0de468-6f8c-481a-9665-ec864e81cc70/first-lady-melania-trump-im.webp",
+            "url": "https://media0.faz.net/image/745509beb79e/w6000h3375x0y313/202611/9528051f-85d8-453a-bc26-060bf7efabfe/ueberraschend-erklaerte-der.webp",
             "source": "FAZ"
           }
         },
         {
           "id": "p4",
-          "headline": "Regierungsbildung in Israel: Präsident Herzog startet Konsultationen",
-          "summary": "Nach der Parlamentswahl hat Israels Staatspräsident Isaac Herzog Konsultationen zur Regierungsbildung aufgenommen, um die politische Blockade zu lösen. Die Wahlkommission wies zuvor Betrugsvorwürfe arabischer Parteien zurück.",
-          "perspectives": "Tagesschau und Spiegel berichten über die politische Pattsituation und die Warnungen vor einer Staatskrise durch den potenziellen Ministerpräsidenten Eisenkot. Die Zeit konzentriert sich auf die Prüfung der Vorwürfe durch die Wahlkommission, die keine Auffälligkeiten fand.",
+          "headline": "Israels Präsident Herzog startet Gespräche zur Regierungsbildung",
+          "summary": "Angesichts einer politischen Blockade nach der Parlamentswahl beginnt der israelische Präsident Isaac Herzog Konsultationen mit Parteiführern. Er soll entscheiden, ob Ministerpräsident Netanjahu oder ein Herausforderer als Erster eine Koalition bilden darf.",
+          "perspectives": "Tagesschau und New York Times berichten übereinstimmend über den Start der Konsultationen durch Präsident Herzog zur Überwindung der Blockade. Spiegel ergänzt Details zu Betrugsvorwürfen des Polizeiministers Ben-Gvir und Warnungen des potenziellen Ministerpräsidenten Eisenkot vor einer Staatskrise.",
           "sources": [
             {
-              "name": "Zeit",
-              "country": "DE",
-              "url": "https://www.zeit.de/politik/ausland/2026-11/israel-wahl-betrugsvorwuerfe-benjamin-netanjahu-arabische-parteien-gxe"
+              "name": "New York Times",
+              "country": "US",
+              "url": "https://www.nytimes.com/2026/11/04/world/middleeast/israel-herzog-netanyahu-government.html"
             },
             {
               "name": "Spiegel",
@@ -113,8 +123,31 @@
           ],
           "time": "2026-11-04T09:43:26+00:00",
           "image": {
-            "url": "https://img.zeit.de/politik/ausland/2026-11/israel-wahl-betrugsvorwuerfe-benjamin-netanjahu-arabische-parteien-gxe-foto-1/wide__820x461",
-            "source": "Zeit"
+            "url": "https://static01.nyt.com/images/2026/11/04/multimedia/04-israel-elections-mlpv/04-israel-elections-mlpv-mediumSquareAt3X.jpg",
+            "source": "New York Times"
+          }
+        },
+        {
+          "id": "p5",
+          "headline": "Debatte nach Krawallen: Politiker und Gewerkschaft uneins über Wortwahl",
+          "summary": "Nach schweren Ausschreitungen am Wochenende verteidigt Hessens Innenminister Roman Poseck seine Äußerungen zu einem migrantischen Milieu. GdP-Chef Jochen Kopelke fordert unterdessen eine neue Form der Härte gegen die Täter.",
+          "perspectives": "Tagesschau hebt hervor, dass die Wortwahl des Ministers auf breite Kritik stößt und dieser an seiner Darstellung festhält. FAZ fokussiert sich stark auf die Aussagen von Polizeipräsident Stefan Müller und die Einordnung der Ursachen wie gescheiterte Integration.",
+          "sources": [
+            {
+              "name": "FAZ",
+              "country": "DE",
+              "url": "https://www.faz.net/aktuell/politik/inland/gdp-chef-jochen-kopelke-nach-krawallen-fuer-neue-form-der-haerte-accg-201650189.html"
+            },
+            {
+              "name": "Tagesschau",
+              "country": "DE",
+              "url": "https://www.tagesschau.de/inland/innenpolitik/dobrindt-genz-proteste-100.html"
+            }
+          ],
+          "time": "2026-11-03T16:14:29+00:00",
+          "image": {
+            "url": "https://media0.faz.net/image/7ca09eb63b06/w5475h3080x669y149/202611/df99867e-4756-4b0a-aa1f-372df085957f/der-gdp-vorsitzende-jochen.webp",
+            "source": "FAZ"
           }
         }
       ]
@@ -125,9 +158,9 @@
       "items": [
         {
           "id": "w1",
-          "headline": "Inflation im Euroraum steigt im Oktober auf 4,0 Prozent",
-          "summary": "Die Teuerung in der Eurozone hat im Oktober den höchsten Stand seit September 2023 erreicht und ist auf 4,0 Prozent geklettert. Haupttreiber für diese Entwicklung sind vor allem die stark gestiegenen Energiepreise.",
-          "perspectives": "Tagesschau, CNBC und Spiegel nennen übereinstimmend die Inflationsrate von 4,0 Prozent. Der Spiegel und CNBC betonen zusätzlich, dass dies den höchsten Wert seit mehr als drei Jahren markiert und die Wahrscheinlichkeit für erneute Zinserhöhungen der EZB erhöht.",
+          "headline": "Inflation in der Eurozone steigt im Oktober auf 4,0 Prozent",
+          "summary": "Die Teuerungsrate in der Eurozone hat im Oktober den höchsten Stand seit mehr als drei Jahren erreicht und ist auf 4,0 Prozent gestiegen. Treiber dieser Entwicklung sind vor allem die stark gestiegenen Energiepreise.",
+          "perspectives": "CNBC hebt hervor, dass die Energieinflation auf über 20 Prozent gestiegen ist. Tagesschau, Spiegel und Financial Times berichten übereinstimmend über den Anstieg auf 4,0 Prozent und sehen darin ein klares Signal für eine anstehende Zinserhöhung der EZB.",
           "sources": [
             {
               "name": "Tagesschau",
@@ -143,9 +176,14 @@
               "name": "Spiegel",
               "country": "DE",
               "url": "https://www.spiegel.de/wirtschaft/hohe-energiepreise-inflation-im-euroraum-steigt-auf-vier-prozent-a-6aa49e04-4639-4134-acf6-08d84917b500"
+            },
+            {
+              "name": "Financial Times",
+              "country": "UK",
+              "url": "https://www.ft.com/content/23cedd6f-e550-4869-aee1-e0ec10ae7e51?syn-25a6b1a6=1"
             }
           ],
-          "time": "2026-11-04T10:39:00+00:00",
+          "time": "2026-11-04T10:25:26+00:00",
           "image": {
             "url": "https://images.tagesschau.de/image/82dfb70d-edf5-4e3d-861e-fb7e97fe6c3f/AAABoYzyluk/AAABnSSvrFg/16x9-big/inflation-262.jpg?width=1024",
             "source": "Tagesschau"
@@ -153,32 +191,37 @@
         },
         {
           "id": "w2",
-          "headline": "BMW senkt Gewinnprognose und weitet Stellenabbau aus",
-          "summary": "Wegen der anhaltenden Absatzkrise in China und teurer Restrukturierungen ist der Gewinn von BMW im dritten Quartal stark eingebrochen. Der Autobauer reagiert mit einer zweiten Prognosesenkung und beschleunigt den Stellenabbau.",
-          "perspectives": "Handelsblatt und Tagesschau berichten übereinstimmend über den kräftigen Gewinneinbruch und die gedämpften Aussichten für das vierte Quartal. Das Handelsblatt hebt ergänzend hervor, dass der Konzern den Personalabbau im Zuge dessen ausweitet.",
+          "headline": "BMW senkt erneut Gewinnprognose und weitet Stellenabbau aus",
+          "summary": "Wegen anhaltender Probleme im China-Geschäft und hoher Kosten für den Umbau hat BMW seine Gewinnprognose für das laufende Jahr zum zweiten Mal gesenkt. Zudem weitet der Autobauer den geplanten Stellenabbau aus.",
+          "perspectives": "Guardian und Handelsblatt beziffern die neue Gewinnmarge konkret auf minus 0,5 bis plus 0,5 Prozent beziehungsweise einen Einbruch von mehr als einem Drittel. Spiegel ergänzt, dass auch teure Abfindungen und das vorgezogene Aus älterer Modelle die Bilanz belasten.",
           "sources": [
+            {
+              "name": "Guardian",
+              "country": "UK",
+              "url": "https://www.theguardian.com/business/2026/nov/04/bmw-warns-on-profits-counts-cost-plan-for-8000-job-cuts"
+            },
             {
               "name": "Handelsblatt",
               "country": "DE",
               "url": "https://www.handelsblatt.com/unternehmen/industrie/bmw-gewinn-des-autobauers-bricht-um-mehr-als-ein-drittel-ein/100265068.html"
             },
             {
-              "name": "Tagesschau",
+              "name": "Spiegel",
               "country": "DE",
-              "url": "https://www.tagesschau.de/wirtschaft/unternehmen/bmw-gewinnwarnung-100.html"
+              "url": "https://www.spiegel.de/wirtschaft/unternehmen/bmw-macht-15-prozent-weniger-gewinn-und-es-duerfte-noch-schlimmer-werden-a-c122d2d7-a0c6-48a1-97ca-043d5fef46cd"
             }
           ],
-          "time": "2026-11-04T08:21:37+00:00",
+          "time": "2026-11-04T07:23:00+00:00",
           "image": {
-            "url": "https://images.handelsblatt.com/UKaZG0xVwJN8/cover/900/506/0/43/0/0/0.5/0.5/bmw-produktion-im-werk-dingolfing.jpg",
-            "source": "Handelsblatt"
+            "url": "https://i.guim.co.uk/img/media/00aa8230ea7928211f7c36c1f95619ad93686d48/862_635_3653_2925/master/3653.jpg?width=700&quality=85&auto=format&fit=max&s=5f586dade3021ad5618b85b406b405dd",
+            "source": "Guardian"
           }
         },
         {
           "id": "w3",
-          "headline": "Binance-Milliardenraub: Hacker nutzten fingierte Jobinterviews",
-          "summary": "Erste Analysen des 6,3-Milliarden-Dollar-Diebstahls bei der Kryptobörse Binance zeigen, dass die Angreifer bereits im Juni mit Attacken begannen und dabei unter anderem gefälschte Vorstellungsgespräche einsetzten.",
-          "perspectives": "Handelsblatt, Financial Times und BBC berichten übereinstimmend über die Hintergründe des Angriffs. Die Financial Times und die BBC betonen die gezielte Täuschung über gefälschte Jobprofile, während das Handelsblatt ergänzt, dass der Hack im Juni startete und KI-Werkzeuge beteiligt waren.",
+          "headline": "Krypto-Diebstahl bei Binance: Hacker nutzten fingierte Jobinterviews",
+          "summary": "Erste Analysen des 6,3 Milliarden schweren Diebstahls bei der Handelsplattform Binance zeigen, dass die Hacker bereits im Juni über gefälschte Vorstellungsgespräche und soziale Medien in das System eindrangen.",
+          "perspectives": "Handelsblatt und BBC stimmen darin überein, dass raffinierte Methoden wie fingierte Jobinterviews auf Plattformen genutzt wurden. Financial Times und Handelsblatt bewerten den Vorfall als den bisher größten Krypto-Raub der Geschichte.",
           "sources": [
             {
               "name": "Handelsblatt",
@@ -208,153 +251,63 @@
   "more": [
     {
       "section": "wirtschaft",
-      "headline": "Arbeitsmarkt: Was sollten junge Menschen im KI-Zeitalter studieren?",
-      "source": "Handelsblatt",
-      "country": "DE",
-      "url": "https://www.handelsblatt.com/karriere/ki-wo-gibt-es-weiterhin-eine-nachfrage-nach-arbeitskraeften/100235558.html",
-      "time": "2026-11-04T11:24:00+00:00",
-      "opinion": false,
-      "image": "https://images.handelsblatt.com/9nrZOjsRLQwl/cover/900/506/0/0/0/0/0.5/0.5/junge-akademiker-2.jpg"
-    },
-    {
-      "section": "wirtschaft",
-      "headline": "Kommentar: Volksaufstand gegen den Trumpismus",
-      "source": "Handelsblatt",
-      "country": "DE",
-      "url": "https://www.handelsblatt.com/meinung/kommentare/kommentar-midterms-volksaufstand-gegen-den-trumpismus/100266488.html",
-      "time": "2026-11-04T11:23:00+00:00",
-      "opinion": true,
-      "image": "https://images.handelsblatt.com/6W1tOskTkqiC/cover/900/506/0/0/0/624/0.5/0.5/donald-trump.jpg"
-    },
-    {
-      "section": "wirtschaft",
-      "headline": "Kongresswahlen: Das ganze Geld von Musk hat nichts gebracht",
-      "source": "FAZ",
-      "country": "DE",
-      "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/bittere-pleite-fuer-elon-musk-bei-us-midterms-2026-halbe-milliarde-dollar-an-wahlkampfspenden-ohne-erfolg-accg-201649321.html",
-      "time": "2026-11-04T11:20:56+00:00",
-      "opinion": false,
-      "image": "https://media0.faz.net/image/2ba5aa140c92/w5500h3094x0y197/202610/43601.0.2666410821/texas-is-not-for-sale-elon.webp"
-    },
-    {
-      "section": "wirtschaft",
-      "headline": "Midterms in den USA: Die blaue Welle verunsichert die Börsen",
-      "source": "NZZ",
-      "country": "CH",
-      "url": "https://www.nzz.ch/wirtschaft/midterms-in-den-usa-die-blaue-welle-verunsichert-die-boersen-ld.10053926",
-      "time": "2026-11-04T11:20:38+00:00",
-      "opinion": false,
-      "image": "https://img-msp-prod.nzz.ch/2026/11/03/4900917a-c21d-4c0b-8339-13148b974f4f.jpg?width=900&height=900&fit=bounds"
-    },
-    {
-      "section": "politik",
-      "headline": "Deutsche Reaktionen auf Midterms: Gratulation und gedämpfte Erwartungen",
-      "source": "Tagesschau",
-      "country": "DE",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/reaktionen-deutschland-midterms-100.html",
-      "time": "2026-11-04T11:18:19+00:00",
-      "opinion": false,
-      "image": "https://images.tagesschau.de/image/c2330fb9-9436-4572-b9b8-7038cbf2338d/AAABoaY3XBo/AAABnSSvrFg/16x9-big/trump-merz-124.jpg?width=1024"
-    },
-    {
-      "section": "politik",
-      "headline": "Migration: Warum wandern immer mehr Deutsche nach Polen aus?",
-      "source": "Handelsblatt",
-      "country": "DE",
-      "url": "https://www.handelsblatt.com/politik/international/migration-was-macht-polen-fuer-deutsche-auswanderer-so-attraktiv/100249315.html",
-      "time": "2026-11-04T11:18:00+00:00",
-      "opinion": false,
-      "image": "https://images.handelsblatt.com/a8fWsKjiBvgC/cover/900/506/0/0/0/0/0.5/0.5/123.jpg"
-    },
-    {
-      "section": "wirtschaft",
-      "headline": "Energiepreise: Deutsche kaufen 38 Prozent weniger Heizöl",
-      "source": "Spiegel",
-      "country": "DE",
-      "url": "https://www.spiegel.de/wirtschaft/energiepreise-deutsche-kaufen-38-prozent-weniger-heizoel-a-0eef58fb-5baa-4c21-8938-98aca25e9769",
-      "time": "2026-11-04T11:16:00+00:00",
-      "opinion": false,
-      "image": "https://cdn.prod.www.spiegel.de/images/0d57f77f-6dbf-4e8e-97f3-f663df7287a7_w520_r2.08_fpx65.29_fpy49.98.jpg"
-    },
-    {
-      "section": "politik",
-      "headline": "Gibson Dunn in talks to hire 120 lawyers from Weil as firm dissolves",
-      "source": "Financial Times",
-      "country": "UK",
-      "url": "https://www.ft.com/content/29522c80-74f7-4f78-b699-39b761d1c081?syn-25a6b1a6=1",
-      "time": "2026-11-04T11:14:04+00:00",
-      "opinion": false,
-      "image": null
-    },
-    {
-      "section": "wirtschaft",
-      "headline": "Leistungsfähigkeit: Warum Firmen ihre Mitarbeiter ausschlafen lassen sollten",
-      "source": "Handelsblatt",
-      "country": "DE",
-      "url": "https://www.handelsblatt.com/karriere/arbeitszeit-wie-wirkt-sich-ihr-biorhythmus-auf-ihre-produktivitaet-aus/100231866.html",
-      "time": "2026-11-04T11:14:00+00:00",
-      "opinion": false,
-      "image": "https://images.handelsblatt.com/pUdG-akKrR4t/cover/900/506/0/0/0/0/0.5/0.5/chronotypen-und-arbeitszeit.png"
-    },
-    {
-      "section": "politik",
-      "headline": "Rwanda's army team removed from Africa league after US sanctions, NBA says",
-      "source": "BBC",
-      "country": "UK",
-      "url": "https://www.bbc.co.uk/news/articles/c699zdx9knmpo",
-      "time": "2026-11-04T11:12:15+00:00",
-      "opinion": false,
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/6062/live/1ba36940-d830-11f1-be97-417dbcdedd32.jpg"
-    },
-    {
-      "section": "politik",
-      "headline": "Bund und Länder üben Krisenmanagement bei Hitzewellen",
-      "source": "Tagesschau",
-      "country": "DE",
-      "url": "https://www.tagesschau.de/inland/bbk-krisenmanagement-duerre-hitze-100.html",
-      "time": "2026-11-04T11:06:34+00:00",
-      "opinion": false,
-      "image": "https://images.tagesschau.de/image/8f11ef00-c0f4-46a8-a713-cca6362e95ae/AAABoaYVb9k/AAABnSSvrFg/16x9-big/hitzewarnung-108.jpg?width=1024"
-    },
-    {
-      "section": "politik",
-      "headline": "GdP-Chef Kopelke: „Vielleicht braucht es eine neue Form der Härte“",
-      "source": "FAZ",
-      "country": "DE",
-      "url": "https://www.faz.net/aktuell/politik/inland/gdp-chef-jochen-kopelke-nach-krawallen-fuer-neue-form-der-haerte-accg-201650189.html",
-      "time": "2026-11-04T10:56:26+00:00",
-      "opinion": false,
-      "image": "https://media0.faz.net/image/7ca09eb63b06/w5475h3080x669y149/202611/df99867e-4756-4b0a-aa1f-372df085957f/der-gdp-vorsitzende-jochen.webp"
-    },
-    {
-      "section": "wirtschaft",
-      "headline": "Börse: Wie die Finanzmärkte auf die US-Zwischenwahlen reagieren",
-      "source": "Zeit",
-      "country": "DE",
-      "url": "https://www.zeit.de/wirtschaft/2026-11/dax-us-midterms-demokraten-boerse-gold-gxe",
-      "time": "2026-11-04T10:43:06+00:00",
-      "opinion": false,
-      "image": "https://img.zeit.de/wirtschaft/2026-11/dax-us-midterms-demokraten-boerse-gold-gxe-foto-1/wide__820x461"
-    },
-    {
-      "section": "wirtschaft",
       "headline": "Dax aktuell: Dax steigt nach Midterms auf Zwei-Monatshoch – Heidelberg-Aktie springt nach oben",
       "source": "Handelsblatt",
       "country": "DE",
       "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-steigt-nach-midterms-auf-zwei-monatshoch/100267175.html",
-      "time": "2026-11-04T10:27:39+00:00",
+      "time": "2026-11-04T11:35:14+00:00",
       "opinion": false,
       "image": "https://images.handelsblatt.com/bckzfpdOn42n/cover/900/506/0/1/0/0/0.5/0.5/graph-aktienkurs-aktienchart-dax-online-dax-bericht.jpg"
     },
     {
-      "section": "politik",
-      "headline": "Spanish economy minister takes over transport ministry after deadly crash",
-      "source": "Politico Europe",
-      "country": "EU",
-      "url": "https://www.politico.eu/article/spanish-economy-minister-takes-over-transport-ministry-after-deadly-crash/",
-      "time": "2026-11-04T10:11:36+00:00",
+      "section": "wirtschaft",
+      "headline": "Geldpolitik: Inflation erreicht vier Prozent – Weitere Zinserhöhung der EZB wird wahrscheinlicher",
+      "source": "Handelsblatt",
+      "country": "DE",
+      "url": "https://www.handelsblatt.com/finanzen/geldpolitik/inflation-teuerung-im-euro-raum-erreicht-die-vier-prozent-marke/100263504.html",
+      "time": "2026-11-04T11:27:25+00:00",
       "opinion": false,
-      "image": null
+      "image": "https://images.handelsblatt.com/-NUqwU6W7cuw/cover/900/506/0/0/287/286/0.5/0.5/macro-view-of-a-20-euro-banknote-featuring-the-word-euro-and-several-yellow-stars-partially-illum.jpg"
+    },
+    {
+      "section": "politik",
+      "headline": "Nachfolge bei der Notenbank: Poker um EZB-Spitze: Wer folgt auf Christine Lagarde?",
+      "source": "Handelsblatt",
+      "country": "DE",
+      "url": "https://www.handelsblatt.com/politik/deutschland/nachfolge-bei-der-notenbank-poker-um-ezb-spitze-wer-folgt-auf-christine-lagarde/100267145.html",
+      "time": "2026-11-04T11:20:46+00:00",
+      "opinion": false,
+      "image": "https://images.handelsblatt.com/tVoTVkgrn2mf/cover/900/506/0/0/104/104/0.5/0.5/europaeische-zentralbank.jpg"
+    },
+    {
+      "section": "politik",
+      "headline": "Zwischenwahlen in den USA: Lame duck? Was Trumps Wahlpleite für die Wirtschaft bedeutet",
+      "source": "Handelsblatt",
+      "country": "DE",
+      "url": "https://www.handelsblatt.com/politik/deutschland/zwischenwahlen-in-den-usa-lame-duck-was-trumps-wahlpleite-fuer-die-wirtschaft-bedeutet/100267256.html",
+      "time": "2026-11-04T10:44:48+00:00",
+      "opinion": false,
+      "image": "https://images.handelsblatt.com/cnGnMj3efNod/cover/900/506/0/0/107/106/0.5/0.5/us-midterms-kapitol.jpg"
+    },
+    {
+      "section": "wirtschaft",
+      "headline": "Teure Energie: Inflation im Euroraum steigt auf vier Prozent",
+      "source": "FAZ",
+      "country": "DE",
+      "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/inflation-im-euroraum-steigt-auf-4-0-prozent-ezb-vor-zinserhoehung-accg-201650074.html",
+      "time": "2026-11-04T10:01:54+00:00",
+      "opinion": false,
+      "image": "https://media0.faz.net/image/c00ca629c5d8/w6144h3456x0y608/202610/43601.0.2633607002/angestiegen-das-auffuellen-des.webp"
+    },
+    {
+      "section": "politik",
+      "headline": "Russland bei der Eishockey-WM: Deutschlands Dilemma",
+      "source": "Deutschlandfunk",
+      "country": "DE",
+      "url": "https://www.deutschlandfunk.de/cas-urteil-russland-eishockey-wm-deutschland-olympia-100.html",
+      "time": "2026-11-04T09:57:00+00:00",
+      "opinion": false,
+      "image": "https://bilder.deutschlandfunk.de/6b/93/4c/80/6b934c80-592a-4228-b9c4-e750cfa7ca54/russland-deutschland-eishockey-2021-100-1920x1920.jpg"
     },
     {
       "section": "politik",
@@ -368,43 +321,133 @@
     },
     {
       "section": "politik",
-      "headline": "Reform: Wie viel Netto bleibt Ihnen 2027 vom Gehalt?",
-      "source": "Handelsblatt",
+      "headline": "Migration: Knapp 40 Prozent der Menschen im Chancen-Aufenthalt bleiben dauerhaft",
+      "source": "Spiegel",
       "country": "DE",
-      "url": "https://www.handelsblatt.com/politik/deutschland/regierung-was-bedeuten-die-reformplaene-2027-fuer-ihr-nettogehalt/100260104.html",
-      "time": "2026-11-04T09:44:00+00:00",
+      "url": "https://www.spiegel.de/politik/deutschland/migration-knapp-40-prozent-der-menschen-im-chancen-aufenthalt-bleiben-dauerhaft-a-587d6b3f-aa59-4db5-8a5b-cb3386f9975e",
+      "time": "2026-11-04T08:51:00+00:00",
       "opinion": false,
-      "image": "https://images.handelsblatt.com/7Bz1BzTBpXTM/cover/900/506/0/0/0/0/0.5/0.5/reformpaket-rechner.jpg"
-    },
-    {
-      "section": "wirtschaft",
-      "headline": "Reifenhersteller: Conti erwartet trotz höherer Kautschukpreise mehr Rendite – Aktie steigt deutlich",
-      "source": "Handelsblatt",
-      "country": "DE",
-      "url": "https://www.handelsblatt.com/unternehmen/industrie/reifenhersteller-conti-erwartet-trotz-hoeherer-kautschukpreise-mehr-rendite/100267224.html",
-      "time": "2026-11-04T09:33:44+00:00",
-      "opinion": false,
-      "image": "https://images.handelsblatt.com/MSMeE0-4Z6ET/cover/900/506/0/0/0/464/0.5/0.5/file-photo-the-logo-of-german-tyremaker-continental-is-pictured-on-tyres-at-the-plant-in-korbach-g.jpg"
-    },
-    {
-      "section": "wirtschaft",
-      "headline": "Poundland supplier 'will lose millions' if retailer collapses",
-      "source": "BBC",
-      "country": "UK",
-      "url": "https://www.bbc.co.uk/news/articles/ck240mm3e42do",
-      "time": "2026-11-04T09:28:54+00:00",
-      "opinion": false,
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/ab84/live/f1489920-d831-11f1-b441-2b33b063138f.jpg"
+      "image": "https://cdn.prod.www.spiegel.de/images/7bc4aef8-a064-47a5-a6bf-70cace72a046_w520_r2.08_fpx61.31_fpy49.99.jpg"
     },
     {
       "section": "politik",
-      "headline": "US-Republikaner: Das Ende des Trumpismus?",
+      "headline": "Stromsteuer: Kommt die Entlastung für Bürgerinnen und Bürger noch?",
+      "source": "Tagesschau",
+      "country": "DE",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/stromsteuer-bundesregierung-entlastung-100.html",
+      "time": "2026-11-04T07:31:04+00:00",
+      "opinion": false,
+      "image": "https://images.tagesschau.de/image/92b2986f-8fe4-4d90-ae35-176cfbca1133/AAABoPcpVZs/AAABnSSvrFg/16x9-big/klingbeil-merz-154.jpg?width=1024"
+    },
+    {
+      "section": "wirtschaft",
+      "headline": "Handwerk erwartet steigende Kosten für Kunden",
+      "source": "Spiegel",
+      "country": "DE",
+      "url": "https://www.spiegel.de/wirtschaft/unternehmen/handwerk-erwartet-steigende-kosten-fuer-kunden-a-962b71ab-1f43-4fb3-bee2-e88b91f67747",
+      "time": "2026-11-04T05:53:00+00:00",
+      "opinion": false,
+      "image": "https://cdn.prod.www.spiegel.de/images/9a0bb41e-d949-4cf0-8676-9b099d30f141_w520_r2.08_fpx60.67_fpy55.01.jpg"
+    },
+    {
+      "section": "wirtschaft",
+      "headline": "Airlines streichen Flüge: Verliert Deutschland den Anschluss?",
+      "source": "Tagesschau",
+      "country": "DE",
+      "url": "https://www.tagesschau.de/wirtschaft/luftfahrt-lufthansa-wirtschaftsstandort-100.html",
+      "time": "2026-11-04T05:23:01+00:00",
+      "opinion": false,
+      "image": "https://images.tagesschau.de/image/6067dcc6-1f26-44e0-8831-3708895d4eba/AAABoaCY3rc/AAABnSSvrFg/16x9-big/flugverkehr-126.jpg?width=1024"
+    },
+    {
+      "section": "politik",
+      "headline": "Renten könnten 2027 um 4,1 Prozent steigen",
+      "source": "Tagesschau",
+      "country": "DE",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/rentenerhoehung-entwurf-100.html",
+      "time": "2026-11-03T19:05:51+00:00",
+      "opinion": false,
+      "image": "https://images.tagesschau.de/image/17fdc558-340f-4273-b84d-ff571e7bb5d1/AAABndmPgZ0/AAABnSSvrFg/16x9-big/rente-416.jpg?width=1024"
+    },
+    {
+      "section": "wirtschaft",
+      "headline": "Renten sollen 2027 um mehr als vier Prozent steigen",
+      "source": "Spiegel",
+      "country": "DE",
+      "url": "https://www.spiegel.de/wirtschaft/soziales/renten-sollen-2027-um-mehr-als-vier-prozent-steigen-a-2eb94e51-0c6b-44b0-b521-0283b5ba9afa",
+      "time": "2026-11-03T15:52:00+00:00",
+      "opinion": false,
+      "image": "https://cdn.prod.www.spiegel.de/images/5b61f92f-05a0-4386-8eda-1353f09fcffb_w520_r2.08_fpx70_fpy54.99.jpg"
+    },
+    {
+      "section": "wirtschaft",
+      "headline": "Cyberangriffe auf Kühlanlagen auch in deutschen Supermärkten",
+      "source": "Tagesschau",
+      "country": "DE",
+      "url": "https://www.tagesschau.de/wirtschaft/digitales/cyberangriffe-supermarkt-hacker-100.html",
+      "time": "2026-11-03T13:49:27+00:00",
+      "opinion": false,
+      "image": "https://images.tagesschau.de/image/445e58cf-c3c2-4911-b9d3-21ade4e40cb7/AAABoaEEmkU/AAABnSSvrFg/16x9-big/kuehlregal-102.jpg?width=1024"
+    },
+    {
+      "section": "wirtschaft",
+      "headline": "Energie: Verkauf in Einzelteilen – Enpal sichert sich Handelsvertreter der insolventen EKD-Gruppe",
+      "source": "Handelsblatt",
+      "country": "DE",
+      "url": "https://www.handelsblatt.com/unternehmen/energie/energie-enpal-sichert-sich-handelsvertreter-der-insolventen-ekd-gruppe/100266204.html",
+      "time": "2026-11-04T12:14:59+00:00",
+      "opinion": false,
+      "image": "https://images.handelsblatt.com/kBSz6Kt3OWHN/cover/900/506/0/0/0/439/0.5/0.5/archiv-13.10.2021-baden-wuerttemberg-stuttgart-mitarbeiter-einer-solar-firma-montieren-photovolt.jpg"
+    },
+    {
+      "section": "wirtschaft",
+      "headline": "Versorgungswerke: Fahnder durchsuchen Deutsche Finance, Manager unter Schmiergeldverdacht",
+      "source": "Handelsblatt",
+      "country": "DE",
+      "url": "https://www.handelsblatt.com/finanzen/banken-versicherungen/versorgungswerke-fahnder-durchsuchen-deutsche-finance/100267213.html",
+      "time": "2026-11-04T12:11:37+00:00",
+      "opinion": false,
+      "image": "https://images.handelsblatt.com/T3VXt3zXmUnp/cover/900/506/0/0/281/282/0.5/0.5/an-aerial-view-of-the-laser-beams-by-arts-nonprofit-illuminate-projecting-from-the-47th-floor-of-the.jpg"
+    },
+    {
+      "section": "wirtschaft",
+      "headline": "Poundland owner in crunch talks with business secretary as retailer's collapse looms",
+      "source": "BBC",
+      "country": "UK",
+      "url": "https://www.bbc.co.uk/news/articles/ck240mm3e42do",
+      "time": "2026-11-04T12:20:42+00:00",
+      "opinion": false,
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/0027/live/fe2f8c90-d848-11f1-b870-55415e6a9944.jpg"
+    },
+    {
+      "section": "politik",
+      "headline": "Ruhestand: Frührente bleibt bei Babyboomern der Regelfall",
       "source": "Zeit",
       "country": "DE",
-      "url": "https://www.zeit.de/politik/2026-11/us-republikaner-midterms-2026-donald-trump-stimmungswechsel",
-      "time": "2026-11-04T11:20:42+00:00",
+      "url": "https://www.zeit.de/politik/deutschland/2026-11/fruehrente-rente-ruhestand-regelaltersgrenze-institut-der-deutschen-wirtschaft-gxe",
+      "time": "2026-11-04T12:19:25+00:00",
       "opinion": false,
-      "image": "https://img.zeit.de/politik/2026-11/us-republikaner-midterms-2026-donald-trump-stimmungswechsel-bild/wide__820x461"
+      "image": "https://img.zeit.de/politik/deutschland/2026-11/fruehrente-rente-ruhestand-regelaltersgrenze-institut-der-deutschen-wirtschaft-gxe-foto-1/wide__820x461"
+    },
+    {
+      "section": "politik",
+      "headline": "+++ US-Midterms +++: Nur 43 Stimmen Differenz: Wahlausgang in Mississippi noch völlig offen",
+      "source": "Handelsblatt",
+      "country": "DE",
+      "url": "https://www.handelsblatt.com/politik/international/us-midterms-erster-muslimischer-senator-demokrat-el-sayed-gewinnt-michigan/29669594.html",
+      "time": "2026-11-04T12:16:05+00:00",
+      "opinion": false,
+      "image": "https://images.handelsblatt.com/vPoOFV6EgJaI/cover/900/506/381/377/355/280/0.5/0.5/abdul-el-sayed-democratic-us-senate-candidate-from-michigan-during-an-election-night-event-with-mi.jpg"
+    },
+    {
+      "section": "politik",
+      "headline": "Midterms in den USA: Blaue Begeisterung, rote Ratlosigkeit",
+      "source": "Zeit",
+      "country": "DE",
+      "url": "https://www.zeit.de/politik/ausland/2026-11/midterms-demokraten-republikaner-gewinner-verlierer-ergebnisse",
+      "time": "2026-11-04T12:15:54+00:00",
+      "opinion": false,
+      "image": "https://img.zeit.de/politik/ausland/2026-11/midterms-demokraten-republikaner-gewinner-verlierer-ergebnisse-bild-01/wide__820x461"
     }
   ]
 }
