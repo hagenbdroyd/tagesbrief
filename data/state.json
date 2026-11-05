@@ -1,42 +1,7 @@
 {
-  "updatedAt": "2026-11-05T07:12:29+01:00",
+  "updatedAt": "2026-11-05T19:27:29+01:00",
   "morningPush": "2026-11-05",
   "breaking": [
-    {
-      "id": "e2026110318570",
-      "time": "2026-11-03T17:17:11+00:00",
-      "pushedAt": "2026-11-03T18:57:30+01:00",
-      "headline": "Trump kündigt Ende der US-Militärhilfe für Israel an",
-      "summary": "US-Präsident Donald Trump hat überraschend angekündigt, die jährliche Militärhilfe für Israel in Höhe von vier Milliarden US-Dollar zum Jahresende einzustellen. In Israel löste die Ankündigung scharfe Kritik aus.",
-      "reason": "Überraschende und folgenreiche außenpolitische Kehrtwende des US-Präsidenten bezüglich eines wichtigen Verbündeten.",
-      "sources": [
-        {
-          "name": "FAZ",
-          "country": "DE",
-          "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-nahost-trump-ende-von-milliardenschwerer-militaerhilfe-an-israel-faz-200583539.html"
-        },
-        {
-          "name": "Handelsblatt",
-          "country": "DE",
-          "url": "https://www.handelsblatt.com/politik/international/nahost-trump-kuendigt-ende-milliardenschwerer-hilfen-an-israel-an/100267091.html"
-        },
-        {
-          "name": "New York Times",
-          "country": "US",
-          "url": "https://www.nytimes.com/2026/11/03/us/politics/trump-israel-aid-netanyahu.html"
-        },
-        {
-          "name": "Guardian",
-          "country": "UK",
-          "url": "https://www.theguardian.com/us-news/2026/nov/03/donald-trump-usa-end-military-aid-to-israel-end-year-midterms"
-        }
-      ],
-      "image": {
-        "url": "https://media0.faz.net/image/048a7885a01b/w2891h1626x0y22/202611/ee6259ba-76eb-498e-9789-2f3eb4a52364/us-praesident-donald-trump-r.webp",
-        "source": "FAZ"
-      },
-      "model": "gemini-3.6-flash"
-    },
     {
       "id": "e2026110323220",
       "time": "2026-11-03T20:58:56+00:00",
@@ -139,6 +104,41 @@
       "image": {
         "url": "https://img.zeit.de/politik/deutschland/2026-11/hubert-aiwanger-tod-freie-waehler-bayern-wirtschaftsminister-foto-1/wide__820x461",
         "source": "Zeit"
+      },
+      "model": "gemini-3.6-flash"
+    },
+    {
+      "id": "e2026110519270",
+      "time": "2026-11-05T17:29:42+00:00",
+      "pushedAt": "2026-11-05T19:27:29+01:00",
+      "headline": "Paraguays Präsident Peña nach Bankenpleite zurückgetreten",
+      "summary": "Inmitten einer schweren Bankenkrise und eines drohenden Amtsenthebungsverfahrens hat Paraguays Präsident Santiago Peña seinen Rücktritt eingereicht. Ihm wurden geschäftliche Verflechtungen mit einer kollabierten Bank vorgeworfen.",
+      "reason": "Politik: Sturz/Rücktritt eines Staatsoberhaupts bzw. einer Regierung in einem Land.",
+      "sources": [
+        {
+          "name": "Tagesschau",
+          "country": "DE",
+          "url": "https://www.tagesschau.de/ausland/amerika/paraguay-ruecktritt-praesident-100.html"
+        },
+        {
+          "name": "Zeit",
+          "country": "DE",
+          "url": "https://www.zeit.de/politik/ausland/2026-11/santiago-pena-paraguay-praesident-ruecktritt-bankenkrise"
+        },
+        {
+          "name": "BBC",
+          "country": "UK",
+          "url": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo"
+        },
+        {
+          "name": "Handelsblatt",
+          "country": "DE",
+          "url": "https://www.handelsblatt.com/politik/international/staatskrise-paraguays-praesident-pena-tritt-in-bankenkrise-zurueck/100267710.html"
+        }
+      ],
+      "image": {
+        "url": "https://images.tagesschau.de/image/fe153856-aef9-4c0a-a0ac-0db2aa4e955e/AAABoaz2etE/AAABnSSvrFg/16x9-big/paraguay-138.jpg?width=1024",
+        "source": "Tagesschau"
       },
       "model": "gemini-3.6-flash"
     }
