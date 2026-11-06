@@ -1,10 +1,44 @@
 {
-  "date": "2026-11-05",
-  "generatedAt": "2026-11-05T05:11:33+01:00",
+  "date": "2026-11-06",
+  "generatedAt": "2026-11-06T05:11:33+01:00",
   "notice": null,
-  "aiModel": "gemini-3.6-flash",
-  "push": "Demokraten erobern US-Kongress nach Wahlsieg bei den Midterms",
-  "breaking": [],
+  "aiModel": "gemini-3.8-flash",
+  "push": "Börsen-Turbulenzen: Sorgen um KI-Branche lösen weltweiten Tech-Ausverkauf aus",
+  "breaking": [
+    {
+      "id": "b1",
+      "headline": "Tech-Aktien brechen weltweit wegen Sorgen um KI-Geschäft ein",
+      "summary": "Eine schwere Verkaufswelle bei Technologiewerten hat die internationalen Aktienmärkte belastet. In den USA brach der technologielastige Nasdaq-Index um bis zu 6,4 Prozent ein, an der Börse in Seoul verlor der Leitindex mehr als acht Prozent. Anleger reagierten mit Sorge auf mögliche regulatorische Eingriffe nach der US-Wahl und Zweifel am KI-Investitionsboom.",
+      "perspectives": "Beim Kursrutsch der US-Märkte nennen die Quellen unterschiedliche Zahlen: Die Financial Times beziffert das Minus des Nasdaq 100 auf 6,4 Prozent und den Verlust auf 3,2 Billionen Dollar, während The Guardian von einem Rückgang um 5,5 Prozent und knapp zwei Billionen Dollar Wertverlust spricht. Die Zeit stellt den Ausverkauf in Südkorea und den 20-minütigen Handelsstopp in Seoul heraus, während das Handelsblatt die Wall Street fokussiert und von einem regelrechten KI-Blutbad schreibt.",
+      "sources": [
+        {
+          "name": "Zeit",
+          "country": "DE",
+          "url": "https://www.zeit.de/wirtschaft/2026-11/boersen-asien-suedkorea-kospi-sk-hynix-samsung-technologie"
+        },
+        {
+          "name": "Financial Times",
+          "country": "UK",
+          "url": "https://www.ft.com/content/3d079b3d-580d-400b-bf9c-56af6a08f60f?syn-25a6b1a6=1"
+        },
+        {
+          "name": "Handelsblatt",
+          "country": "DE",
+          "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/wall-street-ki-blutbad-an-us-boersen-sp-500-bricht-um-vier-prozent-ein/100267625.html"
+        },
+        {
+          "name": "Guardian",
+          "country": "UK",
+          "url": "https://www.theguardian.com/business/2026/nov/05/nasdaq-heading-for-worst-day-in-18-months-as-wall-street-sustains-widespread-losses"
+        }
+      ],
+      "time": "2026-11-05T21:23:18+00:00",
+      "image": {
+        "url": "https://img.zeit.de/wirtschaft/2026-11/boersen-asien-suedkorea-kospi-sk-hynix-samsung-technologie-foto-1/wide__820x461",
+        "source": "Zeit"
+      }
+    }
+  ],
   "sections": [
     {
       "id": "politik",
@@ -12,185 +46,195 @@
       "items": [
         {
           "id": "p1",
-          "headline": "Demokraten gewinnen US-Midterms – Machtwechsel im Senat",
-          "summary": "Bei den US-Zwischenwahlen haben die Demokraten die Mehrheit im Senat erobert. Vizepräsident JD Vance machte den Iran-Krieg für die Niederlage der Republikaner verantwortlich.",
-          "perspectives": "Tagesschau berichtet über den Machtwechsel im Senat. BBC und New York Times betonen die Aussagen von Vizepräsident Vance, der die Schuld am Wahlausgang mit Trumps Billigung auf den Iran-Krieg schob. Zeit berichtet fortlaufend über das Auszählen der Ergebnisse.",
+          "headline": "Paraguays Präsident Peña tritt ab – Parlament plant Amtsenthebung",
+          "summary": "Paraguays Präsident Santiago Peña hat nach dem Zusammenbruch der Digitalbank Ueno seinen Rücktritt erklärt und um Entschuldigung gebeten. Das Parlament lehnte den Rücktritt jedoch ab und leitete ein Amtsenthebungsverfahren ein. Zuvor waren Ersparnisse von Millionen Bürgern in der Krise eingefroren worden.",
+          "perspectives": "Während The Guardian vor allem auf die eingefrorenen Ersparnisse von Millionen Bürgern verweist und die New York Times die schwerste Finanzkrise seit Jahrzehnten hervorhebt, heben Handelsblatt und Zeit die Nichtannahme des Rücktritts durch den Kongress hervor. Das Handelsblatt berichtet dabei von der Eröffnung eines Amtsenthebungsverfahrens, während die Zeit von Ermittlungen wegen Peñas Rolle im Skandal spricht. The Guardian betont zudem die Mitverantwortung von Peñas rechtsgerichteter Regierung beim Ausbau der Bank, wohingegen die New York Times Peñas Entschuldigung herausstellt.",
           "sources": [
-            {
-              "name": "Zeit",
-              "country": "DE",
-              "url": "https://www.zeit.de/politik/ausland/2026-11/midterms-us-kongresswahlen-ergebnisse-live"
-            },
-            {
-              "name": "BBC",
-              "country": "UK",
-              "url": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o"
-            },
             {
               "name": "New York Times",
               "country": "US",
-              "url": "https://www.nytimes.com/2026/11/04/us/politics/vance-iran-war-midterms-trump.html"
+              "url": "https://www.nytimes.com/2026/11/05/world/americas/paraguay-santiago-pena-resigns.html"
             },
             {
-              "name": "Tagesschau",
+              "name": "Handelsblatt",
               "country": "DE",
-              "url": "https://www.tagesschau.de/ausland/amerika/eilmeldung-midterms-usa-100.html"
+              "url": "https://www.handelsblatt.com/politik/international/staatskrise-in-paraguay-kongress-nimmt-penas-ruecktritt-nicht-an-und-will-verfahren/100267756.html"
+            },
+            {
+              "name": "Zeit",
+              "country": "DE",
+              "url": "https://www.zeit.de/politik/ausland/2026-11/santiago-pena-paraguay-praesident-ruecktritt-bankenkrise"
+            },
+            {
+              "name": "Guardian",
+              "country": "UK",
+              "url": "https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns"
             }
           ],
-          "time": "2026-11-04T06:10:55+00:00",
+          "time": "2026-11-05T18:48:07+00:00",
           "image": {
-            "url": "https://img.zeit.de/politik/ausland/2026-11/midterms-us-kongresswahlen-ergebnisse-live-teaserbild/wide__820x461",
-            "source": "Zeit"
+            "url": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-paraguay01-photo-lmhv/05int-paraguay01-photo-lmhv-mediumSquareAt3X.jpg",
+            "source": "New York Times"
           }
         },
         {
           "id": "p2",
-          "headline": "Bayerns Vize-Ministerpräsident Hubert Aiwanger tot aufgefunden",
-          "summary": "Der bayerische Wirtschaftsminister und Chef der Freien Wähler, Hubert Aiwanger, ist im Alter von 55 Jahren verstorben. Er wurde leblos in einem Hotelzimmer in Berlin aufgefunden. Die Ermittlungsbehörden haben Untersuchungen zu den genauen Todesumständen aufgenommen.",
-          "perspectives": "Tagesschau, NZZ und Spiegel berichten übereinstimmend über den Fund des verstorbenen Ministers in einem Berliner Hotel. Tagesschau verweist dabei auf Regierungskreise, Spiegel auf die Staatsanwaltschaft als Quelle. Guardian hebt zusätzlich die Einleitung von Ermittlungen durch Polizei und Staatsanwaltschaft hervor.",
+          "headline": "Schwere Ausschreitungen bei Massenprotesten in Frankreich",
+          "summary": "In ganz Frankreich haben erneut Hunderttausende Menschen gegen hohe Lebenshaltungskosten, Einsparungen und für bessere Bildung demonstriert. Dabei kam es zu schweren Ausschreitungen. Die Behörden meldeten landesweit 448 Festnahmen und Dutzende verletzte Beamte.",
+          "perspectives": "Hinsichtlich der Teilnehmerzahlen verweisen die Financial Times und die BBC auf behördliche Angaben von knapp 600.000 Demonstranten, wobei die BBC ergänzt, dass Gewerkschaften weit höhere Zahlen nannten. Handelsblatt und Spiegel konzentrieren sich auf die Gewalt und die 448 Festnahmen; das Handelsblatt nennt dabei konkret 53 verletzte Beamte sowie Wurfgeschosse wie Boule-Kugeln, während der Spiegel explizit auch von Gewalt seitens der Polizei berichtet.",
           "sources": [
             {
-              "name": "NZZ",
-              "country": "CH",
-              "url": "https://www.nzz.ch/international/bayerns-wirtschaftsminister-aiwanger-tot-in-berliner-hotel-gefunden-ld.10054634"
-            },
-            {
-              "name": "Guardian",
+              "name": "Financial Times",
               "country": "UK",
-              "url": "https://www.theguardian.com/world/2026/nov/05/hubert-aiwanger-dead-german-politician-berlin-hotel"
-            },
-            {
-              "name": "Tagesschau",
-              "country": "DE",
-              "url": "https://www.tagesschau.de/inland/innenpolitik/hubert-aiwanger-tot-100.html"
+              "url": "https://www.ft.com/content/5ddd52f0-adb8-41d6-9a06-a680daa2e427?syn-25a6b1a6=1"
             },
             {
               "name": "Spiegel",
               "country": "DE",
-              "url": "https://www.spiegel.de/politik/deutschland/hubert-aiwanger-ist-tot-a-304e437f-1ace-42a6-847d-bfb92a889119"
-            }
-          ],
-          "time": "2026-11-04T20:38:00+00:00",
-          "image": {
-            "url": "https://img-msp-prod.nzz.ch/2021/3/15/5fce6144-b577-4a0a-8f34-901a7c6d23fd.jpeg?width=900&height=900&fit=bounds",
-            "source": "NZZ"
-          }
-        },
-        {
-          "id": "p3",
-          "headline": "Hongkongs Aktivist Joshua Wong zu zehn Jahren Haft verurteilt",
-          "summary": "Der Hongkonger Demokratie-Aktivist Joshua Wong ist zu zehn Jahren Haft verurteilt worden. Dem 30-Jährigen wurde eine Verschwörung zur Kollusion mit ausländischen Kräften unter dem nationalen Sicherheitsgesetz vorgeworfen. Wong befindet sich bereits seit dem Jahr 2020 in Haft.",
-          "perspectives": "Guardian, BBC und New York Times berichten übereinstimmend über das Strafmaß von zehn Jahren Haft wegen Vorwürfen der nationalen Sicherheit. Guardian stellt als einziger heraus, dass Wong der einzige Aktivist ist, der zweimal unter diesem Gesetz angeklagt wurde.",
-          "sources": [
+              "url": "https://www.spiegel.de/politik/frankreich-448-festnahmen-bei-landesweiten-protesten-a-92701070-d4b8-45b2-9926-831a7fc1b88f"
+            },
             {
-              "name": "Guardian",
-              "country": "UK",
-              "url": "https://www.theguardian.com/world/2026/nov/05/hong-kong-joshua-wong-sentenced-national-security-case"
+              "name": "Handelsblatt",
+              "country": "DE",
+              "url": "https://www.handelsblatt.com/politik/international/erneute-demonstrationen-448-festnahmen-und-wieder-gewalt-bei-protesten-in-frankreich/100267639.html"
             },
             {
               "name": "BBC",
               "country": "UK",
-              "url": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo"
-            },
-            {
-              "name": "New York Times",
-              "country": "US",
-              "url": "https://www.nytimes.com/2026/11/04/world/asia/joshua-wong-hong-kong-sentenced.html"
+              "url": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo"
             }
           ],
-          "time": "2026-11-05T03:19:46+00:00",
+          "time": "2026-11-05T17:59:53+00:00",
           "image": {
-            "url": "https://i.guim.co.uk/img/media/d9bf9f9b9523e26c98269088295afe0101408a09/745_0_4164_3333/master/4164.jpg?width=700&quality=85&auto=format&fit=max&s=07cb66465e5b2ceb03b6e99424ec33e1",
-            "source": "Guardian"
-          }
-        },
-        {
-          "id": "p4",
-          "headline": "Israels Präsident startet Konsultationen zur Regierungsbildung",
-          "summary": "Nach den Parlamentswahlen in Israel hat Staatspräsident Isaac Herzog Konsultationen mit den Parteien begonnen. Ziel ist die Bildung einer neuen Regierung trotz der verfahrenen Lage. Sowohl Ministerpräsident Benjamin Netanjahu als auch Herausforderer Gadi Eisenkot kommen für die Regierungsbildung infrage.",
-          "perspectives": "BBC hebt die Warnungen des Präsidenten vor erneuten Wahlen hervor, während Tagesschau seinen Aufruf zu historischen Kompromissen betont. Spiegel nennt konkrete Kandidaten wie Ex-Militärchef Eisenkot und erwähnt den Zuspruch einer arabischen Partei. Guardian berichtet über die Ablehnung von Wahlbetrugsvorwürfen durch die Wahlkommission.",
-          "sources": [
-            {
-              "name": "Spiegel",
-              "country": "DE",
-              "url": "https://www.spiegel.de/ausland/israel-praesident-isaac-herzog-sucht-regierungschef-arabische-partei-unterstuetzt-eisenkot-a-cc883d26-59a9-42fa-9b75-103eae0ecf6e"
-            },
-            {
-              "name": "BBC",
-              "country": "UK",
-              "url": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo"
-            },
-            {
-              "name": "Guardian",
-              "country": "UK",
-              "url": "https://www.theguardian.com/world/2026/nov/04/israel-election-commission-rejects-netanyahu-claims-voting-fraud"
-            },
-            {
-              "name": "Tagesschau",
-              "country": "DE",
-              "url": "https://www.tagesschau.de/ausland/asien/israel-wahl-konsultationen-herzog-100.html"
-            }
-          ],
-          "time": "2026-11-04T09:43:26+00:00",
-          "image": {
-            "url": "https://cdn.prod.www.spiegel.de/images/83d46b64-e95e-464f-b2fc-42955b94fc7e_w520_r2.08_fpx66.67_fpy50.jpg",
+            "url": "https://cdn.prod.www.spiegel.de/images/622ab983-c9a4-48ab-b85f-a76742d8baf6_w520_r2.08_fpx41.33_fpy50.jpg",
             "source": "Spiegel"
           }
         },
         {
-          "id": "p5",
-          "headline": "EU hält Beitritt Montenegros bis 2028 für möglich",
-          "summary": "Die EU-Kommission sieht für Montenegro gute Chancen auf einen EU-Beitritt als 28. Mitgliedsstaat im Jahr 2028. Ein entsprechender Beitrittsvertrag könnte laut Berichten bald fertiggestellt werden. Für andere Beitrittskandidaten wie die Ukraine oder Moldau gibt es gesonderte Fahrpläne.",
-          "perspectives": "Tagesschau, FAZ und Spiegel berichten übereinstimmend über die Einschätzung der EU-Kommission zu einem Beitritt 2028. FAZ verweist zusätzlich auf Zeitpläne für weitere Kandidaten wie Moldau und die Ukraine. Tagesschau hebt hervor, dass Montenegro derzeit die besten Chancen aller Bewerber hat.",
+          "id": "p3",
+          "headline": "Gefälschte Bombendrohungen stören europäischen Flugverkehr",
+          "summary": "Eine Serie falscher Bombendrohungen hat erneut den Passagierluftverkehr in Europa massiv gestört. Zahlreiche Verkehrsflugzeuge mussten umgeleitet werden oder unplanmäßig landen, teils auf Militärflugplätzen. Die Behörden stuften die Vorfälle als gezielte Falschmeldungen ein, die Hintergründe der Vorfälle sind noch ungeklärt.",
+          "perspectives": "Bei der Zahl der betroffenen Flüge weichen die Darstellungen voneinander ab: Die BBC berichtet von mindestens 21 Flügen, The Guardian nennt mindestens 25 betroffene Maschinen, und die New York Times spricht von mehr als zwei Dutzend. The Guardian bringt im Gegensatz zu den anderen Medien Sorgen vor hybrider Kriegsführung zur Sprache, während die Tagesschau hervorhebt, dass die Hintergründe der Drohungen bisher unklar sind.",
           "sources": [
             {
-              "name": "FAZ",
-              "country": "DE",
-              "url": "https://www.faz.net/aktuell/politik/ausland/eu-erweiterung-montenegro-koennte-schon-2028-mitglied-werden-201649057.html"
+              "name": "New York Times",
+              "country": "US",
+              "url": "https://www.nytimes.com/2026/11/05/world/europe/bomb-threats-europe-flights-airlines.html"
+            },
+            {
+              "name": "Guardian",
+              "country": "UK",
+              "url": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears"
+            },
+            {
+              "name": "BBC",
+              "country": "UK",
+              "url": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo"
             },
             {
               "name": "Tagesschau",
               "country": "DE",
-              "url": "https://www.tagesschau.de/ausland/europa/eu-montenegro-100.html"
-            },
-            {
-              "name": "Spiegel",
-              "country": "DE",
-              "url": "https://www.spiegel.de/ausland/europaeische-union-montenegro-koennte-das-naechste-mitglied-werden-a-c9090b58-1a7a-4f9e-9b37-8adc13d4705e"
+              "url": "https://www.tagesschau.de/ausland/europa/bombendrohungen-flugzeuge-100.html"
             }
           ],
-          "time": "2026-11-04T13:51:00+00:00",
+          "time": "2026-11-05T14:20:37+00:00",
           "image": {
-            "url": "https://media0.faz.net/image/d1315d6345f7/w5448h3065x0y206/202610/43601.0.2618556451/eu-kommissionspraesidentin.webp",
-            "source": "FAZ"
+            "url": "https://static01.nyt.com/images/2026/11/05/multimedia/05xp-bomb-threats-tbwg/05xp-bomb-threats-tbwg-mediumSquareAt3X.jpg",
+            "source": "New York Times"
           }
         },
         {
-          "id": "p6",
-          "headline": "EU-Umweltausschuss stimmt für Lockerung des Verbrenner-Aus",
-          "summary": "Der Umweltausschuss des EU-Parlaments hat sich für eine Aufweichung des geplanten Aus für Verbrennungsmotoren ab 2035 ausgesprochen. Damit könnten Neuwagen mit Verbrennungsmotor auch nach diesem Zeitpunkt zugelassen werden. Die finale Abstimmung im Parlamentsplenum steht noch aus.",
-          "perspectives": "Handelsblatt, Spiegel und FAZ berichten übereinstimmend über die Abstimmung im EU-Umweltausschuss. FAZ betont die Übereinstimmung mit der Linie von Merz und Macron, während Handelsblatt hervorhebt, dass die Entscheidung im EU-Parlamentsplenum noch aussteht.",
+          "id": "p4",
+          "headline": "Trump kündigt nach Treffen mit Kreml-Gesandtem Abkommen an",
+          "summary": "US-Präsident Donald Trump hat nach einem Treffen mit dem Kreml-Unterhändler Kirill Dmitrijew ein weitreichendes Abkommen zur Beendigung des Ukraine-Kriegs angekündigt. Die Vereinbarung könne ganz Europa betreffen, erklärte Trump im Vorfeld weiterer Verhandlungen. Dem Treffen waren diplomatische Initiativen von First Lady Melania Trump im Weißen Haus vorausgegangen.",
+          "perspectives": "Das Handelsblatt hebt exklusiv hervor, dass Donald Trump im Weißen Haus nur den russischen Unterhändler traf, während ukrainische Vertreter zuvor von Melania Trump empfangen worden waren. Die New York Times und die Zeit stellen Trumps Aussage heraus, eine Einigung werde ganz Europa umfassen. Die FAZ beleuchtet zudem Äußerungen des ukrainischen Präsidenten Wolodymyr Selenskyj zu den Chancen nach den US-Wahlen.",
           "sources": [
+            {
+              "name": "Zeit",
+              "country": "DE",
+              "url": "https://www.zeit.de/politik/ausland/2026-11/donald-trump-kirill-dmitrijew-abkommen-ukraine-russland"
+            },
+            {
+              "name": "New York Times",
+              "country": "US",
+              "url": "https://www.nytimes.com/2026/11/05/us/politics/trump-russian-official-ukraine-peace-deal.html"
+            },
             {
               "name": "Handelsblatt",
               "country": "DE",
-              "url": "https://www.handelsblatt.com/politik/deutschland/verkehr-eu-abgeordnete-stimmen-fuer-aufweichung-des-verbrenner-aus/100267340.html"
-            },
-            {
-              "name": "Spiegel",
-              "country": "DE",
-              "url": "https://www.spiegel.de/wirtschaft/verbrenner-aus-umweltausschuss-im-eu-parlament-stimmt-fuer-lockerung-a-d9d0cbdd-960d-4e26-8724-57efdd989357"
+              "url": "https://www.handelsblatt.com/politik/international/ukraine-krieg-trump-habe-kremlunterhaendler-dmitrijew-getroffen/100267741.html"
             },
             {
               "name": "FAZ",
               "country": "DE",
-              "url": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/verbrennerverbot-eu-parlament-besiegelt-aus-201650057.html"
+              "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-trump-kuendigt-sehr-grossen-deal-mit-russland-an-faz-110683325.html"
             }
           ],
-          "time": "2026-11-04T14:54:58+00:00",
+          "time": "2026-11-05T22:12:10+00:00",
           "image": {
-            "url": "https://images.handelsblatt.com/XjmChZdf1-Ev/cover/900/506/0/0/102/102/0.5/0.5/auspuff.jpg",
+            "url": "https://img.zeit.de/politik/ausland/2026-11/ukraine-krieg-liveblog-usa-donald-trump-abkommen-russland-bild/wide__820x461",
+            "source": "Zeit"
+          }
+        },
+        {
+          "id": "p5",
+          "headline": "Israel vor Regierungsbildung: Mehrheit empfiehlt Gadi Eisenkot",
+          "summary": "Nach der israelischen Parlamentswahl zeichnet sich ein Auftrag zur Regierungsbildung für den Oppositionspolitiker Gadi Eisenkot ab, für den sich 67 Abgeordnete aussprachen. Präsident Izchak Herzog will die Entscheidung am Sonntag offiziell verkünden.",
+          "perspectives": "The Guardian nennt mit 67 Abgeordneten die exakte Zahl der Empfehlungen für Eisenkot, während das Handelsblatt von einer Mehrheit spricht und die Hürden für einen tatsächlichen Kurswechsel thematisiert. Die New York Times hebt hervor, dass die Wahl ohne klaren Sieger endete und Präsident Herzog nach zweitägigen Gesprächen am Sonntag eine Person mit der Regierungsbildung beauftragen will.",
+          "sources": [
+            {
+              "name": "Handelsblatt",
+              "country": "DE",
+              "url": "https://www.handelsblatt.com/politik/international/moeglicher-machtwechsel-israel-unter-eisenkot-was-sich-aendern-koennte/100267776.html"
+            },
+            {
+              "name": "New York Times",
+              "country": "US",
+              "url": "https://www.nytimes.com/2026/11/05/world/middleeast/israel-election-herzog-prime-minister-meetings.html"
+            },
+            {
+              "name": "Guardian",
+              "country": "UK",
+              "url": "https://www.theguardian.com/world/2026/nov/05/herzog-netanyahu-eisenkot-israel-election-decision"
+            }
+          ],
+          "time": "2026-11-05T18:13:01+00:00",
+          "image": {
+            "url": "https://images.handelsblatt.com/-fxl4O3gkYJu/cover/900/506/0/0/107/106/0.5/0.5/parlamentswahl-in-israel.jpg",
             "source": "Handelsblatt"
+          }
+        },
+        {
+          "id": "p6",
+          "headline": "Obduktion schließt Fremdverschulden bei Hubert Aiwangers Tod aus",
+          "summary": "Nach dem überraschenden Tod des bayerischen Vizeregierungschefs Hubert Aiwanger in einem Berliner Hotel hat die rechtsmedizinische Untersuchung keine Anzeichen für ein Fremdverschulden ergeben. Dies gab die Staatsanwaltschaft nach einer vorläufigen Obduktion bekannt. Der Fall löste große Anteilnahme aus und stellt die Freien Wähler vor eine Führungsneubesetzung.",
+          "perspectives": "Tagesschau und FAZ berichten faktenbasiert über die Mitteilung der Staatsanwaltschaft zum Ausschluss von Fremdverschulden. Die NZZ zeichnet ausführlich Aiwangers polarisierende politische Laufbahn und die frühere Flugblatt-Affäre nach, während der Spiegel sich auf die politischen Konsequenzen für die bayerische Staatsregierung und die angeordnete Trauerbeflaggung konzentriert.",
+          "sources": [
+            {
+              "name": "Spiegel",
+              "country": "DE",
+              "url": "https://www.spiegel.de/politik/deutschland/hubert-aiwanger-wie-geht-es-nach-dem-tod-des-vizeregierungschefs-in-bayern-weiter-a-cb5af2d8-9635-4808-b535-c4139bfeebdf"
+            },
+            {
+              "name": "Tagesschau",
+              "country": "DE",
+              "url": "https://www.tagesschau.de/inland/innenpolitik/aiwanger-tod-ermittlungen-100.html"
+            },
+            {
+              "name": "FAZ",
+              "country": "DE",
+              "url": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-keine-hinweise-auf-fremdverschulden-bei-aiwangers-tod-faz-110093143.html"
+            },
+            {
+              "name": "NZZ",
+              "country": "CH",
+              "url": "https://www.nzz.ch/international/bayerns-wirtschaftsminister-aiwanger-tot-in-berliner-hotel-gefunden-ld.10054634"
+            }
+          ],
+          "time": "2026-11-05T14:30:18+00:00",
+          "image": {
+            "url": "https://cdn.prod.www.spiegel.de/images/c6a3091e-ce80-4dbd-a4eb-bdda30a1c040_w520_r2.08_fpx48.65_fpy44.98.jpg",
+            "source": "Spiegel"
           }
         }
       ]
@@ -201,142 +245,101 @@
       "items": [
         {
           "id": "w1",
-          "headline": "Inflation in Eurozone steigt im Oktober auf 4,0 Prozent",
-          "summary": "Die Teuerungsrate im Euroraum ist im Oktober auf 4,0 Prozent gestiegen und hat damit ein Drei-Jahres-Hoch erreicht. Haupttreiber der Entwicklung sind stark gestiegene Energiepreise. Damit steigt der Druck auf die Europäische Zentralbank für weitere Zinserhöhungen.",
-          "perspectives": "Tagesschau, Handelsblatt, FAZ und CNBC berichten übereinstimmend über den Anstieg der Inflationsrate auf 4,0 Prozent. CNBC beziffert den Preisanstieg bei Energie auf über 20 Prozent im Oktober. FAZ stellt heraus, dass der deutsche Tankrabatt die Teuerung auf nationaler Ebene dämpfe.",
+          "headline": "Bank of England hebt Leitzins auf 4,0 Prozent an",
+          "summary": "Die Bank of England hat ihren Leitzins um 0,25 Prozentpunkte von 3,75 auf 4,0 Prozent angehoben. Es handelt sich um die erste Zinsanhebung der britischen Notenbank seit mehr als drei Jahren. Grund für den Schritt ist die anhaltend hohe Teuerungsrate, die nach Prognosen der Währungshüter im kommenden Jahr fünf Prozent erreichen könnte.",
+          "perspectives": "Das Handelsblatt verweist auf den jüngsten Inflationsanstieg auf 3,5 Prozent und den Energiepreisschock in Großbritannien als Hauptursachen, während die New York Times die Warnung der Notenbank vor einer fünfprozentigen Teuerungsrate im nächsten Jahr hervorhebt. The Guardian und die Financial Times betonen übereinstimmend, dass Gouverneur Andrew Bailey bereits weitere Zinserhöhungen in Aussicht gestellt hat.",
           "sources": [
+            {
+              "name": "Guardian",
+              "country": "UK",
+              "url": "https://www.theguardian.com/business/2026/nov/05/bank-of-england-raises-interest-rates-first-increase-for-more-than-three-years"
+            },
+            {
+              "name": "Financial Times",
+              "country": "UK",
+              "url": "https://www.ft.com/content/2153a8c5-976c-471f-9ca9-bf0a5da40b61?syn-25a6b1a6=1"
+            },
+            {
+              "name": "New York Times",
+              "country": "US",
+              "url": "https://www.nytimes.com/2026/11/05/business/bank-of-england-interest-rates-inflation.html"
+            },
             {
               "name": "Handelsblatt",
               "country": "DE",
-              "url": "https://www.handelsblatt.com/finanzen/geldpolitik/inflation-teuerung-im-euro-raum-erreicht-die-vier-prozent-marke/100263504.html"
-            },
-            {
-              "name": "Tagesschau",
-              "country": "DE",
-              "url": "https://www.tagesschau.de/wirtschaft/konjunktur/inflation-eurozone-oktober-102.html"
-            },
-            {
-              "name": "CNBC",
-              "country": "US",
-              "url": "https://www.cnbc.com/2026/11/04/euro-zone-cpi-inflation-october-ecb-rate-hike.html"
-            },
-            {
-              "name": "FAZ",
-              "country": "DE",
-              "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/inflation-im-euroraum-steigt-auf-4-0-prozent-ezb-vor-zinserhoehung-accg-201650074.html"
+              "url": "https://www.handelsblatt.com/finanzen/geldpolitik/bank-of-england-britische-notenbank-hebt-zinsen-erstmals-seit-drei-jahren-an/100266567.html"
             }
           ],
-          "time": "2026-11-04T10:01:54+00:00",
+          "time": "2026-11-05T13:27:49+00:00",
           "image": {
-            "url": "https://images.handelsblatt.com/-NUqwU6W7cuw/cover/900/506/0/0/287/286/0.5/0.5/macro-view-of-a-20-euro-banknote-featuring-the-word-euro-and-several-yellow-stars-partially-illum.jpg",
-            "source": "Handelsblatt"
+            "url": "https://i.guim.co.uk/img/media/d6ebd9b4d868a9da787c0f6b207548c78ad7ab28/586_197_4797_3840/master/4797.jpg?width=700&quality=85&auto=format&fit=max&s=9d88b68fee5c214da13888f1ba40fdc4",
+            "source": "Guardian"
           }
         },
         {
           "id": "w2",
-          "headline": "US-Midterms lösen Erholungsrally an den Aktienmärkten aus",
-          "summary": "Die Ergebnisse der US-Zwischenwahlen haben für steigende Kurse an den Aktienmärkten gesorgt. Der DAX stieg zeitweise auf den höchsten Stand seit zwei Monaten, während auch die US-Börsen zulegten. Anleger erhoffen sich mehr politische Berechenbarkeit, während KI-Aktien fielen.",
-          "perspectives": "Financial Times, New York Times, Tagesschau und Handelsblatt berichten über die Gewinne an den Aktienmärkten. Handelsblatt streicht heraus, dass KI-Aktien entgegen dem Markttrend fielen. Tagesschau stellt die Erwartung politischer Berechenbarkeit in den Vordergrund, während New York Times auf Erwartungen eines politischen Stillstands (gridlock) hinweist.",
+          "headline": "René Benko wegen schweren Betrugs zu weiterer Haftstrafe verurteilt",
+          "summary": "Das Landesgericht Innsbruck hat den Signa-Gründer René Benko wegen schweren Betrugs zu einer Zusatzstrafe von zwei Jahren Haft verurteilt. Dem Urteil zufolge hatte Benko einem Investor mit einer Garantie fünf Millionen Euro entlockt. Der Ex-Unternehmer war bereits im September wegen Gläubigerschädigung zu zweieinhalb Jahren Gefängnis verurteilt worden.",
+          "perspectives": "Handelsblatt, Spiegel und NZZ berichten über die Schadenssumme von fünf Millionen Euro, während die Tagesschau als Einzige explizit hervorhebt, dass das Urteil noch nicht rechtskräftig ist. Die NZZ hebt vor allem den Auftritt eines einstigen Förderers hervor, der vor Gericht mit Benko abrechnete, während der Spiegel herausstellt, dass Benko im September bereits zu zweieinhalb Jahren Haft verurteilt worden war.",
           "sources": [
             {
-              "name": "Financial Times",
-              "country": "UK",
-              "url": "https://www.ft.com/content/a0b18705-3bd8-4886-992c-b6062fdec6ea?syn-25a6b1a6=1"
+              "name": "Tagesschau",
+              "country": "DE",
+              "url": "https://www.tagesschau.de/ausland/europa/benko-prozess-neue-strafe-100.html"
             },
             {
-              "name": "New York Times",
-              "country": "US",
-              "url": "https://www.nytimes.com/2026/11/04/business/midterm-elections-stock-market.html"
+              "name": "NZZ",
+              "country": "CH",
+              "url": "https://www.nzz.ch/wirtschaft/zwei-jahre-haft-zusaetzlich-auch-beim-vierten-mal-glaubt-das-gericht-rene-benko-nicht-ld.10055551"
             },
             {
               "name": "Handelsblatt",
               "country": "DE",
-              "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/boersen-midterms-loesen-erholungsrally-aus-dow-steigt-mehr-als-1500-punkte/100265439.html"
-            },
-            {
-              "name": "Tagesschau",
-              "country": "DE",
-              "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-boerse-118.html"
-            }
-          ],
-          "time": "2026-11-04T17:31:22+00:00",
-          "image": {
-            "url": "https://static01.nyt.com/images/2026/11/03/multimedia/03biz-midterms-stocks-mjvc/03biz-midterms-stocks-mjvc-mediumSquareAt3X.jpg",
-            "source": "New York Times"
-          }
-        },
-        {
-          "id": "w3",
-          "headline": "Deutscher Autosektor meldet deutliche Gewinneinbrüche",
-          "summary": "Die deutschen Automobilhersteller kämpfen mit spürbaren Einbrüchen bei den Gewinnen im dritten Quartal. Neben einer Absatzkrise auf dem chinesischen Markt belasten teure Abfindungen und die Umstellung auf Elektromobilität die Ergebnisse von Herstellern wie BMW.",
-          "perspectives": "Handelsblatt, Tagesschau und Spiegel berichten übereinstimmend über rückläufige Erträge bei den Herstellern. Spiegel nennt den konkreten Gewinnrückgang bei BMW von 15 Prozent im dritten Quartal. Handelsblatt stellt den Elektro-Boom in Europa und Verbrenner-Kollaps in China in den Vordergrund, während Tagesschau teure Abfindungen betont.",
-          "sources": [
-            {
-              "name": "Handelsblatt",
-              "country": "DE",
-              "url": "https://www.handelsblatt.com/unternehmen/industrie/autoindustrie-die-elektrowelle-ueberrollt-vw-bmw-und-mercedes/100265334.html"
-            },
-            {
-              "name": "Tagesschau",
-              "country": "DE",
-              "url": "https://www.tagesschau.de/wirtschaft/unternehmen/bmw-gewinnwarnung-100.html"
+              "url": "https://www.handelsblatt.com/politik/deutschland/angeklagter-mit-fussfessel-signa-gruender-benko-wegen-millionenbetrugs-verurteilt/100267696.html"
             },
             {
               "name": "Spiegel",
               "country": "DE",
-              "url": "https://www.spiegel.de/wirtschaft/unternehmen/bmw-macht-15-prozent-weniger-gewinn-es-duerfte-noch-schlimmer-werden-a-c122d2d7-a0c6-48a1-97ca-043d5fef46cd"
+              "url": "https://www.spiegel.de/wirtschaft/rene-benko-zu-zusatzstrafe-von-zwei-jahren-verurteilt-wegen-schweren-betrugs-a-fc9d0fc1-4f92-4ddf-8342-1a4bd6e55ff8"
             }
           ],
-          "time": "2026-11-04T07:23:00+00:00",
+          "time": "2026-11-05T17:16:00+00:00",
           "image": {
-            "url": "https://images.handelsblatt.com/0J6AJpH97F93/cover/900/506/1/1/0/0/0.5/0.5/autobauer.png",
-            "source": "Handelsblatt"
+            "url": "https://images.tagesschau.de/image/22c9fede-c3b6-42bf-9d65-2296423a5980/AAABoazFYc4/AAABnSSvrFg/16x9-big/rene-benko-126.jpg?width=1024",
+            "source": "Tagesschau"
           }
         },
         {
-          "id": "w4",
-          "headline": "Bosch streicht 750 weitere Stellen am Standort Abstatt",
-          "summary": "Der Autozulieferer Bosch verschärft seinen Sparkurs und baut weitere 750 Arbeitsplätze am Standort Abstatt ab. Insgesamt streicht das Unternehmen in Deutschland 24.000 Stellen. Der neue Konzernchef treibt damit den Umbau der Unternehmensstruktur weiter voran.",
-          "perspectives": "Bisher nur von Handelsblatt berichtet.",
+          "id": "w3",
+          "headline": "Bund einigt sich auf 50-Prozent-Übernahme von Panzerbauer KNDS",
+          "summary": "Die Bundesregierung hat sich mit den Eigentümerfamilien auf die Übernahme ihrer 50-prozentigen Beteiligung am Rüstungskonzern KNDS geeinigt. Die andere Hälfte hält der französische Staat. Berlin will mit dem Einstieg sicherstellen, dass nationale Sicherheitsinteressen und Schlüsseltechnologien der Rüstungsindustrie in staatlicher Hand bleiben.",
+          "perspectives": "Die Tagesschau meldet, dass die Bundesregierung für den Einstieg offenbar weniger Geld ausgibt als ursprünglich geplant, während der Spiegel hervorhebt, dass die genaue Höhe des Kaufpreises vor der anstehenden Vertragsunterzeichnung noch Rätsel aufgibt. Die Financial Times betont als einzige Quelle, dass die Vereinbarung einen späteren Börsengang des Panzerbauers nicht ausschließt.",
           "sources": [
-            {
-              "name": "Handelsblatt",
-              "country": "DE",
-              "url": "https://www.handelsblatt.com/unternehmen/industrie/autozulieferer-bosch-verschaerft-seinen-personalabbau/100267297.html"
-            }
-          ],
-          "time": "2026-11-05T03:06:10+00:00",
-          "image": {
-            "url": "https://images.handelsblatt.com/Lkb9THIqnV1H/cover/900/506/0/0/122/123/0.5/0.5/ein-mitarbeiter-prueft-in-abstatt-baden-wuerttemberg-im-werk-des-autozulieferers-bosch-die-bremssche.jpg",
-            "source": "Handelsblatt"
-          }
-        },
-        {
-          "id": "w5",
-          "headline": "Gesundheitskonzern CVS Health plant Abspaltung der Apotheken",
-          "summary": "Der US-Konzern CVS Health plant die Trennung von seinem Apothekengeschäft. Bis 2028 soll die Apothekenkette von den Versicherungspartens und dem Abrechnungsgeschäft abgespalten werden. Hintergrund ist wachsender politischer Druck auf Abrechnungsdienstleister.",
-          "perspectives": "New York Times, Financial Times und Guardian berichten übereinstimmend über die Abspaltungspläne. Financial Times nennt einen Konzerngesamtwert von 102 Milliarden US-Dollar, während Guardian diesen mit 117 Milliarden US-Dollar beziffert.",
-          "sources": [
-            {
-              "name": "New York Times",
-              "country": "US",
-              "url": "https://www.nytimes.com/2026/11/04/business/cvs-health-split.html"
-            },
             {
               "name": "Financial Times",
               "country": "UK",
-              "url": "https://www.ft.com/content/2478a5ea-263a-4f4f-ac96-7d619fb39bb8?syn-25a6b1a6=1"
+              "url": "https://www.ft.com/content/198d3d9d-b7d4-4c3a-884e-ad7b4e359dfa?syn-25a6b1a6=1"
             },
             {
-              "name": "Guardian",
-              "country": "UK",
-              "url": "https://www.theguardian.com/us-news/2026/nov/04/cvs-health-pharmacy-insurance"
+              "name": "Tagesschau",
+              "country": "DE",
+              "url": "https://www.tagesschau.de/wirtschaft/unternehmen/knds-bundesregierung-100.html"
+            },
+            {
+              "name": "Zeit",
+              "country": "DE",
+              "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-11/knds-bund-uebernahme-wegmann-boersengang"
+            },
+            {
+              "name": "Spiegel",
+              "country": "DE",
+              "url": "https://www.spiegel.de/wirtschaft/unternehmen/knds-bund-einigt-sich-mit-eigentuemerfamilien-auf-einstieg-beim-panzerbauer-a-4f279626-2f96-4d48-b788-4f204a0a4094"
             }
           ],
-          "time": "2026-11-04T15:20:24+00:00",
+          "time": "2026-11-05T11:34:00+00:00",
           "image": {
-            "url": "https://static01.nyt.com/images/2026/11/04/multimedia/04biz-cvs-breakup-zpcw/04biz-cvs-breakup-zpcw-mediumSquareAt3X.jpg",
-            "source": "New York Times"
+            "url": "https://images.tagesschau.de/image/6f75b1ab-b532-402d-aeda-80741bbaa204/AAABoatgVf0/AAABnSSvrFg/16x9-big/knds-156.jpg?width=1024",
+            "source": "Tagesschau"
           }
         }
       ]
@@ -345,203 +348,203 @@
   "more": [
     {
       "section": "politik",
-      "headline": "Strafen gegen Vucic-Propagandasendungen bei Informer und Prva in Serbien",
-      "source": "Tagesschau",
-      "country": "DE",
-      "url": "https://www.tagesschau.de/ausland/europa/serbien-medienaufsicht-strafe-100.html",
-      "time": "2026-11-05T04:05:08+00:00",
-      "opinion": false,
-      "image": "https://images.tagesschau.de/image/ec39890e-6646-43e7-9fe4-722aa52eb9de/AAABoalNKbo/AAABnSSvrFg/16x9-big/medien-serbien-100.jpg?width=1024"
-    },
-    {
-      "section": "politik",
-      "headline": "+++ Ukraine-Krieg +++: Selenskyj ehrt Melania Trump mit ukrainischem Orden",
-      "source": "Handelsblatt",
-      "country": "DE",
-      "url": "https://www.handelsblatt.com/politik/international/ukraine-selenskyj-ehrt-melania-trump-mit-ukrainischem-orden/27982126.html",
-      "time": "2026-11-05T04:01:00+00:00",
-      "opinion": false,
-      "image": "https://images.handelsblatt.com/ZPINwZr5BFLh/cover/900/506/0/0/0/258/0.5/0.5/october-29-2026-washington-district-of-columbia-united-states-president-donald-trump-and-first.jpg"
-    },
-    {
-      "section": "politik",
-      "headline": "Migrationspolitik: Gegen den Trend: Mehr Abschiebungen in die Türkei",
-      "source": "Handelsblatt",
-      "country": "DE",
-      "url": "https://www.handelsblatt.com/politik/deutschland/migrationspolitik-gegen-den-trend-mehr-abschiebungen-in-die-tuerkei/100267431.html",
-      "time": "2026-11-05T03:30:14+00:00",
-      "opinion": false,
-      "image": "https://images.handelsblatt.com/P4L3uh6qR9yX/cover/900/506/0/0/119/119/0.5/0.5/protest-gegen-abschiebungen.jpg"
-    },
-    {
-      "section": "politik",
-      "headline": "Städte unter der Lupe: Frankfurt ist dynamischste Großstadt Deutschlands",
-      "source": "Handelsblatt",
-      "country": "DE",
-      "url": "https://www.handelsblatt.com/politik/deutschland/staedte-unter-der-lupe-frankfurt-ist-dynamischste-grossstadt-deutschlands/100267432.html",
-      "time": "2026-11-05T03:30:12+00:00",
-      "opinion": false,
-      "image": "https://images.handelsblatt.com/vAFm5BxY2mag/cover/900/506/0/0/119/118/0.5/0.5/skyline-in-frankfurt.jpg"
-    },
-    {
-      "section": "politik",
-      "headline": "Suche nach mehrheitsfähiger Kandidatin: Merz und die Bundespräsidentinnen-Frage",
-      "source": "Tagesschau",
-      "country": "DE",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/bundespraesident-wahl-kandidatinnen-100.html",
-      "time": "2026-11-05T03:21:38+00:00",
-      "opinion": false,
-      "image": "https://images.tagesschau.de/image/73406896-4829-4187-9def-0e859f03a207/AAABlgt9I-8/AAABnSSvrFg/16x9-big/bellevue-129.jpg?width=1024"
-    },
-    {
-      "section": "politik",
-      "headline": "Raketentest: Nordkorea testet neu entwickeltes Flugabwehrraketensystem",
-      "source": "Zeit",
-      "country": "DE",
-      "url": "https://www.zeit.de/politik/ausland/2026-11/nordkorea-raketentest-flugabwehrrakete-marschflugkoerper",
-      "time": "2026-11-05T03:07:05+00:00",
-      "opinion": false,
-      "image": "https://img.zeit.de/politik/ausland/2026-11/nordkorea-raketentest-flugabwehrrakete-marschflugkoerper-foto-1/wide__820x461"
-    },
-    {
-      "section": "politik",
-      "headline": "Teure Fahrerlaubnis: Reform im Bundestag - Wird der Führerschein günstiger?",
-      "source": "Handelsblatt",
-      "country": "DE",
-      "url": "https://www.handelsblatt.com/politik/deutschland/teure-fahrerlaubnis-reform-im-bundestag-wird-der-fuehrerschein-guenstiger/100267423.html",
-      "time": "2026-11-05T03:00:22+00:00",
-      "opinion": false,
-      "image": "https://images.handelsblatt.com/wCuiGqH3U5sf/cover/900/506/0/0/107/106/0.5/0.5/fahrschule.jpg"
-    },
-    {
-      "section": "politik",
-      "headline": "Pflegereform: Bundestag debattiert über Pflegereform",
-      "source": "Zeit",
-      "country": "DE",
-      "url": "https://www.zeit.de/politik/deutschland/2026-11/pflegereform-pflegeversicherung-bundestag-beitrag-2026-expertenkommission",
-      "time": "2026-11-05T02:26:09+00:00",
-      "opinion": false,
-      "image": "https://img.zeit.de/politik/deutschland/2026-11/pflegereform-pflegeversicherung-bundestag-beitrag-2026-expertenkommission-foto-1/wide__820x461"
-    },
-    {
-      "section": "politik",
-      "headline": "Frankreich: Nach den Protesten sollen jetzt Streiks folgen",
-      "source": "Tagesschau",
-      "country": "DE",
-      "url": "https://www.tagesschau.de/ausland/europa/proteste-streiks-frankreich-100.html",
-      "time": "2026-11-05T01:52:28+00:00",
-      "opinion": false,
-      "image": "https://images.tagesschau.de/image/e892caa1-f741-42e7-a5bb-86e590c84907/AAABoak1rHw/AAABnSSvrFg/16x9-big/paris-protest-106.jpg?width=1024"
-    },
-    {
-      "section": "politik",
-      "headline": "Nord-Stream-Prozess: Die mutmaßlichen Saboteure unterschrieben wie Schüler",
-      "source": "FAZ",
-      "country": "DE",
-      "url": "https://www.faz.net/aktuell/politik/inland/nordstream-prozess-bka-schildert-verdaechtige-spuren-auf-der-andromeda-201652142.html",
-      "time": "2026-11-04T20:12:35+00:00",
-      "opinion": false,
-      "image": "https://media0.faz.net/image/f6ffb5ba574a/w3578h2013x0y141/202611/3a2ef0d6-3329-4531-b74f-04e2f9e3ccaf/die-vorsitzende-richterin-anne.webp"
-    },
-    {
-      "section": "politik",
-      "headline": "Spanish rail infrastructure chief steps down after Toledo train crash",
-      "source": "Politico Europe",
-      "country": "EU",
-      "url": "https://www.politico.eu/article/spain-adif-president-luis-pedro-marco-de-la-pena-step-down-train-crash/",
-      "time": "2026-11-04T19:42:50+00:00",
-      "opinion": false,
-      "image": null
-    },
-    {
-      "section": "politik",
-      "headline": "Deutschland erhöht humanitäre Hilfe für Jemen",
+      "headline": "Hongkong: Aktivist Joshua Wong zu zehn Jahren Haft verurteilt",
       "source": "Spiegel",
       "country": "DE",
-      "url": "https://www.spiegel.de/politik/deutschland-erhoeht-humanitaere-hilfe-fuer-jemen-a-1e12e0ba-7dff-4afe-b4e7-1c9eb6e65672",
-      "time": "2026-11-04T19:35:00+00:00",
+      "url": "https://www.spiegel.de/ausland/joshua-wong-hongkonger-aktivist-zu-zehn-jahren-haft-verurteilt-a-94be2a6b-6f41-465f-b110-1f01ed11eda1",
+      "time": "2026-11-05T04:18:00+00:00",
       "opinion": false,
-      "image": "https://cdn.prod.www.spiegel.de/images/466d572c-e92a-413e-a1ee-f1c94f823974_w520_r2.08_fpx66.67_fpy50.jpg"
+      "image": "https://cdn.prod.www.spiegel.de/images/f5efebd9-8b9f-45a4-adb3-14284d72130e_w520_r2.08_fpx31.03_fpy44.99.jpg"
     },
     {
       "section": "politik",
-      "headline": "36 years later: Hungary opens Communist-era secret service files",
-      "source": "Deutsche Welle",
-      "country": "DE",
-      "url": "https://www.dw.com/en/36-years-later-hungary-opens-communist-era-secret-service-files/a-79858016",
-      "time": "2026-11-04T19:30:00+00:00",
-      "opinion": false,
-      "image": null
-    },
-    {
-      "section": "politik",
-      "headline": "British healthcare worker with Ebola evacuated from DR Congo to UK",
-      "source": "Guardian",
-      "country": "UK",
-      "url": "https://www.theguardian.com/world/2026/nov/04/british-healthcare-worker-ebola-evacuated-drc-to-uk-document-shows",
-      "time": "2026-11-04T18:18:37+00:00",
-      "opinion": false,
-      "image": "https://i.guim.co.uk/img/media/22d88a4e5887695fa17d85593fd7c9e807599182/872_0_4800_3840/master/4800.jpg?width=700&quality=85&auto=format&fit=max&s=d033440f358b578a25babd142ed385e9"
-    },
-    {
-      "section": "politik",
-      "headline": "Sicherheit: „Wir sind nicht vorbereitet“ – NRW will Infrastruktur gegen hybride Angriffe stärken",
-      "source": "Handelsblatt",
-      "country": "DE",
-      "url": "https://www.handelsblatt.com/politik/deutschland/sicherheit-nrw-will-resilienz-gegen-hybride-angriffe-staerken/100267071.html",
-      "time": "2026-11-04T17:31:19+00:00",
-      "opinion": false,
-      "image": "https://images.handelsblatt.com/JJMclO9Yc8fP/cover/900/506/0/0/314/313/0.5/0.5/04.11.2026-nordrhein-westfalen-duesseldorf-hendrik-wuest-cdu-ministerpraesident-von-nordrhein-wes.jpg"
-    },
-    {
-      "section": "politik",
-      "headline": "Bund fördert Schwimmenlernen mit 20 Millionen Euro",
+      "headline": "Christian Freuding wird neuer Generalinspekteur der Bundeswehr",
       "source": "Tagesschau",
       "country": "DE",
-      "url": "https://www.tagesschau.de/inland/foerderprogramm-bund-schwimmen-100.html",
-      "time": "2026-11-04T16:29:29+00:00",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/generalinspekteur-freuding-100.html",
+      "time": "2026-11-05T17:15:48+00:00",
       "opinion": false,
-      "image": "https://images.tagesschau.de/image/825da6fc-947a-40b8-b773-c13747ce4301/AAABoacWcOE/AAABnSSvrFg/16x9-big/junge-schwimmbad-100.jpg?width=1024"
+      "image": "https://images.tagesschau.de/image/8ed7e67b-7972-48fe-bcaf-cb3420cc0f2b/AAABoavrqLI/AAABnSSvrFg/16x9-big/christian-freuding-108.jpg?width=1024"
+    },
+    {
+      "section": "politik",
+      "headline": "Kalifornien wandelt Todesstrafen in lebenslange Haftstrafen um",
+      "source": "Tagesschau",
+      "country": "DE",
+      "url": "https://www.tagesschau.de/ausland/amerika/kalifornien-todesstrafe-umwandlung-100.html",
+      "time": "2026-11-05T23:44:38+00:00",
+      "opinion": false,
+      "image": "https://images.tagesschau.de/image/6fb17741-aab1-4e9e-80ce-190e83c5a5bc/AAABoa1ffvo/AAABnSSvrFg/16x9-big/newsom-120.jpg?width=1024"
+    },
+    {
+      "section": "politik",
+      "headline": "Bundestagsbeschluss: Schlachthöfe werden künftig mit Kameras überwacht",
+      "source": "Spiegel",
+      "country": "DE",
+      "url": "https://www.spiegel.de/politik/bundestagsbeschluss-schlachthoefe-werden-kuenftig-mit-kameras-ueberwacht-a-10d81644-e866-44db-bf3f-b5337bad0739",
+      "time": "2026-11-05T19:06:00+00:00",
+      "opinion": false,
+      "image": "https://cdn.prod.www.spiegel.de/images/088aa6c5-aa1c-4b01-ae5f-e8692271d729_w520_r2.08_fpx52.66_fpy54.99.jpg"
+    },
+    {
+      "section": "politik",
+      "headline": "Ostsee-Sabotage: Gericht in Finnland verurteilt Seeleute wegen Sabotage von Unterseekabeln",
+      "source": "Spiegel",
+      "country": "DE",
+      "url": "https://www.spiegel.de/ausland/ostsee-sabotage-gericht-in-finnland-verurteilt-seeleute-wegen-sabotage-von-unterseekabeln-a-ee597827-0669-4e42-8a17-f27a9ef1ec72",
+      "time": "2026-11-05T12:31:00+00:00",
+      "opinion": false,
+      "image": "https://cdn.prod.www.spiegel.de/images/b07b8a7b-e903-4eb0-94a2-dd3e67777f6b_w520_r2.08_fpx30.01_fpy54.98.jpg"
+    },
+    {
+      "section": "politik",
+      "headline": "Donald Trump: Trump erklärt sein vergoldetes Oval Office zum Nationaldenkmal",
+      "source": "Spiegel",
+      "country": "DE",
+      "url": "https://www.spiegel.de/ausland/donald-trump-trump-erklaert-sein-vergoldetes-oval-office-zum-nationaldenkmal-a-ed02fc73-d56a-4773-9142-68e9bb41780e",
+      "time": "2026-11-06T01:00:00+00:00",
+      "opinion": false,
+      "image": "https://cdn.prod.www.spiegel.de/images/59c0482f-b9c8-44a7-9279-fc2d8e3be819_w520_r2.08_fpx46.66_fpy50.jpg"
+    },
+    {
+      "section": "politik",
+      "headline": "Wie der Führerschein günstiger werden soll",
+      "source": "Tagesschau",
+      "country": "DE",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/bundestag-fuehrerschein-reform-100.html",
+      "time": "2026-11-05T15:33:46+00:00",
+      "opinion": false,
+      "image": "https://images.tagesschau.de/image/60a0757a-c615-4a84-a1d0-ef2a8555dfa2/AAABnkJwkBE/AAABnSSvrFg/16x9-big/fahrschule-244.jpg?width=1024"
+    },
+    {
+      "section": "politik",
+      "headline": "Britischer Komiker Brand der Vergewaltigung schuldig gesprochen",
+      "source": "Tagesschau",
+      "country": "DE",
+      "url": "https://www.tagesschau.de/ausland/europa/russell-brand-verurteilung-100.html",
+      "time": "2026-11-05T15:42:30+00:00",
+      "opinion": false,
+      "image": "https://images.tagesschau.de/image/fe0f04f7-8477-4ba0-9a2b-11acb26a57fa/AAABoaxREqU/AAABnSSvrFg/16x9-big/russell-brand-102.jpg?width=1024"
     },
     {
       "section": "wirtschaft",
-      "headline": "Neuer EZB-Chef: Niederlande nominieren Ex-Zentralbanker Knot",
+      "headline": "Supermärkte: Warum Kühlregale leicht zu hacken sind",
       "source": "Tagesschau",
       "country": "DE",
-      "url": "https://www.tagesschau.de/wirtschaft/konjunktur/knot-nominierung-ezb-100.html",
-      "time": "2026-11-04T14:30:36+00:00",
+      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/hacker-kuehlsysteme-supermaerkte-100.html",
+      "time": "2026-11-05T19:11:03+00:00",
       "opinion": false,
-      "image": "https://images.tagesschau.de/image/c8b6006a-2850-4e36-9caf-f20ee945d5d4/AAABoabiLPc/AAABnSSvrFg/16x9-big/klaas-knot-106.jpg?width=1024"
+      "image": "https://images.tagesschau.de/image/1a3ebc67-f846-4558-b6e1-dbc96f6cdfa1/AAABoaaLDok/AAABnSSvrFg/16x9-big/cyberangriff-supermarkt-102.jpg?width=1024"
+    },
+    {
+      "section": "wirtschaft",
+      "headline": "Bosch streicht in Abstatt weitere 750 Arbeitsplätze",
+      "source": "Spiegel",
+      "country": "DE",
+      "url": "https://www.spiegel.de/wirtschaft/unternehmen/bosch-streicht-in-abstatt-weitere-750-arbeitsplaetze-a-bf826fae-4ad6-4e20-9577-f6f6065346b3",
+      "time": "2026-11-05T11:47:00+00:00",
+      "opinion": false,
+      "image": "https://cdn.prod.www.spiegel.de/images/e9a37283-e197-45f4-a148-72808159e94d_w520_r2.08_fpx30.02_fpy54.99.jpg"
+    },
+    {
+      "section": "wirtschaft",
+      "headline": "Energieerzeugung: Wie China es schafft, weniger CO₂ auszustoßen",
+      "source": "FAZ",
+      "country": "DE",
+      "url": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/chinas-co-ausstoss-sinkt-erstmals-weniger-als-die-haelfte-kohlestrom-accg-201657271.html",
+      "time": "2026-11-06T02:40:36+00:00",
+      "opinion": false,
+      "image": "https://media0.faz.net/image/6f7a4fa6e835/w7519h4229x0y438/202610/f7da18e8-e834-4973-9a6c-ce313f12b490/in-der-chinesischen-provinz.webp"
     },
     {
       "section": "politik",
-      "headline": "Wohngeldreform könnte Bedürftige doppelt treffen",
-      "source": "Tagesschau",
+      "headline": "USA: Linke Demokratin wird neue Bürgermeisterin von Los Angeles",
+      "source": "Zeit",
       "country": "DE",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/wohngeld-reform-sozialkaufhaus-100.html",
-      "time": "2026-11-04T12:01:12+00:00",
+      "url": "https://www.zeit.de/politik/ausland/2026-11/nithya-raman-buergermeisterin-los-angeles-karen-bass",
+      "time": "2026-11-05T19:54:39+00:00",
       "opinion": false,
-      "image": "https://images.tagesschau.de/image/0e129fe0-539b-4c90-9fff-be6d782b5b47/AAABoaIowhs/AAABnSSvrFg/16x9-big/sozialkaufhaus-montabaur-100.jpg?width=1024"
+      "image": "https://img.zeit.de/politik/ausland/2026-11/nithya-raman-buergermeisterin-los-angeles-karen-bass-foto-1/wide__820x461"
+    },
+    {
+      "section": "wirtschaft",
+      "headline": "Abbau von 5000 Stellen: KLM macht eine düstere Ansage",
+      "source": "FAZ",
+      "country": "DE",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/fortbestand-ist-nicht-selbstverstaendlich-die-duestere-ansage-von-klm-201655147.html",
+      "time": "2026-11-05T16:40:31+00:00",
+      "opinion": false,
+      "image": "https://media0.faz.net/image/064ab5d49d2e/w5877h3306x0y612/202606/43601.0.2169826739/bereit-zum-abflug-klm.webp"
     },
     {
       "section": "politik",
-      "headline": "Beau Lamarre-Condon trial live updates: accused double murderer gives evidence in high-profile case",
-      "source": "Guardian",
+      "headline": "Bundestag korrigiert Panne bei Tabaksteuererhöhung",
+      "source": "Tagesschau",
+      "country": "DE",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/tabaksteuer-138.html",
+      "time": "2026-11-06T00:55:35+00:00",
+      "opinion": false,
+      "image": "https://images.tagesschau.de/image/d3876004-9fe6-4ca8-9b05-b85dd2090a2a/AAABoUWv6Dk/AAABnSSvrFg/16x9-big/161026-tabaksteuer-mediathek-100.jpg?width=1024"
+    },
+    {
+      "section": "politik",
+      "headline": "Westliches Russland-Geschäft: Putin stellt Tabakunternehmen JTI unter Zwangsverwaltung",
+      "source": "Handelsblatt",
+      "country": "DE",
+      "url": "https://www.handelsblatt.com/politik/deutschland/westliches-russland-geschaeft-putin-stellt-tabakunternehmen-jti-unter-zwangsverwaltung/100267656.html",
+      "time": "2026-11-05T17:23:10+00:00",
+      "opinion": false,
+      "image": "https://images.handelsblatt.com/GJiRZtOExPvj/cover/900/506/0/0/107/106/0.5/0.5/russischer-praesident-wladimir-putin.jpg"
+    },
+    {
+      "section": "wirtschaft",
+      "headline": "French bank Crédit Mutuel Arkéa seeks to recover funds after €100mn hack",
+      "source": "Financial Times",
       "country": "UK",
-      "url": "https://www.theguardian.com/australia-news/live/2026/nov/05/beau-lamarre-condon-trial-former-police-accused-murder-case-jesse-baird-luke-davies-ntwnfb",
-      "time": "2026-11-05T04:00:53+00:00",
-      "opinion": false,
-      "image": "https://i.guim.co.uk/img/media/ebfc885f7db8935002487a469a0f9baba836690e/317_347_2279_1823/master/2279.jpg?width=700&quality=85&auto=format&fit=max&s=c3bc4fd50a8cd573219e20c0fb673221"
-    },
-    {
-      "section": "politik",
-      "headline": "Beyond crisis management: a new policy agenda for schizophrenia",
-      "source": "Politico Europe",
-      "country": "EU",
-      "url": "https://www.politico.eu/sponsored-content/beyond-crisis-management-a-new-policy-agenda-for-schizophrenia/",
-      "time": "2026-11-05T04:00:00+00:00",
+      "url": "https://www.ft.com/content/3f6ef089-f478-4d00-a080-21a88ffd721b?syn-25a6b1a6=1",
+      "time": "2026-11-05T13:28:53+00:00",
       "opinion": false,
       "image": null
+    },
+    {
+      "section": "politik",
+      "headline": "Karibikinsel: USA verschärfen Sanktionen gegen Kuba",
+      "source": "Zeit",
+      "country": "DE",
+      "url": "https://www.zeit.de/politik/ausland/2026-11/kuba-usa-sanktionen-oel-elektronik-china-ceiec-beijing-hc",
+      "time": "2026-11-06T02:33:15+00:00",
+      "opinion": false,
+      "image": "https://img.zeit.de/politik/ausland/2026-11/kuba-usa-sanktionen-oel-elektronik-china-ceiec-beijing-hc-foto-1/wide__820x461"
+    },
+    {
+      "section": "politik",
+      "headline": "Sexuelles Fehlverhalten: Bundeswehr gab in drei Jahren 724 Fälle an Justiz ab",
+      "source": "Spiegel",
+      "country": "DE",
+      "url": "https://www.spiegel.de/politik/sexuelles-fehlverhalten-bundeswehr-gab-in-drei-jahren-724-faelle-an-justiz-ab-a-967328e1-e5fa-47ca-ad0b-03a471597ea2",
+      "time": "2026-11-06T04:02:00+00:00",
+      "opinion": false,
+      "image": "https://cdn.prod.www.spiegel.de/images/4e2094b1-f235-4e08-a0f0-62612a21db74_w520_r2.08_fpx47.32_fpy52.99.jpg"
+    },
+    {
+      "section": "politik",
+      "headline": "Ecuador: Prozess gegen Drahtzieher nach politischem Mord",
+      "source": "FAZ",
+      "country": "DE",
+      "url": "https://www.faz.net/aktuell/politik/ausland/mord-an-villavicencio-prozess-gegen-drahtzieher-in-ecuador-accg-201657270.html",
+      "time": "2026-11-06T02:37:13+00:00",
+      "opinion": false,
+      "image": "https://media0.faz.net/image/fa1b802c3cd0/w8084h4547x0y421/202608/43601.0.2416170499/bei-dem-prozess-2024.webp"
+    },
+    {
+      "section": "politik",
+      "headline": "British Ebola patient evacuated from DR Congo arrives at London hospital",
+      "source": "Guardian",
+      "country": "UK",
+      "url": "https://www.theguardian.com/world/2026/nov/05/british-ebola-patient-evacuated-drc-arrives-london-hospital",
+      "time": "2026-11-05T20:30:11+00:00",
+      "opinion": false,
+      "image": "https://i.guim.co.uk/img/media/b58a5b463f1a943c738a5d7c55d8aa4d09f9ba33/1000_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=74f2d53e718f7106798725b09c9bb3ce"
     }
   ]
 }
