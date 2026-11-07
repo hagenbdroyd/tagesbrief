@@ -1,42 +1,7 @@
 {
-  "updatedAt": "2026-11-06T07:12:27+01:00",
-  "morningPush": "2026-11-06",
+  "updatedAt": "2026-11-07T07:12:23+01:00",
+  "morningPush": "2026-11-07",
   "breaking": [
-    {
-      "id": "e2026110421570",
-      "time": "2026-11-04T20:38:18+00:00",
-      "pushedAt": "2026-11-04T21:57:27+01:00",
-      "headline": "Bayerns Wirtschaftsminister Hubert Aiwanger ist tot",
-      "summary": "Der Chef der Freien Wähler und stellvertretende bayerische Ministerpräsident Hubert Aiwanger ist im Alter von 55 Jahren gestorben. Er wurde in einem Berliner Hotel aufgefunden.",
-      "reason": "Unerwartetes Ableben eines führenden deutschen Landesministers und Parteichefs (Politik).",
-      "sources": [
-        {
-          "name": "Zeit",
-          "country": "DE",
-          "url": "https://www.zeit.de/politik/deutschland/2026-11/freie-waehler-chef-hubert-aiwanger-ist-tot"
-        },
-        {
-          "name": "Handelsblatt",
-          "country": "DE",
-          "url": "https://www.handelsblatt.com/politik/deutschland/politik-bayerns-wirtschaftsminister-hubert-aiwanger-ist-tot/100267392.html"
-        },
-        {
-          "name": "NZZ",
-          "country": "CH",
-          "url": "https://www.nzz.ch/international/bayerns-wirtschaftsminister-aiwanger-tot-in-berliner-hotel-gefunden-ld.10054634"
-        },
-        {
-          "name": "FAZ",
-          "country": "DE",
-          "url": "https://www.faz.net/aktuell/politik/inland/hubert-aiwanger-tot-in-berliner-hotel-entdeckt-201653069.html"
-        }
-      ],
-      "image": {
-        "url": "https://img.zeit.de/politik/deutschland/2026-11/hubert-aiwanger-tod-freie-waehler-bayern-wirtschaftsminister-foto-1/wide__820x461",
-        "source": "Zeit"
-      },
-      "model": "gemini-3.6-flash"
-    },
     {
       "id": "e2026110519270",
       "time": "2026-11-05T17:29:42+00:00",
