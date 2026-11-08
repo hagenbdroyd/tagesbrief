@@ -1,10 +1,44 @@
 {
-  "date": "2026-11-07",
-  "generatedAt": "2026-11-07T05:11:32+01:00",
+  "date": "2026-11-08",
+  "generatedAt": "2026-11-08T05:11:33+01:00",
   "notice": null,
   "aiModel": "gemini-3.8-flash",
-  "push": "Staatskrise in Paraguay: Senat setzt Präsident Peña nach Bankenskandal ab",
-  "breaking": [],
+  "push": "Bluttat in Krakau: Mindestens sechs Tote und drei Leichen in Haus von Täter",
+  "breaking": [
+    {
+      "id": "b1",
+      "headline": "Tödliche Schüsse in Krakau: Ermittlungen wegen Terrorverdachts",
+      "summary": "Bei einem Schusswaffenangriff aus einem Auto auf dem Hauptmarkt von Krakau wurden sechs Menschen getötet und mindestens 16 Personen verletzt. Im Haus des festgenommenen Schützen fanden Ermittler drei weitere Leichen. Ministerpräsident Donald Tusk bezeichnete die Tat als Terrorismus.",
+      "perspectives": "Laut BBC schoss der Täter willkürlich auf dem Hauptplatz, während der Guardian Innenminister-Angaben hervorhebt, wonach der Festgenommene von rechtsextremer und ultranationalistischer Ideologie beeinflusst gewesen sei.",
+      "sources": [
+        {
+          "name": "Tagesschau",
+          "country": "DE",
+          "url": "https://www.tagesschau.de/ausland/europa/polen-krakau-schuesse-102.html"
+        },
+        {
+          "name": "BBC",
+          "country": "UK",
+          "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo"
+        },
+        {
+          "name": "Zeit",
+          "country": "DE",
+          "url": "https://www.zeit.de/politik/ausland/2026-11/waffenlieferungen-israel-deutschland-friedrich-merz"
+        },
+        {
+          "name": "Guardian",
+          "country": "UK",
+          "url": "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman"
+        }
+      ],
+      "time": "2026-11-07T21:19:01+00:00",
+      "image": {
+        "url": "https://images.tagesschau.de/image/68961771-7cd2-466f-9fc6-f5e1ef891cff/AAABobi2DQI/AAABnSSvrFg/16x9-big/krakau-trauer-100.jpg?width=1024",
+        "source": "Tagesschau"
+      }
+    }
+  ],
   "sections": [
     {
       "id": "politik",
@@ -12,167 +46,185 @@
       "items": [
         {
           "id": "p1",
-          "headline": "Staatskrise in Paraguay: Senat setzt Präsident Peña ab",
-          "summary": "Nach dem Zusammenbruch der Ueno Bank hat der Senat in Paraguay Präsident Santiago Peña des Amtes enthoben. Wenig später ordneten die Behörden Hausarrest für den bisherigen Staatschef an. Ein Nachfolger wurde bereits vereidigt.",
-          "perspectives": "Während die Zeit und Tagesschau berichten, dass Peña nach der Amtsenthebung direkt unter Hausarrest gestellt wurde, hebt das Handelsblatt hervor, dass die Staatsanwaltschaft die Festnahme anordnete und Peña durch das einstimmige Votum seinen Sitz als Senator auf Lebenszeit verlor. Der Guardian betont als einziges Medium, dass durch die Krise rund 60 Prozent der Bevölkerung keinen Zugriff mehr auf ihre Konten haben.",
+          "headline": "Regierungsbildung in Israel: Eisenkot erhält den Auftrag",
+          "summary": "Nach den Parlamentswahlen hat Israels Staatspräsident Isaac Herzog Oppositionsführer Gadi Eisenkot mit der Bildung einer Regierung beauftragt. Weder das Lager von Ministerpräsident Benjamin Netanjahu noch die Opposition hatten eine eigene Mehrheit erzielt. Eisenkot stehen nun 28 Tage für schwierige Verhandlungen bevor.",
+          "perspectives": "Die Zeit verweist auf Demonstrationen, die eine Koalition unter Einschluss arabischer Parteien fordern. Der Guardian betont, dass das Parlament seit den Wahlen im Vormonat blockiert war, während die BBC von Wahlen in der vergangenen Woche spricht.",
           "sources": [
+            {
+              "name": "BBC",
+              "country": "UK",
+              "url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo"
+            },
             {
               "name": "Zeit",
               "country": "DE",
-              "url": "https://www.zeit.de/politik/ausland/2026-11/paraguay-santiago-pena-regierungskrise-bankenskandal-senat"
-            },
-            {
-              "name": "Handelsblatt",
-              "country": "DE",
-              "url": "https://www.handelsblatt.com/politik/international/staatskrise-in-suedamerika-staatsanwaltschaft-ordnet-festnahme-von-paraguays-ex-praesident-pena-an/100268040.html"
-            },
-            {
-              "name": "Guardian",
-              "country": "UK",
-              "url": "https://www.theguardian.com/world/2026/nov/07/ousted-paraguay-president-under-house-arrest-after-banking-crisis-leaves-60-of-country-unable-to-access-accounts"
+              "url": "https://www.zeit.de/politik/ausland/2026-11/regierungsbildung-israel-gadi-eisenkot-izchak-herzog-benjamin-netanjahu"
             },
             {
               "name": "Tagesschau",
               "country": "DE",
-              "url": "https://www.tagesschau.de/ausland/paraguay-amtsenthebung-100.html"
+              "url": "https://www.tagesschau.de/ausland/asien/regierungsbildung-israel-eisenkot-100.html"
+            },
+            {
+              "name": "Guardian",
+              "country": "UK",
+              "url": "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government"
             }
           ],
-          "time": "2026-11-07T00:06:18+00:00",
+          "time": "2026-11-07T19:49:39+00:00",
           "image": {
-            "url": "https://img.zeit.de/politik/2026-11/santiago-pena-amtsenthebung/wide__820x461",
-            "source": "Zeit"
+            "url": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/1ff8/live/d9aea170-daf1-11f1-a701-fddedf244c16.jpg",
+            "source": "BBC"
           }
         },
         {
           "id": "p2",
-          "headline": "Trumps Stabschef: Stephen Miller folgt auf Susie Wiles",
-          "summary": "US-Präsident Donald Trump hat Stephen Miller zu seinem neuen Stabschef ernannt. Er folgt auf Susie Wiles, die ihren Posten nach den Verlusten der Republikaner bei den Midterm-Wahlen aufgibt.",
-          "perspectives": "Der Spiegel bezeichnet Miller als gefährlichen Ideologen und wertet die Personalie als klares Signal, während der Guardian Trumps Verteidigung Millers als loyalen 'MVP' zitiert. Die Financial Times und das Handelsblatt stellen heraus, dass der Wechsel wenige Tage nach der schweren Niederlage der Republikaner bei den Midterms erfolgte.",
+          "headline": "Trump fordert Ermittlungen und benennt neue Personalien",
+          "summary": "Nach den Verlusten der Republikaner bei den Midterms hat US-Präsident Donald Trump das Justizministerium zu Untersuchungen gegen führende Demokraten aufgefordert. Zudem ernannte er den Hardliner Stephen Miller zum neuen Stabschef und bot UFC-Chef Dana White den Posten des Sprechers im Weißen Haus an.",
+          "perspectives": "Während die Zeit hervorhebt, dass Trump Zweifel am Wahlergebnis schürt, berichtet die New York Times über das Angebot an Dana White und dessen Aufforderung, Kämpfer als Assistenten mitzubringen. Der Guardian fokussiert sich auf Millers Zusage totaler Hingabe gegenüber Trump.",
           "sources": [
             {
-              "name": "Spiegel",
+              "name": "Zeit",
               "country": "DE",
-              "url": "https://www.spiegel.de/ausland/personalie-stephen-miller-donald-trump-setzt-auf-angst-a-e8532d64-f89b-4945-a825-d20f03e0d8fe"
-            },
-            {
-              "name": "Guardian",
-              "country": "UK",
-              "url": "https://www.theguardian.com/us-news/live/2026/nov/06/us-midterm-elections-2026-democrats-blue-wave-congress-latest-news-updates"
-            },
-            {
-              "name": "Financial Times",
-              "country": "UK",
-              "url": "https://www.ft.com/content/6e8f2244-0e39-45cd-b415-e0be54b0351f?syn-25a6b1a6=1"
+              "url": "https://www.zeit.de/politik/ausland/2026-11/donald-trump-justizministerium-demokraten-ermittlungen"
             },
             {
               "name": "Handelsblatt",
               "country": "DE",
-              "url": "https://www.handelsblatt.com/politik/international/nach-wahldebakel-trump-ersetzt-stabschefin-wiles-durch-hardliner-miller/100268013.html"
+              "url": "https://www.handelsblatt.com/politik/international/nach-us-midterms-trump-will-ermittlungen-gegen-demokraten-bedrohen-viele-menschen/29669594.html"
+            },
+            {
+              "name": "New York Times",
+              "country": "US",
+              "url": "https://www.nytimes.com/2026/11/07/us/politics/trump-dana-white-ufc-press-secretary.html"
+            },
+            {
+              "name": "Guardian",
+              "country": "UK",
+              "url": "https://www.theguardian.com/us-news/2026/nov/07/stephen-miller-trump-loyalty"
             }
           ],
-          "time": "2026-11-06T20:29:08+00:00",
+          "time": "2026-11-07T15:15:11+00:00",
           "image": {
-            "url": "https://cdn.prod.www.spiegel.de/images/77609dee-96cf-48de-a8d2-a0cad9ebc81d_w520_r2.08_fpx49_fpy78.jpg",
-            "source": "Spiegel"
+            "url": "https://img.zeit.de/politik/ausland/2026-11/donald-trump-justizministerium-demokraten-ermittlungen-foto-1/wide__820x461",
+            "source": "Zeit"
           }
         },
         {
           "id": "p3",
-          "headline": "CDU und CSU wollen Ilse Aigner als Bundespräsidentin",
-          "summary": "Die Unionsparteien haben sich darauf verständigt, CSU-Politikerin Ilse Aigner für das Amt der Bundespräsidentin zu nominieren. Mit der Unterstützung der SPD verfügt sie in der Bundesversammlung über eine sichere Mehrheit.",
-          "perspectives": "Die Zeit und das Handelsblatt berichten übereinstimmend über die Einigung auf Aigner, wobei das Handelsblatt noch von Kritik der Grünen am Kanzler spricht. Der Spiegel hebt hervor, dass Merz eigentlich den Anspruch der CDU durchsetzen wollte, während die Tagesschau darauf hinweist, dass Aigner die erste Frau im höchsten Staatsamt wäre.",
+          "headline": "Schwere Luftangriffe im Jemen: Dutzende Tote gemeldet",
+          "summary": "Bei Luftangriffen nahe der jemenitischen Hauptstadt Sanaa sind nach Angaben der Huthi-Miliz mindestens 33 Menschen ums Leben gekommen. Die Miliz macht eine von Saudi-Arabien angeführte Koalition für das Bombardement verantwortlich. Eine Stellungnahme aus Riad liegt bislang nicht vor.",
+          "perspectives": "Die Angaben zur Opferzahl divergieren: Während die BBC und Zeit von mindestens 33 Toten sprechen, meldet die New York Times unter Berufung auf regionale Quellen mehr als 50 Todesopfer innerhalb der vergangenen 24 Stunden infolge wieder aufgeflammter Gefechte.",
           "sources": [
             {
-              "name": "Handelsblatt",
-              "country": "DE",
-              "url": "https://www.handelsblatt.com/politik/deutschland/bundespraesidentenwahl-ilse-aigner-ist-die-ungekuerte-kandidatin-kritik-an-merz/100268048.html"
+              "name": "BBC",
+              "country": "UK",
+              "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo"
             },
             {
               "name": "Zeit",
               "country": "DE",
-              "url": "https://www.zeit.de/politik/deutschland/2026-11/ilse-aigner-union-landtagswahl-bayern-csu"
+              "url": "https://www.zeit.de/politik/ausland/2026-11/jemen-huthi-saudi-arabien-luftangriff-raketen"
             },
             {
-              "name": "Tagesschau",
-              "country": "DE",
-              "url": "https://www.tagesschau.de/inland/innenpolitik/cdu-csu-aigner-bundespraesidentin-100.html"
-            },
-            {
-              "name": "Spiegel",
-              "country": "DE",
-              "url": "https://www.spiegel.de/politik/deutschland/ilse-aigner-und-friedrich-merz-eine-gute-kandidatin-nur-eben-nicht-seine-a-04e4b9a9-5ab1-4c0d-b8f4-fde61750a853"
+              "name": "New York Times",
+              "country": "US",
+              "url": "https://www.nytimes.com/2026/11/07/world/middleeast/more-than-50-killed-in-yemen.html"
             }
           ],
-          "time": "2026-11-06T20:28:00+00:00",
+          "time": "2026-11-07T16:39:31+00:00",
           "image": {
-            "url": "https://images.handelsblatt.com/ycWREk-C-Wgg/cover/900/506/0/0/107/106/0.5/0.5/ilse-aigner.jpg",
-            "source": "Handelsblatt"
+            "url": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/2670/live/bfaac760-dacc-11f1-bda8-29fb69dbc026.jpg",
+            "source": "BBC"
           }
         },
         {
           "id": "p4",
-          "headline": "Serie von Bombendrohungen gegen Flüge und Medien in Europa",
-          "summary": "Falsche Bombendrohungen haben europaweit erneut zahlreiche Passagierflüge behindert und zur Räumung von Medienhäusern in Irland geführt. Regierungsvertreter vermuten hinter den Vorfällen eine koordinierte Aktion.",
-          "perspectives": "Die Tagesschau und die New York Times berichten übereinstimmend von Störungen im Flugverkehr und geräumten Redaktionen in Irland. Die Zeit hebt hervor, dass Spaniens Außenminister Albares von einem Versuch hybrider Aggression spricht. Der Guardian beziffert die Zahl der am Freitag betroffenen Flüge in Europa auf mindestens 18.",
+          "headline": "Union berät über Nominierung von Ilse Aigner",
+          "summary": "Das CDU-Präsidium berät über die Nachfolge von Frank-Walter Steinmeier im Amt des Bundespräsidenten. Erwartet wird die Nominierung der bayerischen Landtagspräsidentin Ilse Aigner (CSU), die im Falle einer Wahl das erste weibliche deutsche Staatsoberhaupt wäre. Aus Reihen von Grünen und Opposition wird das zögerliche Vorgehen von Kanzler Merz kritisiert.",
+          "perspectives": "Die Tagesschau zeichnet Aigners Profil als bürgernah und krisenerprobt nach. Spiegel und Handelsblatt heben hervor, dass Merz Kritik entgegenschlägt, weil ihm das Verfahren entglitten sei, während Merz auf verabredete formale Prozesse verweist.",
           "sources": [
-            {
-              "name": "New York Times",
-              "country": "US",
-              "url": "https://www.nytimes.com/2026/11/06/world/europe/bomb-threats-flights-campaign-ireland.html"
-            },
-            {
-              "name": "Tagesschau",
-              "country": "DE",
-              "url": "https://www.tagesschau.de/ausland/europa/bombendrohungen-europa-100.html"
-            },
-            {
-              "name": "Guardian",
-              "country": "UK",
-              "url": "https://www.theguardian.com/world/2026/nov/06/further-bomb-threats-disrupt-flights-across-europe"
-            },
             {
               "name": "Zeit",
               "country": "DE",
-              "url": "https://www.zeit.de/politik/ausland/2026-11/hybride-aggression-spanien-bombendrohungen-hackerangriffe-jose-manuel-albares"
-            }
-          ],
-          "time": "2026-11-06T17:01:44+00:00",
-          "image": {
-            "url": "https://static01.nyt.com/images/2026/11/06/multimedia/06int-ireland-threats-01-mtjw/06int-ireland-threats-01-mtjw-mediumSquareAt3X.jpg",
-            "source": "New York Times"
-          }
-        },
-        {
-          "id": "p5",
-          "headline": "Kenianischer Sektenführer zu 200 Jahren Haft verurteilt",
-          "summary": "Ein Gericht in Kenia hat den selbsternannten Pastor Paul Mackenzie wegen Mordes an seinen Anhängern zu 200 Jahren Haft verurteilt. Er hatte die Mitglieder seiner Gruppe dazu gedrängt, sich zu Tode zu hungern.",
-          "perspectives": "Die Tagesschau beziffert die Zahl der Opfer auf 191 Menschen, während der Guardian präzisiert, dass 190 Kinder und ein Erwachsener getötet wurden. Der Spiegel spricht von fast 200 Toten und hebt hervor, dass der Verurteilte vor Gericht keine Reue zeigte.",
-          "sources": [
+              "url": "https://www.zeit.de/politik/deutschland/2026-11/ilse-aigner-bundespraesidentin-csu-friedrich-merz"
+            },
             {
-              "name": "New York Times",
-              "country": "US",
-              "url": "https://www.nytimes.com/2026/11/06/world/africa/kenya-cult-leader-prison-sentence-mass-murder-paul-mackenzie.html"
+              "name": "Handelsblatt",
+              "country": "DE",
+              "url": "https://www.handelsblatt.com/politik/deutschland/bundespraesidentenwahl-ungekuerte-kandidatin-ilse-aigner-kritik-an-kanzler-merz/100268048.html"
             },
             {
               "name": "Tagesschau",
               "country": "DE",
-              "url": "https://www.tagesschau.de/ausland/afrika/kenia-urteil-sektenfuehrer-100.html"
+              "url": "https://www.tagesschau.de/inland/ilse-aigner-portraet-100.html"
             },
             {
               "name": "Spiegel",
               "country": "DE",
-              "url": "https://www.spiegel.de/politik/deutschland/kenia-sektenfuehrer-paul-mackenzie-zu-200-jahren-haft-verurteilt-a-b20e6eef-cbf8-4edc-a7a0-19e48cdfdcc8"
-            },
-            {
-              "name": "Guardian",
-              "country": "UK",
-              "url": "https://www.theguardian.com/world/2026/nov/06/kenyan-doomsday-sect-leader-jailed-murders-paul-mackenzie"
+              "url": "https://www.spiegel.de/politik/deutschland/bundespraesidenten-nachfolge-omid-nouripour-kritisiert-verhalten-von-friedrich-merz-a-17a92a69-2408-4233-a873-8c443abf5d39"
             }
           ],
-          "time": "2026-11-06T15:08:43+00:00",
+          "time": "2026-11-07T10:44:00+00:00",
           "image": {
-            "url": "https://static01.nyt.com/images/2026/11/06/world/africa/kenya-cult-cover-image/kenya-cult-cover-image-mediumSquareAt3X.jpg",
-            "source": "New York Times"
+            "url": "https://img.zeit.de/politik/deutschland/2026-11/ilse-aigner-bundespraesidentin-csu-friedrich-merz-foto-1/wide__820x461",
+            "source": "Zeit"
+          }
+        },
+        {
+          "id": "p5",
+          "headline": "Frankreich: Sozialproteste bei wachsenden Schuldenkosten",
+          "summary": "Am vierten Samstag in Folge sind in Frankreich Zehntausende gegen hohe Lebenshaltungskosten und Mängel im Bildungssystem auf die Straße gegangen. Die Regierung kündigte Mehrausgaben von vier Milliarden Euro für Schulen an, steht jedoch angesichts hoher Staatsverschuldung und steigender Zinskosten unter erheblichem Spardruck.",
+          "perspectives": "Das Handelsblatt meldet 146.000 Demonstrierende landesweit und verweist wie die Tagesschau auf sinkende Teilnehmerzahlen sowie punktuelle Zusammenstöße. Die Deutsche Welle rückt primär das wirtschaftliche Dilemma steigender Refinanzierungskosten in den Fokus.",
+          "sources": [
+            {
+              "name": "NZZ",
+              "country": "CH",
+              "url": "https://www.nzz.ch/international/neue-schuelerproteste-in-frankreich-droht-eine-ausweitung-der-ausschreitungen-ld.10026904"
+            },
+            {
+              "name": "Tagesschau",
+              "country": "DE",
+              "url": "https://www.tagesschau.de/ausland/frankreich-proteste-246.html"
+            },
+            {
+              "name": "Handelsblatt",
+              "country": "DE",
+              "url": "https://www.handelsblatt.com/politik/international/sozialproteste-146000-demonstrieren-in-frankreich-teilnahme-geht-zurueck/100268129.html"
+            },
+            {
+              "name": "Deutsche Welle",
+              "country": "DE",
+              "url": "https://www.dw.com/en/amid-protests-france-s-rising-debt-costs-threaten-stability/a-79865654"
+            }
+          ],
+          "time": "2026-11-07T08:16:00+00:00",
+          "image": {
+            "url": "https://img-msp-prod.nzz.ch/2026/11/07/a50ef86b-27a5-475d-a6da-651521e9954f.jpg?width=900&height=900&fit=bounds",
+            "source": "NZZ"
+          }
+        },
+        {
+          "id": "p6",
+          "headline": "USA und China streiten über Einhaltung von Handelsabkommen",
+          "summary": "Kurz vor einem geplanten Spitzentreffen erheben Washington und Peking gegenseitige Vorwürfe im Handelskonflikt. Die USA bemängeln Chinas zögerliche Lieferungen von Seltenen Erden und Agrarkäufe, während die chinesische Regierung vor anhaltenden Exportbeschränkungen der USA warnt.",
+          "perspectives": "Das Handelsblatt hebt das Risiko eines erneuten Aufflammens des Handelsstreits kurz vor einem Treffen zwischen Donald Trump und Xi Jinping hervor. Die Deutsche Welle beleuchtet spezifisch die Verpflichtungen aus dem Busan-Abkommen von 2025.",
+          "sources": [
+            {
+              "name": "Handelsblatt",
+              "country": "DE",
+              "url": "https://www.handelsblatt.com/politik/international/handelskonflikt-usa-werfen-china-verstoss-gegen-handelsdeal-vor/100268065.html"
+            },
+            {
+              "name": "Deutsche Welle",
+              "country": "DE",
+              "url": "https://www.dw.com/en/us-asks-china-to-uphold-busan-trade-deal-commitments/a-79882939"
+            }
+          ],
+          "time": "2026-11-07T04:44:00+00:00",
+          "image": {
+            "url": "https://images.handelsblatt.com/id9k58p83Ft4/cover/900/506/0/0/0/392/0.5/0.5/us-president-trump-hosts-chinese-president-xi-jinping-for-a-stat.jpg",
+            "source": "Handelsblatt"
           }
         }
       ]
@@ -183,133 +235,52 @@
       "items": [
         {
           "id": "w1",
-          "headline": "Schwankungen an den Börsen nach Ausverkauf bei Tech-Aktien",
-          "summary": "Nach schweren Kursverlusten im Halbleiter- und Technologiesektor haben sich die US-Börsen am Freitag leicht stabilisiert. Der deutsche Leitindex DAX gab dagegen nach und rutschte unter die Marke von 26.000 Punkten ab.",
-          "perspectives": "Während die FAZ und die Zeit eine Stabilisierung an der Wall Street nach den Verlusten im Halbleitersektor betonen, stuft die Financial Times die Erholung nach dem vorherigen 3,2-Billionen-Dollar-Einbruch als schwach ein. Die Tagesschau stellt heraus, dass Sorgen um KI-Investitionen weltweit die Märkte belasten und den DAX ins Minus drückten.",
+          "headline": "Spionagevorwürfe und Chipkontrollen um Nvidia",
+          "summary": "US-Geheimdienste prüfen Berichte, wonach Nvidia-Chef Jensen Huang ein Verhältnis mit einer mutmaßlichen chinesischen Spionin unterhalten haben soll. Gleichzeitig geraten Prüfungen des US-Handelsministeriums in die Kritik, weil hochentwickelte H200-KI-Chips trotz bestehender Beschränkungen an chinesische Firmen gelangt sein sollen.",
+          "perspectives": "Die Financial Times und der Spiegel stützen sich auf Enthüllungen über verdeckte Einflussoperationen auf Führungsebene. Die New York Times fokussiert sich dagegen auf die Genehmigungspraxis der US-Regierung, die H200-Chips für chinesische Briefkastenfirmen freigegeben habe.",
           "sources": [
             {
               "name": "Financial Times",
               "country": "UK",
-              "url": "https://www.ft.com/content/088ed252-ea9c-4b61-b2d1-37295fd0f7c2?syn-25a6b1a6=1"
-            },
-            {
-              "name": "FAZ",
-              "country": "DE",
-              "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/leichte-erholung-an-den-us-boersen-nach-drastischen-kursverlusten-201660375.html"
-            },
-            {
-              "name": "Zeit",
-              "country": "DE",
-              "url": "https://www.zeit.de/wirtschaft/2026-11/dax-boerse-rekord-us-zwischenwahlen-ki-regulierung"
-            },
-            {
-              "name": "Tagesschau",
-              "country": "DE",
-              "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ki-nasdaq-wall-street-100.html"
-            }
-          ],
-          "time": "2026-11-06T17:30:36+00:00",
-          "image": {
-            "url": "https://media0.faz.net/image/43158379a667/w3479h1957x0y182/202611/30d90a12-24b4-4c1e-836f-1473b1313f4b/am-donnerstag-haben-vor-allem.webp",
-            "source": "FAZ"
-          }
-        },
-        {
-          "id": "w2",
-          "headline": "Tesla stellt Produktion des Cybertrucks in Texas ein",
-          "summary": "Tesla will die Fertigung seines elektrischen Pickups Cybertruck in Texas auslaufen lassen. Konzernchef Elon Musk begründete den Schritt damit, Kapazitäten für das autonome Robotaxi Cybercab schaffen zu wollen.",
-          "perspectives": "Die New York Times nennt als konkreten Zeitpunkt für das Produktionsende Mitte 2027, während die BBC und das Handelsblatt lediglich das generelle Auslaufen erwähnen. Die Zeit und das Handelsblatt betonen zudem übereinstimmend, dass das Fahrzeug die Verkaufsziele verfehlte und als Flop gewertet wird.",
-          "sources": [
-            {
-              "name": "BBC",
-              "country": "UK",
-              "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o"
-            },
-            {
-              "name": "Zeit",
-              "country": "DE",
-              "url": "https://www.zeit.de/wirtschaft/2026-11/tesla-cybertruck-produktion-ende-texas"
-            },
-            {
-              "name": "Handelsblatt",
-              "country": "DE",
-              "url": "https://www.handelsblatt.com/technik/it-internet/futuristischer-flop-musk-kuendigt-ende-von-cybertruck-produktion-in-texas-an/100268001.html"
-            },
-            {
-              "name": "New York Times",
-              "country": "US",
-              "url": "https://www.nytimes.com/2026/11/06/business/tesla-cybertruck-production.html"
-            }
-          ],
-          "time": "2026-11-06T17:38:29+00:00",
-          "image": {
-            "url": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/d7ce/live/3fc37350-d9f3-11f1-a701-fddedf244c16.jpg",
-            "source": "BBC"
-          }
-        },
-        {
-          "id": "w3",
-          "headline": "US-Arbeitsmarkt legt im Oktober überraschend stark zu",
-          "summary": "Die Wirtschaft der USA hat im Oktober 165.000 neue Arbeitsplätze außerhalb der Landwirtschaft geschaffen, deutlich mehr als erwartet. Die Arbeitslosenquote sank leicht.",
-          "perspectives": "Während die Financial Times und die New York Times die Oktober-Daten als Beleg für einen robusten Arbeitsmarkt werten, berichtet das Handelsblatt abweichend von einem Jobzuwachs im September. Dagegen hebt CNBC hervor, dass die durchschnittliche Dauer der Arbeitslosigkeit auf über 27 Wochen stieg – der höchste Wert außerhalb der Pandemie seit zehn Jahren.",
-          "sources": [
-            {
-              "name": "New York Times",
-              "country": "US",
-              "url": "https://www.nytimes.com/2026/11/06/business/economy/economy-jobs-unemployment.html"
-            },
-            {
-              "name": "Financial Times",
-              "country": "UK",
-              "url": "https://www.ft.com/content/f84c722c-99a9-4628-84dc-c42a192cb35c?syn-25a6b1a6=1"
-            },
-            {
-              "name": "CNBC",
-              "country": "US",
-              "url": "https://www.cnbc.com/2026/11/06/long-term-unemployment-october-jobs-report.html"
-            },
-            {
-              "name": "Handelsblatt",
-              "country": "DE",
-              "url": "https://www.handelsblatt.com/politik/international/konjunktur-us-arbeitsmarkt-waechst-ueberraschend-stark/100267936.html"
-            }
-          ],
-          "time": "2026-11-06T14:45:20+00:00",
-          "image": {
-            "url": "https://static01.nyt.com/images/2026/11/06/multimedia/2026-11-06-jobs-promo-index/2026-11-06-jobs-promo-index-mediumSquareAt3X.png",
-            "source": "New York Times"
-          }
-        },
-        {
-          "id": "w4",
-          "headline": "Spanien und Niederlande reichen Kandidaten für EZB-Chef ein",
-          "summary": "Für die Nachfolge von Christine Lagarde an der Spitze der Europäischen Zentralbank haben Spanien und die Niederlande Nominierungen eingereicht. Die Euro-Finanzminister prüfen die Vorschläge ab Montag.",
-          "perspectives": "Das Handelsblatt und Politico Europe berichten über die Nominierungen von Pablo Hernández de Cos aus Spanien und Klaas Knot aus den Niederlanden, während die Zeit lediglich die Einreichungen beider Länder nennt. Der Spiegel hebt als einziges Medium hervor, dass Deutschland leer ausgeht und sich nun mit Frankreich um andere Spitzenposten bei der Zentralbank streitet.",
-          "sources": [
-            {
-              "name": "Handelsblatt",
-              "country": "DE",
-              "url": "https://www.handelsblatt.com/finanzen/geldpolitik/ezb-spanien-nominiertpablo-hernandez-de-cos-fuer-lagarde-nachfolge/100267919.html"
-            },
-            {
-              "name": "Zeit",
-              "country": "DE",
-              "url": "https://www.zeit.de/politik/deutschland/2026-11/ezb-nachfolge-christine-lagarde-klaas-knot-pablo-hernandez-de-cos"
+              "url": "https://www.ft.com/content/a55a2a22-4479-4f93-a445-6147a5c6d790?syn-25a6b1a6=1"
             },
             {
               "name": "Spiegel",
               "country": "DE",
-              "url": "https://www.spiegel.de/wirtschaft/ezb-welche-chancen-deutschland-bei-der-nachfolge-von-christine-lagarde-hat-a-ddb505b8-589a-42ba-b36a-41a19ce63a68"
+              "url": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-jen-hsun-huang-soll-affaere-mit-chinesischer-agentin-gehabt-haben-a-8b6c5163-b475-4478-a335-3aeaeccdca48"
             },
             {
-              "name": "Politico Europe",
-              "country": "EU",
-              "url": "https://www.politico.eu/article/dutch-and-spanish-battle-over-ecb-presidency/"
+              "name": "New York Times",
+              "country": "US",
+              "url": "https://www.nytimes.com/2026/11/07/business/economy/nvidia-chips-chinese-firms.html"
             }
           ],
-          "time": "2026-11-06T16:24:31+00:00",
+          "time": "2026-11-07T10:00:41+00:00",
           "image": {
-            "url": "https://images.handelsblatt.com/P08hepyC3A-i/cover/900/506/0/0/233/232/0.5/0.5/chairman-of-the-spanish-central-bank-pablo-hernandez-de-cos-delivers-a-speech-during-the-conferenc.jpg",
+            "url": "https://cdn.prod.www.spiegel.de/images/25e17ef0-cb1b-4087-a1ee-47fcd63d5ec1_w520_r2.08_fpx52.67_fpy44.99.jpg",
+            "source": "Spiegel"
+          }
+        },
+        {
+          "id": "w2",
+          "headline": "Berkshire Hathaway forciert Aktienrückkäufe",
+          "summary": "Die Investmentgesellschaft Berkshire Hathaway hat im dritten Quartal für 9,6 Milliarden Dollar eigene Aktien zurückgekauft, obwohl das operative Ergebnis im Jahresvergleich um 5,8 Prozent sank. Schwächen im Versicherungsgeschäft drückten auf das Ergebnis, während die Aktie von der allgemeinen Marktunsicherheit profitierte.",
+          "perspectives": "Die Financial Times hebt primär die Belastung durch das schwächelnde Versicherungsgeschäft hervor. Das Handelsblatt betont ergänzend, dass Anleger unter Führung von Buffetts Nachfolger Greg Abel wegen Skepsis gegenüber dem Tech- und KI-Sektor Zuflucht bei Berkshire suchten.",
+          "sources": [
+            {
+              "name": "Financial Times",
+              "country": "UK",
+              "url": "https://www.ft.com/content/1f153350-2377-4e48-a073-0539376eab4c?syn-25a6b1a6=1"
+            },
+            {
+              "name": "Handelsblatt",
+              "country": "DE",
+              "url": "https://www.handelsblatt.com/finanzen/maerkte/quartalszahlen-berkshire-meldet-gewinnrueckgang-doch-die-aktie-profitiert/100268115.html"
+            }
+          ],
+          "time": "2026-11-07T15:57:11+00:00",
+          "image": {
+            "url": "https://images.handelsblatt.com/TUWWunzi3jWw/cover/900/506/0/0/284/284/0.5/0.5/the-company-logo-for-the-berkshire-hathaway-inc.-is-displayed-on-a-screen-at-the-new-york-stock-exch.jpg",
             "source": "Handelsblatt"
           }
         }
@@ -319,203 +290,203 @@
   "more": [
     {
       "section": "politik",
-      "headline": "USA: Nach Treffen mit russischem Gesandten: Trump stellt Friedensabkommen in Aussicht",
-      "source": "Handelsblatt",
-      "country": "DE",
-      "url": "https://www.handelsblatt.com/video/politik/usa-nach-treffen-mit-russischem-gesandten-trump-stellt-friedensabkommen-in-aussicht/100267888.html",
-      "time": "2026-11-06T14:38:00+00:00",
-      "opinion": false,
-      "image": null
-    },
-    {
-      "section": "wirtschaft",
-      "headline": "Soziale Medien: EU: TikTok gefährdet mentale Gesundheit - Strafe droht",
-      "source": "Handelsblatt",
-      "country": "DE",
-      "url": "https://www.handelsblatt.com/technik/it-internet/soziale-medien-eu-tiktok-gefaehrdet-mentale-gesundheit-strafe-droht/100267894.html",
-      "time": "2026-11-06T15:13:38+00:00",
-      "opinion": false,
-      "image": "https://images.handelsblatt.com/9WGuGFsY4aEP/cover/900/506/0/0/39/39/0.5/0.5/social-media-app-tiktok.jpg"
-    },
-    {
-      "section": "politik",
-      "headline": "Frankreich: Rund 600.000 Menschen gehen auf die Straße",
+      "headline": "Ukraine-Krieg: Kyjiw kämpft nach massiven Angriffen Russlands mit Stromproblemen",
       "source": "Spiegel",
       "country": "DE",
-      "url": "https://www.spiegel.de/ausland/frankreich-rund-600-000-menschen-gehen-auf-die-strasse-a-2619f68b-6061-40c5-969d-3ec16f0bd6a1",
-      "time": "2026-11-06T12:00:00+00:00",
+      "url": "https://www.spiegel.de/ausland/ukraine-krieg-kyjiw-kaempft-nach-massiven-russischen-angriffen-mit-stromproblemen-a-8d4aacfb-3500-4239-9b25-90fd97e43459",
+      "time": "2026-11-07T09:09:00+00:00",
       "opinion": false,
-      "image": "https://cdn.prod.www.spiegel.de/images/8497ba79-5bd7-4a81-aab9-00ed309c8a8a_w520_r2.08_fpx66.67_fpy50.jpg"
+      "image": "https://cdn.prod.www.spiegel.de/images/b1717486-d39b-4342-a780-8b653805b120_w520_r2.08_fpx59.99_fpy49.99.jpg"
     },
     {
       "section": "politik",
-      "headline": "Bundestag beschließt härtere Strafen für Einsatz von K.-o.-Tropfen",
+      "headline": "Italien: Außenminister Antonio Tajani prangert Hacker-Angriffe an",
+      "source": "Spiegel",
+      "country": "DE",
+      "url": "https://www.spiegel.de/ausland/italien-aussenminister-antonio-tajani-prangert-hacker-angriffe-an-a-cb655674-9ea2-4f6f-abf3-9d8fd660cd71",
+      "time": "2026-11-07T23:57:00+00:00",
+      "opinion": false,
+      "image": "https://cdn.prod.www.spiegel.de/images/b78038e6-9e91-4614-bafc-3cabe2769f3e_w520_r2.08_fpx50_fpy32.jpg"
+    },
+    {
+      "section": "politik",
+      "headline": "Parlamentswahl in Neuseeland: Regierungspartei und Labour nahezu gleichauf",
       "source": "Tagesschau",
       "country": "DE",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/strafen-ko-tropfen-bundestag-100.html",
-      "time": "2026-11-06T11:28:21+00:00",
+      "url": "https://www.tagesschau.de/ausland/ozeanien/neuseeland-parlamentswahl-102.html",
+      "time": "2026-11-07T14:41:43+00:00",
       "opinion": false,
-      "image": "https://images.tagesschau.de/image/1cc31900-53af-4471-a9f9-1400395a1d9e/AAABobDBMok/AAABnSSvrFg/16x9-big/bar-cocktail-100.jpg?width=1024"
+      "image": "https://images.tagesschau.de/image/69dd39a9-cd4a-426a-b9a6-7022abbbfe87/AAABobZ1SjM/AAABnSSvrFg/16x9-big/neuseeland-parlamentswahl-104.jpg?width=1024"
+    },
+    {
+      "section": "politik",
+      "headline": "Türkei: Recep Tayyip Erdoğan opfert im Börsenskandal eine Vertraute",
+      "source": "Spiegel",
+      "country": "DE",
+      "url": "https://www.spiegel.de/ausland/tuerkei-recep-tayyip-erdogan-opfert-im-boersenskandal-eine-vertraute-a-c1195cdf-3844-484a-a588-3b3752bd655c",
+      "time": "2026-11-07T17:32:00+00:00",
+      "opinion": false,
+      "image": "https://cdn.prod.www.spiegel.de/images/d7327ce5-9bac-4934-bce0-454f0e0428bd_w520_r2.08_fpx51.6_fpy50.jpg"
+    },
+    {
+      "section": "politik",
+      "headline": "Südafrika: ANC erleidet historische Niederlage bei Kommunalwahlen",
+      "source": "Spiegel",
+      "country": "DE",
+      "url": "https://www.spiegel.de/ausland/suedafrika-anc-erleidet-historische-niederlage-bei-kommunalwahlen-a-0a77243d-6573-4bd6-a37f-fb4a45f06e20",
+      "time": "2026-11-07T13:03:00+00:00",
+      "opinion": false,
+      "image": "https://cdn.prod.www.spiegel.de/images/fd9b1e1c-027b-43eb-ab77-4d21ecff887c_w520_r2.08_fpx50.66_fpy50.jpg"
     },
     {
       "section": "wirtschaft",
-      "headline": "Konjunktur: Industrieproduktion in Deutschland wächst im September überraschend",
-      "source": "Spiegel",
-      "country": "DE",
-      "url": "https://www.spiegel.de/wirtschaft/konjunktur-industrieproduktion-in-deutschland-waechst-im-september-ueberraschend-a-8d411263-f61e-4531-84b8-20b764fe2ec3",
-      "time": "2026-11-06T08:09:00+00:00",
-      "opinion": false,
-      "image": "https://cdn.prod.www.spiegel.de/images/555edc3b-41d4-4e30-9915-1aee8d9458ce_w520_r2.08_fpx36_fpy50.jpg"
-    },
-    {
-      "section": "politik",
-      "headline": "Verbotsverfahren: Hubig will E-Mails bei Prüfung von AfD-Verbot nutzen",
+      "headline": "Tesla: Das Ende des Cybertrucks",
       "source": "Handelsblatt",
       "country": "DE",
-      "url": "https://www.handelsblatt.com/politik/deutschland/verbotsverfahren-hubig-will-e-mails-bei-pruefung-von-afd-verbot-nutzen/100268026.html",
-      "time": "2026-11-07T00:00:05+00:00",
+      "url": "https://www.handelsblatt.com/unternehmen/industrie/tesla-das-ende-des-cybertrucks/100268126.html",
+      "time": "2026-11-07T18:39:59+00:00",
       "opinion": false,
-      "image": "https://images.handelsblatt.com/tN0aKwLWc7vp/cover/900/506/0/0/97/97/0.5/0.5/debatte-ueber-afd-verbotsverfahren.jpg"
+      "image": "https://images.handelsblatt.com/4i5OJmTyglE0/cover/900/506/248/156/143/238/0.5/0.5/cybertruck-von-tesla.jpeg"
     },
     {
       "section": "politik",
-      "headline": "Demonstranten besetzen Baustelle von Microsoft-Rechenzentrum in Amsterdam",
-      "source": "Spiegel",
+      "headline": "Gesundheitsbehörde: Größter Masernausbruch in den USA seit 35 Jahren",
+      "source": "Tagesschau",
       "country": "DE",
-      "url": "https://www.spiegel.de/ausland/demonstranten-besetzen-baustelle-von-microsoft-rechenzentrum-in-amsterdam-a-487855b6-ecae-4204-9f30-4921beed0d65",
-      "time": "2026-11-06T23:23:00+00:00",
+      "url": "https://www.tagesschau.de/ausland/amerika/usa-masern-100.html",
+      "time": "2026-11-07T06:01:55+00:00",
       "opinion": false,
-      "image": "https://cdn.prod.www.spiegel.de/images/9368c3a4-37af-4177-9913-69728086dd0b_w520_r2.08_fpx34.06_fpy50.jpg"
+      "image": "https://images.tagesschau.de/image/dda9c1bf-5f7a-4eb5-996d-5b26807a5c39/AAABobQ9m2c/AAABnSSvrFg/16x9-big/cdc-100.jpg?width=1024"
     },
     {
       "section": "politik",
-      "headline": "Ukraine: Wolodymyr Selenskyj macht Vitali Klitschko für Stromausfälle in Kyjiw verantwortlich",
-      "source": "Spiegel",
+      "headline": "Hubig will geleakte E-Mails zur Prüfung von AfD-Verbotsverfahren nutzen",
+      "source": "Tagesschau",
       "country": "DE",
-      "url": "https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-macht-vitali-klitschko-fuer-stromausfaelle-in-kyjiw-verantwortlich-a-2e10ce20-7817-46f2-89f1-34bb45cb346f",
-      "time": "2026-11-06T20:50:00+00:00",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/hubig-afd-verbotsverfahren-leak-100.html",
+      "time": "2026-11-07T09:28:52+00:00",
       "opinion": false,
-      "image": "https://cdn.prod.www.spiegel.de/images/f8d82fb3-512f-4b14-be96-67109df841e1_w520_r2.08_fpx40.66_fpy54.99.jpg"
+      "image": "https://images.tagesschau.de/image/cc62aaec-9be1-4ab8-9152-b85193c4ac4d/AAABobVW4eg/AAABnSSvrFg/16x9-big/spd-hubig-100.jpg?width=1024"
     },
     {
       "section": "politik",
-      "headline": "Nach Erkrankung: Papst Leo XIV. zum Auftakt von Südamerika-Reise in Uruguay gelandet",
+      "headline": "Pistorius zur Wehrpflicht: Prinzip der Freiwilligkeit kann gelingen",
+      "source": "Deutschlandfunk",
+      "country": "DE",
+      "url": "https://www.deutschlandfunk.de/interview-der-woche-mit-verteidigungsminister-boris-pistorius-spd-100.html",
+      "time": "2026-11-07T18:15:00+00:00",
+      "opinion": false,
+      "image": "https://bilder.deutschlandfunk.de/5f/2f/4a/37/5f2f4a37-ad44-469b-bbd6-ed5722353f47/pistorius-136-1920x1920.jpg"
+    },
+    {
+      "section": "wirtschaft",
+      "headline": "Verkauf an Electra: Mercedes zieht beim Traum vom eigenen Ladenetz den Stecker",
       "source": "FAZ",
       "country": "DE",
-      "url": "https://www.faz.net/aktuell/politik/ausland/papst-leo-xiv-startet-suedamerika-reise-ankunft-in-uruguay-201660547.html",
-      "time": "2026-11-06T20:33:02+00:00",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/mercedes-verkauft-ladeparks-in-europa-an-electra-accg-201658444.html",
+      "time": "2026-11-07T16:25:34+00:00",
       "opinion": false,
-      "image": "https://media0.faz.net/image/636a9da5e545/w6144h3456x0y320/202611/72b4a4a7-3c18-40a0-8f77-9321ca69cb47/papst-leo-xiv-trifft-am.webp"
+      "image": "https://media0.faz.net/image/cc0b51c819ed/w6144h3456x0y320/202610/f77c8d92-8c35-44a7-a850-b672a834258d/mercedes-chef-ola-kaellenius.webp"
     },
     {
       "section": "politik",
-      "headline": "Berlin: Linke fordert Vanessa Emde auf, Mandat zurückzugeben",
-      "source": "Spiegel",
-      "country": "DE",
-      "url": "https://www.spiegel.de/politik/deutschland/berlin-linke-fordert-vanessa-emde-auf-mandat-zurueckzugeben-a-45f7d6f6-b193-42c8-a1ac-0b5025237edb",
-      "time": "2026-11-06T18:24:00+00:00",
-      "opinion": false,
-      "image": "https://cdn.prod.www.spiegel.de/images/18eeaf2c-1c7c-4c8b-9719-269b927408bb_w520_r2.08_fpx58_fpy45.jpg"
-    },
-    {
-      "section": "politik",
-      "headline": "Tarifstreit: IG Metall zählt mehr als 400.000 Teilnehmer an Warnstreiks",
+      "headline": "Angriffe auf Bahnprojekte: Cyberattacke auf Brennerbasistunnel-Firma",
       "source": "Handelsblatt",
       "country": "DE",
-      "url": "https://www.handelsblatt.com/politik/deutschland/tarifstreit-ig-metall-zaehlt-mehr-als-400.000-teilnehmer-an-warnstreiks/100267972.html",
-      "time": "2026-11-06T17:36:14+00:00",
+      "url": "https://www.handelsblatt.com/politik/deutschland/angriffe-auf-bahnprojekte-cyberattacke-auf-brennerbasistunnel-firma/100268113.html",
+      "time": "2026-11-07T14:10:55+00:00",
       "opinion": false,
-      "image": "https://images.handelsblatt.com/2moeUlhk07LW/cover/900/506/6/6/0/0/0.5/0.5/urnnewsmldpa.com20090101261105-936-137917.jpg"
-    },
-    {
-      "section": "politik",
-      "headline": "Auch Senat in Polen stimmt für Lockerung des Abtreibungsrechts",
-      "source": "Tagesschau",
-      "country": "DE",
-      "url": "https://www.tagesschau.de/ausland/europa/polen-aenderung-abreibungsrecht-100.html",
-      "time": "2026-11-06T16:19:52+00:00",
-      "opinion": false,
-      "image": "https://images.tagesschau.de/image/f6024f71-83b2-4e38-82f8-10f6db10df1c/AAABobGKEFc/AAABnSSvrFg/16x9-big/polen-parlament-103.jpg?width=1024"
-    },
-    {
-      "section": "politik",
-      "headline": "Reichsbürger: Prozessbeginn gegen Anführer des „Königreichs Deutschland“",
-      "source": "Handelsblatt",
-      "country": "DE",
-      "url": "https://www.handelsblatt.com/video/politik/reichsbuerger-prozessbeginn-gegen-anfuehrer-des-koenigreichs-deutschland/100267973.html",
-      "time": "2026-11-06T15:47:34+00:00",
-      "opinion": false,
-      "image": null
-    },
-    {
-      "section": "politik",
-      "headline": "EU-Staatsanwaltschaft ermittelt nach Zugunglück in Spanien",
-      "source": "Tagesschau",
-      "country": "DE",
-      "url": "https://www.tagesschau.de/ausland/europa/zugunglueck-spanien-eu-ermittlungen-100.html",
-      "time": "2026-11-06T15:01:09+00:00",
-      "opinion": false,
-      "image": "https://images.tagesschau.de/image/4a524d3f-9c2c-47eb-8082-57fd41b73cdf/AAABobFb3Qg/AAABnSSvrFg/16x9-big/zugunglueck-spanien-160.jpg?width=1024"
-    },
-    {
-      "section": "politik",
-      "headline": "Alarm in Washington: Mann mit Waffen unweit des Weißen Hauses festgenommen",
-      "source": "Handelsblatt",
-      "country": "DE",
-      "url": "https://www.handelsblatt.com/politik/international/alarm-in-washington-mann-mit-waffen-unweit-des-weissen-hauses-festgenommen/100268036.html",
-      "time": "2026-11-07T00:57:55+00:00",
-      "opinion": false,
-      "image": "https://images.handelsblatt.com/ZgsTIvxpxcvi/cover/900/506/0/0/106/106/0.5/0.5/weisses-haus.jpg"
+      "image": "https://images.handelsblatt.com/xTexkHICpqYh/cover/900/506/0/0/107/107/0.5/0.5/brennerbasistunnel.jpg"
     },
     {
       "section": "wirtschaft",
-      "headline": "KI-Finanzierung: OpenAI sammelt laut Bericht elf Milliarden Dollar bei Investoren ein",
+      "headline": "Arzneimittelbehörde prüft: Verdacht auf Tumorbildung bei Kindern durch Gentherapie",
       "source": "Handelsblatt",
       "country": "DE",
-      "url": "https://www.handelsblatt.com/technik/ki/ki-finanzierung-openai-sammelt-laut-bericht-elf-milliarden-dollar-bei-investoren-ein/100268028.html",
-      "time": "2026-11-07T00:13:36+00:00",
+      "url": "https://www.handelsblatt.com/technik/forschung-innovation/arzneimittelbehoerde-prueft-verdacht-auf-tumorbildung-bei-kindern-durch-gentherapie/100268087.html",
+      "time": "2026-11-07T12:57:10+00:00",
       "opinion": false,
-      "image": "https://images.handelsblatt.com/HqT-CEGDTGVv/cover/900/506/0/0/211/210/0.5/0.5/sam-altman.jpg"
+      "image": "https://images.handelsblatt.com/If1y6E95dlMw/cover/900/506/0/0/188/187/0.5/0.5/novartis.jpg"
     },
     {
       "section": "politik",
-      "headline": "Kuba: USA haben neue Sanktionen verhängt, treffen damit erstmals chinesische Unternehmen",
-      "source": "Spiegel",
-      "country": "DE",
-      "url": "https://www.spiegel.de/ausland/kuba-usa-haben-neue-sanktionen-verhaengt-treffen-damit-erstmals-chinesische-unternehmen-a-eaa0e733-1f01-438f-9bdf-af726432567b",
-      "time": "2026-11-06T07:07:00+00:00",
-      "opinion": false,
-      "image": "https://cdn.prod.www.spiegel.de/images/0bba2305-2511-494a-a721-ee3e10a4f79a_w520_r2.08_fpx62.66_fpy50.jpg"
-    },
-    {
-      "section": "wirtschaft",
-      "headline": "Millionen Euro verschwunden: Vucic-nahe Bank in Serbien geschlossen",
-      "source": "Tagesschau",
-      "country": "DE",
-      "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/nationalbank-serbien-diebstahl-400-millionen-100.html",
-      "time": "2026-11-06T11:58:26+00:00",
-      "opinion": false,
-      "image": "https://images.tagesschau.de/image/9e28d3bc-64a1-41e4-99e2-cb1a1296fe08/AAABobBa0lg/AAABnSSvrFg/16x9-big/logo-alta-banka-100.jpg?width=1024"
-    },
-    {
-      "section": "politik",
-      "headline": "Tansania: Schicksalstag für den Oppositionsführer",
+      "headline": "Liveblog Nahost: Laut Iran brennen zwei Öltanker in der Straße von Hormus",
       "source": "FAZ",
       "country": "DE",
-      "url": "https://www.faz.net/aktuell/politik/ausland/tundu-lissu-zu-vier-jahren-haft-verurteilt-201657987.html",
-      "time": "2026-11-06T16:35:12+00:00",
+      "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-nahost-laut-iran-brennen-zwei-oeltanker-in-der-strasse-von-hormus-faz-200583539.html",
+      "time": "2026-11-08T00:35:20+00:00",
       "opinion": false,
-      "image": "https://media0.faz.net/image/d62045453cfb/w6000h3375x0y141/202611/8b7701a0-d8ba-4edd-855a-70a9d1f7a2bc/tundu-lissu-am-freitag-im.webp"
+      "image": "https://media0.faz.net/image/4365488f7ebf/w6144h3456x0y639/202611/112b6f87-def5-4624-8c62-dc6b09689b00/ein-frachtschiff-faehrt-im.webp"
     },
     {
       "section": "politik",
-      "headline": "CDU und AfD in Sachsen-Anhalt: CDU in Sachsen-Anhalt schließt Zustimmung zu AfD-Anträgen nicht aus",
+      "headline": "Energiewende: Viele Stadtwerke wollen ihre Gasnetze stilllegen",
+      "source": "Handelsblatt",
+      "country": "DE",
+      "url": "https://www.handelsblatt.com/politik/deutschland/energiewende-viele-stadtwerke-wollen-ihre-gasnetze-stilllegen/100268074.html",
+      "time": "2026-11-07T09:08:02+00:00",
+      "opinion": false,
+      "image": "https://images.handelsblatt.com/4D3lprHP6W6r/cover/900/506/0/0/0/351/0.5/0.5/berlin-deutschland-04.12.2024-haus-der-bundespressekonferenz-6.-deutsche-infrastrukturkonferenz.jpg"
+    },
+    {
+      "section": "wirtschaft",
+      "headline": "Emissionshandel: Chemieindustrie ruft nach dem Kanzler",
+      "source": "FAZ",
+      "country": "DE",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/emissionshandel-chemieindustrie-ruft-nach-dem-kanzler-accg-201659408.html",
+      "time": "2026-11-07T12:47:25+00:00",
+      "opinion": false,
+      "image": "https://media0.faz.net/image/b42a48a2124a/w5902h3320x29y0/202602/43601.0.1803066936/dicke-luft-blick-auf-die.webp"
+    },
+    {
+      "section": "politik",
+      "headline": "Neue Befugnisse: BND soll heimlich Wohnungen in Deutschland betreten dürfen",
+      "source": "FAZ",
+      "country": "DE",
+      "url": "https://www.faz.net/aktuell/politik/inland/bnd-soll-heimlich-wohnung-in-deutschland-betreten-duerfen-accg-201661109.html",
+      "time": "2026-11-07T09:52:26+00:00",
+      "opinion": false,
+      "image": "https://media0.faz.net/image/a8cde1ae0f5c/w6144h3456x0y320/202610/43601.0.2633456227/die-zentrale-des.webp"
+    },
+    {
+      "section": "politik",
+      "headline": "Was passiert bei einer Bombendrohung im Flugzeug?",
+      "source": "Tagesschau",
+      "country": "DE",
+      "url": "https://www.tagesschau.de/ausland/bombendrohungen-faq-100.html",
+      "time": "2026-11-07T08:10:26+00:00",
+      "opinion": false,
+      "image": "https://images.tagesschau.de/image/09372948-5e30-4d1a-a149-94422fc7b84a/AAABobQRL9c/AAABnSSvrFg/16x9-big/flugzeug-193.jpg?width=1024"
+    },
+    {
+      "section": "politik",
+      "headline": "Medienbericht: Kaum Geld aus Sondervermögen in Bildungsinfrastruktur geflossen",
+      "source": "Tagesschau",
+      "country": "DE",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/sondervermoegen-bildungsinfrastruktur-100.html",
+      "time": "2026-11-08T03:28:25+00:00",
+      "opinion": false,
+      "image": "https://images.tagesschau.de/image/f8f677e9-6450-420b-b286-94a87282a5ea/AAABnmPDHgs/AAABnSSvrFg/16x9-big/klassenzimmer-stuehle-100.jpg?width=1024"
+    },
+    {
+      "section": "politik",
+      "headline": "FDP vor Parteitag: Kubicki sucht den Weg aus der Krise",
+      "source": "Tagesschau",
+      "country": "DE",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/fdp-kubicki-effekt-100.html",
+      "time": "2026-11-08T02:28:44+00:00",
+      "opinion": false,
+      "image": "https://images.tagesschau.de/image/c5c63d68-4ab5-4931-8779-0a67c552dcba/AAABnm9Gfq0/AAABnSSvrFg/16x9-big/kubicki-170.jpg?width=1024"
+    },
+    {
+      "section": "politik",
+      "headline": "Bankenskandal in Paraguay: Paraguays abgesetzter Präsident Peña muss in Untersuchungshaft",
       "source": "Zeit",
       "country": "DE",
-      "url": "https://www.zeit.de/politik/deutschland/2026-11/cdu-afd-sachsen-anhalt-sven-schulze-ulrich-siegmund",
-      "time": "2026-11-06T19:28:17+00:00",
+      "url": "https://www.zeit.de/politik/ausland/2026-11/santiago-pena-paraguay-praesident-untersuchungshaft-bankenskandal",
+      "time": "2026-11-08T03:32:53+00:00",
       "opinion": false,
-      "image": "https://img.zeit.de/politik/deutschland/2026-11/cdu-afd-sachsen-anhalt-sven-schulze-ulrich-siegmund-foto-1/wide__820x461"
+      "image": "https://img.zeit.de/politik/ausland/2026-11/santiago-pena-paraguay-praesident-untersuchungshaft-bankenskandal-foto-1/wide__820x461"
     }
   ]
 }
