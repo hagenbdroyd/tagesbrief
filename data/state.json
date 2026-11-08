@@ -1,42 +1,7 @@
 {
-  "updatedAt": "2026-11-07T17:27:23+01:00",
-  "morningPush": "2026-11-07",
+  "updatedAt": "2026-11-08T07:12:32+01:00",
+  "morningPush": "2026-11-08",
   "breaking": [
-    {
-      "id": "e2026110519270",
-      "time": "2026-11-05T17:29:42+00:00",
-      "pushedAt": "2026-11-05T19:27:29+01:00",
-      "headline": "Paraguays Präsident Peña nach Bankenpleite zurückgetreten",
-      "summary": "Inmitten einer schweren Bankenkrise und eines drohenden Amtsenthebungsverfahrens hat Paraguays Präsident Santiago Peña seinen Rücktritt eingereicht. Ihm wurden geschäftliche Verflechtungen mit einer kollabierten Bank vorgeworfen.",
-      "reason": "Politik: Sturz/Rücktritt eines Staatsoberhaupts bzw. einer Regierung in einem Land.",
-      "sources": [
-        {
-          "name": "Tagesschau",
-          "country": "DE",
-          "url": "https://www.tagesschau.de/ausland/amerika/paraguay-ruecktritt-praesident-100.html"
-        },
-        {
-          "name": "Zeit",
-          "country": "DE",
-          "url": "https://www.zeit.de/politik/ausland/2026-11/santiago-pena-paraguay-praesident-ruecktritt-bankenkrise"
-        },
-        {
-          "name": "BBC",
-          "country": "UK",
-          "url": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo"
-        },
-        {
-          "name": "Handelsblatt",
-          "country": "DE",
-          "url": "https://www.handelsblatt.com/politik/international/staatskrise-paraguays-praesident-pena-tritt-in-bankenkrise-zurueck/100267710.html"
-        }
-      ],
-      "image": {
-        "url": "https://images.tagesschau.de/image/fe153856-aef9-4c0a-a0ac-0db2aa4e955e/AAABoaz2etE/AAABnSSvrFg/16x9-big/paraguay-138.jpg?width=1024",
-        "source": "Tagesschau"
-      },
-      "model": "gemini-3.6-flash"
-    },
     {
       "id": "e2026110717270",
       "time": "2026-11-07T15:55:41+00:00",
