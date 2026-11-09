@@ -1,44 +1,10 @@
 {
-  "date": "2026-11-08",
-  "generatedAt": "2026-11-08T05:11:33+01:00",
-  "notice": null,
-  "aiModel": "gemini-3.8-flash",
-  "push": "Bluttat in Krakau: Mindestens sechs Tote und drei Leichen in Haus von Täter",
-  "breaking": [
-    {
-      "id": "b1",
-      "headline": "Tödliche Schüsse in Krakau: Ermittlungen wegen Terrorverdachts",
-      "summary": "Bei einem Schusswaffenangriff aus einem Auto auf dem Hauptmarkt von Krakau wurden sechs Menschen getötet und mindestens 16 Personen verletzt. Im Haus des festgenommenen Schützen fanden Ermittler drei weitere Leichen. Ministerpräsident Donald Tusk bezeichnete die Tat als Terrorismus.",
-      "perspectives": "Laut BBC schoss der Täter willkürlich auf dem Hauptplatz, während der Guardian Innenminister-Angaben hervorhebt, wonach der Festgenommene von rechtsextremer und ultranationalistischer Ideologie beeinflusst gewesen sei.",
-      "sources": [
-        {
-          "name": "Tagesschau",
-          "country": "DE",
-          "url": "https://www.tagesschau.de/ausland/europa/polen-krakau-schuesse-102.html"
-        },
-        {
-          "name": "BBC",
-          "country": "UK",
-          "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo"
-        },
-        {
-          "name": "Zeit",
-          "country": "DE",
-          "url": "https://www.zeit.de/politik/ausland/2026-11/waffenlieferungen-israel-deutschland-friedrich-merz"
-        },
-        {
-          "name": "Guardian",
-          "country": "UK",
-          "url": "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman"
-        }
-      ],
-      "time": "2026-11-07T21:19:01+00:00",
-      "image": {
-        "url": "https://images.tagesschau.de/image/68961771-7cd2-466f-9fc6-f5e1ef891cff/AAABobi2DQI/AAABnSSvrFg/16x9-big/krakau-trauer-100.jpg?width=1024",
-        "source": "Tagesschau"
-      }
-    }
-  ],
+  "date": "2026-11-09",
+  "generatedAt": "2026-11-09T05:11:33+01:00",
+  "notice": "Der zweite Prüfdurchgang ist heute ausgefallen (KI-Kontingent aufgebraucht) – die Texte sind ungeprüft.",
+  "aiModel": "gemini-3.6-flash",
+  "push": "Kanzler Merz schlägt Ilse Aigner offiziell als Bundespräsidentin vor",
+  "breaking": [],
   "sections": [
     {
       "id": "politik",
@@ -46,185 +12,200 @@
       "items": [
         {
           "id": "p1",
-          "headline": "Regierungsbildung in Israel: Eisenkot erhält den Auftrag",
-          "summary": "Nach den Parlamentswahlen hat Israels Staatspräsident Isaac Herzog Oppositionsführer Gadi Eisenkot mit der Bildung einer Regierung beauftragt. Weder das Lager von Ministerpräsident Benjamin Netanjahu noch die Opposition hatten eine eigene Mehrheit erzielt. Eisenkot stehen nun 28 Tage für schwierige Verhandlungen bevor.",
-          "perspectives": "Die Zeit verweist auf Demonstrationen, die eine Koalition unter Einschluss arabischer Parteien fordern. Der Guardian betont, dass das Parlament seit den Wahlen im Vormonat blockiert war, während die BBC von Wahlen in der vergangenen Woche spricht.",
+          "headline": "Friedrich Merz schlägt Ilse Aigner als Bundespräsidentin vor",
+          "summary": "Bundeskanzler Friedrich Merz hat angekündigt, die CSU-Politikerin Ilse Aigner für das Amt der Bundespräsidentin vorzuschlagen. Sie wäre die erste Frau an der deutschen Staatsspitze. Am Montag treten beide offiziell vor die Presse.",
+          "perspectives": "Tagesschau, Handelsblatt, NZZ und Zeit berichten übereinstimmend über die Nominierung. Handelsblatt hebt hervor, dass Merz zuvor von CSU-Chef Söder zu der Entscheidung gedrängt worden sei.",
           "sources": [
-            {
-              "name": "BBC",
-              "country": "UK",
-              "url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo"
-            },
-            {
-              "name": "Zeit",
-              "country": "DE",
-              "url": "https://www.zeit.de/politik/ausland/2026-11/regierungsbildung-israel-gadi-eisenkot-izchak-herzog-benjamin-netanjahu"
-            },
             {
               "name": "Tagesschau",
               "country": "DE",
-              "url": "https://www.tagesschau.de/ausland/asien/regierungsbildung-israel-eisenkot-100.html"
-            },
-            {
-              "name": "Guardian",
-              "country": "UK",
-              "url": "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government"
-            }
-          ],
-          "time": "2026-11-07T19:49:39+00:00",
-          "image": {
-            "url": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/1ff8/live/d9aea170-daf1-11f1-a701-fddedf244c16.jpg",
-            "source": "BBC"
-          }
-        },
-        {
-          "id": "p2",
-          "headline": "Trump fordert Ermittlungen und benennt neue Personalien",
-          "summary": "Nach den Verlusten der Republikaner bei den Midterms hat US-Präsident Donald Trump das Justizministerium zu Untersuchungen gegen führende Demokraten aufgefordert. Zudem ernannte er den Hardliner Stephen Miller zum neuen Stabschef und bot UFC-Chef Dana White den Posten des Sprechers im Weißen Haus an.",
-          "perspectives": "Während die Zeit hervorhebt, dass Trump Zweifel am Wahlergebnis schürt, berichtet die New York Times über das Angebot an Dana White und dessen Aufforderung, Kämpfer als Assistenten mitzubringen. Der Guardian fokussiert sich auf Millers Zusage totaler Hingabe gegenüber Trump.",
-          "sources": [
-            {
-              "name": "Zeit",
-              "country": "DE",
-              "url": "https://www.zeit.de/politik/ausland/2026-11/donald-trump-justizministerium-demokraten-ermittlungen"
+              "url": "https://www.tagesschau.de/inland/innenpolitik/aigner-bundespraesidentin-100.html"
             },
             {
               "name": "Handelsblatt",
               "country": "DE",
-              "url": "https://www.handelsblatt.com/politik/international/nach-us-midterms-trump-will-ermittlungen-gegen-demokraten-bedrohen-viele-menschen/29669594.html"
+              "url": "https://www.handelsblatt.com/politik/deutschland/union-als-letzter-sagte-auch-der-bundeskanzler-ja-zu-aigner/100267832.html"
             },
             {
-              "name": "New York Times",
-              "country": "US",
-              "url": "https://www.nytimes.com/2026/11/07/us/politics/trump-dana-white-ufc-press-secretary.html"
+              "name": "NZZ",
+              "country": "CH",
+              "url": "https://www.nzz.ch/international/friedrich-merz-schlaegt-ilse-aigner-als-bundespraesidentin-vor-ld.10058169"
             },
             {
-              "name": "Guardian",
-              "country": "UK",
-              "url": "https://www.theguardian.com/us-news/2026/nov/07/stephen-miller-trump-loyalty"
+              "name": "Zeit",
+              "country": "DE",
+              "url": "https://www.zeit.de/politik/deutschland/2026-11/ilse-aigner-bundespraesidentin-kandidatin-friedrich-merz-gxe"
             }
           ],
-          "time": "2026-11-07T15:15:11+00:00",
+          "time": "2026-11-08T19:50:50+00:00",
           "image": {
-            "url": "https://img.zeit.de/politik/ausland/2026-11/donald-trump-justizministerium-demokraten-ermittlungen-foto-1/wide__820x461",
+            "url": "https://images.tagesschau.de/image/b9a1484e-0137-48fd-96c3-88255c4468fb/AAABoXhnvbQ/AAABnSSvrFg/16x9-big/merz-aigner-100.jpg?width=1024",
+            "source": "Tagesschau"
+          }
+        },
+        {
+          "id": "p2",
+          "headline": "Gadi Eisenkot mit Regierungsbildung in Israel beauftragt",
+          "summary": "Nach den Wahlen in Israel hat Staatspräsident Izchak Herzog den Oppositionspolitiker Gadi Eisenkot mit der Regierungsbildung beauftragt. Der ehemalige Armeechef hat 28 Tage Zeit für die Verhandlungen und rief zu unkonventionellen Schritten auf.",
+          "perspectives": "Tagesschau, Zeit, Financial Times und NZZ berichten über die Beauftragung. Financial Times hebt die 28-Tage-Frist hervor, während NZZ und Zeit die tiefen politischen Gräben und die schwierigen Verhandlungen betonen.",
+          "sources": [
+            {
+              "name": "Zeit",
+              "country": "DE",
+              "url": "https://www.zeit.de/politik/ausland/2026-11/regierungsbildung-israel-gadi-eisenkot-isaac-herzog-gxe"
+            },
+            {
+              "name": "Tagesschau",
+              "country": "DE",
+              "url": "https://www.tagesschau.de/ausland/asien/israel-auftrag-regierungsbildung-eisenkot-100.html"
+            },
+            {
+              "name": "Financial Times",
+              "country": "UK",
+              "url": "https://www.ft.com/content/bf737648-b974-4f87-ba0b-958f2aff1163?syn-25a6b1a6=1"
+            },
+            {
+              "name": "NZZ",
+              "country": "CH",
+              "url": "https://www.nzz.ch/international/israels-praesident-herzog-beauftragt-netanyahu-gegner-eisenkot-mit-der-regierungsbildung-ld.10057550"
+            }
+          ],
+          "time": "2026-11-08T04:59:28+00:00",
+          "image": {
+            "url": "https://img.zeit.de/politik/ausland/2026-11/regierungsbildung-israel-gadi-eisenkot-isaac-herzog-gxe-foto-1/wide__820x461",
             "source": "Zeit"
           }
         },
         {
           "id": "p3",
-          "headline": "Schwere Luftangriffe im Jemen: Dutzende Tote gemeldet",
-          "summary": "Bei Luftangriffen nahe der jemenitischen Hauptstadt Sanaa sind nach Angaben der Huthi-Miliz mindestens 33 Menschen ums Leben gekommen. Die Miliz macht eine von Saudi-Arabien angeführte Koalition für das Bombardement verantwortlich. Eine Stellungnahme aus Riad liegt bislang nicht vor.",
-          "perspectives": "Die Angaben zur Opferzahl divergieren: Während die BBC und Zeit von mindestens 33 Toten sprechen, meldet die New York Times unter Berufung auf regionale Quellen mehr als 50 Todesopfer innerhalb der vergangenen 24 Stunden infolge wieder aufgeflammter Gefechte.",
+          "headline": "Terrorermittlungen nach tödlichen Schüssen in Krakau",
+          "summary": "Nach den Schüssen in Krakau mit sechs Toten ermitteln die polnischen Behörden wegen des Verdachts auf Terrorismus. Der 24-jährige Schütze soll zudem seine Eltern und seine Schwester getötet haben. Bei seiner Festnahme wurden zwei Polizisten schwer verletzt.",
+          "perspectives": "Spiegel und Tagesschau berichten über Hinweise auf eine radikale Gesinnung des Täters. Guardian hebt das mutige Eingreifen der beiden verletzten Polizisten hervor, während Financial Times betont, dass Premier Tusk vor einer politischen Ausnutzung der Tat warnt.",
           "sources": [
             {
-              "name": "BBC",
-              "country": "UK",
-              "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo"
-            },
-            {
-              "name": "Zeit",
+              "name": "Spiegel",
               "country": "DE",
-              "url": "https://www.zeit.de/politik/ausland/2026-11/jemen-huthi-saudi-arabien-luftangriff-raketen"
+              "url": "https://www.spiegel.de/ausland/polen-gedenkt-der-opfer-von-krakau-schuetze-noch-nicht-vernehmungsfaehig-a-b73b88ae-2bef-450e-be7b-ad23bac13d06"
             },
             {
-              "name": "New York Times",
-              "country": "US",
-              "url": "https://www.nytimes.com/2026/11/07/world/middleeast/more-than-50-killed-in-yemen.html"
+              "name": "Tagesschau",
+              "country": "DE",
+              "url": "https://www.tagesschau.de/ausland/europa/ermittlungen-krakau-100.html"
+            },
+            {
+              "name": "Guardian",
+              "country": "UK",
+              "url": "https://www.theguardian.com/world/2026/nov/08/two-police-officers-heroes-confronting-krakow-gunman-poland"
+            },
+            {
+              "name": "Financial Times",
+              "country": "UK",
+              "url": "https://www.ft.com/content/0fab9ede-4fa1-4f94-b23e-e32f07a6b7df?syn-25a6b1a6=1"
             }
           ],
-          "time": "2026-11-07T16:39:31+00:00",
+          "time": "2026-11-08T10:24:09+00:00",
           "image": {
-            "url": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/2670/live/bfaac760-dacc-11f1-bda8-29fb69dbc026.jpg",
-            "source": "BBC"
+            "url": "https://cdn.prod.www.spiegel.de/images/e0b863ca-47f2-4beb-8a73-4f33ca345a3b_w520_r2.08_fpx69_fpy49.jpg",
+            "source": "Spiegel"
           }
         },
         {
           "id": "p4",
-          "headline": "Union berät über Nominierung von Ilse Aigner",
-          "summary": "Das CDU-Präsidium berät über die Nachfolge von Frank-Walter Steinmeier im Amt des Bundespräsidenten. Erwartet wird die Nominierung der bayerischen Landtagspräsidentin Ilse Aigner (CSU), die im Falle einer Wahl das erste weibliche deutsche Staatsoberhaupt wäre. Aus Reihen von Grünen und Opposition wird das zögerliche Vorgehen von Kanzler Merz kritisiert.",
-          "perspectives": "Die Tagesschau zeichnet Aigners Profil als bürgernah und krisenerprobt nach. Spiegel und Handelsblatt heben hervor, dass Merz Kritik entgegenschlägt, weil ihm das Verfahren entglitten sei, während Merz auf verabredete formale Prozesse verweist.",
+          "headline": "Papst Leo XIV. übt Kritik an Argentiniens Präsident Milei",
+          "summary": "Bei seinem Besuch in Argentinien hat Papst Leo XIV. die Sparpolitik von Präsident Javier Milei kritisiert. Das Oberhaupt der katholischen Kirche mahnte mehr Rücksicht auf Schwache an und betonte, die Wirtschaft müsse dem Menschen dienen.",
+          "perspectives": "Spiegel, FAZ, Guardian und Tagesschau berichten über die Mahnungen des Papstes. Guardian spricht von einer scharfen Rüge der Sparmaßnahmen, während FAZ das Spannungsverhältnis zwischen Mileis Freiheitsbegriff und dem Verantwortungsverständnis des Papstes hervorhebt.",
           "sources": [
             {
-              "name": "Zeit",
+              "name": "Spiegel",
               "country": "DE",
-              "url": "https://www.zeit.de/politik/deutschland/2026-11/ilse-aigner-bundespraesidentin-csu-friedrich-merz"
+              "url": "https://www.spiegel.de/ausland/papst-leo-in-suedamerika-kritik-an-mileis-sparpolitik-in-argentinien-a-8ab5667d-ab9c-42f1-afec-4cc0464d238c"
             },
             {
-              "name": "Handelsblatt",
+              "name": "FAZ",
               "country": "DE",
-              "url": "https://www.handelsblatt.com/politik/deutschland/bundespraesidentenwahl-ungekuerte-kandidatin-ilse-aigner-kritik-an-kanzler-merz/100268048.html"
+              "url": "https://www.faz.net/aktuell/politik/ausland/papst-leo-xiv-in-buenos-aires-mahnungen-an-javier-milei-accg-201664318.html"
+            },
+            {
+              "name": "Guardian",
+              "country": "UK",
+              "url": "https://www.theguardian.com/world/2026/nov/09/pope-leo-argentina-visit-speech-javier-milei-austerity"
             },
             {
               "name": "Tagesschau",
               "country": "DE",
-              "url": "https://www.tagesschau.de/inland/ilse-aigner-portraet-100.html"
-            },
-            {
-              "name": "Spiegel",
-              "country": "DE",
-              "url": "https://www.spiegel.de/politik/deutschland/bundespraesidenten-nachfolge-omid-nouripour-kritisiert-verhalten-von-friedrich-merz-a-17a92a69-2408-4233-a873-8c443abf5d39"
+              "url": "https://www.tagesschau.de/ausland/amerika/papst-in-argentinien-100.html"
             }
           ],
-          "time": "2026-11-07T10:44:00+00:00",
+          "time": "2026-11-09T00:43:39+00:00",
           "image": {
-            "url": "https://img.zeit.de/politik/deutschland/2026-11/ilse-aigner-bundespraesidentin-csu-friedrich-merz-foto-1/wide__820x461",
-            "source": "Zeit"
+            "url": "https://cdn.prod.www.spiegel.de/images/a24d3a0e-cc4b-42f5-8f26-ddfcf2946d1f_w520_r2.08_fpx47.33_fpy44.98.jpg",
+            "source": "Spiegel"
           }
         },
         {
           "id": "p5",
-          "headline": "Frankreich: Sozialproteste bei wachsenden Schuldenkosten",
-          "summary": "Am vierten Samstag in Folge sind in Frankreich Zehntausende gegen hohe Lebenshaltungskosten und Mängel im Bildungssystem auf die Straße gegangen. Die Regierung kündigte Mehrausgaben von vier Milliarden Euro für Schulen an, steht jedoch angesichts hoher Staatsverschuldung und steigender Zinskosten unter erheblichem Spardruck.",
-          "perspectives": "Das Handelsblatt meldet 146.000 Demonstrierende landesweit und verweist wie die Tagesschau auf sinkende Teilnehmerzahlen sowie punktuelle Zusammenstöße. Die Deutsche Welle rückt primär das wirtschaftliche Dilemma steigender Refinanzierungskosten in den Fokus.",
+          "headline": "Trump nennt seine Abschiebepolitik überraschend zu hart",
+          "summary": "US-Präsident Donald Trump hat seine bisherige Abschiebepolitik rückblickend als möglicherweise zu hart bezeichnet. Nach den Verlusten der Republikaner bei den Midterms zeigte er sich offen für Kompromisse mit den Demokraten.",
+          "perspectives": "New York Times, Financial Times, NZZ und Zeit greifen Trumps Aussagen aus einem Interview auf. Financial Times und New York Times erwähnen zudem, dass Trump auch den Irankrieg und wirtschaftliche Vermittlungsfehler für den Ausgang der Zwischenwahlen verantwortlich macht.",
           "sources": [
+            {
+              "name": "New York Times",
+              "country": "US",
+              "url": "https://www.nytimes.com/2026/11/08/us/politics/trump-immigration-crackdown-republicans-midterms.html"
+            },
+            {
+              "name": "Financial Times",
+              "country": "UK",
+              "url": "https://www.ft.com/content/c82ac9a2-617e-400a-a5b7-e8d6674a80d4?syn-25a6b1a6=1"
+            },
             {
               "name": "NZZ",
               "country": "CH",
-              "url": "https://www.nzz.ch/international/neue-schuelerproteste-in-frankreich-droht-eine-ausweitung-der-ausschreitungen-ld.10026904"
+              "url": "https://www.nzz.ch/international/us-innenpolitik-die-neuesten-meldungen-im-ticker-ld.10056111"
             },
             {
-              "name": "Tagesschau",
+              "name": "Zeit",
               "country": "DE",
-              "url": "https://www.tagesschau.de/ausland/frankreich-proteste-246.html"
-            },
-            {
-              "name": "Handelsblatt",
-              "country": "DE",
-              "url": "https://www.handelsblatt.com/politik/international/sozialproteste-146000-demonstrieren-in-frankreich-teilnahme-geht-zurueck/100268129.html"
-            },
-            {
-              "name": "Deutsche Welle",
-              "country": "DE",
-              "url": "https://www.dw.com/en/amid-protests-france-s-rising-debt-costs-threaten-stability/a-79865654"
+              "url": "https://www.zeit.de/politik/ausland/2026-11/donald-trump-abschiebepolitik-usa-stephen-miller-jd-vance"
             }
           ],
-          "time": "2026-11-07T08:16:00+00:00",
+          "time": "2026-11-08T23:07:57+00:00",
           "image": {
-            "url": "https://img-msp-prod.nzz.ch/2026/11/07/a50ef86b-27a5-475d-a6da-651521e9954f.jpg?width=900&height=900&fit=bounds",
-            "source": "NZZ"
+            "url": "https://static01.nyt.com/images/2026/11/08/us/08dc-trump-60Minutes/08dc-trump-60Minutes-mediumSquareAt3X.jpg",
+            "source": "New York Times"
           }
         },
         {
           "id": "p6",
-          "headline": "USA und China streiten über Einhaltung von Handelsabkommen",
-          "summary": "Kurz vor einem geplanten Spitzentreffen erheben Washington und Peking gegenseitige Vorwürfe im Handelskonflikt. Die USA bemängeln Chinas zögerliche Lieferungen von Seltenen Erden und Agrarkäufe, während die chinesische Regierung vor anhaltenden Exportbeschränkungen der USA warnt.",
-          "perspectives": "Das Handelsblatt hebt das Risiko eines erneuten Aufflammens des Handelsstreits kurz vor einem Treffen zwischen Donald Trump und Xi Jinping hervor. Die Deutsche Welle beleuchtet spezifisch die Verpflichtungen aus dem Busan-Abkommen von 2025.",
+          "headline": "Historische Wahlniederlage für Südafrikas ANC",
+          "summary": "Bei den Kommunalwahlen in Südafrika hat der regierende Afrikanische Nationalkongress seine bisher schwerste Niederlage erlitten. Die Partei erhielt unter 30 Prozent der Stimmen, da viele Wähler wegen Korruption und Versorgungsengpässen enttäuscht sind.",
+          "perspectives": "Tagesschau, Zeit, Deutsche Welle und NZZ berichten übereinstimmend über den historischen Absturz des ANC. Deutsche Welle stellt Unzufriedenheit über Wasser- und Stromausfälle heraus, während NZZ die Gewinne der Opposition betont.",
           "sources": [
             {
-              "name": "Handelsblatt",
+              "name": "Tagesschau",
               "country": "DE",
-              "url": "https://www.handelsblatt.com/politik/international/handelskonflikt-usa-werfen-china-verstoss-gegen-handelsdeal-vor/100268065.html"
+              "url": "https://www.tagesschau.de/ausland/amerika/wahlen-suedafrika-102.html"
+            },
+            {
+              "name": "Zeit",
+              "country": "DE",
+              "url": "https://www.zeit.de/politik/ausland/2026-11/kommunalwahlen-suedafrika-anc-niederlage-koalitionen-nelson-mandela-gxe"
             },
             {
               "name": "Deutsche Welle",
               "country": "DE",
-              "url": "https://www.dw.com/en/us-asks-china-to-uphold-busan-trade-deal-commitments/a-79882939"
+              "url": "https://www.dw.com/en/south-africa-elections-anc-marks-its-worst-ever-performance/a-79887482"
+            },
+            {
+              "name": "NZZ",
+              "country": "CH",
+              "url": "https://www.nzz.ch/international/anc-verliert-massiv-schlechte-bilanz-bei-suedafrikas-kommunalwahlen-ld.10056444"
             }
           ],
-          "time": "2026-11-07T04:44:00+00:00",
+          "time": "2026-11-08T14:47:02+00:00",
           "image": {
-            "url": "https://images.handelsblatt.com/id9k58p83Ft4/cover/900/506/0/0/0/392/0.5/0.5/us-president-trump-hosts-chinese-president-xi-jinping-for-a-stat.jpg",
-            "source": "Handelsblatt"
+            "url": "https://images.tagesschau.de/image/0fc3f227-32a1-4044-8aa7-382c07e228a9/AAABob4F528/AAABnSSvrFg/16x9-big/wahlen-suedafrika-104.jpg?width=1024",
+            "source": "Tagesschau"
           }
         }
       ]
@@ -235,52 +216,100 @@
       "items": [
         {
           "id": "w1",
-          "headline": "Spionagevorwürfe und Chipkontrollen um Nvidia",
-          "summary": "US-Geheimdienste prüfen Berichte, wonach Nvidia-Chef Jensen Huang ein Verhältnis mit einer mutmaßlichen chinesischen Spionin unterhalten haben soll. Gleichzeitig geraten Prüfungen des US-Handelsministeriums in die Kritik, weil hochentwickelte H200-KI-Chips trotz bestehender Beschränkungen an chinesische Firmen gelangt sein sollen.",
-          "perspectives": "Die Financial Times und der Spiegel stützen sich auf Enthüllungen über verdeckte Einflussoperationen auf Führungsebene. Die New York Times fokussiert sich dagegen auf die Genehmigungspraxis der US-Regierung, die H200-Chips für chinesische Briefkastenfirmen freigegeben habe.",
+          "headline": "Nvidia untersucht Spionageverdacht gegen Gründer Huang",
+          "summary": "Der Chipkonzern Nvidia hat eine Untersuchung gegen Konzernchef Jensen Huang eingeleitet. Huang räumte eine außereheliche Affäre mit einer Geschäftsfrau ein, die laut Berichten für den chinesischen Geheimdienst gearbeitet haben soll.",
+          "perspectives": "Tagesschau, Handelsblatt, Financial Times und NZZ berichten über den Fall. Financial Times hebt Huangs Entschuldigung an die Mitarbeiter hervor, während Handelsblatt die politischen Risiken für die gesamte KI-Branche betont.",
           "sources": [
             {
-              "name": "Financial Times",
-              "country": "UK",
-              "url": "https://www.ft.com/content/a55a2a22-4479-4f93-a445-6147a5c6d790?syn-25a6b1a6=1"
-            },
-            {
-              "name": "Spiegel",
+              "name": "Tagesschau",
               "country": "DE",
-              "url": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-jen-hsun-huang-soll-affaere-mit-chinesischer-agentin-gehabt-haben-a-8b6c5163-b475-4478-a335-3aeaeccdca48"
-            },
-            {
-              "name": "New York Times",
-              "country": "US",
-              "url": "https://www.nytimes.com/2026/11/07/business/economy/nvidia-chips-chinese-firms.html"
-            }
-          ],
-          "time": "2026-11-07T10:00:41+00:00",
-          "image": {
-            "url": "https://cdn.prod.www.spiegel.de/images/25e17ef0-cb1b-4087-a1ee-47fcd63d5ec1_w520_r2.08_fpx52.67_fpy44.99.jpg",
-            "source": "Spiegel"
-          }
-        },
-        {
-          "id": "w2",
-          "headline": "Berkshire Hathaway forciert Aktienrückkäufe",
-          "summary": "Die Investmentgesellschaft Berkshire Hathaway hat im dritten Quartal für 9,6 Milliarden Dollar eigene Aktien zurückgekauft, obwohl das operative Ergebnis im Jahresvergleich um 5,8 Prozent sank. Schwächen im Versicherungsgeschäft drückten auf das Ergebnis, während die Aktie von der allgemeinen Marktunsicherheit profitierte.",
-          "perspectives": "Die Financial Times hebt primär die Belastung durch das schwächelnde Versicherungsgeschäft hervor. Das Handelsblatt betont ergänzend, dass Anleger unter Führung von Buffetts Nachfolger Greg Abel wegen Skepsis gegenüber dem Tech- und KI-Sektor Zuflucht bei Berkshire suchten.",
-          "sources": [
-            {
-              "name": "Financial Times",
-              "country": "UK",
-              "url": "https://www.ft.com/content/1f153350-2377-4e48-a073-0539376eab4c?syn-25a6b1a6=1"
+              "url": "https://www.tagesschau.de/ausland/amerika/nvidia-spionage-pruefung-100.html"
             },
             {
               "name": "Handelsblatt",
               "country": "DE",
-              "url": "https://www.handelsblatt.com/finanzen/maerkte/quartalszahlen-berkshire-meldet-gewinnrueckgang-doch-die-aktie-profitiert/100268115.html"
+              "url": "https://www.handelsblatt.com/technik/it-internet/chip-riese-nvidia-chef-hatte-affaere-mit-moeglicher-spionin/100268300.html"
+            },
+            {
+              "name": "Financial Times",
+              "country": "UK",
+              "url": "https://www.ft.com/content/1397e2f4-d7f5-4cbb-a4d9-04ecf661d1aa?syn-25a6b1a6=1"
+            },
+            {
+              "name": "NZZ",
+              "country": "CH",
+              "url": "https://www.nzz.ch/wirtschaft/nvidia-chef-huang-hatte-mutmasslich-eine-affaere-mit-einer-chinesischen-spionin-das-unternehmen-leitet-nun-eine-untersuchung-ein-ld.10058205"
             }
           ],
-          "time": "2026-11-07T15:57:11+00:00",
+          "time": "2026-11-08T21:09:41+00:00",
           "image": {
-            "url": "https://images.handelsblatt.com/TUWWunzi3jWw/cover/900/506/0/0/284/284/0.5/0.5/the-company-logo-for-the-berkshire-hathaway-inc.-is-displayed-on-a-screen-at-the-new-york-stock-exch.jpg",
+            "url": "https://images.tagesschau.de/image/34f93b54-ef67-4531-97e6-4a40dc5724cc/AAABob1ZsYo/AAABnSSvrFg/16x9-big/nvidia-184.jpg?width=1024",
+            "source": "Tagesschau"
+          }
+        },
+        {
+          "id": "w2",
+          "headline": "Anthropic kauft eigene Stromgeneratoren für 3,4 Milliarden Dollar",
+          "summary": "Das KI-Unternehmen Anthropic investiert rund 3,4 Milliarden US-Dollar in gasbetriebene Generatoren. Damit will sich der Konzern von traditionellen Stromanbietern unabhängig machen, um die Energieversorgung seiner Rechenzentren abzusichern.",
+          "perspectives": "Handelsblatt und Financial Times berichten übereinstimmend über die Großinvestition. Financial Times betont dabei die weltweiten Engpässe bei der Stromversorgung von KI-Infrastruktur.",
+          "sources": [
+            {
+              "name": "Handelsblatt",
+              "country": "DE",
+              "url": "https://www.handelsblatt.com/unternehmen/dienstleister/ki-anthropic-steckt-34-milliarden-dollar-in-stromgeneratoren/100268219.html"
+            },
+            {
+              "name": "Financial Times",
+              "country": "UK",
+              "url": "https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0?syn-25a6b1a6=1"
+            }
+          ],
+          "time": "2026-11-08T11:00:09+00:00",
+          "image": {
+            "url": "https://images.handelsblatt.com/1Xm4dtpO3EUV/cover/900/506/0/0/261/262/0.5/0.5/file-photo-file-photo-an-anthropic-logo-is-displayed-at-moscone-center-during-the-dreamforce-2026.jpg",
+            "source": "Handelsblatt"
+          }
+        },
+        {
+          "id": "w3",
+          "headline": "Chinas Erzeugerpreise steigen überraschend deutlich",
+          "summary": "In China sind die Erzeugerpreise im Oktober um 5,7 Prozent gegenüber dem Vorjahr gestiegen. Dagegen verlangsamte sich das Wachstum der Verbraucherpreise infolge verhaltener Binnennachfrage.",
+          "perspectives": "CNBC und Financial Times berichten über die Inflationsdaten. CNBC verweist auf den höher als erwarteten Anstieg der Erzeugerpreise, während Financial Times die schwere Lage durch steigende Produzentenkosten bei schwacher Konsumnachfrage hervorhebt.",
+          "sources": [
+            {
+              "name": "CNBC",
+              "country": "US",
+              "url": "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html"
+            },
+            {
+              "name": "Financial Times",
+              "country": "UK",
+              "url": "https://www.ft.com/content/085c4610-143a-47ad-b546-0587695294b5?syn-25a6b1a6=1"
+            }
+          ],
+          "time": "2026-11-09T02:01:28+00:00",
+          "image": null
+        },
+        {
+          "id": "w4",
+          "headline": "Börsen in Ostasien erholen sich nach Tech-Ausverkauf",
+          "summary": "Nach den schweren Verlusten an den US-Börsen sind die ostasiatischen Finanzmärkte wieder im Plus gestartet. Der japanische Leitindex verzeichnete deutliche Gewinne, nachdem an der Wall Street zuvor Billionenwerte verloren gingen.",
+          "perspectives": "Handelsblatt berichtet über den Kursaufschwung in Asien. NZZ ordnet die Erholung verhaltener ein und stellt infrage, ob der Rückgang das Ende des KI-Booms einläutet.",
+          "sources": [
+            {
+              "name": "Handelsblatt",
+              "country": "DE",
+              "url": "https://www.handelsblatt.com/politik/deutschland/boersen-nach-ki-ausverkauf-boersen-in-ostasien-starten-mit-gewinnen/100268297.html"
+            },
+            {
+              "name": "NZZ",
+              "country": "CH",
+              "url": "https://www.nzz.ch/wirtschaft/absturz-an-der-nasdaq-warnschuss-oder-anfang-vom-ende-des-ki-booms-ld.10054992"
+            }
+          ],
+          "time": "2026-11-08T04:30:00+00:00",
+          "image": {
+            "url": "https://images.handelsblatt.com/yJtZCQ6oXUmr/cover/900/506/0/0/107/106/0.5/0.5/finanzmaerkte-japan.jpg",
             "source": "Handelsblatt"
           }
         }
@@ -290,203 +319,203 @@
   "more": [
     {
       "section": "politik",
-      "headline": "Ukraine-Krieg: Kyjiw kämpft nach massiven Angriffen Russlands mit Stromproblemen",
-      "source": "Spiegel",
-      "country": "DE",
-      "url": "https://www.spiegel.de/ausland/ukraine-krieg-kyjiw-kaempft-nach-massiven-russischen-angriffen-mit-stromproblemen-a-8d4aacfb-3500-4239-9b25-90fd97e43459",
-      "time": "2026-11-07T09:09:00+00:00",
-      "opinion": false,
-      "image": "https://cdn.prod.www.spiegel.de/images/b1717486-d39b-4342-a780-8b653805b120_w520_r2.08_fpx59.99_fpy49.99.jpg"
-    },
-    {
-      "section": "politik",
-      "headline": "Italien: Außenminister Antonio Tajani prangert Hacker-Angriffe an",
-      "source": "Spiegel",
-      "country": "DE",
-      "url": "https://www.spiegel.de/ausland/italien-aussenminister-antonio-tajani-prangert-hacker-angriffe-an-a-cb655674-9ea2-4f6f-abf3-9d8fd660cd71",
-      "time": "2026-11-07T23:57:00+00:00",
-      "opinion": false,
-      "image": "https://cdn.prod.www.spiegel.de/images/b78038e6-9e91-4614-bafc-3cabe2769f3e_w520_r2.08_fpx50_fpy32.jpg"
-    },
-    {
-      "section": "politik",
-      "headline": "Parlamentswahl in Neuseeland: Regierungspartei und Labour nahezu gleichauf",
-      "source": "Tagesschau",
-      "country": "DE",
-      "url": "https://www.tagesschau.de/ausland/ozeanien/neuseeland-parlamentswahl-102.html",
-      "time": "2026-11-07T14:41:43+00:00",
-      "opinion": false,
-      "image": "https://images.tagesschau.de/image/69dd39a9-cd4a-426a-b9a6-7022abbbfe87/AAABobZ1SjM/AAABnSSvrFg/16x9-big/neuseeland-parlamentswahl-104.jpg?width=1024"
-    },
-    {
-      "section": "politik",
-      "headline": "Türkei: Recep Tayyip Erdoğan opfert im Börsenskandal eine Vertraute",
-      "source": "Spiegel",
-      "country": "DE",
-      "url": "https://www.spiegel.de/ausland/tuerkei-recep-tayyip-erdogan-opfert-im-boersenskandal-eine-vertraute-a-c1195cdf-3844-484a-a588-3b3752bd655c",
-      "time": "2026-11-07T17:32:00+00:00",
-      "opinion": false,
-      "image": "https://cdn.prod.www.spiegel.de/images/d7327ce5-9bac-4934-bce0-454f0e0428bd_w520_r2.08_fpx51.6_fpy50.jpg"
-    },
-    {
-      "section": "politik",
-      "headline": "Südafrika: ANC erleidet historische Niederlage bei Kommunalwahlen",
-      "source": "Spiegel",
-      "country": "DE",
-      "url": "https://www.spiegel.de/ausland/suedafrika-anc-erleidet-historische-niederlage-bei-kommunalwahlen-a-0a77243d-6573-4bd6-a37f-fb4a45f06e20",
-      "time": "2026-11-07T13:03:00+00:00",
-      "opinion": false,
-      "image": "https://cdn.prod.www.spiegel.de/images/fd9b1e1c-027b-43eb-ab77-4d21ecff887c_w520_r2.08_fpx50.66_fpy50.jpg"
-    },
-    {
-      "section": "wirtschaft",
-      "headline": "Tesla: Das Ende des Cybertrucks",
-      "source": "Handelsblatt",
-      "country": "DE",
-      "url": "https://www.handelsblatt.com/unternehmen/industrie/tesla-das-ende-des-cybertrucks/100268126.html",
-      "time": "2026-11-07T18:39:59+00:00",
-      "opinion": false,
-      "image": "https://images.handelsblatt.com/4i5OJmTyglE0/cover/900/506/248/156/143/238/0.5/0.5/cybertruck-von-tesla.jpeg"
-    },
-    {
-      "section": "politik",
-      "headline": "Gesundheitsbehörde: Größter Masernausbruch in den USA seit 35 Jahren",
-      "source": "Tagesschau",
-      "country": "DE",
-      "url": "https://www.tagesschau.de/ausland/amerika/usa-masern-100.html",
-      "time": "2026-11-07T06:01:55+00:00",
-      "opinion": false,
-      "image": "https://images.tagesschau.de/image/dda9c1bf-5f7a-4eb5-996d-5b26807a5c39/AAABobQ9m2c/AAABnSSvrFg/16x9-big/cdc-100.jpg?width=1024"
-    },
-    {
-      "section": "politik",
-      "headline": "Hubig will geleakte E-Mails zur Prüfung von AfD-Verbotsverfahren nutzen",
-      "source": "Tagesschau",
-      "country": "DE",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/hubig-afd-verbotsverfahren-leak-100.html",
-      "time": "2026-11-07T09:28:52+00:00",
-      "opinion": false,
-      "image": "https://images.tagesschau.de/image/cc62aaec-9be1-4ab8-9152-b85193c4ac4d/AAABobVW4eg/AAABnSSvrFg/16x9-big/spd-hubig-100.jpg?width=1024"
-    },
-    {
-      "section": "politik",
-      "headline": "Pistorius zur Wehrpflicht: Prinzip der Freiwilligkeit kann gelingen",
-      "source": "Deutschlandfunk",
-      "country": "DE",
-      "url": "https://www.deutschlandfunk.de/interview-der-woche-mit-verteidigungsminister-boris-pistorius-spd-100.html",
-      "time": "2026-11-07T18:15:00+00:00",
-      "opinion": false,
-      "image": "https://bilder.deutschlandfunk.de/5f/2f/4a/37/5f2f4a37-ad44-469b-bbd6-ed5722353f47/pistorius-136-1920x1920.jpg"
-    },
-    {
-      "section": "wirtschaft",
-      "headline": "Verkauf an Electra: Mercedes zieht beim Traum vom eigenen Ladenetz den Stecker",
-      "source": "FAZ",
-      "country": "DE",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/mercedes-verkauft-ladeparks-in-europa-an-electra-accg-201658444.html",
-      "time": "2026-11-07T16:25:34+00:00",
-      "opinion": false,
-      "image": "https://media0.faz.net/image/cc0b51c819ed/w6144h3456x0y320/202610/f77c8d92-8c35-44a7-a850-b672a834258d/mercedes-chef-ola-kaellenius.webp"
-    },
-    {
-      "section": "politik",
-      "headline": "Angriffe auf Bahnprojekte: Cyberattacke auf Brennerbasistunnel-Firma",
-      "source": "Handelsblatt",
-      "country": "DE",
-      "url": "https://www.handelsblatt.com/politik/deutschland/angriffe-auf-bahnprojekte-cyberattacke-auf-brennerbasistunnel-firma/100268113.html",
-      "time": "2026-11-07T14:10:55+00:00",
-      "opinion": false,
-      "image": "https://images.handelsblatt.com/xTexkHICpqYh/cover/900/506/0/0/107/107/0.5/0.5/brennerbasistunnel.jpg"
-    },
-    {
-      "section": "wirtschaft",
-      "headline": "Arzneimittelbehörde prüft: Verdacht auf Tumorbildung bei Kindern durch Gentherapie",
-      "source": "Handelsblatt",
-      "country": "DE",
-      "url": "https://www.handelsblatt.com/technik/forschung-innovation/arzneimittelbehoerde-prueft-verdacht-auf-tumorbildung-bei-kindern-durch-gentherapie/100268087.html",
-      "time": "2026-11-07T12:57:10+00:00",
-      "opinion": false,
-      "image": "https://images.handelsblatt.com/If1y6E95dlMw/cover/900/506/0/0/188/187/0.5/0.5/novartis.jpg"
-    },
-    {
-      "section": "politik",
-      "headline": "Liveblog Nahost: Laut Iran brennen zwei Öltanker in der Straße von Hormus",
-      "source": "FAZ",
-      "country": "DE",
-      "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-nahost-laut-iran-brennen-zwei-oeltanker-in-der-strasse-von-hormus-faz-200583539.html",
-      "time": "2026-11-08T00:35:20+00:00",
-      "opinion": false,
-      "image": "https://media0.faz.net/image/4365488f7ebf/w6144h3456x0y639/202611/112b6f87-def5-4624-8c62-dc6b09689b00/ein-frachtschiff-faehrt-im.webp"
-    },
-    {
-      "section": "politik",
-      "headline": "Energiewende: Viele Stadtwerke wollen ihre Gasnetze stilllegen",
-      "source": "Handelsblatt",
-      "country": "DE",
-      "url": "https://www.handelsblatt.com/politik/deutschland/energiewende-viele-stadtwerke-wollen-ihre-gasnetze-stilllegen/100268074.html",
-      "time": "2026-11-07T09:08:02+00:00",
-      "opinion": false,
-      "image": "https://images.handelsblatt.com/4D3lprHP6W6r/cover/900/506/0/0/0/351/0.5/0.5/berlin-deutschland-04.12.2024-haus-der-bundespressekonferenz-6.-deutsche-infrastrukturkonferenz.jpg"
-    },
-    {
-      "section": "wirtschaft",
-      "headline": "Emissionshandel: Chemieindustrie ruft nach dem Kanzler",
-      "source": "FAZ",
-      "country": "DE",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/emissionshandel-chemieindustrie-ruft-nach-dem-kanzler-accg-201659408.html",
-      "time": "2026-11-07T12:47:25+00:00",
-      "opinion": false,
-      "image": "https://media0.faz.net/image/b42a48a2124a/w5902h3320x29y0/202602/43601.0.1803066936/dicke-luft-blick-auf-die.webp"
-    },
-    {
-      "section": "politik",
-      "headline": "Neue Befugnisse: BND soll heimlich Wohnungen in Deutschland betreten dürfen",
-      "source": "FAZ",
-      "country": "DE",
-      "url": "https://www.faz.net/aktuell/politik/inland/bnd-soll-heimlich-wohnung-in-deutschland-betreten-duerfen-accg-201661109.html",
-      "time": "2026-11-07T09:52:26+00:00",
-      "opinion": false,
-      "image": "https://media0.faz.net/image/a8cde1ae0f5c/w6144h3456x0y320/202610/43601.0.2633456227/die-zentrale-des.webp"
-    },
-    {
-      "section": "politik",
-      "headline": "Was passiert bei einer Bombendrohung im Flugzeug?",
-      "source": "Tagesschau",
-      "country": "DE",
-      "url": "https://www.tagesschau.de/ausland/bombendrohungen-faq-100.html",
-      "time": "2026-11-07T08:10:26+00:00",
-      "opinion": false,
-      "image": "https://images.tagesschau.de/image/09372948-5e30-4d1a-a149-94422fc7b84a/AAABobQRL9c/AAABnSSvrFg/16x9-big/flugzeug-193.jpg?width=1024"
-    },
-    {
-      "section": "politik",
-      "headline": "Medienbericht: Kaum Geld aus Sondervermögen in Bildungsinfrastruktur geflossen",
-      "source": "Tagesschau",
-      "country": "DE",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/sondervermoegen-bildungsinfrastruktur-100.html",
-      "time": "2026-11-08T03:28:25+00:00",
-      "opinion": false,
-      "image": "https://images.tagesschau.de/image/f8f677e9-6450-420b-b286-94a87282a5ea/AAABnmPDHgs/AAABnSSvrFg/16x9-big/klassenzimmer-stuehle-100.jpg?width=1024"
-    },
-    {
-      "section": "politik",
-      "headline": "FDP vor Parteitag: Kubicki sucht den Weg aus der Krise",
-      "source": "Tagesschau",
-      "country": "DE",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/fdp-kubicki-effekt-100.html",
-      "time": "2026-11-08T02:28:44+00:00",
-      "opinion": false,
-      "image": "https://images.tagesschau.de/image/c5c63d68-4ab5-4931-8779-0a67c552dcba/AAABnm9Gfq0/AAABnSSvrFg/16x9-big/kubicki-170.jpg?width=1024"
-    },
-    {
-      "section": "politik",
-      "headline": "Bankenskandal in Paraguay: Paraguays abgesetzter Präsident Peña muss in Untersuchungshaft",
+      "headline": "Krieg gegen die Ukraine: Multinationale Ukrainetruppe beginnt erste Übung in Polen",
       "source": "Zeit",
       "country": "DE",
-      "url": "https://www.zeit.de/politik/ausland/2026-11/santiago-pena-paraguay-praesident-untersuchungshaft-bankenskandal",
-      "time": "2026-11-08T03:32:53+00:00",
+      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+      "time": "2026-11-09T03:56:15+00:00",
       "opinion": false,
-      "image": "https://img.zeit.de/politik/ausland/2026-11/santiago-pena-paraguay-praesident-untersuchungshaft-bankenskandal-foto-1/wide__820x461"
+      "image": "https://img.zeit.de/politik/2026-11/ukraine-truppe-uebung-polen/wide__820x461"
+    },
+    {
+      "section": "politik",
+      "headline": "Weltklimakonferenz COP31: Klimagipfel in der Türkei – Worum es geht und woran es hakt",
+      "source": "Handelsblatt",
+      "country": "DE",
+      "url": "https://www.handelsblatt.com/politik/international/weltklimakonferenz-cop31-klimagipfel-in-der-tuerkei-worum-es-geht-und-woran-es-hakt/100268308.html",
+      "time": "2026-11-09T03:30:05+00:00",
+      "opinion": false,
+      "image": "https://images.handelsblatt.com/vWG1qjpjU9nX/cover/900/506/0/0/107/107/0.5/0.5/spaetsommer-am-bodensee-trockenheit.jpg"
+    },
+    {
+      "section": "politik",
+      "headline": "Regulierung: Klaus Müller soll Bundesnetzagentur auch künftig führen",
+      "source": "Handelsblatt",
+      "country": "DE",
+      "url": "https://www.handelsblatt.com/politik/deutschland/regulierung-klaus-mueller-soll-bundesnetzagentur-auch-kuenftig-fuehren/100267984.html",
+      "time": "2026-11-09T02:54:48+00:00",
+      "opinion": false,
+      "image": "https://images.handelsblatt.com/iGJFT01SDVfA/cover/900/506/0/0/352/415/0.5/0.5/portrait-klaus-mueller-praesidium-chaperon.jpg"
+    },
+    {
+      "section": "wirtschaft",
+      "headline": "Spritpreisdeckel: Hubig kritisiert Pläne von Reiche für Spritpreisdeckel",
+      "source": "Zeit",
+      "country": "DE",
+      "url": "https://www.zeit.de/wirtschaft/2026-11/spritpreisdeckel-katherina-reiche-stefanie-hubig-cdu-spd",
+      "time": "2026-11-09T02:29:18+00:00",
+      "opinion": false,
+      "image": "https://img.zeit.de/wirtschaft/2026-11/spritpreisdeckel-katherina-reiche-stefanie-hubig-cdu-spd-foto-1/wide__820x461"
+    },
+    {
+      "section": "politik",
+      "headline": "Mindestens 21 Tote nach Bootsunglück vor Senegal gemeldet",
+      "source": "Tagesschau",
+      "country": "DE",
+      "url": "https://www.tagesschau.de/ausland/afrika/viele-tote-bootsunglueck-senegal-100.html",
+      "time": "2026-11-09T00:32:33+00:00",
+      "opinion": false,
+      "image": "https://images.tagesschau.de/image/62711c63-5a09-4b65-b89b-2c34777ffd48/AAABldrvzgs/AAABnSSvrFg/16x9-big/karte-senegal-100.jpg?width=1024"
+    },
+    {
+      "section": "politik",
+      "headline": "Mauerfall: Ostbeauftragte Kaiser ruft zur Verteidigung demokratischer Werte auf",
+      "source": "Zeit",
+      "country": "DE",
+      "url": "https://www.zeit.de/politik/deutschland/2026-11/evelyn-zupke-sed-opferbeauftragte-stasi-unterlagen-ddr",
+      "time": "2026-11-09T00:24:17+00:00",
+      "opinion": false,
+      "image": "https://img.zeit.de/politik/deutschland/2026-11/evelyn-zupke-sed-opferbeauftragte-stasi-unterlagen-ddr-foto-1/wide__820x461"
+    },
+    {
+      "section": "politik",
+      "headline": "Bundeshaushalt: Thorsten Frei lehnt Einführung der geplanten Plastiksteuer ab",
+      "source": "Zeit",
+      "country": "DE",
+      "url": "https://www.zeit.de/politik/deutschland/2026-11/plastiksteuer-cdu-spd-thorsten-frei-matthias-miersch-streit",
+      "time": "2026-11-08T23:13:53+00:00",
+      "opinion": false,
+      "image": "https://img.zeit.de/politik/deutschland/2026-11/plastiksteuer-cdu-thorsten-frei-foto-1/wide__820x461"
+    },
+    {
+      "section": "politik",
+      "headline": "Seven dead and more than 100 injured after trains collide in Egypt",
+      "source": "BBC",
+      "country": "UK",
+      "url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo",
+      "time": "2026-11-08T19:58:02+00:00",
+      "opinion": false,
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/3886/live/ab03aa70-db8a-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "section": "politik",
+      "headline": "Iran-Krieg: US-Militär ergänzt Iran-Seeblockade mit Maßnahmen an Land",
+      "source": "Handelsblatt",
+      "country": "DE",
+      "url": "https://www.handelsblatt.com/politik/international/iran-krieg-us-militaer-ergaenzt-iran-seeblockade-mit-massnahmen-an-land/100268278.html",
+      "time": "2026-11-08T22:08:20+00:00",
+      "opinion": false,
+      "image": "https://images.handelsblatt.com/rYFU2FW4RNQd/cover/900/506/0/0/107/106/0.5/0.5/iran-krieg-strasse-von-hormus.jpg"
+    },
+    {
+      "section": "politik",
+      "headline": "Amsterdam: Zehntausende demonstrieren gegen Israels Gaza-Politik",
+      "source": "Tagesschau",
+      "country": "DE",
+      "url": "https://www.tagesschau.de/ausland/europa/demonstration-amsterdam-israel-100.html",
+      "time": "2026-11-08T17:02:14+00:00",
+      "opinion": false,
+      "image": "https://images.tagesschau.de/image/cac8f4e0-8a53-49fc-a135-8f57f56a06a6/AAABobwcTQk/AAABnSSvrFg/16x9-big/demonstration-amsterdam-102.jpg?width=1024"
+    },
+    {
+      "section": "politik",
+      "headline": "Überschwemmungen in Gaza schüren Sorge vor neuer Katastrophe",
+      "source": "Tagesschau",
+      "country": "DE",
+      "url": "https://www.tagesschau.de/ausland/asien/gaza-regenfaelle-humanitaere-lage-100.html",
+      "time": "2026-11-08T20:15:13+00:00",
+      "opinion": false,
+      "image": "https://images.tagesschau.de/image/44a105b9-9c17-4637-8e97-57afaf52ade8/AAABobykDyM/AAABnSSvrFg/16x9-big/gaza-regen-104.jpg?width=1024"
+    },
+    {
+      "section": "politik",
+      "headline": "Parteitag: FDP bündelt Kräfte für Landtagswahlen kommendes Jahr",
+      "source": "Tagesschau",
+      "country": "DE",
+      "url": "https://www.tagesschau.de/inland/fdp-bundesparteitag-122.html",
+      "time": "2026-11-08T18:53:14+00:00",
+      "opinion": false,
+      "image": "https://images.tagesschau.de/image/89d8e7b4-83b5-47f6-b1b6-93504ec8c705/AAABobxqbLc/AAABnSSvrFg/16x9-big/kubicki-182.jpg?width=1024"
+    },
+    {
+      "section": "politik",
+      "headline": "Hilferuf aus El Hierro: Mehr als 8000 Migranten landen auf den Kanaren",
+      "source": "FAZ",
+      "country": "DE",
+      "url": "https://www.faz.net/aktuell/politik/ausland/mehr-als-8000-migranten-kanareninsel-el-hierro-ruft-notstand-aus-201662623.html",
+      "time": "2026-11-08T17:13:36+00:00",
+      "opinion": false,
+      "image": "https://media0.faz.net/image/09519b69a0ef/w5500h3094x0y286/202611/32b16c61-4e13-4736-bbfe-da77263b3b8d/migranten-am-freitag-auf-el.webp"
+    },
+    {
+      "section": "politik",
+      "headline": "Konflikt mit Saudi-Arabien: Huthi greifen Wolkenkratzer im Zentrum von Riad an",
+      "source": "Handelsblatt",
+      "country": "DE",
+      "url": "https://www.handelsblatt.com/politik/international/konflikt-mit-saudi-arabien-huthi-greifen-wolkenkratzer-im-zentrum-von-riad-an/100268197.html",
+      "time": "2026-11-08T16:48:59+00:00",
+      "opinion": false,
+      "image": "https://images.handelsblatt.com/fx7N74VHe25N/cover/900/506/0/0/107/107/0.5/0.5/saudi-arabien-riad.jpg"
+    },
+    {
+      "section": "wirtschaft",
+      "headline": "Lohnrunden: Tarifstreit der Metaller geht in kritische Phase",
+      "source": "FAZ",
+      "country": "DE",
+      "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/ig-metall-vorentscheidung-im-tarifstreit-faellt-in-duesseldorf-201663094.html",
+      "time": "2026-11-08T16:35:38+00:00",
+      "opinion": false,
+      "image": "https://media0.faz.net/image/7220d476eb71/w5446h3063x0y278/202611/6314b6bb-1edc-48db-b39a-8329af893c58/warnstreiks-bei-porsche-die-ig.webp"
+    },
+    {
+      "section": "wirtschaft",
+      "headline": "Sozialpartner-Plan: Wie weiter mit der „Rente ab 63“?",
+      "source": "FAZ",
+      "country": "DE",
+      "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/rentenreform-ig-bce-signalisiert-kompromissbereitschaft-bei-rente-ab-63-accg-201662599.html",
+      "time": "2026-11-08T16:27:25+00:00",
+      "opinion": false,
+      "image": "https://media0.faz.net/image/03ae7e472fa6/w6000h3375x0y114/202611/c34ac110-bcf8-48d0-b431-489160d9edae/profis-der-kompromisssuche.webp"
+    },
+    {
+      "section": "wirtschaft",
+      "headline": "Viele Gebäude weiterhin ohne Elementarschadenversicherung",
+      "source": "Tagesschau",
+      "country": "DE",
+      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/klimaschaeden-versicherungen-100.html",
+      "time": "2026-11-08T15:28:00+00:00",
+      "opinion": false,
+      "image": "https://images.tagesschau.de/image/84cb3245-ee5e-4ddc-8677-95217907f565/AAABlZAeuA0/AAABnSSvrFg/16x9-big/hochwasser-schaden-100.jpg?width=1024"
+    },
+    {
+      "section": "wirtschaft",
+      "headline": "gegen dunkelflauten: Reiche bessert bei Gaskraftwerken nach",
+      "source": "FAZ",
+      "country": "DE",
+      "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/katherina-reiche-verschaerft-kriterien-fuer-gaskraftwerk-ausschreibung-accg-201663255.html",
+      "time": "2026-11-08T15:10:16+00:00",
+      "opinion": false,
+      "image": "https://media0.faz.net/image/1980713566e5/w5712h3213x121y706/202611/16a593f1-cde5-43c7-8eae-0a0b218389ec/teurer-umbau-alter.webp"
+    },
+    {
+      "section": "wirtschaft",
+      "headline": "Hackerangriff: Kryptoplattform Binance wechselt Finanzvorstand aus",
+      "source": "Handelsblatt",
+      "country": "DE",
+      "url": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/hackerangriff-kryptoplattform-binance-wechselt-finanzvorstand-aus/100268211.html",
+      "time": "2026-11-08T13:01:39+00:00",
+      "opinion": false,
+      "image": "https://images.handelsblatt.com/LKpSuLNaTTBQ/cover/900/506/0/0/627/0/0.5/0.5/binance.jpg"
+    },
+    {
+      "section": "wirtschaft",
+      "headline": "Wie der Aktienkauf rund um die Uhr funktionieren soll",
+      "source": "Tagesschau",
+      "country": "DE",
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/aktien-kauf-nachts-100.html",
+      "time": "2026-11-08T07:35:33+00:00",
+      "opinion": false,
+      "image": "https://images.tagesschau.de/image/18371428-3210-4453-b7ab-1fd97fa2d32f/AAABm5eTw7w/AAABnSSvrFg/16x9-big/statuen-baer-bulle-deutsche-boerse-100.jpg?width=1024"
     }
   ]
 }
