@@ -1,41 +1,5 @@
 {
-  "updatedAt": "2026-11-09T07:12:24+01:00",
-  "morningPush": "2026-11-09",
-  "breaking": [
-    {
-      "id": "e2026110717270",
-      "time": "2026-11-07T15:55:41+00:00",
-      "pushedAt": "2026-11-07T17:27:23+01:00",
-      "headline": "Schießerei in Krakau: Mindestens fünf Tote und viele Verletzte",
-      "summary": "Bei einer Schießerei im Zentrum der polnischen Stadt Krakau sind mindestens fünf Menschen getötet und mehr als zehn verletzt worden. Der mutmaßliche Täter schoss aus einem Auto heraus und wurde von der Polizei überwältigt.",
-      "reason": "Ein bewaffneter Angriff/Schusswaffenangriff in Europa mit mehreren Toten erfüllt die Kriterien für ein schweres Unglück/Terrorereignis.",
-      "sources": [
-        {
-          "name": "Guardian",
-          "country": "UK",
-          "url": "https://www.theguardian.com/world/live/2026/nov/07/krakow-shooting-poland-latest-news-updates"
-        },
-        {
-          "name": "Handelsblatt",
-          "country": "DE",
-          "url": "https://www.handelsblatt.com/politik/international/kriminalitaet-fuenf-tote-und-mehr-als-zehn-verletzte-bei-schiesserei-in-krakau/100268120.html"
-        },
-        {
-          "name": "New York Times",
-          "country": "US",
-          "url": "https://www.nytimes.com/2026/11/07/world/europe/krakow-poland-shooting.html"
-        },
-        {
-          "name": "Tagesschau",
-          "country": "DE",
-          "url": "https://www.tagesschau.de/ausland/europa/schuesse-krakau-100.html"
-        }
-      ],
-      "image": {
-        "url": "https://i.guim.co.uk/img/media/e32b67bd2c480efc91d11a0ef804c62a760ee830/451_0_4490_3592/master/4490.jpg?width=700&quality=85&auto=format&fit=max&s=ba45c744153ed79ad57ca36bab628397",
-        "source": "Guardian"
-      },
-      "model": "gemini-3.6-flash"
-    }
-  ]
+  "updatedAt": "2026-11-10T07:12:29+01:00",
+  "morningPush": "2026-11-10",
+  "breaking": []
 }
