@@ -1,9 +1,9 @@
 {
-  "date": "2026-11-10",
-  "generatedAt": "2026-11-10T11:18:07+01:00",
+  "date": "2026-11-11",
+  "generatedAt": "2026-11-11T05:11:32+01:00",
   "notice": null,
-  "aiModel": "gemini-3.6-flash",
-  "push": "Ukraine-Gespräche: Russland und Ukraine verhandeln unter US-Vermittlung",
+  "aiModel": "gemini-3.8-flash",
+  "push": "Russland und Ukraine verhandeln in Abu Dhabi über Gefangenenaustausch",
   "breaking": [],
   "sections": [
     {
@@ -12,19 +12,52 @@
       "items": [
         {
           "id": "p1",
-          "headline": "Ukraine-Gespräche in Abu Dhabi gestartet",
-          "summary": "In Abu Dhabi haben trilaterale Verhandlungen zwischen Russland, der Ukraine und den USA begonnen. Laut US-Vermittler Witkoff soll nach einem Kriegsende auf bestehenden europäischen Sicherheitsinstitutionen aufgebaut werden. Es sind die ersten direkten Gespräche seit Monaten.",
-          "perspectives": "Guardian berichtet von den ersten substanziellen Friedensgesprächen seit Monaten über den seit mehr als vier Jahren andauernden Konflikt, während BBC meldet, dass es die ersten trilateralen Verhandlungen seit Februar sind. Handelsblatt verweist auf eine mehr als achtmonatige Verhandlungspause. Zeit hebt hervor, dass US-Vermittler Steve Witkoff auf europäischen Sicherheitsstrukturen aufbauen möchte.",
+          "headline": "US-Repräsentantenhaus stoppt Amtsenthebung von Hegseth",
+          "summary": "Die Republikaner im US-Repräsentantenhaus haben ein Amtsenthebungsverfahren gegen US-Verteidigungsminister Pete Hegseth abgewendet. Sie stimmten nahezu geschlossen gegen eine entsprechende Resolution, die ihm unter anderem Verfassungsverstöße vorwarf.",
+          "perspectives": "Spiegel und Tagesschau betonen die nahezu geschlossene Rückendeckung der Republikaner, durch die Hegseth vorerst Zeit gewinne. Die NZZ merkt hingegen an, dass sich die Demokraten auch selbst im Weg gestanden hätten. Die New York Times hebt hervor, dass die Initiative der Republikaner Hegseth vor einer folgenschweren Rüge bewahrte.",
           "sources": [
             {
-              "name": "Zeit",
-              "country": "DE",
-              "url": "https://www.zeit.de/politik/ausland/2026-11/verhandlungen-abu-dhabi-russland-ukraine-usa-steve-witkoff-jared-kushner-gxe"
+              "name": "NZZ",
+              "country": "CH",
+              "url": "https://www.nzz.ch/international/pete-hegseth-ist-noch-einmal-davongekommen-der-us-verteidigungsminister-entgeht-einem-impeachment-verfahren-ld.10060321"
             },
             {
-              "name": "Guardian",
-              "country": "UK",
-              "url": "https://www.theguardian.com/world/live/2026/nov/10/ukraine-russia-war-us-talks-abu-dhabi-europe-latest-news-updates"
+              "name": "New York Times",
+              "country": "US",
+              "url": "https://www.nytimes.com/2026/11/10/us/politics/house-hegseth-impeachment-vote.html"
+            },
+            {
+              "name": "Tagesschau",
+              "country": "DE",
+              "url": "https://www.tagesschau.de/ausland/amerika/hegseth-amtsenthebungsverfahren-gestoppt-100.html"
+            },
+            {
+              "name": "Spiegel",
+              "country": "DE",
+              "url": "https://www.spiegel.de/ausland/pete-hegseth-republikaner-lehnen-amtsenthebungsantrag-im-repraesentantenhaus-ab-a-a16fbebc-5f94-4266-bd4c-7b114e518b40"
+            }
+          ],
+          "time": "2026-11-10T23:53:00+00:00",
+          "image": {
+            "url": "https://img-msp-prod.nzz.ch/2026/11/10/08588eee-6caf-43a0-ab22-233f15e1ea40.jpg?width=900&height=900&fit=bounds",
+            "source": "NZZ"
+          }
+        },
+        {
+          "id": "p2",
+          "headline": "Erste direkte Ukraine-Gespräche seit Monaten in Abu Dhabi",
+          "summary": "In Abu Dhabi haben unter Vermittlung der USA erstmals seit Monaten wieder direkte Verhandlungen zwischen Russland und der Ukraine begonnen. Im Mittelpunkt der ersten Gespräche stand ein möglicher Austausch von Kriegsgefangenen.",
+          "perspectives": "Während das Handelsblatt von einer Pause von mehr als acht Monaten spricht, beziffert die NZZ die Unterbrechung auf neun Monate und die BBC verweist auf die ersten trilateralen Gespräche seit Februar. Die Tagesschau berichtet, der erste Verhandlungstag sei offiziell ohne Ergebnis geblieben, wohingegen BBC und Handelsblatt von Hoffnungen auf einen Gefangenenaustausch berichten.",
+          "sources": [
+            {
+              "name": "Handelsblatt",
+              "country": "DE",
+              "url": "https://www.handelsblatt.com/politik/international/verhandlungen-in-abu-dhabi-ukraine-gespraeche-gehen-weiter-kommt-ein-gipfeltreffen/100268925.html"
+            },
+            {
+              "name": "NZZ",
+              "country": "CH",
+              "url": "https://www.nzz.ch/international/erste-direkte-verhandlungen-seit-neun-monaten-russen-und-ukrainer-sprechen-wieder-miteinander-ld.10059489"
             },
             {
               "name": "BBC",
@@ -32,175 +65,114 @@
               "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o"
             },
             {
-              "name": "Handelsblatt",
-              "country": "DE",
-              "url": "https://www.handelsblatt.com/politik/international/us-vermittelte-gespraeche-ukraine-gespraeche-in-abu-dhabi-kiew-und-moskau-verhandeln/100268667.html"
-            }
-          ],
-          "time": "2026-11-10T08:45:44+00:00",
-          "image": {
-            "url": "https://img.zeit.de/politik/ausland/2026-11/verhandlungen-abu-dhabi-russland-ukraine-usa-steve-witkoff-jared-kushner-gxe-foto-1/wide__820x461",
-            "source": "Zeit"
-          }
-        },
-        {
-          "id": "p2",
-          "headline": "Impeachment-Antrag gegen US-Verteidigungsminister",
-          "summary": "Der republikanische Abgeordnete Thomas Massie hat ein Amtsenthebungsverfahren gegen US-Verteidigungsminister Pete Hegseth beantragt. Er wirft ihm Machtmissbrauch sowie nicht legitimierte Angriffe im Irankrieg vor. Eine Amtsenthebung gilt aufgrund der erforderlichen Zweidrittelmehrheit im Senat als unwahrscheinlich.",
-          "perspectives": "Spiegel hebt hervor, dass Massie nicht legitimierte Angriffe gegen den Iran als Grund anführt. Handelsblatt verweist auf die nötige Zweidrittelmehrheit im Senat, die den Antrag unwahrscheinlich macht. Tagesschau betont, dass sich US-Präsident Trump hinter Hegseth gestellt hat, während New York Times über Hegseths Ankündigung berichtet, gegen die Vorwürfe zu kämpfen.",
-          "sources": [
-            {
-              "name": "Handelsblatt",
-              "country": "DE",
-              "url": "https://www.handelsblatt.com/video/politik/us-verteidigungsminister-antrag-auf-amtsenthebung-von-pete-hegseth-aus-den-eigenen-reihen/100268736.html"
-            },
-            {
-              "name": "New York Times",
-              "country": "US",
-              "url": "https://www.nytimes.com/2026/11/10/us/politics/hegseth-news-conference-impeachment-vote.html"
-            },
-            {
               "name": "Tagesschau",
               "country": "DE",
-              "url": "https://www.tagesschau.de/ausland/amerika/usa-amtsenthebungsverfahren-hegseth-100.html"
-            },
-            {
-              "name": "Spiegel",
-              "country": "DE",
-              "url": "https://www.spiegel.de/ausland/pete-hegseth-republikanischer-abgeordneter-thomas-massie-stoesst-amtsenthebungsverfahren-an-a-c60d0cb0-f5c7-470d-9c3d-6d68fb73d3e9"
+              "url": "https://www.tagesschau.de/ausland/asien/ukraine-russland-krieg-gespraeche-abu-dhabi-100.html"
             }
           ],
-          "time": "2026-11-09T20:15:00+00:00",
+          "time": "2026-11-10T21:08:29+00:00",
           "image": {
-            "url": "https://static01.nyt.com/images/2026/11/10/multimedia/10dc-hegseth-pentagon-pchj/10dc-hegseth-pentagon-pchj-mediumSquareAt3X.jpg",
-            "source": "New York Times"
+            "url": "https://images.handelsblatt.com/gCJFFr5tVZi0/cover/900/506/0/0/107/106/0.5/0.5/ukraine-gespraeche-in-abu-dhabi.jpg",
+            "source": "Handelsblatt"
           }
         },
         {
           "id": "p3",
-          "headline": "FBI ermittelt gegen Nvidia-Chef Jensen Huang",
-          "summary": "Nach Bekanntwerden einer Affäre von Nvidia-Chef Jensen Huang mit einer mutmaßlichen chinesischen Agentin ermittelt das FBI. Aktionäre haben Klage eingereicht. US-Präsident Trump gab an, mit Huang gesprochen zu haben, und verteidigt ihn vorerst.",
-          "perspectives": "Guardian hebt die Klage der Aktionäre gegen Huang und den Konzern hervor. BBC fokussiert darauf, dass Trump am Montag direkt mit Huang über die Vorwürfe gesprochen hat. Spiegel betont den Zeitpunkt vor einem geplanten Treffen Trumps mit Xi Jinping, während FAZ den steigenden Druck der Anleger auf den Konzern unterstreicht.",
-          "sources": [
-            {
-              "name": "BBC",
-              "country": "UK",
-              "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o"
-            },
-            {
-              "name": "Guardian",
-              "country": "UK",
-              "url": "https://www.theguardian.com/technology/2026/nov/10/nvidia-jensen-huang-sued-donald-trump-fbi"
-            },
-            {
-              "name": "FAZ",
-              "country": "DE",
-              "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/anleger-klagen-gegen-nvidia-chef-jensen-huang-accg-201667752.html"
-            },
-            {
-              "name": "Spiegel",
-              "country": "DE",
-              "url": "https://www.spiegel.de/ausland/nvidia-fbi-ermittelt-im-fall-jensen-huang-und-mutmasslicher-china-spionin-a-4380e0db-f7a1-496d-8760-f447d120d982"
-            }
-          ],
-          "time": "2026-11-10T01:28:00+00:00",
-          "image": {
-            "url": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/123a/live/434e87b0-dcd9-11f1-a701-fddedf244c16.png",
-            "source": "BBC"
-          }
-        },
-        {
-          "id": "p4",
-          "headline": "Trump erklärt Irankrieg für praktisch beendet",
-          "summary": "US-Präsident Donald Trump hat erklärt, der Irankrieg sei militärisch praktisch erledigt und weitere Angriffe seien unwahrscheinlich. Der iranische Sicherheitsrat widersprach den Aussagen vehement. Laut FAZ griffen die Huthis einen Wolkenkratzer im Zentrum von Riad an.",
-          "perspectives": "Spiegel hebt hervor, dass Teheran den Aussagen Trumps vehement als „Fake News“ widerspricht. Guardian schlägt die Brücke zu fallenden Ölpreisen an den Märkten. BBC zitiert Trump mit der Aussage, die USA blieben weiterhin „locked and loaded“. FAZ erwähnt zusätzlich den Angriff der Huthis auf einen Wolkenkratzer in Riad.",
-          "sources": [
-            {
-              "name": "Guardian",
-              "country": "UK",
-              "url": "https://www.theguardian.com/business/2026/nov/10/oil-prices-fall-donald-trump-iran-war-ftse-100-markets"
-            },
-            {
-              "name": "BBC",
-              "country": "UK",
-              "url": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o"
-            },
-            {
-              "name": "Spiegel",
-              "country": "DE",
-              "url": "https://www.spiegel.de/ausland/irankrieg-laut-donald-trump-effektiv-vorueber-teheran-spricht-von-fake-news-a-f83d28b2-502c-4353-a9df-50ffe4ee8278"
-            },
-            {
-              "name": "FAZ",
-              "country": "DE",
-              "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-nahost-trump-erklaert-irankrieg-militaerisch-fuer-effektiv-vorueber-faz-200583539.html"
-            }
-          ],
-          "time": "2026-11-10T03:58:40+00:00",
-          "image": {
-            "url": "https://i.guim.co.uk/img/media/16ccda76da166c6543538e5a98c8b9b5f2481d15/0_0_5039_4031/master/5039.jpg?width=700&quality=85&auto=format&fit=max&s=64d0072a8af7fcb05b689abb15ad4f66",
-            "source": "Guardian"
-          }
-        },
-        {
-          "id": "p5",
-          "headline": "Frankreich beschuldigt Iran nach Cyberangriff",
-          "summary": "Frankreich hat den iranischen Botschafter einbestellt und macht den Iran für Cyberangriffe auf Kühlsysteme in Supermärkten verantwortlich. Der Iran reagierte zunächst nicht auf die Vorwürfe.",
-          "perspectives": "Tagesschau betont, dass zuvor Russland als Urheber vermutet worden war. Financial Times stellt die Anfälligkeit der britischen Lebensmittel-Lieferketten in den Vordergrund. New York Times merkt an, dass der Iran nicht sofort auf die Einbestellung des Botschafters reagiert hat. NZZ hebt die Ankündigung von Konsequenzen durch den französischen Außenminister hervor.",
+          "headline": "Neu gewählte Knesset tritt zusammen – Opposition formiert sich",
+          "summary": "In Israel ist das neu gewählte Parlament zu seiner ersten Sitzung zusammengetreten. Die Opposition unter Führung von Gadi Eisenkot verfügt über eine Mehrheit und beantragte umgehend eine offizielle Untersuchungskommission zu den Terrorangriffen vom 7. Oktober.",
+          "perspectives": "Die New York Times und die Zeit stellen den Antrag auf eine Untersuchungskommission zum 7. Oktober in den Mittelpunkt. Der Spiegel betont, dass mehr als ein Drittel der Abgeordneten erstmals im Parlament sitzt und so viele Frauen wie nie vertreten sind. Das Handelsblatt hebt dagegen hervor, dass sich für das Eisenkot-Lager bislang keine tragfähige Regierungsmehrheit abzeichnet.",
           "sources": [
             {
               "name": "New York Times",
               "country": "US",
-              "url": "https://www.nytimes.com/2026/11/09/world/europe/france-iran-refrigerators-cyberattack.html"
-            },
-            {
-              "name": "Financial Times",
-              "country": "UK",
-              "url": "https://www.ft.com/content/240200e9-7a33-49a9-9801-ef92b4af22db?syn-25a6b1a6=1"
-            },
-            {
-              "name": "Tagesschau",
-              "country": "DE",
-              "url": "https://www.tagesschau.de/ausland/europa/kuehlanlagen-cyberangriffe-100.html"
-            },
-            {
-              "name": "NZZ",
-              "country": "CH",
-              "url": "https://www.nzz.ch/international/frankreich-macht-iran-fuer-hackerangriffe-auf-kuehlsysteme-verantwortlich-ld.10058965"
-            }
-          ],
-          "time": "2026-11-09T17:16:04+00:00",
-          "image": {
-            "url": "https://static01.nyt.com/images/2026/11/09/multimedia/09int-france-1-qpzc/09int-france-1-qpzc-mediumSquareAt3X.jpg",
-            "source": "New York Times"
-          }
-        },
-        {
-          "id": "p6",
-          "headline": "Ilse Aigner stellt sich Bundestagsfraktionen vor",
-          "summary": "Die Unions-Kandidatin für das Amt der Bundespräsidentin, Ilse Aigner, stellt sich den Bundestagsfraktionen von CDU/CSU, SPD und Grünen vor. Einladungen der AfD und der Linken nahm sie nicht wahr. SPD und Grüne signalisierten Unterstützung für Aigners Kandidatur.",
-          "perspectives": "Handelsblatt hebt hervor, dass Aigner trotz Einladung nicht bei der AfD vorstellig wird. Spiegel verweist darauf, dass SPD und Grüne bereits Zustimmung signalisiert haben. Tagesschau betont, dass Aigner sich den Fraktionen von Union, SPD und Grünen vorstellt und eine Einladung der AfD ausschlug.",
-          "sources": [
-            {
-              "name": "Handelsblatt",
-              "country": "DE",
-              "url": "https://www.handelsblatt.com/politik/deutschland/bundespraesidentin-ilse-aigner-stellt-sich-nicht-afd-und-linken-vor/100268693.html"
-            },
-            {
-              "name": "Tagesschau",
-              "country": "DE",
-              "url": "https://www.tagesschau.de/inland/innenpolitik/aigner-vorstellung-bundestagsfraktionen-100.html"
+              "url": "https://www.nytimes.com/2026/11/10/world/middleeast/israel-parliament-eisenkot.html"
             },
             {
               "name": "Spiegel",
               "country": "DE",
-              "url": "https://www.spiegel.de/politik/deutschland/ilse-aigner-cdu-vorstand-schlaegt-csu-politikerin-als-bundespraesidentin-vor-a-a452ab1c-5e43-41af-991e-3217bd713cbc"
+              "url": "https://www.spiegel.de/ausland/israel-erste-knesset-sitzung-naftali-bennett-attackiert-premier-benjamin-netanyahu-a-da1ec0a6-c3b4-4e9a-9903-ef42d2a5bd54"
+            },
+            {
+              "name": "Zeit",
+              "country": "DE",
+              "url": "https://www.zeit.de/politik/ausland/2026-11/israel-knesset-parlamentswahl-gadi-eisenkot-izchak-herzog-gxe"
+            },
+            {
+              "name": "Handelsblatt",
+              "country": "DE",
+              "url": "https://www.handelsblatt.com/politik/international/israel-wie-das-eisenkot-lager-netanjahu-ausbremsen-will/100268834.html"
             }
           ],
-          "time": "2026-11-09T12:17:00+00:00",
+          "time": "2026-11-10T18:13:01+00:00",
           "image": {
-            "url": "https://images.handelsblatt.com/YmkrBGHW0D3q/cover/900/506/0/246/232/90/0.5/0.5/ilse-aigner.jpg",
-            "source": "Handelsblatt"
+            "url": "https://static01.nyt.com/images/2026/11/10/multimedia/10int-israel-knesset-bqlk/10int-israel-knesset-bqlk-mediumSquareAt3X.jpg",
+            "source": "New York Times"
+          }
+        },
+        {
+          "id": "p4",
+          "headline": "US-Soldat in Großbritannien wegen Spionageverdachts festgenommen",
+          "summary": "Britische Sicherheitskräfte haben in England einen 41-jährigen hochrangigen US-Soldaten wegen des Verdachts auf Spionage für Russland festgenommen. Die Ermittlungen der britischen Antiterrorpolizei laufen gemeinsam mit dem FBI und US-Militärgeheimdiensten.",
+          "perspectives": "Spiegel und BBC heben übereinstimmend hervor, dass dem Soldaten Verstöße gegen das nationale Sicherheitsgesetz vorgeworfen werden und er in London befragt wird. Die Financial Times betont, dass an den Ermittlungen auch die amerikanische Militäraufklärung beteiligt ist. Die New York Times verweist darauf, dass der Name des festgenommenen Soldaten bislang nicht genannt wurde.",
+          "sources": [
+            {
+              "name": "Financial Times",
+              "country": "UK",
+              "url": "https://www.ft.com/content/94aa4846-58c6-4c17-b25a-095f122b4809?syn-25a6b1a6=1"
+            },
+            {
+              "name": "New York Times",
+              "country": "US",
+              "url": "https://www.nytimes.com/2026/11/10/world/europe/uk-us-army-arrest-espionage-russia.html"
+            },
+            {
+              "name": "Spiegel",
+              "country": "DE",
+              "url": "https://www.spiegel.de/ausland/hochrangiger-us-soldat-in-grossbritannien-wegen-spionageverdachts-fuer-russland-festgenommen-a-718b2cfe-1422-4d95-a4d3-4dcee5beb2a3"
+            },
+            {
+              "name": "BBC",
+              "country": "UK",
+              "url": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo"
+            }
+          ],
+          "time": "2026-11-10T20:20:04+00:00",
+          "image": {
+            "url": "https://static01.nyt.com/images/2026/11/10/multimedia/10int-uk-soldier-1-qlpj/10int-uk-soldier-1-qlpj-mediumSquareAt3X.jpg",
+            "source": "New York Times"
+          }
+        },
+        {
+          "id": "p5",
+          "headline": "Frankreich wirft Iran Sabotage an Supermarkt-Kühlsystemen vor",
+          "summary": "Frankreich macht iranische Revolutionswächter für Cyberangriffe auf rund 700 Kühlsysteme in Supermärkten verantwortlich und droht mit Sanktionen. Die Führung in Teheran bestreitet jegliche Verwicklung und weist die Anschuldigungen zurück.",
+          "perspectives": "Die NZZ hebt hervor, dass hinter den Angriffen eine Cyberwarfare-Einheit der Islamischen Revolutionswächter vermutet wird und Frankreich europäische Sanktionen anstrebt. Die FAZ bezeichnet den Angriff als beispiellos in Ausmaß und Aggressivität. Der Spiegel betont die Einbestellung des iranischen Botschafters, während die Deutsche Welle Irans Zurückweisung der Vorwürfe als unbegründet und einseitig zitiert.",
+          "sources": [
+            {
+              "name": "NZZ",
+              "country": "CH",
+              "url": "https://www.nzz.ch/international/cyberattacke-auf-supermaerkte-paris-droht-iran-mit-harter-antwort-ld.10059822"
+            },
+            {
+              "name": "Deutsche Welle",
+              "country": "DE",
+              "url": "https://www.dw.com/en/iran-denies-role-in-fridge-hack-france-summons-ambassador/a-79910206"
+            },
+            {
+              "name": "FAZ",
+              "country": "DE",
+              "url": "https://www.faz.net/aktuell/politik/ausland/cyberangriff-auf-kuehlsysteme-die-spur-fuehrt-nach-iran-201668777.html"
+            },
+            {
+              "name": "Spiegel",
+              "country": "DE",
+              "url": "https://www.spiegel.de/ausland/frankreich-droht-iran-nach-cyberangriffen-mit-weiteren-sanktionen-a-96478fc4-2855-4145-a060-2ef6a2a62fa5"
+            }
+          ],
+          "time": "2026-11-10T10:38:00+00:00",
+          "image": {
+            "url": "https://img-msp-prod.nzz.ch/2026/11/03/6aef3a14-3d12-45b5-b649-162a84bf67f5.jpg?width=900&height=900&fit=bounds",
+            "source": "NZZ"
           }
         }
       ]
@@ -211,151 +183,123 @@
       "items": [
         {
           "id": "w1",
-          "headline": "Chinas Handelsüberschuss steigt auf Rekordhoch",
-          "summary": "Der Handelsüberschuss Chinas hat in den ersten zehn Monaten des Jahres erneut die Marke von einer Billion US-Dollar überschritten. Vor allem Exporte von Technologiegütern und Elektroautos treiben die Bilanz an. Handelspartner äußern zunehmend Kritik an der Schwemme billiger Waren.",
-          "perspectives": "Tagesschau verweist ausdrücklich auf umstrittene staatliche Subventionen in China. Handelsblatt ordnet die Zahlen im Kontext des Jubiläums des chinesischen WTO-Beitritts ein. CNBC stellt Forderungen von Handelspartnern nach einem Neuausrichten der Handelspolitik in den Vordergrund, während New York Times die Rekordgeschwindigkeit beim Erreichen der Billionenmarke betont.",
+          "headline": "Nvidia unter Druck: Milliardenverlust nach Spionage-Affäre",
+          "summary": "Der US-Chiphersteller Nvidia gerät wegen einer Spionage-Affäre um Konzernchef Jensen Huang weiter unter Druck und verlor binnen einer Woche rund eine Billion Dollar an Börsenwert. Das Unternehmen beauftragte die Kanzlei Wachtell Lipton mit einer internen Untersuchung.",
+          "perspectives": "FAZ und Handelsblatt stellen den massiven Einbruch des Börsenwerts um rund eine Billion Dollar in den Vordergrund. Die New York Times und Politico Europe fokussieren sich auf die juristische Aufarbeitung und berichten, dass der ehemalige amtierende US-Bundesanwalt Joon H. Kim die Ermittlungen bei Wachtell Lipton leitet.",
           "sources": [
             {
-              "name": "CNBC",
-              "country": "US",
-              "url": "https://www.cnbc.com/2026/11/10/china-trade-october-exports-imports-surplus-.html"
+              "name": "FAZ",
+              "country": "DE",
+              "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/nvidia-aktie-auf-tiefstem-stand-seit-maerz-jensen-huang-affaere-kostet-billion-dollar-accg-201671288.html"
+            },
+            {
+              "name": "Politico Europe",
+              "country": "EU",
+              "url": "https://www.politico.eu/article/nvidia-hires-wachtell-lipton-for-jensen-huang-investigation/"
             },
             {
               "name": "Handelsblatt",
               "country": "DE",
-              "url": "https://www.handelsblatt.com/politik/konjunktur/aussenhandelsueberschuss-china-ueberwindet-billionenmarke-treibt-exporte-weiter-an/100268598.html"
+              "url": "https://www.handelsblatt.com/finanzen/maerkte/nvidia-aktie-chipkonzern-verliert-in-einer-woche-knapp-eine-billion-dollar-boersenwert/100268874.html"
             },
             {
               "name": "New York Times",
               "country": "US",
-              "url": "https://www.nytimes.com/2026/11/09/business/china-trade-surplus-trillion.html"
-            },
-            {
-              "name": "Tagesschau",
-              "country": "DE",
-              "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/china-export-handel-100.html"
+              "url": "https://www.nytimes.com/2026/11/10/business/nvidia-wachtell-lipton-jensen-huang.html"
             }
           ],
-          "time": "2026-11-10T08:53:53+00:00",
+          "time": "2026-11-10T19:33:36+00:00",
           "image": {
-            "url": "https://images.handelsblatt.com/1Ju4pbK5YLYt/cover/900/506/0/0/260/261/0.5/0.5/archiv-09.06.2026-china-nanjing-die-drohnenaufnahme-zeigt-einen-blick-auf-das-container-termina.jpg",
-            "source": "Handelsblatt"
-          }
-        },
-        {
-          "id": "w2",
-          "headline": "KI-Boom beschert Infineon ein Rekordquartal",
-          "summary": "Der Halbleiterhersteller Infineon hat dank der hohen Nachfrage im KI-Bereich ein Rekordquartal erzielt. Der Konzern erwartet im neuen Geschäftsjahr ein sprunghaftes Wachstum beim KI-Umsatz.",
-          "perspectives": "Handelsblatt hebt hervor, dass Infineon ein sprunghaftes Wachstum im neuen Geschäftsjahr erwartet und deutlich profitabler werden will. FAZ betont, dass der Konzern ein erfolgreiches Geschäftsjahr mit einem Rekordquartal krönt. Tagesschau stellt die Bedeutung der Zahlen als Treiber für die Erholungsrally am Aktienmarkt heraus.",
-          "sources": [
-            {
-              "name": "Tagesschau",
-              "country": "DE",
-              "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-104.html"
-            },
-            {
-              "name": "FAZ",
-              "country": "DE",
-              "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/infineon-mit-rekordquartal-und-starkem-momentum-fuer-2027-accg-201667114.html"
-            },
-            {
-              "name": "Handelsblatt",
-              "country": "DE",
-              "url": "https://www.handelsblatt.com/technik/it-internet/technologie-chiphersteller-infineon-rechnet-mit-massiv-steigendem-ki-umsatz/100264481.html"
-            }
-          ],
-          "time": "2026-11-10T08:17:16+00:00",
-          "image": {
-            "url": "https://images.tagesschau.de/image/60328dbe-55d8-4ee8-b40f-4767492cbee2/AAABocRyROQ/AAABnSSvrFg/16x9-big/boerse-548.jpg?width=1024",
-            "source": "Tagesschau"
-          }
-        },
-        {
-          "id": "w3",
-          "headline": "Vodafone Deutschland streicht 2.300 Stellen",
-          "summary": "Vodafone will in Deutschland innerhalb der nächsten zwei Jahre 2.300 Stellen abbauen, was etwa jeder fünften Stelle entspricht. Grund dafür sind ein hoher Kostendruck und Verluste von Marktanteilen. Entfallende Aufgaben sollen verstärkt durch Künstliche Intelligenz ersetzt werden.",
-          "perspectives": "Spiegel hebt hervor, dass Jobs direkt durch Künstliche Intelligenz ersetzt werden sollen. FAZ stellt heraus, dass der gesamte deutsche Mobilfunkmarkt unter starkem Preis- und Wettbewerbsdruck steht. Zeit und Tagesschau beziffern den Abbau übereinstimmend auf rund ein Fünftel der Stellen beziehungsweise 2.300 Arbeitsplätze.",
-          "sources": [
-            {
-              "name": "FAZ",
-              "country": "DE",
-              "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/vodafone-streicht-2300-stellen-der-harte-kampf-im-deutschen-mobilfunkmarkt-201665815.html"
-            },
-            {
-              "name": "Zeit",
-              "country": "DE",
-              "url": "https://www.zeit.de/wirtschaft/2026-11/vodafone-stellenabbau-arbeitsplaetze-kuenstliche-intelligenz"
-            },
-            {
-              "name": "Tagesschau",
-              "country": "DE",
-              "url": "https://www.tagesschau.de/wirtschaft/unternehmen/vodafone-stellenabbau-102.html"
-            },
-            {
-              "name": "Spiegel",
-              "country": "DE",
-              "url": "https://www.spiegel.de/wirtschaft/unternehmen/vodafone-streicht-jede-fuenfte-stelle-setzt-vermehrt-auf-ki-a-9315dbd7-1f5b-4b54-bcba-94003a64bb91"
-            }
-          ],
-          "time": "2026-11-09T11:42:00+00:00",
-          "image": {
-            "url": "https://media0.faz.net/image/f31ef8c62d0a/w3910h2199x0y352/202608/43601.0.2474729806/gut-vernetzt-mobilfunkmast-mit.webp",
+            "url": "https://media0.faz.net/image/b011457397ec/w8055h4531x0y421/202611/17044f1d-df9c-4051-a279-6bc94c6a7dc0/nvidia-chef-jensen-huang-die.webp",
             "source": "FAZ"
           }
         },
         {
-          "id": "w4",
-          "headline": "Ölpreis fällt auf tiefsten Stand seit August",
-          "summary": "Der Ölpreis ist auf den niedrigsten Stand seit Ende August gefallen, da Anleger auf Verhandlungen im Iran-Konflikt setzen. Dies führt zu fallenden Preisen an deutschen Tankstellen, wo Super E10 wieder unter zwei Euro pro Liter kostet. Auch die Aktienmärkte zeigten Erholung.",
-          "perspectives": "New York Times beziffert den Preisrückgang seit Ende Oktober auf rund 20 Dollar pro Barrel. Spiegel stellt die Entlastung an den deutschen Tankstellen mit Preisen unter zwei Euro für E10 heraus. Financial Times verweist darauf, dass der Preis den tiefsten Stand seit zehn Wochen erreichte.",
+          "id": "w2",
+          "headline": "KI-Unternehmen Anthropic strebt Billionen-Börsengang an",
+          "summary": "Der Entwickler des KI-Modells Claude, Anthropic, bereitet seinen Börsengang vor und peilt dabei eine Bewertung von bis zu 1,4 Billionen Dollar an. Der Chiphersteller Nvidia plant Berichten zufolge, parallel zum Börsendebüt zehn Milliarden Dollar in das Unternehmen zu investieren.",
+          "perspectives": "New York Times und Guardian berichten von einer Zielbewertung von bis zu 1,4 Billionen Dollar, während die BBC eine Bewertung von 1,3 Billionen Dollar sowie eine Preisspanne von 70 bis 78 Dollar je Aktie nennt. Die New York Times hebt die geplante Zehn-Milliarden-Dollar-Investition durch Nvidia hervor. Der Guardian merkt an, dass Anthropic vor der Abkühlung des KI-Marktes eine Bewertung von zwei Billionen Dollar angepeilt hatte.",
           "sources": [
-            {
-              "name": "Handelsblatt",
-              "country": "DE",
-              "url": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/energie-oelpreis-sinkt-erstmals-seit-august-wieder-unter-90-dollar/100268734.html"
-            },
             {
               "name": "New York Times",
               "country": "US",
-              "url": "https://www.nytimes.com/2026/11/09/business/energy-environment/oil-price-iran-trump-war.html"
+              "url": "https://www.nytimes.com/2026/11/10/business/anthropic-ipo-nvidia.html"
+            },
+            {
+              "name": "BBC",
+              "country": "UK",
+              "url": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo"
+            },
+            {
+              "name": "Guardian",
+              "country": "UK",
+              "url": "https://www.theguardian.com/technology/2026/nov/10/anthropic-valuation-stock-market-flotation-ipo-wall-street-ai"
+            }
+          ],
+          "time": "2026-11-10T16:13:13+00:00",
+          "image": {
+            "url": "https://static01.nyt.com/images/2026/11/10/multimedia/10biz-anthropic-nvidia-grid-2-01-clmb/10biz-anthropic-nvidia-grid-2-01-clmb-mediumSquareAt3X-v2.jpg",
+            "source": "New York Times"
+          }
+        },
+        {
+          "id": "w3",
+          "headline": "US-Inflation steigt im Oktober unerwartet auf 0,4 Prozent",
+          "summary": "Die Verbraucherpreise in den USA sind im Oktober um 0,4 Prozent gegenüber dem Vormonat gestiegen und übertrafen damit die Markterwartungen. Die hartnäckige Teuerung verstärkt Spekulationen über eine weitere Zinserhöhung durch die US-Notenbank Federal Reserve.",
+          "perspectives": "CNBC und Zeit betonen gleichermaßen, dass die Preise stärker als von Analysten erwartet stiegen, wobei die Zeit anmerkt, dass sich der Zuwachs im Vergleich zum Vormonat etwas abschwächte. Der Guardian hebt hervor, dass die Daten nach den Wahlniederlagen der Republikaner veröffentlicht wurden. Die Financial Times richtet das Augenmerk auf Notenbank-Gouverneur Christopher Waller, der bei anhaltender Inflation sogar eine Erhöhung um 50 Basispunkte erwägt.",
+          "sources": [
+            {
+              "name": "CNBC",
+              "country": "US",
+              "url": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html"
             },
             {
               "name": "Financial Times",
               "country": "UK",
-              "url": "https://www.ft.com/content/1b818c16-5197-45f4-857a-49f99a10252f?syn-25a6b1a6=1"
+              "url": "https://www.ft.com/content/72abed21-6043-4b2b-81b1-f3a2547da5b7?syn-25a6b1a6=1"
             },
             {
-              "name": "Spiegel",
+              "name": "Guardian",
+              "country": "UK",
+              "url": "https://www.theguardian.com/business/2026/nov/10/october-inflation-report"
+            },
+            {
+              "name": "Zeit",
               "country": "DE",
-              "url": "https://www.spiegel.de/wirtschaft/spritpreise-sinkender-oelpreis-sorgt-fuer-erholung-bei-e10-benzin-und-diesel-a-29f929ff-3e9a-4239-8c85-07942e5402ad"
+              "url": "https://www.zeit.de/wirtschaft/2026-11/inflation-usa-verbraucherpreise-washington-gxe"
             }
           ],
-          "time": "2026-11-09T14:16:00+00:00",
+          "time": "2026-11-10T15:06:59+00:00",
           "image": {
-            "url": "https://images.handelsblatt.com/KNreclyujXE5/cover/900/506/0/0/0/212/0.5/0.5/brent-und-co.jpeg",
-            "source": "Handelsblatt"
+            "url": "https://i.guim.co.uk/img/media/edd11372dd6a075792b3425571de06722515ec38/886_0_6138_4911/master/6138.jpg?width=700&quality=85&auto=format&fit=max&s=769505a3eb688944c9fd47d3a5f6d283",
+            "source": "Guardian"
           }
         },
         {
-          "id": "w5",
-          "headline": "Warnung vor Engpässen bei Gasspeichern",
-          "summary": "Der Speicherverband INES warnt angesichts historisch niedriger Füllstände deutscher Gasspeicher vor Engpässen im Winter und fordert staatliche Maßnahmen. Ein kalter Winter könnte das System belasten.",
-          "perspectives": "Spiegel warnt eindringlich davor, dass Bürger bei einem sehr kalten Winter frieren könnten. Handelsblatt berichtet von der Forderung des Verbands INES nach Staatseingriffen.",
+          "id": "w4",
+          "headline": "Finanzminister will Steuerklassen III und V abschaffen",
+          "summary": "Bundesfinanzminister Lars Klingbeil plant die Abschaffung der Steuerklassen III und V für Ehepaare. Die Einstufung soll noch bis Jahresende in das automatisierte Faktorverfahren überführt werden, um den Steuervorteil fairer nach dem tatsächlichen Einkommen zu verteilen.",
+          "perspectives": "Spiegel, Zeit und Handelsblatt berichten inhaltlich übereinstimmend über das Gesetzesvorhaben aus dem Bundesfinanzministerium. Der Spiegel betont die geplante Umsetzung noch vor Ende des Jahres. Das Handelsblatt beleuchtet ergänzend, wie Ehepartner bereits heute ohne Steuerklassenwechsel den Splitting-Vorteil aufteilen können.",
           "sources": [
             {
               "name": "Handelsblatt",
               "country": "DE",
-              "url": "https://www.handelsblatt.com/unternehmen/energie/gasversorgung-gasspeicherbetreiber-warnen-vor-engpaessen-bei-extremer-kaelte/100268716.html"
+              "url": "https://www.handelsblatt.com/finanzen/steuern-recht/steuern/steuererklaerung-2025-so-teilen-ehepartner-ihren-splitting-vorteil-fair-auf/100105917.html"
+            },
+            {
+              "name": "Zeit",
+              "country": "DE",
+              "url": "https://www.zeit.de/wirtschaft/2026-11/steuerklassen-ehepaare-abschaffung-lars-klingbeil-faktorverfahren"
             },
             {
               "name": "Spiegel",
               "country": "DE",
-              "url": "https://www.spiegel.de/wirtschaft/service/gas-betreiber-von-speichern-warnen-vor-engpaessen-bei-extremer-kaelte-a-036cd1fc-eb5e-4092-8112-14360e310bb1"
+              "url": "https://www.spiegel.de/wirtschaft/lars-klingbeil-plant-abschaffung-von-steuerklassen-iii-und-v-a-4022a7cf-5aac-4d8e-a708-de7811a7c183"
             }
           ],
-          "time": "2026-11-10T07:20:00+00:00",
+          "time": "2026-11-10T15:46:00+00:00",
           "image": {
-            "url": "https://images.handelsblatt.com/ucvirJfYAs-k/cover/900/506/0/0/37/455/0.5/0.5/gasspeicher-mit-ihrer-typischen-runden-form-stehen-in-industrieanlagen-in-koeln-godorf.-die-umgebung.jpg",
+            "url": "https://images.handelsblatt.com/qgQlMddFWCk8/cover/900/506/0/0/140/140/0.5/0.5/steuer-dossier-2025ehegattensplitting.png",
             "source": "Handelsblatt"
           }
         }
@@ -365,203 +309,223 @@
   "more": [
     {
       "section": "politik",
-      "headline": "Police officer dies and another injured after backpack explosion in Oviedo",
-      "source": "BBC",
-      "country": "UK",
-      "url": "https://www.bbc.co.uk/news/articles/cwm262pzezy0o",
-      "time": "2026-11-10T10:13:51+00:00",
+      "headline": "Mehrere Tote bei Massenunfällen auf bulgarischer Autobahn",
+      "source": "Tagesschau",
+      "country": "DE",
+      "url": "https://www.tagesschau.de/ausland/europa/bulgarien-tote-auffahrunfall-100.html",
+      "time": "2026-11-10T14:09:14+00:00",
       "opinion": false,
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/c8ad/live/f127bff0-dced-11f1-a701-fddedf244c16.jpg"
+      "image": "https://images.tagesschau.de/image/a8e38b59-c9c0-4ca8-a40e-40fafe97544d/AAABocXKowI/AAABnSSvrFg/16x9-big/bulgarien-268.jpg?width=1024"
     },
     {
       "section": "politik",
-      "headline": "Jahrestag der Novemberpogrome: Steinmeier „wütend“ über Anstieg antisemitischer Straftaten",
-      "source": "Handelsblatt",
+      "headline": "Trauermesse nach Zugunglück mit 69 Toten in Spanien",
+      "source": "Tagesschau",
       "country": "DE",
-      "url": "https://www.handelsblatt.com/video/politik/jahrestag-der-novemberpogrome-steinmeier-wuetend-ueber-anstieg-antisemitischer-straftaten/100268737.html",
-      "time": "2026-11-10T10:12:05+00:00",
+      "url": "https://www.tagesschau.de/ausland/europa/trauermesse-spanien-100.html",
+      "time": "2026-11-10T21:04:36+00:00",
       "opinion": false,
-      "image": null
+      "image": "https://images.tagesschau.de/image/d1f033ab-21ab-4c84-8fc0-50de7556891e/AAABocd6jrY/AAABnSSvrFg/16x9-big/toledo-118.jpg?width=1024"
     },
     {
       "section": "politik",
-      "headline": "Frankreich: Der einsame Präsident – diese Alleingänge kosteten Macron das Vertrauen",
-      "source": "Handelsblatt",
-      "country": "DE",
-      "url": "https://www.handelsblatt.com/politik/international/frankreich-warum-macron-vor-seinem-amtsende-kaum-noch-rueckhalt-hat/100264909.html",
-      "time": "2026-11-10T10:12:00+00:00",
-      "opinion": false,
-      "image": "https://images.handelsblatt.com/5X7flcRPvEMA/cover/900/506/0/0/378/195/0.5/0.5/french-president-emmanuel-macron-meets-with-a-french-astronaut-who-is-a-member-of-the-european-space.jpg"
-    },
-    {
-      "section": "wirtschaft",
-      "headline": "Pharma: Bayer erhält US-Zulassung für wichtiges Schlaganfall-Medikament",
-      "source": "Handelsblatt",
-      "country": "DE",
-      "url": "https://www.handelsblatt.com/unternehmen/industrie/pharma-bayer-erhaelt-us-zulassung-fuer-wichtiges-schlaganfall-medikament/100266747.html",
-      "time": "2026-11-10T10:06:04+00:00",
-      "opinion": false,
-      "image": "https://images.handelsblatt.com/VmWIHd4ayKfE/cover/900/506/0/0/208/208/0.5/0.5/logo-des-bayer-konzerns-am-flughafen-ksln-bonn-ksln-21042020-bayer-group-logo-at-cologne-bon.jpeg"
-    },
-    {
-      "section": "wirtschaft",
-      "headline": "Business-Ticker: Rüstungshersteller Hensoldt erhält 100.000 Bewerbungen",
-      "source": "FAZ",
-      "country": "DE",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-bewerber-rennen-ruestungshersteller-hensoldt-die-tuer-ein-faz-200452404.html",
-      "time": "2026-11-10T10:06:00+00:00",
-      "opinion": false,
-      "image": "https://media0.faz.net/image/8bd25b4343f8/w6144h3456x0y320/202607/43601.0.2366706969/grosses-interesse.webp"
-    },
-    {
-      "section": "politik",
-      "headline": "Cop31 live: slight drop in fossil fuel emissions revealed as conference enters second day",
-      "source": "Guardian",
-      "country": "UK",
-      "url": "https://www.theguardian.com/environment/live/2026/nov/10/cop31-live-fossil-fuel-carbon-emissions-climate-crisis-latest-news-updates",
-      "time": "2026-11-10T09:54:48+00:00",
-      "opinion": false,
-      "image": "https://i.guim.co.uk/img/media/b93d3307e0484de02281c9b34fd73467568202f1/207_0_4813_3853/master/4813.jpg?width=700&quality=85&auto=format&fit=max&s=4b06ad10d6828f287b5040053a5ba47d"
-    },
-    {
-      "section": "wirtschaft",
-      "headline": "Automobilindustrie: BMW lässt Schichten wegen fehlender Teile ausfallen",
-      "source": "Handelsblatt",
-      "country": "DE",
-      "url": "https://www.handelsblatt.com/unternehmen/industrie/automobilindustrie-bmw-laesst-schichten-wegen-fehlender-teile-ausfallen/100268597.html",
-      "time": "2026-11-10T09:49:27+00:00",
-      "opinion": false,
-      "image": "https://images.handelsblatt.com/6ZUVTQ6T2nKu/cover/900/506/0/0/301/301/0.5/0.5/archiv-24.10.2025-sachsen-leipzig-verschiedene-bmw-rollen-vom-band-im-bmw-group-werk-leipzig..jpg"
-    },
-    {
-      "section": "wirtschaft",
-      "headline": "Kindergeld: Unionspolitiker wollen Bezug im EU-Ausland erschweren",
+      "headline": "USA: Kennedy-Familie wehrt sich gegen Trumps Triumphbogen in Washington",
       "source": "Spiegel",
       "country": "DE",
-      "url": "https://www.spiegel.de/wirtschaft/soziales/kindergeld-unionspolitiker-wollen-bezug-im-eu-ausland-erschweren-a-fc5ad28d-fab2-47cf-9ae4-d2731312829a",
-      "time": "2026-11-10T09:46:00+00:00",
+      "url": "https://www.spiegel.de/ausland/usa-kennedy-familie-wehrt-sich-gegen-trumps-triumphbogen-in-washington-a-84d245f3-56b4-41ac-abf7-6112b9359bbd",
+      "time": "2026-11-11T03:59:00+00:00",
       "opinion": false,
-      "image": "https://cdn.prod.www.spiegel.de/images/06207bc9-c481-42dd-9ced-ca47f1527e0e_w520_r2.08_fpx61.75_fpy44.99.jpg"
+      "image": "https://cdn.prod.www.spiegel.de/images/2ebb2473-7a29-468f-8078-c54fd5fddef7_w520_r2.08_fpx58.66_fpy50.jpg"
     },
     {
       "section": "politik",
-      "headline": "Steuern: Einfacher und gerechter? Klingbeil will die Steuerklassen III und V abschaffen",
+      "headline": "Sicherheit: Kehren Polizisten Sachsen-Anhalt den Rücken? Überdurchschnittlich viele Versetzungsanträge nach AfD‑Sieg",
       "source": "Handelsblatt",
       "country": "DE",
-      "url": "https://www.handelsblatt.com/politik/deutschland/steuern-klingbeil-will-die-steuerklassen-iii-und-v-abschaffen/100268559.html",
-      "time": "2026-11-10T09:44:26+00:00",
+      "url": "https://www.handelsblatt.com/politik/deutschland/sachsen-anhalt-ungewoehnlich-viele-polizisten-beantragen-nach-afd-sieg-versetzung/100268780.html",
+      "time": "2026-11-11T03:09:55+00:00",
       "opinion": false,
-      "image": "https://images.handelsblatt.com/rk3nelB1CIbn/cover/900/506/0/0/107/106/0.5/0.5/finanzminister-lars-klingbeil.jpg"
+      "image": "https://images.handelsblatt.com/AewKti4V-l9x/cover/900/506/0/0/313/312/0.5/0.5/archiv-27.03.2026-sachsen-anhalt-halle-saale-ein-beamter-der-landespolizei-steht-im-rahmen-ei.jpg"
     },
     {
       "section": "politik",
-      "headline": "Sportvereine in Deutschland haben so viele Mitglieder wie noch nie",
-      "source": "Tagesschau",
+      "headline": "Mecklenburg-Vorpommern: Rot-Rot-Grün schließt Koalitionsverhandlungen ab",
+      "source": "Spiegel",
       "country": "DE",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/sportvereine-mitglieder-102.html",
-      "time": "2026-11-10T09:05:59+00:00",
+      "url": "https://www.spiegel.de/politik/deutschland/mecklenburg-vorpommern-rot-rot-gruen-schliesst-koalitionsverhandlungen-ab-a-25444914-e5c5-4fe6-8f6f-68203c6d49aa",
+      "time": "2026-11-10T14:27:00+00:00",
       "opinion": false,
-      "image": "https://images.tagesschau.de/image/0a4f6fc5-5495-462b-9aca-e579b5609692/AAABocSOYyc/AAABnSSvrFg/16x9-big/fussballplatz-118.jpg?width=1024"
+      "image": "https://cdn.prod.www.spiegel.de/images/91d77cfa-33e1-49bd-b462-b57da3094a95_w520_r2.08_fpx32.25_fpy50.jpg"
     },
     {
       "section": "politik",
-      "headline": "Abstimmung: Kalifornier lehnen Milliardärssteuer ab",
-      "source": "Handelsblatt",
+      "headline": "Hubert Aiwanger: Straubinger Gastronom Stephan Weckmann rückt in den Landtag nach",
+      "source": "Spiegel",
       "country": "DE",
-      "url": "https://www.handelsblatt.com/politik/international/usa-kalifornier-lehnen-milliardaerssteuer-ab/100268706.html",
-      "time": "2026-11-10T09:02:58+00:00",
+      "url": "https://www.spiegel.de/politik/hubert-aiwanger-straubinger-gastronom-stephan-weckmann-rueckt-in-den-landtag-nach-a-3a1a3cd9-0d21-4e83-8d8b-aa9aab11d74b",
+      "time": "2026-11-10T11:05:00+00:00",
       "opinion": false,
-      "image": "https://images.handelsblatt.com/xDEAFm-WUVbQ/cover/900/506/0/0/105/104/0.5/0.5/abstimmung-ueber-milliardaerssteuer.jpg"
+      "image": "https://cdn.prod.www.spiegel.de/images/5e161192-3fdb-44e8-b2c8-55a7f9687459_w520_r2.08_fpx51_fpy38.jpg"
     },
     {
       "section": "politik",
-      "headline": "Neue Aufsichtsbehörde: Australien kündigt strengere Regeln für KI-Firmen an",
-      "source": "FAZ",
+      "headline": "Urteil im Fall Fabian: Sogar die Aufmerksamkeit, die das tote Kind bekam, störte sie",
+      "source": "Zeit",
       "country": "DE",
-      "url": "https://www.faz.net/aktuell/politik/ausland/anthony-albanese-kuendigt-neue-ki-aufsichtsbehoerde-fuer-australien-an-accg-201668423.html",
-      "time": "2026-11-10T08:30:03+00:00",
+      "url": "https://www.zeit.de/politik/deutschland/2026-11/urteil-fall-fabian-guestrow-mord-haftstrafe",
+      "time": "2026-11-10T19:52:44+00:00",
       "opinion": false,
-      "image": "https://media0.faz.net/image/ac8fd8e32e08/w3000h1687x0y313/202611/30cf775e-6458-4f70-b0e7-8d4133c882d9/australiens-ministerpraesident.webp"
+      "image": "https://img.zeit.de/politik/deutschland/2026-11/urteil-fall-fabian-guestrow-mord-haftstrafe-bild/wide__820x461"
     },
     {
       "section": "politik",
-      "headline": "Israels neu gewähltes Parlament kommt erstmals zusammen",
-      "source": "Tagesschau",
+      "headline": "Bundeswehr verbannt Drohnen und Autos aus China aus den Kasernen – Spionagegefahr",
+      "source": "Spiegel",
       "country": "DE",
-      "url": "https://www.tagesschau.de/ausland/asien/knesset-eisenkot-regierung-100.html",
-      "time": "2026-11-10T08:13:27+00:00",
+      "url": "https://www.spiegel.de/politik/deutschland/bundeswehr-verbannt-drohnen-und-autos-aus-china-aus-den-kasernen-spionagegefahr-a-551cf80d-6065-427d-b469-70727ea4cf24",
+      "time": "2026-11-10T16:27:00+00:00",
       "opinion": false,
-      "image": "https://images.tagesschau.de/image/4571547b-afbd-4563-a8da-4d48f0dc9eb6/AAABocRDlV0/AAABnSSvrFg/16x9-big/eisenkot-118.jpg?width=1024"
-    },
-    {
-      "section": "politik",
-      "headline": "Neun Männer in Manchester angeklagt - Auslöser sind NDR-Recherchen",
-      "source": "Tagesschau",
-      "country": "DE",
-      "url": "https://www.tagesschau.de/ausland/europa/manchester-prozess-sexualstraftaten-100.html",
-      "time": "2026-11-10T07:39:59+00:00",
-      "opinion": false,
-      "image": "https://images.tagesschau.de/image/92aff42c-f28e-4caa-b3ce-8c83d97527bd/AAABocBBdWo/AAABnSSvrFg/16x9-big/crown-court-manchester-100.jpg?width=1024"
+      "image": "https://cdn.prod.www.spiegel.de/images/ef61307a-67f9-431e-ac97-78e0777ae56b_w520_r2.08_fpx68.67_fpy44.99.jpg"
     },
     {
       "section": "wirtschaft",
-      "headline": "VW-Familienholding: Porsche SE rutscht tief in die roten Zahlen",
+      "headline": "Stellenabbau: Warsteiner Braugruppe trennt sich von Hunderten Mitarbeitern",
       "source": "Handelsblatt",
       "country": "DE",
-      "url": "https://www.handelsblatt.com/unternehmen/industrie/porsche-se-vw-familienholding-rutscht-tief-in-die-roten-zahlen/100268469.html",
-      "time": "2026-11-10T07:31:03+00:00",
+      "url": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/stellenabbau-warsteiner-braugruppe-trennt-sich-von-hunderten-mitarbeitern/100268860.html",
+      "time": "2026-11-10T15:55:12+00:00",
       "opinion": false,
-      "image": "https://images.handelsblatt.com/rBCaj-KXlSA8/cover/900/506/0/0/185/184/0.5/0.5/dr.-wolfgang-porsche-erhaelt-am-7.-november-das-goldene-ehrenlenkrad-von-bild-am-sonntag-und-auto-bil.jpg"
+      "image": "https://images.handelsblatt.com/XPUdTv7pFFvX/cover/900/506/0/0/481/0/0.5/0.5/archiv-16.03.2023-nordrhein-westfalen-warstein-ein-gabelstapler-ist-in-der-logistik-der-warstei.jpg"
     },
     {
-      "section": "politik",
-      "headline": "Bund kauft Anteil an Panzerhersteller KNDS für 6,6 Milliarden Euro",
+      "section": "wirtschaft",
+      "headline": "Gas: Betreiber von Speichern warnen vor Engpässen bei extremer Kälte",
       "source": "Spiegel",
       "country": "DE",
-      "url": "https://www.spiegel.de/politik/deutschland/bund-kauft-anteil-an-panzerhersteller-knds-fuer-6-6-milliarden-euro-a-d5902cfc-42fc-4980-81f7-bbc078b8df29",
-      "time": "2026-11-10T04:02:00+00:00",
+      "url": "https://www.spiegel.de/wirtschaft/service/gas-betreiber-von-speichern-warnen-vor-engpaessen-bei-extremer-kaelte-a-036cd1fc-eb5e-4092-8112-14360e310bb1",
+      "time": "2026-11-10T07:20:00+00:00",
       "opinion": false,
-      "image": "https://cdn.prod.www.spiegel.de/images/0e278d82-536b-430d-b604-2c6971a6f232_w520_r2.08_fpx52_fpy49.99.jpg"
+      "image": "https://cdn.prod.www.spiegel.de/images/6c0915e6-5dcc-4964-a854-4f42de3d54f1_w520_r2.08_fpx50_fpy74.jpg"
     },
     {
       "section": "politik",
-      "headline": "Exxon Strikes Preliminary Deal to Return to Venezuela",
+      "headline": "Türkei: Mitarbeiterin der Böll-Stiftung wegen Spionageverdachts festgenommen",
+      "source": "Spiegel",
+      "country": "DE",
+      "url": "https://www.spiegel.de/ausland/tuerkei-mitarbeiterin-der-boell-stiftung-wegen-spionageverdacht-festgenommen-a-bfbe2bd7-0af4-4809-8b19-6d117ea4584d",
+      "time": "2026-11-10T18:30:00+00:00",
+      "opinion": false,
+      "image": "https://cdn.prod.www.spiegel.de/images/ea85dc81-b5c7-433f-9f91-4eaf9d3c1220_w520_r2.08_fpx62.71_fpy50.jpg"
+    },
+    {
+      "section": "wirtschaft",
+      "headline": "BMW lässt wegen fehlender Teile Schichten ausfallen",
+      "source": "Spiegel",
+      "country": "DE",
+      "url": "https://www.spiegel.de/wirtschaft/unternehmen/bmw-laesst-wegen-fehlender-teile-schichten-ausfallen-a-66f93bec-da2a-4d6d-91fb-ba416decf035",
+      "time": "2026-11-10T10:45:00+00:00",
+      "opinion": false,
+      "image": "https://cdn.prod.www.spiegel.de/images/1b2ba50c-c78d-448e-8e79-12d7ee78b172_w520_r2.08_fpx65.32_fpy49.99.jpg"
+    },
+    {
+      "section": "wirtschaft",
+      "headline": "Kalifornien : Wähler lehnen Milliardärssteuer ab",
+      "source": "Spiegel",
+      "country": "DE",
+      "url": "https://www.spiegel.de/wirtschaft/unternehmen/kalifornien-waehler-lehnen-milliardaerssteuer-ab-a-8158b657-1bb4-4248-9b65-d282c08da566",
+      "time": "2026-11-10T08:14:00+00:00",
+      "opinion": false,
+      "image": "https://cdn.prod.www.spiegel.de/images/63fcea70-6653-448f-a123-f126871229d6_w520_r2.08_fpx65.32_fpy49.99.jpg"
+    },
+    {
+      "section": "politik",
+      "headline": "Schüsse in Hamburg: Verdächtiger tot, weitere Leichen in Süddeutschland",
+      "source": "Tagesschau",
+      "country": "DE",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/hamburg-elbphilharmonie-etlingen-schuesse-100.html",
+      "time": "2026-11-10T17:27:27+00:00",
+      "opinion": false,
+      "image": "https://images.tagesschau.de/image/1137857d-221d-494e-bec6-82693aa635de/AAABocZQjrk/AAABnSSvrFg/16x9-big/elbphilharmonie-204.jpg?width=1024"
+    },
+    {
+      "section": "politik",
+      "headline": "Knapp 7000 Migranten in einer Woche: Die Kanarischen Inseln rufen den Notstand aus",
+      "source": "NZZ",
+      "country": "CH",
+      "url": "https://www.nzz.ch/international/knapp-7000-migranten-in-einer-woche-die-kanarischen-inseln-rufen-den-notstand-aus-ld.10058957",
+      "time": "2026-11-10T14:00:00+00:00",
+      "opinion": false,
+      "image": "https://img-msp-prod.nzz.ch/2026/11/03/ba556440-69ff-4a95-b3b7-c2fe247383c6.jpg?width=900&height=900&fit=bounds"
+    },
+    {
+      "section": "wirtschaft",
+      "headline": "Chinas Handelsüberschuss überschreitet erneut die Billionenmarke",
+      "source": "Tagesschau",
+      "country": "DE",
+      "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/china-export-handel-100.html",
+      "time": "2026-11-10T08:53:53+00:00",
+      "opinion": false,
+      "image": "https://images.tagesschau.de/image/71d2388e-390a-400e-9756-14009daaebc1/AAABocRqjSo/AAABnSSvrFg/16x9-big/china-1326.jpg?width=1024"
+    },
+    {
+      "section": "wirtschaft",
+      "headline": "Infineon: Chiphersteller Infineon schließt Geschäftsjahr mit Gewinnzuwachs",
+      "source": "Zeit",
+      "country": "DE",
+      "url": "https://www.zeit.de/wirtschaft/2026-11/infineon-kuenstliche-intelligenz-gewinn-rechenzentren-dax-gxe",
+      "time": "2026-11-10T11:30:21+00:00",
+      "opinion": false,
+      "image": "https://img.zeit.de/wirtschaft/2026-11/infineon-kuenstliche-intelligenz-gewinn-rechenzentren-dax-gxe-foto-1/wide__820x461"
+    },
+    {
+      "section": "wirtschaft",
+      "headline": "Weil Gotshal Partners Vote to Shut Down After Nearly a Century",
       "source": "New York Times",
       "country": "US",
-      "url": "https://www.nytimes.com/2026/11/09/business/energy-environment/exxon-mobil-venezuela-oil-deal.html",
-      "time": "2026-11-10T00:51:53+00:00",
+      "url": "https://www.nytimes.com/2026/11/10/business/weil-gotshal-shut-down.html",
+      "time": "2026-11-10T18:02:59+00:00",
       "opinion": false,
-      "image": "https://static01.nyt.com/images/2026/11/09/multimedia/00biz-exxon-venezuela-vbpj/00biz-exxon-venezuela-vbpj-mediumSquareAt3X.jpg"
+      "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10biz-ai-insurance-02-gkpt/10biz-ai-insurance-02-gkpt-mediumSquareAt3X.jpg"
     },
     {
       "section": "politik",
-      "headline": "Türkei: Mindestens 16 Tote nach Explosion in Stahlwerk bei Izmir",
-      "source": "Spiegel",
+      "headline": "Regierungsbildung in Berlin: Berliner Linke-Führungsriege will Emde aus Fraktion werfen",
+      "source": "Handelsblatt",
       "country": "DE",
-      "url": "https://www.spiegel.de/ausland/tuerkei-mindestens-16-tote-nach-explosion-in-stahlwerk-bei-izmir-a-2c5e9af6-0d3f-4496-b366-ee56778a1d6f",
-      "time": "2026-11-09T18:25:00+00:00",
+      "url": "https://www.handelsblatt.com/politik/deutschland/regierungsbildung-in-berlin-berliner-linke-fuehrungsriege-will-emde-aus-fraktion-werfen/100268871.html",
+      "time": "2026-11-10T17:45:38+00:00",
       "opinion": false,
-      "image": "https://cdn.prod.www.spiegel.de/images/1b48efaa-40db-4d3d-86cb-2846161f2579_w520_r2.08_fpx66.67_fpy50.jpg"
+      "image": "https://images.handelsblatt.com/XF3eT6bQZLz4/cover/900/506/0/0/106/106/0.5/0.5/vanessa-emde.jpg"
     },
     {
       "section": "wirtschaft",
-      "headline": "Elektromobilität: Ein Hamburger Unternehmer trotzt der Konkurrenz aus China",
-      "source": "Handelsblatt",
+      "headline": "Künstliche Intelligenz: Andrea Nahles rechnet mit Verlust von 800.000 Jobs",
+      "source": "Spiegel",
       "country": "DE",
-      "url": "https://www.handelsblatt.com/mobilitaet/elektromobilitaet/elektromobilitaet-wie-ein-deutscher-e-scooter-hersteller-china-trotzen-will/100250118.html",
-      "time": "2026-11-10T10:09:00+00:00",
+      "url": "https://www.spiegel.de/wirtschaft/unternehmen/kuenstliche-intelligenz-andrea-nahles-rechnet-mit-verlust-von-800-000-jobs-a-64556960-bdcf-4d85-becc-93ef14bb937e",
+      "time": "2026-11-10T10:41:00+00:00",
       "opinion": false,
-      "image": "https://images.handelsblatt.com/OTDXsgUH52gK/cover/900/506/1/1/0/0/0.5/0.5/egret.jpg"
+      "image": "https://cdn.prod.www.spiegel.de/images/9271125d-12ad-401f-ad42-c6d52a29a5d1_w520_r2.08_fpx61.33_fpy50.jpg"
     },
     {
       "section": "politik",
-      "headline": "Politische Bücher: In der Rentenpolitik half nur noch reiner Wein",
-      "source": "FAZ",
-      "country": "DE",
-      "url": "https://www.faz.net/aktuell/politik/politische-buecher/politische-buecher-die-sitzungsprotokolle-der-spd-bundestagsfraktion-von-1976-bis-1980-accg-201247742.html",
-      "time": "2026-11-10T10:06:03+00:00",
+      "headline": "Arrests made in Mohamed Al Fayed probe in France, police say",
+      "source": "BBC",
+      "country": "UK",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wvwyrd4ywo",
+      "time": "2026-11-10T16:19:48+00:00",
       "opinion": false,
-      "image": "https://media0.faz.net/image/704b83ab2bce/w3364h1892x0y315/202611/bd2cafb9-f059-420f-90ec-be59f7ec6255/sozialdemokratisches.webp"
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/1966/live/79e95480-dcfc-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+      "section": "politik",
+      "headline": "UK Privy Council overrules Trinidad and Tobago gay sex law",
+      "source": "Deutsche Welle",
+      "country": "DE",
+      "url": "https://www.dw.com/en/uk-privy-council-overrules-trinidad-and-tobago-gay-sex-law/a-79912163",
+      "time": "2026-11-10T19:21:00+00:00",
+      "opinion": false,
+      "image": null
     }
   ]
 }
