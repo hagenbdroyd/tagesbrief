@@ -1,5 +1,41 @@
 {
-  "updatedAt": "2026-11-12T07:12:25+01:00",
+  "updatedAt": "2026-11-12T17:27:25+01:00",
   "morningPush": "2026-11-12",
-  "breaking": []
+  "breaking": [
+    {
+      "id": "e2026111217270",
+      "time": "2026-11-12T14:11:32+00:00",
+      "pushedAt": "2026-11-12T17:27:25+01:00",
+      "headline": "Nvidia-Chef Jensen Huang tritt nach Spionageaffäre zurück",
+      "summary": "Der Chef des US-Chipkonzerns Nvidia, Jensen Huang, hat seinen Rücktritt bekannt gegeben. Hintergrund sind Vorwürfe bezüglich einer Affäre mit einer mutmaßlichen chinesischen Spionin sowie einer weiteren außerehelichen Beziehung. Die bisherige Finanzchefin Colette Kress übernimmt vorübergehend die Führung.",
+      "reason": "Überraschender Rücktritt des Chefs eines der weltgrößten Großkonzerne im Zuge einer Spionageaffäre mit erheblichen Auswirkungen auf Wirtschaft und Börsen.",
+      "sources": [
+        {
+          "name": "Tagesschau",
+          "country": "DE",
+          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-huang-rolle-100.html"
+        },
+        {
+          "name": "Handelsblatt",
+          "country": "DE",
+          "url": "https://www.handelsblatt.com/technik/ki/nvidia-jensen-huang-tritt-nach-mehreren-affaeren-zurueck/100269321.html"
+        },
+        {
+          "name": "Guardian",
+          "country": "UK",
+          "url": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest"
+        },
+        {
+          "name": "Zeit",
+          "country": "DE",
+          "url": "https://www.zeit.de/wirtschaft/2026-11/nvidia-chef-jensen-huang-tritt-nach-spionageaffaere-zurueck"
+        }
+      ],
+      "image": {
+        "url": "https://images.tagesschau.de/image/62a459a4-de47-412c-bc99-10728c9a25e5/AAABodAPyYk/AAABnSSvrFg/16x9-big/huang-120.jpg?width=1024",
+        "source": "Tagesschau"
+      },
+      "model": "gemini-3.6-flash"
+    }
+  ]
 }
