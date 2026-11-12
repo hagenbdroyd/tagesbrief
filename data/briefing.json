@@ -1,9 +1,9 @@
 {
-  "date": "2026-11-11",
-  "generatedAt": "2026-11-11T05:11:32+01:00",
+  "date": "2026-11-12",
+  "generatedAt": "2026-11-12T05:11:34+01:00",
   "notice": null,
-  "aiModel": "gemini-3.8-flash",
-  "push": "Russland und Ukraine verhandeln in Abu Dhabi über Gefangenenaustausch",
+  "aiModel": "gemini-3.6-flash",
+  "push": "US-Midterms: Demokrat Scott Colom holt Senatssitz in Mississippi",
   "breaking": [],
   "sections": [
     {
@@ -12,167 +12,162 @@
       "items": [
         {
           "id": "p1",
-          "headline": "US-Repräsentantenhaus stoppt Amtsenthebung von Hegseth",
-          "summary": "Die Republikaner im US-Repräsentantenhaus haben ein Amtsenthebungsverfahren gegen US-Verteidigungsminister Pete Hegseth abgewendet. Sie stimmten nahezu geschlossen gegen eine entsprechende Resolution, die ihm unter anderem Verfassungsverstöße vorwarf.",
-          "perspectives": "Spiegel und Tagesschau betonen die nahezu geschlossene Rückendeckung der Republikaner, durch die Hegseth vorerst Zeit gewinne. Die NZZ merkt hingegen an, dass sich die Demokraten auch selbst im Weg gestanden hätten. Die New York Times hebt hervor, dass die Initiative der Republikaner Hegseth vor einer folgenschweren Rüge bewahrte.",
+          "headline": "US-Midterms: Demokrat Colom gewinnt Senatssitz in Mississippi",
+          "summary": "Der Demokrat Scott Colom hat im US-Bundesstaat Mississippi überraschend die Senatswahl gewonnen. Es ist der erste Sieg der Demokraten bei einer Senatswahl in diesem Staat seit mehr als vier Jahrzehnten. Durch den Erfolg baut die Partei ihre künftige Mehrheit im Senat weiter aus.",
+          "perspectives": "Die Medien nennen unterschiedliche Zeiträume für den historischen Charakter der Wahl: Während die FAZ von der ersten siegreichen demokratischen Senatswahl in Mississippi seit 1982 spricht und die Tagesschau allgemein von mehr als vier Jahrzehnten berichtet, hebt der Spiegel die Wahl des ersten schwarzen Senators seit 145 Jahren hervor. Die FAZ terminiert die Wahl des letzten schwarzen Senators wiederum auf 1875, wohingegen die Financial Times allgemein auf die Ära der Reconstruction verweist.",
           "sources": [
             {
-              "name": "NZZ",
-              "country": "CH",
-              "url": "https://www.nzz.ch/international/pete-hegseth-ist-noch-einmal-davongekommen-der-us-verteidigungsminister-entgeht-einem-impeachment-verfahren-ld.10060321"
+              "name": "Spiegel",
+              "country": "DE",
+              "url": "https://www.spiegel.de/ausland/midterms-in-den-usa-mississippi-wie-scott-colom-trotz-aller-widerstaende-siegte-a-edaaf9b7-8649-49f9-ba5e-a4657d9f51cc"
             },
             {
-              "name": "New York Times",
-              "country": "US",
-              "url": "https://www.nytimes.com/2026/11/10/us/politics/house-hegseth-impeachment-vote.html"
+              "name": "FAZ",
+              "country": "DE",
+              "url": "https://www.faz.net/aktuell/politik/ausland/demokraten-holen-erstmals-seit-1982-senatssitz-in-mississippi-accg-201674962.html"
             },
             {
               "name": "Tagesschau",
               "country": "DE",
-              "url": "https://www.tagesschau.de/ausland/amerika/hegseth-amtsenthebungsverfahren-gestoppt-100.html"
+              "url": "https://www.tagesschau.de/ausland/amerika/demokrat-mississippi-sieg-100.html"
             },
             {
-              "name": "Spiegel",
-              "country": "DE",
-              "url": "https://www.spiegel.de/ausland/pete-hegseth-republikaner-lehnen-amtsenthebungsantrag-im-repraesentantenhaus-ab-a-a16fbebc-5f94-4266-bd4c-7b114e518b40"
+              "name": "Financial Times",
+              "country": "UK",
+              "url": "https://www.ft.com/content/ed93bd25-3ae4-4845-ac2e-ccb6e9c741e6?syn-25a6b1a6=1"
             }
           ],
-          "time": "2026-11-10T23:53:00+00:00",
+          "time": "2026-11-12T00:24:56+00:00",
           "image": {
-            "url": "https://img-msp-prod.nzz.ch/2026/11/10/08588eee-6caf-43a0-ab22-233f15e1ea40.jpg?width=900&height=900&fit=bounds",
-            "source": "NZZ"
+            "url": "https://cdn.prod.www.spiegel.de/images/b165cb11-873c-4aa3-99c7-13b82f0003f5_w520_r2.08_fpx70_fpy85.jpg",
+            "source": "Spiegel"
           }
         },
         {
           "id": "p2",
-          "headline": "Erste direkte Ukraine-Gespräche seit Monaten in Abu Dhabi",
-          "summary": "In Abu Dhabi haben unter Vermittlung der USA erstmals seit Monaten wieder direkte Verhandlungen zwischen Russland und der Ukraine begonnen. Im Mittelpunkt der ersten Gespräche stand ein möglicher Austausch von Kriegsgefangenen.",
-          "perspectives": "Während das Handelsblatt von einer Pause von mehr als acht Monaten spricht, beziffert die NZZ die Unterbrechung auf neun Monate und die BBC verweist auf die ersten trilateralen Gespräche seit Februar. Die Tagesschau berichtet, der erste Verhandlungstag sei offiziell ohne Ergebnis geblieben, wohingegen BBC und Handelsblatt von Hoffnungen auf einen Gefangenenaustausch berichten.",
+          "headline": "Einigung im Haushaltsstreit: Kompromisse bei Zucker- und Stromsteuer",
+          "summary": "Die Spitzen der Koalitionsfraktionen haben sich auf Kompromisse zum Bundeshaushalt 2027 geeinigt. Die geplante Einführung der Zuckersteuer wird auf 2028 verschoben, und eine Senkung der Stromsteuer kommt vorerst nicht zustande. Laut FAZ fehlen für die Stromsteuersenkung 5,4 Milliarden Euro.",
+          "perspectives": "Während Tagesschau und Spiegel die Einigung als Kompromiss mit Verschiebung der Zuckersteuer beschreiben, betont das Handelsblatt, dass die Union Steuererhöhungen abgewehrt habe, während die SPD Einsparungen aufweiche. Die FAZ hebt als einziges dieser Medien explizit hervor, dass auch die Steuer auf Plastikverpackungen komplett vom Tisch sei.",
           "sources": [
             {
-              "name": "Handelsblatt",
+              "name": "FAZ",
               "country": "DE",
-              "url": "https://www.handelsblatt.com/politik/international/verhandlungen-in-abu-dhabi-ukraine-gespraeche-gehen-weiter-kommt-ein-gipfeltreffen/100268925.html"
+              "url": "https://www.faz.net/aktuell/politik/inland/koalition-meldet-kompromisse-im-haushaltsstreit-stromsteuer-bleibt-offen-accg-201674937.html"
             },
             {
-              "name": "NZZ",
-              "country": "CH",
-              "url": "https://www.nzz.ch/international/erste-direkte-verhandlungen-seit-neun-monaten-russen-und-ukrainer-sprechen-wieder-miteinander-ld.10059489"
-            },
-            {
-              "name": "BBC",
-              "country": "UK",
-              "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o"
+              "name": "Spiegel",
+              "country": "DE",
+              "url": "https://www.spiegel.de/politik/deutschland/haushalt-2027-regierung-kann-sich-vorerst-nicht-auf-senkung-der-stromsteuer-einigen-a-b0f3c1e9-80e2-444f-b5ac-84fb332bf304"
             },
             {
               "name": "Tagesschau",
               "country": "DE",
-              "url": "https://www.tagesschau.de/ausland/asien/ukraine-russland-krieg-gespraeche-abu-dhabi-100.html"
-            }
-          ],
-          "time": "2026-11-10T21:08:29+00:00",
-          "image": {
-            "url": "https://images.handelsblatt.com/gCJFFr5tVZi0/cover/900/506/0/0/107/106/0.5/0.5/ukraine-gespraeche-in-abu-dhabi.jpg",
-            "source": "Handelsblatt"
-          }
-        },
-        {
-          "id": "p3",
-          "headline": "Neu gewählte Knesset tritt zusammen – Opposition formiert sich",
-          "summary": "In Israel ist das neu gewählte Parlament zu seiner ersten Sitzung zusammengetreten. Die Opposition unter Führung von Gadi Eisenkot verfügt über eine Mehrheit und beantragte umgehend eine offizielle Untersuchungskommission zu den Terrorangriffen vom 7. Oktober.",
-          "perspectives": "Die New York Times und die Zeit stellen den Antrag auf eine Untersuchungskommission zum 7. Oktober in den Mittelpunkt. Der Spiegel betont, dass mehr als ein Drittel der Abgeordneten erstmals im Parlament sitzt und so viele Frauen wie nie vertreten sind. Das Handelsblatt hebt dagegen hervor, dass sich für das Eisenkot-Lager bislang keine tragfähige Regierungsmehrheit abzeichnet.",
-          "sources": [
-            {
-              "name": "New York Times",
-              "country": "US",
-              "url": "https://www.nytimes.com/2026/11/10/world/middleeast/israel-parliament-eisenkot.html"
-            },
-            {
-              "name": "Spiegel",
-              "country": "DE",
-              "url": "https://www.spiegel.de/ausland/israel-erste-knesset-sitzung-naftali-bennett-attackiert-premier-benjamin-netanyahu-a-da1ec0a6-c3b4-4e9a-9903-ef42d2a5bd54"
-            },
-            {
-              "name": "Zeit",
-              "country": "DE",
-              "url": "https://www.zeit.de/politik/ausland/2026-11/israel-knesset-parlamentswahl-gadi-eisenkot-izchak-herzog-gxe"
+              "url": "https://www.tagesschau.de/inland/innenpolitik/koalition-haushalt-kompromiss-100.html"
             },
             {
               "name": "Handelsblatt",
               "country": "DE",
-              "url": "https://www.handelsblatt.com/politik/international/israel-wie-das-eisenkot-lager-netanjahu-ausbremsen-will/100268834.html"
+              "url": "https://www.handelsblatt.com/politik/deutschland/haushalt-stromsteuer-wird-vorerst-nicht-gesenkt-zuckersteuer-verschoben/100267083.html"
             }
           ],
-          "time": "2026-11-10T18:13:01+00:00",
+          "time": "2026-11-11T21:02:25+00:00",
           "image": {
-            "url": "https://static01.nyt.com/images/2026/11/10/multimedia/10int-israel-knesset-bqlk/10int-israel-knesset-bqlk-mediumSquareAt3X.jpg",
-            "source": "New York Times"
+            "url": "https://media0.faz.net/image/86387452619d/w5647h3176x0y0/202611/b6e25d9c-4cca-41eb-820f-007da50ddbd4/spd-fraktionsvorsitzender.webp",
+            "source": "FAZ"
           }
         },
         {
-          "id": "p4",
-          "headline": "US-Soldat in Großbritannien wegen Spionageverdachts festgenommen",
-          "summary": "Britische Sicherheitskräfte haben in England einen 41-jährigen hochrangigen US-Soldaten wegen des Verdachts auf Spionage für Russland festgenommen. Die Ermittlungen der britischen Antiterrorpolizei laufen gemeinsam mit dem FBI und US-Militärgeheimdiensten.",
-          "perspectives": "Spiegel und BBC heben übereinstimmend hervor, dass dem Soldaten Verstöße gegen das nationale Sicherheitsgesetz vorgeworfen werden und er in London befragt wird. Die Financial Times betont, dass an den Ermittlungen auch die amerikanische Militäraufklärung beteiligt ist. Die New York Times verweist darauf, dass der Name des festgenommenen Soldaten bislang nicht genannt wurde.",
+          "id": "p3",
+          "headline": "Verhandlungen in Abu Dhabi: Ukraine und Russland tauschen Gefangene",
+          "summary": "Die Verhandlungen zwischen Russland und der Ukraine in Abu Dhabi unter US-Vermittlung sind ohne Durchbruch bei den Friedensbemühungen beendet worden. Beide Seiten einigten sich jedoch auf einen umfangreichen Gefangenenaustausch. US-Gesandte kündigten im Anschluss weitere Gespräche an.",
+          "perspectives": "Das Handelsblatt beziffert die Zahl der auszutauschenden Gefangenen auf mehr als 1000 Personen, worauf FT, NZZ und FAZ in ihren Übersichten verzichten. Während die NZZ die Gespräche kritisch bewertet und Russland vorwirft, mit dem Fokus auf europäische Sicherheitsarchitekturen abzulenken, hebt das Handelsblatt die optimistischere Bewertung des US-Gesandten Kushner als ersten guten Schritt hervor.",
           "sources": [
             {
               "name": "Financial Times",
               "country": "UK",
-              "url": "https://www.ft.com/content/94aa4846-58c6-4c17-b25a-095f122b4809?syn-25a6b1a6=1"
+              "url": "https://www.ft.com/content/39254048-0d84-47b8-bb97-4b9d9e1f2b92?syn-25a6b1a6=1"
             },
+            {
+              "name": "NZZ",
+              "country": "CH",
+              "url": "https://www.nzz.ch/international/ein-gefangenenaustausch-und-weitere-gespraeche-die-verhandlungen-in-abu-dhabi-bringen-keinen-durchbruch-ld.10060754"
+            },
+            {
+              "name": "Handelsblatt",
+              "country": "DE",
+              "url": "https://www.handelsblatt.com/video/politik/ukraine-gespraeche-moskau-und-kiew-vereinbaren-austausch-von-mehr-als-1000-gefangenen/100269181.html"
+            },
+            {
+              "name": "FAZ",
+              "country": "DE",
+              "url": "https://www.faz.net/aktuell/politik/ukraine/russland-bekraeftigt-gebietsansprueche-nach-gespraechen-in-abu-dhabi-201673372.html"
+            }
+          ],
+          "time": "2026-11-11T15:35:06+00:00",
+          "image": {
+            "url": "https://img-msp-prod.nzz.ch/2026/11/11/4d4a9269-850d-4d5a-913c-3cd5de1fc2e0.jpg?width=900&height=900&fit=bounds",
+            "source": "NZZ"
+          }
+        },
+        {
+          "id": "p4",
+          "headline": "Protest gegen Wohnkosten: Zehntausende streiken in Spanien",
+          "summary": "In Spanien haben landesweit Menschen an einem Generalstreik für bezahlbaren Wohnraum und höhere Löhne teilgenommen. Es handelte sich um den ersten Generalstreik im Land seit 14 Jahren. Der Protest führte zu Einschränkungen im Verkehr und vereinzelten Blockaden.",
+          "perspectives": "Bei den Teilnehmerzahlen gehen die Darstellungen deutlich auseinander: Der Guardian spricht von Millionen Streikenden, während die Zeit von Zehntausenden berichtet und betont, dass Gewerkschaften und Arbeitgeber die Beteiligung unterschiedlich bewerten. Die New York Times rückt die zentrale Bedeutung der Streikthemen für den bevorstehenden Wahlkampf in den Fokus.",
+          "sources": [
             {
               "name": "New York Times",
               "country": "US",
-              "url": "https://www.nytimes.com/2026/11/10/world/europe/uk-us-army-arrest-espionage-russia.html"
+              "url": "https://www.nytimes.com/2026/11/11/world/europe/spain-general-strike.html"
             },
             {
-              "name": "Spiegel",
+              "name": "Zeit",
               "country": "DE",
-              "url": "https://www.spiegel.de/ausland/hochrangiger-us-soldat-in-grossbritannien-wegen-spionageverdachts-fuer-russland-festgenommen-a-718b2cfe-1422-4d95-a4d3-4dcee5beb2a3"
+              "url": "https://www.zeit.de/politik/ausland/2026-11/generalstreik-spanien-madrid-barcelona-gewerkschaften-wohnungsnot"
             },
             {
-              "name": "BBC",
+              "name": "Guardian",
               "country": "UK",
-              "url": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo"
+              "url": "https://www.theguardian.com/world/2026/nov/11/spain-general-strike-housing-costs"
+            },
+            {
+              "name": "Tagesschau",
+              "country": "DE",
+              "url": "https://www.tagesschau.de/ausland/europa/spanien-generalstreik-wohnungskrise-100.html"
             }
           ],
-          "time": "2026-11-10T20:20:04+00:00",
+          "time": "2026-11-11T14:01:32+00:00",
           "image": {
-            "url": "https://static01.nyt.com/images/2026/11/10/multimedia/10int-uk-soldier-1-qlpj/10int-uk-soldier-1-qlpj-mediumSquareAt3X.jpg",
+            "url": "https://static01.nyt.com/images/2026/11/11/multimedia/11int-spain-strike-bplz/11int-spain-strike-bplz-mediumSquareAt3X.jpg",
             "source": "New York Times"
           }
         },
         {
           "id": "p5",
-          "headline": "Frankreich wirft Iran Sabotage an Supermarkt-Kühlsystemen vor",
-          "summary": "Frankreich macht iranische Revolutionswächter für Cyberangriffe auf rund 700 Kühlsysteme in Supermärkten verantwortlich und droht mit Sanktionen. Die Führung in Teheran bestreitet jegliche Verwicklung und weist die Anschuldigungen zurück.",
-          "perspectives": "Die NZZ hebt hervor, dass hinter den Angriffen eine Cyberwarfare-Einheit der Islamischen Revolutionswächter vermutet wird und Frankreich europäische Sanktionen anstrebt. Die FAZ bezeichnet den Angriff als beispiellos in Ausmaß und Aggressivität. Der Spiegel betont die Einbestellung des iranischen Botschafters, während die Deutsche Welle Irans Zurückweisung der Vorwürfe als unbegründet und einseitig zitiert.",
+          "headline": "Gebäudeeinsturz in New York: Mindestens zwei Tote in Brooklyn",
+          "summary": "Beim Einsturz eines mehrstöckigen Gebäudes im New Yorker Stadtteil Brooklyn sind mindestens zwei Menschen ums Leben gekommen. Einsatzkräfte retteten Überlebende aus den Trümmern und suchten nach weiteren Verschütteten.",
+          "perspectives": "Der Guardian nennt als einziges Medium das Detail, dass sich vier Verletzte in kritischem Zustand befinden und das Gebäude direkt neben einer Baustelle einstürzte. BBC und Tagesschau berichten übereinstimmend über zwei Todesopfer sowie die laufenden Rettungsarbeiten.",
           "sources": [
             {
-              "name": "NZZ",
-              "country": "CH",
-              "url": "https://www.nzz.ch/international/cyberattacke-auf-supermaerkte-paris-droht-iran-mit-harter-antwort-ld.10059822"
+              "name": "Tagesschau",
+              "country": "DE",
+              "url": "https://www.tagesschau.de/ausland/amerika/new-york-gebaeude-einsturz-104.html"
             },
             {
-              "name": "Deutsche Welle",
-              "country": "DE",
-              "url": "https://www.dw.com/en/iran-denies-role-in-fridge-hack-france-summons-ambassador/a-79910206"
+              "name": "BBC",
+              "country": "UK",
+              "url": "https://www.bbc.co.uk/news/videos/c60rkwjj7x7go"
             },
             {
-              "name": "FAZ",
-              "country": "DE",
-              "url": "https://www.faz.net/aktuell/politik/ausland/cyberangriff-auf-kuehlsysteme-die-spur-fuehrt-nach-iran-201668777.html"
-            },
-            {
-              "name": "Spiegel",
-              "country": "DE",
-              "url": "https://www.spiegel.de/ausland/frankreich-droht-iran-nach-cyberangriffen-mit-weiteren-sanktionen-a-96478fc4-2855-4145-a060-2ef6a2a62fa5"
+              "name": "Guardian",
+              "country": "UK",
+              "url": "https://www.theguardian.com/us-news/2026/nov/11/deadly-brooklyn-building-collapse"
             }
           ],
-          "time": "2026-11-10T10:38:00+00:00",
+          "time": "2026-11-12T01:51:00+00:00",
           "image": {
-            "url": "https://img-msp-prod.nzz.ch/2026/11/03/6aef3a14-3d12-45b5-b649-162a84bf67f5.jpg?width=900&height=900&fit=bounds",
-            "source": "NZZ"
+            "url": "https://images.tagesschau.de/image/c721bd53-d8e5-4717-8c8b-8e3e325892e3/AAABoc3GsAQ/AAABnSSvrFg/16x9-big/new-york-gebaeude-einsturz-100.jpg?width=1024",
+            "source": "Tagesschau"
           }
         }
       ]
@@ -183,124 +178,124 @@
       "items": [
         {
           "id": "w1",
-          "headline": "Nvidia unter Druck: Milliardenverlust nach Spionage-Affäre",
-          "summary": "Der US-Chiphersteller Nvidia gerät wegen einer Spionage-Affäre um Konzernchef Jensen Huang weiter unter Druck und verlor binnen einer Woche rund eine Billion Dollar an Börsenwert. Das Unternehmen beauftragte die Kanzlei Wachtell Lipton mit einer internen Untersuchung.",
-          "perspectives": "FAZ und Handelsblatt stellen den massiven Einbruch des Börsenwerts um rund eine Billion Dollar in den Vordergrund. Die New York Times und Politico Europe fokussieren sich auf die juristische Aufarbeitung und berichten, dass der ehemalige amtierende US-Bundesanwalt Joon H. Kim die Ermittlungen bei Wachtell Lipton leitet.",
+          "headline": "Führungskrise bei Nvidia: Verwaltungsrat berät über Zukunft von CEO",
+          "summary": "Dem Verwaltungsrat des US-Chipkonzerns Nvidia steht Berichten zufolge eine Entscheidung über die Zukunft von Vorstands- und Firmenmitgründer Jensen Huang bevor. Anlass sind Berichte über eine weitere Affäre mit einer unterstellten Mitarbeiterin sowie eine mutmaßliche Spionageaffäre. Die Aktie des Unternehmens geriet nachbörslich stark unter Druck.",
+          "perspectives": "Während FAZ und Zeit berichten, dass Nvidia bereits eine Trennung von Huang vorbereite beziehungsweise eine Nachfolge suche, formuliert die Financial Times zurückhaltender, dass der Verwaltungsrat berate. Der Guardian beziffert den Kursverlust der Nvidia-Aktie im nachbörslichen Handel konkret auf rund 8 Prozent.",
           "sources": [
-            {
-              "name": "FAZ",
-              "country": "DE",
-              "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/nvidia-aktie-auf-tiefstem-stand-seit-maerz-jensen-huang-affaere-kostet-billion-dollar-accg-201671288.html"
-            },
-            {
-              "name": "Politico Europe",
-              "country": "EU",
-              "url": "https://www.politico.eu/article/nvidia-hires-wachtell-lipton-for-jensen-huang-investigation/"
-            },
-            {
-              "name": "Handelsblatt",
-              "country": "DE",
-              "url": "https://www.handelsblatt.com/finanzen/maerkte/nvidia-aktie-chipkonzern-verliert-in-einer-woche-knapp-eine-billion-dollar-boersenwert/100268874.html"
-            },
-            {
-              "name": "New York Times",
-              "country": "US",
-              "url": "https://www.nytimes.com/2026/11/10/business/nvidia-wachtell-lipton-jensen-huang.html"
-            }
-          ],
-          "time": "2026-11-10T19:33:36+00:00",
-          "image": {
-            "url": "https://media0.faz.net/image/b011457397ec/w8055h4531x0y421/202611/17044f1d-df9c-4051-a279-6bc94c6a7dc0/nvidia-chef-jensen-huang-die.webp",
-            "source": "FAZ"
-          }
-        },
-        {
-          "id": "w2",
-          "headline": "KI-Unternehmen Anthropic strebt Billionen-Börsengang an",
-          "summary": "Der Entwickler des KI-Modells Claude, Anthropic, bereitet seinen Börsengang vor und peilt dabei eine Bewertung von bis zu 1,4 Billionen Dollar an. Der Chiphersteller Nvidia plant Berichten zufolge, parallel zum Börsendebüt zehn Milliarden Dollar in das Unternehmen zu investieren.",
-          "perspectives": "New York Times und Guardian berichten von einer Zielbewertung von bis zu 1,4 Billionen Dollar, während die BBC eine Bewertung von 1,3 Billionen Dollar sowie eine Preisspanne von 70 bis 78 Dollar je Aktie nennt. Die New York Times hebt die geplante Zehn-Milliarden-Dollar-Investition durch Nvidia hervor. Der Guardian merkt an, dass Anthropic vor der Abkühlung des KI-Marktes eine Bewertung von zwei Billionen Dollar angepeilt hatte.",
-          "sources": [
-            {
-              "name": "New York Times",
-              "country": "US",
-              "url": "https://www.nytimes.com/2026/11/10/business/anthropic-ipo-nvidia.html"
-            },
-            {
-              "name": "BBC",
-              "country": "UK",
-              "url": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo"
-            },
             {
               "name": "Guardian",
               "country": "UK",
-              "url": "https://www.theguardian.com/technology/2026/nov/10/anthropic-valuation-stock-market-flotation-ipo-wall-street-ai"
-            }
-          ],
-          "time": "2026-11-10T16:13:13+00:00",
-          "image": {
-            "url": "https://static01.nyt.com/images/2026/11/10/multimedia/10biz-anthropic-nvidia-grid-2-01-clmb/10biz-anthropic-nvidia-grid-2-01-clmb-mediumSquareAt3X-v2.jpg",
-            "source": "New York Times"
-          }
-        },
-        {
-          "id": "w3",
-          "headline": "US-Inflation steigt im Oktober unerwartet auf 0,4 Prozent",
-          "summary": "Die Verbraucherpreise in den USA sind im Oktober um 0,4 Prozent gegenüber dem Vormonat gestiegen und übertrafen damit die Markterwartungen. Die hartnäckige Teuerung verstärkt Spekulationen über eine weitere Zinserhöhung durch die US-Notenbank Federal Reserve.",
-          "perspectives": "CNBC und Zeit betonen gleichermaßen, dass die Preise stärker als von Analysten erwartet stiegen, wobei die Zeit anmerkt, dass sich der Zuwachs im Vergleich zum Vormonat etwas abschwächte. Der Guardian hebt hervor, dass die Daten nach den Wahlniederlagen der Republikaner veröffentlicht wurden. Die Financial Times richtet das Augenmerk auf Notenbank-Gouverneur Christopher Waller, der bei anhaltender Inflation sogar eine Erhöhung um 50 Basispunkte erwägt.",
-          "sources": [
+              "url": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest"
+            },
             {
-              "name": "CNBC",
-              "country": "US",
-              "url": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html"
+              "name": "FAZ",
+              "country": "DE",
+              "url": "https://www.faz.net/aktuell/wirtschaft/zweite-affaere-nvidia-bereitet-offenbar-trennung-von-jensen-huang-vor-201674834.html"
             },
             {
               "name": "Financial Times",
               "country": "UK",
-              "url": "https://www.ft.com/content/72abed21-6043-4b2b-81b1-f3a2547da5b7?syn-25a6b1a6=1"
-            },
-            {
-              "name": "Guardian",
-              "country": "UK",
-              "url": "https://www.theguardian.com/business/2026/nov/10/october-inflation-report"
+              "url": "https://www.ft.com/content/d3838274-a055-4d5d-a1ff-48f2979a08f0?syn-25a6b1a6=1"
             },
             {
               "name": "Zeit",
               "country": "DE",
-              "url": "https://www.zeit.de/wirtschaft/2026-11/inflation-usa-verbraucherpreise-washington-gxe"
+              "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-11/nvidia-jensen-huang-unternehmenschef-verwaltungsrat-usa"
             }
           ],
-          "time": "2026-11-10T15:06:59+00:00",
+          "time": "2026-11-12T00:52:45+00:00",
           "image": {
-            "url": "https://i.guim.co.uk/img/media/edd11372dd6a075792b3425571de06722515ec38/886_0_6138_4911/master/6138.jpg?width=700&quality=85&auto=format&fit=max&s=769505a3eb688944c9fd47d3a5f6d283",
+            "url": "https://i.guim.co.uk/img/media/f8142d9712b85f162ef04fc00cf4f4dd2db40896/236_0_6713_5372/master/6713.jpg?width=700&quality=85&auto=format&fit=max&s=76382c931298fb0339114e81630804aa",
             "source": "Guardian"
           }
         },
         {
-          "id": "w4",
-          "headline": "Finanzminister will Steuerklassen III und V abschaffen",
-          "summary": "Bundesfinanzminister Lars Klingbeil plant die Abschaffung der Steuerklassen III und V für Ehepaare. Die Einstufung soll noch bis Jahresende in das automatisierte Faktorverfahren überführt werden, um den Steuervorteil fairer nach dem tatsächlichen Einkommen zu verteilen.",
-          "perspectives": "Spiegel, Zeit und Handelsblatt berichten inhaltlich übereinstimmend über das Gesetzesvorhaben aus dem Bundesfinanzministerium. Der Spiegel betont die geplante Umsetzung noch vor Ende des Jahres. Das Handelsblatt beleuchtet ergänzend, wie Ehepartner bereits heute ohne Steuerklassenwechsel den Splitting-Vorteil aufteilen können.",
+          "id": "w2",
+          "headline": "Jahresgutachten: Wirtschaftsweise heben Wachstumsprognose",
+          "summary": "Der Sachverständigenrat zur Begutachtung der gesamtwirtschaftlichen Entwicklung hat sein Jahresgutachten vorgelegt und die Wachstumsprognose für Deutschland deutlich nach oben korrigiert. Gleichzeitig warnten die Wirtschaftsweisen vor stark steigenden Staatsschulden und forderten Einsparungen sowie Ausgabenreformen.",
+          "perspectives": "Die NZZ stellt das Warnszenario einer auf 100 Prozent zusteuernden Schuldenquote in den Vordergrund. Die Tagesschau erwähnt als einzige Quelle konkret den Vorschlag eines Solis für die Verteidigung, während Spiegel und Zeit das Zusammenspiel aus erhöhtem Wachstum und scharfer Haushaltskritik hervorheben.",
           "sources": [
             {
-              "name": "Handelsblatt",
-              "country": "DE",
-              "url": "https://www.handelsblatt.com/finanzen/steuern-recht/steuern/steuererklaerung-2025-so-teilen-ehepartner-ihren-splitting-vorteil-fair-auf/100105917.html"
+              "name": "NZZ",
+              "country": "CH",
+              "url": "https://www.nzz.ch/wirtschaft/sachverstaendigenrat-deutschland-steuert-auf-schuldenquote-von-100-prozent-zu-ld.10060577"
             },
             {
               "name": "Zeit",
               "country": "DE",
-              "url": "https://www.zeit.de/wirtschaft/2026-11/steuerklassen-ehepaare-abschaffung-lars-klingbeil-faktorverfahren"
+              "url": "https://www.zeit.de/wirtschaft/2026-11/wirtschaftsweise-prognose-bip-wachstum-oeffentliche-finanzen-deutschland"
+            },
+            {
+              "name": "Tagesschau",
+              "country": "DE",
+              "url": "https://www.tagesschau.de/wirtschaft/konjunktur/wirtschaftsweise-jahresgutachten-2026-100.html"
             },
             {
               "name": "Spiegel",
               "country": "DE",
-              "url": "https://www.spiegel.de/wirtschaft/lars-klingbeil-plant-abschaffung-von-steuerklassen-iii-und-v-a-4022a7cf-5aac-4d8e-a708-de7811a7c183"
+              "url": "https://www.spiegel.de/wirtschaft/soziales/wirtschaftsweise-warnen-vor-explodierenden-ruestungsausgaben-und-steuererhoehungen-a-83c81b94-005d-40ae-82b6-a23a1a69b44d"
             }
           ],
-          "time": "2026-11-10T15:46:00+00:00",
+          "time": "2026-11-11T13:30:00+00:00",
           "image": {
-            "url": "https://images.handelsblatt.com/qgQlMddFWCk8/cover/900/506/0/0/140/140/0.5/0.5/steuer-dossier-2025ehegattensplitting.png",
-            "source": "Handelsblatt"
+            "url": "https://img-msp-prod.nzz.ch/2026/11/11/f951c695-a36a-46d6-bf61-7ab88e5cc42a.jpg?width=900&height=900&fit=bounds",
+            "source": "NZZ"
+          }
+        },
+        {
+          "id": "w3",
+          "headline": "Gewinnsprung: Siemens Energy verzeichnet Rekordjahr dank KI-Boom",
+          "summary": "Der Energietechnikkonzern Siemens Energy hat im abgelaufenen Geschäftsjahr ein Rekordergebnis erzielt und seinen Gewinn mehr als verdoppelt. Das Unternehmen profitiert stark vom weltweiten Boom bei Rechenzentren, künstlicher Intelligenz sowie dem Ausbau der Windkraft.",
+          "perspectives": "Die Zeit nennt als einzige Quelle die genaue Gewinnsumme von 4,1 Milliarden Euro. Die Tagesschau und die FAZ heben vor allem die Treiber der Nachfrage wie die Energiewende und den KI-Boom hervor. Die Berichterstattung verläuft ansonsten übereinstimmend.",
+          "sources": [
+            {
+              "name": "Zeit",
+              "country": "DE",
+              "url": "https://www.zeit.de/wirtschaft/2026-11/siemens-energy-gewinn-gasturbinen-stromnetz-siemens-gamesa-gxe"
+            },
+            {
+              "name": "FAZ",
+              "country": "DE",
+              "url": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/nach-rekordjahr-strotzt-siemens-energy-vor-zuversicht-accg-201671693.html"
+            },
+            {
+              "name": "Tagesschau",
+              "country": "DE",
+              "url": "https://www.tagesschau.de/wirtschaft/unternehmen/siemens-bilanz-energie-strom-ki-100.html"
+            }
+          ],
+          "time": "2026-11-11T08:23:39+00:00",
+          "image": {
+            "url": "https://img.zeit.de/wirtschaft/2026-11/siemens-energy-gewinn-gasturbinen-stromnetz-siemens-gamesa-gxe-foto-1/wide__820x461",
+            "source": "Zeit"
+          }
+        },
+        {
+          "id": "w4",
+          "headline": "Digital Fairness Act: EU plant strengere Regeln im Online-Handel",
+          "summary": "Die EU-Kommission hat den Entwurf für den sogenannten Digital Fairness Act vorgestellt, mit dem Verbraucherrechte im Internet gestärkt werden sollen. Vorhaben sind unter anderem ein Recht auf menschlichen Kundenservice und vereinfachte Kündigungen von Abonnements.",
+          "perspectives": "Die Zeit verweist konkret auf geplante Rechte wie den menschlichen Kundenservice, während die FAZ den Schwerpunkt auf Online-Shopping, Abos und digitale Spiele legt. Die Tagesschau erwähnt als einzige Quelle, dass deutsche Verleger verhalten auf den Entwurf reagieren.",
+          "sources": [
+            {
+              "name": "FAZ",
+              "country": "DE",
+              "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/abos-kuendigen-im-internet-einkaufen-wie-die-eu-verbraucherrechte-staerken-will-201672887.html"
+            },
+            {
+              "name": "Tagesschau",
+              "country": "DE",
+              "url": "https://www.tagesschau.de/wirtschaft/verbraucher/eu-digital-fairness-act-100.html"
+            },
+            {
+              "name": "Zeit",
+              "country": "DE",
+              "url": "https://www.zeit.de/wirtschaft/2026-11/eu-verbraucherschutz-digital-fairness-act-online-abos-michael-mcgrath-gxe"
+            }
+          ],
+          "time": "2026-11-11T12:21:12+00:00",
+          "image": {
+            "url": "https://media0.faz.net/image/909524f6196b/w3000h1687x0y156/202402/43601.0.123882528/nur-noch-fuenf-stueck.webp",
+            "source": "FAZ"
           }
         }
       ]
@@ -309,221 +304,201 @@
   "more": [
     {
       "section": "politik",
-      "headline": "Mehrere Tote bei Massenunfällen auf bulgarischer Autobahn",
-      "source": "Tagesschau",
-      "country": "DE",
-      "url": "https://www.tagesschau.de/ausland/europa/bulgarien-tote-auffahrunfall-100.html",
-      "time": "2026-11-10T14:09:14+00:00",
-      "opinion": false,
-      "image": "https://images.tagesschau.de/image/a8e38b59-c9c0-4ca8-a40e-40fafe97544d/AAABocXKowI/AAABnSSvrFg/16x9-big/bulgarien-268.jpg?width=1024"
-    },
-    {
-      "section": "politik",
-      "headline": "Trauermesse nach Zugunglück mit 69 Toten in Spanien",
-      "source": "Tagesschau",
-      "country": "DE",
-      "url": "https://www.tagesschau.de/ausland/europa/trauermesse-spanien-100.html",
-      "time": "2026-11-10T21:04:36+00:00",
-      "opinion": false,
-      "image": "https://images.tagesschau.de/image/d1f033ab-21ab-4c84-8fc0-50de7556891e/AAABocd6jrY/AAABnSSvrFg/16x9-big/toledo-118.jpg?width=1024"
-    },
-    {
-      "section": "politik",
-      "headline": "USA: Kennedy-Familie wehrt sich gegen Trumps Triumphbogen in Washington",
-      "source": "Spiegel",
-      "country": "DE",
-      "url": "https://www.spiegel.de/ausland/usa-kennedy-familie-wehrt-sich-gegen-trumps-triumphbogen-in-washington-a-84d245f3-56b4-41ac-abf7-6112b9359bbd",
-      "time": "2026-11-11T03:59:00+00:00",
-      "opinion": false,
-      "image": "https://cdn.prod.www.spiegel.de/images/2ebb2473-7a29-468f-8078-c54fd5fddef7_w520_r2.08_fpx58.66_fpy50.jpg"
-    },
-    {
-      "section": "politik",
-      "headline": "Sicherheit: Kehren Polizisten Sachsen-Anhalt den Rücken? Überdurchschnittlich viele Versetzungsanträge nach AfD‑Sieg",
+      "headline": "Sicherheit: IT-Panne bei Bundeswehr größer als bekannt: Verteidigungsministerium lässt Vorfall untersuchen",
       "source": "Handelsblatt",
       "country": "DE",
-      "url": "https://www.handelsblatt.com/politik/deutschland/sachsen-anhalt-ungewoehnlich-viele-polizisten-beantragen-nach-afd-sieg-versetzung/100268780.html",
-      "time": "2026-11-11T03:09:55+00:00",
+      "url": "https://www.handelsblatt.com/politik/deutschland/bundeswehr-verteidigungsministerium-beauftragt-untersuchung-zu-it-panne/100268835.html",
+      "time": "2026-11-12T03:09:19+00:00",
       "opinion": false,
-      "image": "https://images.handelsblatt.com/AewKti4V-l9x/cover/900/506/0/0/313/312/0.5/0.5/archiv-27.03.2026-sachsen-anhalt-halle-saale-ein-beamter-der-landespolizei-steht-im-rahmen-ei.jpg"
+      "image": "https://images.handelsblatt.com/0MC0OUflEsj9/cover/900/506/0/0/314/313/0.5/0.5/bundeswehrsoldat-am-laptop.jpg"
     },
     {
       "section": "politik",
-      "headline": "Mecklenburg-Vorpommern: Rot-Rot-Grün schließt Koalitionsverhandlungen ab",
-      "source": "Spiegel",
-      "country": "DE",
-      "url": "https://www.spiegel.de/politik/deutschland/mecklenburg-vorpommern-rot-rot-gruen-schliesst-koalitionsverhandlungen-ab-a-25444914-e5c5-4fe6-8f6f-68203c6d49aa",
-      "time": "2026-11-10T14:27:00+00:00",
-      "opinion": false,
-      "image": "https://cdn.prod.www.spiegel.de/images/91d77cfa-33e1-49bd-b462-b57da3094a95_w520_r2.08_fpx32.25_fpy50.jpg"
-    },
-    {
-      "section": "politik",
-      "headline": "Hubert Aiwanger: Straubinger Gastronom Stephan Weckmann rückt in den Landtag nach",
-      "source": "Spiegel",
-      "country": "DE",
-      "url": "https://www.spiegel.de/politik/hubert-aiwanger-straubinger-gastronom-stephan-weckmann-rueckt-in-den-landtag-nach-a-3a1a3cd9-0d21-4e83-8d8b-aa9aab11d74b",
-      "time": "2026-11-10T11:05:00+00:00",
-      "opinion": false,
-      "image": "https://cdn.prod.www.spiegel.de/images/5e161192-3fdb-44e8-b2c8-55a7f9687459_w520_r2.08_fpx51_fpy38.jpg"
-    },
-    {
-      "section": "politik",
-      "headline": "Urteil im Fall Fabian: Sogar die Aufmerksamkeit, die das tote Kind bekam, störte sie",
-      "source": "Zeit",
-      "country": "DE",
-      "url": "https://www.zeit.de/politik/deutschland/2026-11/urteil-fall-fabian-guestrow-mord-haftstrafe",
-      "time": "2026-11-10T19:52:44+00:00",
-      "opinion": false,
-      "image": "https://img.zeit.de/politik/deutschland/2026-11/urteil-fall-fabian-guestrow-mord-haftstrafe-bild/wide__820x461"
-    },
-    {
-      "section": "politik",
-      "headline": "Bundeswehr verbannt Drohnen und Autos aus China aus den Kasernen – Spionagegefahr",
-      "source": "Spiegel",
-      "country": "DE",
-      "url": "https://www.spiegel.de/politik/deutschland/bundeswehr-verbannt-drohnen-und-autos-aus-china-aus-den-kasernen-spionagegefahr-a-551cf80d-6065-427d-b469-70727ea4cf24",
-      "time": "2026-11-10T16:27:00+00:00",
-      "opinion": false,
-      "image": "https://cdn.prod.www.spiegel.de/images/ef61307a-67f9-431e-ac97-78e0777ae56b_w520_r2.08_fpx68.67_fpy44.99.jpg"
-    },
-    {
-      "section": "wirtschaft",
-      "headline": "Stellenabbau: Warsteiner Braugruppe trennt sich von Hunderten Mitarbeitern",
-      "source": "Handelsblatt",
-      "country": "DE",
-      "url": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/stellenabbau-warsteiner-braugruppe-trennt-sich-von-hunderten-mitarbeitern/100268860.html",
-      "time": "2026-11-10T15:55:12+00:00",
-      "opinion": false,
-      "image": "https://images.handelsblatt.com/XPUdTv7pFFvX/cover/900/506/0/0/481/0/0.5/0.5/archiv-16.03.2023-nordrhein-westfalen-warstein-ein-gabelstapler-ist-in-der-logistik-der-warstei.jpg"
-    },
-    {
-      "section": "wirtschaft",
-      "headline": "Gas: Betreiber von Speichern warnen vor Engpässen bei extremer Kälte",
-      "source": "Spiegel",
-      "country": "DE",
-      "url": "https://www.spiegel.de/wirtschaft/service/gas-betreiber-von-speichern-warnen-vor-engpaessen-bei-extremer-kaelte-a-036cd1fc-eb5e-4092-8112-14360e310bb1",
-      "time": "2026-11-10T07:20:00+00:00",
-      "opinion": false,
-      "image": "https://cdn.prod.www.spiegel.de/images/6c0915e6-5dcc-4964-a854-4f42de3d54f1_w520_r2.08_fpx50_fpy74.jpg"
-    },
-    {
-      "section": "politik",
-      "headline": "Türkei: Mitarbeiterin der Böll-Stiftung wegen Spionageverdachts festgenommen",
-      "source": "Spiegel",
-      "country": "DE",
-      "url": "https://www.spiegel.de/ausland/tuerkei-mitarbeiterin-der-boell-stiftung-wegen-spionageverdacht-festgenommen-a-bfbe2bd7-0af4-4809-8b19-6d117ea4584d",
-      "time": "2026-11-10T18:30:00+00:00",
-      "opinion": false,
-      "image": "https://cdn.prod.www.spiegel.de/images/ea85dc81-b5c7-433f-9f91-4eaf9d3c1220_w520_r2.08_fpx62.71_fpy50.jpg"
-    },
-    {
-      "section": "wirtschaft",
-      "headline": "BMW lässt wegen fehlender Teile Schichten ausfallen",
-      "source": "Spiegel",
-      "country": "DE",
-      "url": "https://www.spiegel.de/wirtschaft/unternehmen/bmw-laesst-wegen-fehlender-teile-schichten-ausfallen-a-66f93bec-da2a-4d6d-91fb-ba416decf035",
-      "time": "2026-11-10T10:45:00+00:00",
-      "opinion": false,
-      "image": "https://cdn.prod.www.spiegel.de/images/1b2ba50c-c78d-448e-8e79-12d7ee78b172_w520_r2.08_fpx65.32_fpy49.99.jpg"
-    },
-    {
-      "section": "wirtschaft",
-      "headline": "Kalifornien : Wähler lehnen Milliardärssteuer ab",
-      "source": "Spiegel",
-      "country": "DE",
-      "url": "https://www.spiegel.de/wirtschaft/unternehmen/kalifornien-waehler-lehnen-milliardaerssteuer-ab-a-8158b657-1bb4-4248-9b65-d282c08da566",
-      "time": "2026-11-10T08:14:00+00:00",
-      "opinion": false,
-      "image": "https://cdn.prod.www.spiegel.de/images/63fcea70-6653-448f-a123-f126871229d6_w520_r2.08_fpx65.32_fpy49.99.jpg"
-    },
-    {
-      "section": "politik",
-      "headline": "Schüsse in Hamburg: Verdächtiger tot, weitere Leichen in Süddeutschland",
-      "source": "Tagesschau",
-      "country": "DE",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/hamburg-elbphilharmonie-etlingen-schuesse-100.html",
-      "time": "2026-11-10T17:27:27+00:00",
-      "opinion": false,
-      "image": "https://images.tagesschau.de/image/1137857d-221d-494e-bec6-82693aa635de/AAABocZQjrk/AAABnSSvrFg/16x9-big/elbphilharmonie-204.jpg?width=1024"
-    },
-    {
-      "section": "politik",
-      "headline": "Knapp 7000 Migranten in einer Woche: Die Kanarischen Inseln rufen den Notstand aus",
-      "source": "NZZ",
-      "country": "CH",
-      "url": "https://www.nzz.ch/international/knapp-7000-migranten-in-einer-woche-die-kanarischen-inseln-rufen-den-notstand-aus-ld.10058957",
-      "time": "2026-11-10T14:00:00+00:00",
-      "opinion": false,
-      "image": "https://img-msp-prod.nzz.ch/2026/11/03/ba556440-69ff-4a95-b3b7-c2fe247383c6.jpg?width=900&height=900&fit=bounds"
-    },
-    {
-      "section": "wirtschaft",
-      "headline": "Chinas Handelsüberschuss überschreitet erneut die Billionenmarke",
-      "source": "Tagesschau",
-      "country": "DE",
-      "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/china-export-handel-100.html",
-      "time": "2026-11-10T08:53:53+00:00",
-      "opinion": false,
-      "image": "https://images.tagesschau.de/image/71d2388e-390a-400e-9756-14009daaebc1/AAABocRqjSo/AAABnSSvrFg/16x9-big/china-1326.jpg?width=1024"
-    },
-    {
-      "section": "wirtschaft",
-      "headline": "Infineon: Chiphersteller Infineon schließt Geschäftsjahr mit Gewinnzuwachs",
-      "source": "Zeit",
-      "country": "DE",
-      "url": "https://www.zeit.de/wirtschaft/2026-11/infineon-kuenstliche-intelligenz-gewinn-rechenzentren-dax-gxe",
-      "time": "2026-11-10T11:30:21+00:00",
-      "opinion": false,
-      "image": "https://img.zeit.de/wirtschaft/2026-11/infineon-kuenstliche-intelligenz-gewinn-rechenzentren-dax-gxe-foto-1/wide__820x461"
-    },
-    {
-      "section": "wirtschaft",
-      "headline": "Weil Gotshal Partners Vote to Shut Down After Nearly a Century",
+      "headline": "US Soldier Is Arrested in UK on Suspicion of Spying for Russia",
       "source": "New York Times",
       "country": "US",
-      "url": "https://www.nytimes.com/2026/11/10/business/weil-gotshal-shut-down.html",
-      "time": "2026-11-10T18:02:59+00:00",
+      "url": "https://www.nytimes.com/2026/11/10/world/europe/uk-us-army-arrest-espionage-russia.html",
+      "time": "2026-11-12T03:07:34+00:00",
       "opinion": false,
-      "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10biz-ai-insurance-02-gkpt/10biz-ai-insurance-02-gkpt-mediumSquareAt3X.jpg"
-    },
-    {
-      "section": "politik",
-      "headline": "Regierungsbildung in Berlin: Berliner Linke-Führungsriege will Emde aus Fraktion werfen",
-      "source": "Handelsblatt",
-      "country": "DE",
-      "url": "https://www.handelsblatt.com/politik/deutschland/regierungsbildung-in-berlin-berliner-linke-fuehrungsriege-will-emde-aus-fraktion-werfen/100268871.html",
-      "time": "2026-11-10T17:45:38+00:00",
-      "opinion": false,
-      "image": "https://images.handelsblatt.com/XF3eT6bQZLz4/cover/900/506/0/0/106/106/0.5/0.5/vanessa-emde.jpg"
+      "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10int-uk-soldier-1-qlpj/10int-uk-soldier-1-qlpj-mediumSquareAt3X.jpg"
     },
     {
       "section": "wirtschaft",
-      "headline": "Künstliche Intelligenz: Andrea Nahles rechnet mit Verlust von 800.000 Jobs",
+      "headline": "Sanierungsstau: Sanierungsstau beim Pünktlichkeitssieger: Schweizer Bahn fürchtet „deutsche Verhältnisse“",
+      "source": "Handelsblatt",
+      "country": "DE",
+      "url": "https://www.handelsblatt.com/unternehmen/dienstleister/sanierungsstau-schweizer-bahn-fuerchtet-deutsche-verhaeltnisse/100267678.html",
+      "time": "2026-11-12T03:03:12+00:00",
+      "opinion": false,
+      "image": "https://images.handelsblatt.com/OH1e-MJf33BL/cover/900/506/1086/346/691/715/0.5/0.5/eisenbahn-passagierzug-vom-typ-stadler-giruno-der-schweizerische-bundesbahnen-sbb-am-berg-grosser-my.jpg"
+    },
+    {
+      "section": "wirtschaft",
+      "headline": "BMW & Skoda: Nach Angriffen in der Ukraine – Autoindustrie fehlen erneut Kabelbäume",
+      "source": "Handelsblatt",
+      "country": "DE",
+      "url": "https://www.handelsblatt.com/unternehmen/industrie/bmw-skoda-nach-angriffen-in-der-ukraine-autoindustrie-fehlen-kabelbaeume/100268739.html",
+      "time": "2026-11-12T02:59:38+00:00",
+      "opinion": false,
+      "image": "https://images.handelsblatt.com/7wHaGyJ7EnmI/cover/900/506/0/0/50/151/0.5/0.5/kabelbaumfertigung-in-skodas-stammwerk-in-mlada-boleslav.jpg"
+    },
+    {
+      "section": "politik",
+      "headline": "USA: US-Soldat rügt Verteidigungsminister Hegseth auf Ehrenfriedhof",
       "source": "Spiegel",
       "country": "DE",
-      "url": "https://www.spiegel.de/wirtschaft/unternehmen/kuenstliche-intelligenz-andrea-nahles-rechnet-mit-verlust-von-800-000-jobs-a-64556960-bdcf-4d85-becc-93ef14bb937e",
-      "time": "2026-11-10T10:41:00+00:00",
+      "url": "https://www.spiegel.de/ausland/us-soldat-ruegt-gruppe-um-verteidigungsminister-hegseth-in-voller-lautstaerke-a-308d4589-97a3-402a-b0c3-6ea575133714",
+      "time": "2026-11-12T02:45:00+00:00",
       "opinion": false,
-      "image": "https://cdn.prod.www.spiegel.de/images/9271125d-12ad-401f-ad42-c6d52a29a5d1_w520_r2.08_fpx61.33_fpy50.jpg"
+      "image": "https://cdn.prod.www.spiegel.de/images/1c83b19b-9eb8-40c4-b484-a65758f41ccc_w520_r2.08_fpx33.33_fpy49.99.jpg"
     },
     {
       "section": "politik",
-      "headline": "Arrests made in Mohamed Al Fayed probe in France, police say",
+      "headline": "Offene Wunden: Der Papst und die Missbrauchsskandale",
+      "source": "Tagesschau",
+      "country": "DE",
+      "url": "https://www.tagesschau.de/ausland/amerika/papst-peru-missbrauch-100.html",
+      "time": "2026-11-12T02:33:13+00:00",
+      "opinion": false,
+      "image": "https://images.tagesschau.de/image/0af1330f-b407-4931-a2ba-341f399c78d5/AAABoc1PEU4/AAABnSSvrFg/16x9-big/papst-leo-peru-100.jpg?width=1024"
+    },
+    {
+      "section": "politik",
+      "headline": "Dunkelfeldstudie: Grüne fordern Erhebung zu sexualisiertem Fehlverhalten in der Polizei",
+      "source": "Zeit",
+      "country": "DE",
+      "url": "https://www.zeit.de/politik/deutschland/2026-11/sexismus-polizei-bundespolizei-bka-irene-mihalic-uli-groetsch",
+      "time": "2026-11-12T02:11:46+00:00",
+      "opinion": false,
+      "image": "https://img.zeit.de/politik/deutschland/2026-11/sexismus-polizei-bundespolizei-bka-irene-mihalic-uli-groetsch-foto-1/wide__820x461"
+    },
+    {
+      "section": "politik",
+      "headline": "Warnung an USA: Iran droht mit Angriffen auf US-Stützpunkte auch in Europa",
+      "source": "Handelsblatt",
+      "country": "DE",
+      "url": "https://www.handelsblatt.com/politik/international/warnung-an-usa-iran-droht-mit-angriffen-auf-us-stuetzpunkte-auch-in-europa/100269249.html",
+      "time": "2026-11-11T23:41:53+00:00",
+      "opinion": false,
+      "image": "https://images.handelsblatt.com/aKQ0iBxMRXnD/cover/900/506/0/0/107/106/0.5/0.5/iran-krieg-strasse-von-hormus.jpg"
+    },
+    {
+      "section": "politik",
+      "headline": "Bombendrohungen an Tausenden Schulen in Italien und Großbritannien",
+      "source": "Tagesschau",
+      "country": "DE",
+      "url": "https://www.tagesschau.de/ausland/europa/bombendrohungen-italien-100.html",
+      "time": "2026-11-11T19:13:07+00:00",
+      "opinion": false,
+      "image": "https://images.tagesschau.de/image/2922d359-4a44-4853-a7eb-d1205eadf710/AAABoctdHF0/AAABnSSvrFg/16x9-big/polizei-schule-rom-100.jpg?width=1024"
+    },
+    {
+      "section": "politik",
+      "headline": "Familienministerin Prien plant Einkommensgrenze beim Unterhaltsvorschuss",
+      "source": "Tagesschau",
+      "country": "DE",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/prien-unterhaltsvorschuss-gesetzentwurf-100.html",
+      "time": "2026-11-11T18:01:47+00:00",
+      "opinion": false,
+      "image": "https://images.tagesschau.de/image/bf49d1d8-09c6-4e67-a91c-3c7420d908a7/AAABoctarJo/AAABnSSvrFg/16x9-big/prien-160.jpg?width=1024"
+    },
+    {
+      "section": "politik",
+      "headline": "Kündigungsschutz für Spitzenverdiener: Bundesarbeitsministerium will Kündigungsschutz frühestens 2028 lockern",
+      "source": "Zeit",
+      "country": "DE",
+      "url": "https://www.zeit.de/politik/deutschland/2026-11/kuendigungsschutz-spitzenverdiener-arbeitsrecht-reform-spd-cdu",
+      "time": "2026-11-11T17:50:12+00:00",
+      "opinion": false,
+      "image": "https://img.zeit.de/politik/deutschland/2026-11/kuendigungsschutz-spitzenverdiener-arbeitsrecht-reform-spd-cdu-foto-1/wide__820x461"
+    },
+    {
+      "section": "politik",
+      "headline": "Niedersachsen: Gericht weist Eilanträge gegen Fertigung russischer Brennelemente ab",
+      "source": "Zeit",
+      "country": "DE",
+      "url": "https://www.zeit.de/politik/deutschland/2026-11/niedersachsen-brennelemente-lingen-atom-rosatom-reaktoren-russland",
+      "time": "2026-11-11T17:12:06+00:00",
+      "opinion": false,
+      "image": "https://img.zeit.de/politik/deutschland/2026-11/niedersachsen-brennelemente-lingen-atom-rosatom-reaktoren-russland-bild/wide__820x461"
+    },
+    {
+      "section": "politik",
+      "headline": "Bundeskabinett beschließt Aufbau einer Gasreserve",
+      "source": "Tagesschau",
+      "country": "DE",
+      "url": "https://www.tagesschau.de/inland/gasreserve-126.html",
+      "time": "2026-11-11T16:38:02+00:00",
+      "opinion": false,
+      "image": "https://images.tagesschau.de/image/0616c17f-f47f-4ec4-99f3-c409b73d5d2f/AAABocuKlTw/AAABnSSvrFg/16x9-big/reiche-248.jpg?width=1024"
+    },
+    {
+      "section": "politik",
+      "headline": "Integrationsbericht: „Nicht alle Kinder haben die gleichen Startbedingungen“",
+      "source": "FAZ",
+      "country": "DE",
+      "url": "https://www.faz.net/aktuell/politik/inland/integrationsbericht-mehrheit-der-eingewanderten-fuehlt-sich-deutschland-zugehoerig-201671915.html",
+      "time": "2026-11-11T15:19:35+00:00",
+      "opinion": false,
+      "image": "https://media0.faz.net/image/a31323ba4456/w6000h3375x0y278/202611/c46f12bc-ea10-4338-816a-0bc1bfc251e0/die-integrationsbeauftragte.webp"
+    },
+    {
+      "section": "politik",
+      "headline": "Autoritarismus-Studie in Deutschland: Zustimmung für Demokratie sinkt auf Tiefstwert",
+      "source": "Spiegel",
+      "country": "DE",
+      "url": "https://www.spiegel.de/politik/deutschland/autoritarismus-studie-in-deutschland-zustimmung-fuer-demokratie-sinkt-auf-tiefstwert-a-8d5f7504-e0aa-4714-be3e-829877a6238b",
+      "time": "2026-11-11T10:45:00+00:00",
+      "opinion": false,
+      "image": "https://cdn.prod.www.spiegel.de/images/8c33e001-0edf-4cbe-a7ae-d8d34bca6f64_w520_r2.08_fpx58_fpy45.jpg"
+    },
+    {
+      "section": "wirtschaft",
+      "headline": "Geldwäsche: Banken und Sparkassen bündeln Kräfte gegen Schwarzgeld",
+      "source": "Spiegel",
+      "country": "DE",
+      "url": "https://www.spiegel.de/wirtschaft/geldwaesche-banken-und-sparkassen-buendeln-kraefte-gegen-schwarzgeld-a-1a4a8fef-085a-4f68-a5b5-9e7129c28b13",
+      "time": "2026-11-11T09:20:00+00:00",
+      "opinion": false,
+      "image": "https://cdn.prod.www.spiegel.de/images/560b4b21-c9c4-4528-a967-757e8e739aa3_w520_r2.08_fpx68.69_fpy45.jpg"
+    },
+    {
+      "section": "politik",
+      "headline": "Zahl der Kriegsdienstverweigerer steigt weiter deutlich",
+      "source": "Tagesschau",
+      "country": "DE",
+      "url": "https://www.tagesschau.de/inland/kriegsdienstverweigerer-steigend-100.html",
+      "time": "2026-11-11T05:56:45+00:00",
+      "opinion": false,
+      "image": "https://images.tagesschau.de/image/90e033e0-defd-4b4b-bf51-40bb81c39473/AAABmQ4VB0k/AAABnSSvrFg/16x9-big/bundeswehr-jacken-100.jpg?width=1024"
+    },
+    {
+      "section": "politik",
+      "headline": "Bundeswehr - sexuelle Belästigung: Dunkelfeldstudie liefert erschütternde Zahlen",
+      "source": "Spiegel",
+      "country": "DE",
+      "url": "https://www.spiegel.de/politik/deutschland/bundeswehr-sexuelle-belaestigung-dunkelfeldstudie-liefert-erschuetternde-zahlen-a-96511e9a-1184-4cfa-8485-6fc6ceb1a5da",
+      "time": "2026-11-11T04:48:00+00:00",
+      "opinion": false,
+      "image": "https://cdn.prod.www.spiegel.de/images/9bc86e86-48f5-4700-b826-047498edd195_w520_r2.08_fpx42.29_fpy54.98.jpg"
+    },
+    {
+      "section": "politik",
+      "headline": "Famed ship SS United States sunk off coast of Florida",
       "source": "BBC",
       "country": "UK",
-      "url": "https://www.bbc.co.uk/news/articles/ck1wvwyrd4ywo",
-      "time": "2026-11-10T16:19:48+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o",
+      "time": "2026-11-12T04:03:13+00:00",
       "opinion": false,
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/1966/live/79e95480-dcfc-11f1-a701-fddedf244c16.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/5661/live/7c6e9130-ddeb-11f1-9204-cdcddf7d901c.jpg"
     },
     {
       "section": "politik",
-      "headline": "UK Privy Council overrules Trinidad and Tobago gay sex law",
-      "source": "Deutsche Welle",
-      "country": "DE",
-      "url": "https://www.dw.com/en/uk-privy-council-overrules-trinidad-and-tobago-gay-sex-law/a-79912163",
-      "time": "2026-11-10T19:21:00+00:00",
+      "headline": "EU growth needs deeper markets and global capital",
+      "source": "Politico Europe",
+      "country": "EU",
+      "url": "https://www.politico.eu/sponsored-content/eu-growth-needs-deeper-markets-and-global-capital/",
+      "time": "2026-11-12T04:00:00+00:00",
       "opinion": false,
       "image": null
     }
