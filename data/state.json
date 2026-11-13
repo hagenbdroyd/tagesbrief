@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T07:12:35+01:00",
+  "updatedAt": "2026-11-13T22:27:30+01:00",
   "morningPush": "2026-11-13",
   "breaking": [
     {
@@ -34,6 +34,31 @@
       "image": {
         "url": "https://images.tagesschau.de/image/62a459a4-de47-412c-bc99-10728c9a25e5/AAABodAPyYk/AAABnSSvrFg/16x9-big/huang-120.jpg?width=1024",
         "source": "Tagesschau"
+      },
+      "model": "gemini-3.6-flash"
+    },
+    {
+      "id": "e2026111322270",
+      "time": "2026-11-13T21:19:36+00:00",
+      "pushedAt": "2026-11-13T22:27:30+01:00",
+      "headline": "US-Luftfahrtbehörde FAA stoppt Flugverkehr in den gesamten USA",
+      "summary": "Die FAA hat den gesamten zivilen Flugverkehr in den Vereinigten Staaten vorübergehend gestoppt. Die Behörde nannte außergewöhnliche Umstände und Sicherheitsgründe für die Maßnahme.",
+      "reason": "Unerwartete, landesweite Stilllegung des US-Luftraums mit erheblichen globalen Auswirkungen.",
+      "sources": [
+        {
+          "name": "Zeit",
+          "country": "DE",
+          "url": "https://www.zeit.de/politik/ausland/2026-11/usa-flugverkehr-stopp-faa-luftfahrtbehoerde"
+        },
+        {
+          "name": "Handelsblatt",
+          "country": "DE",
+          "url": "https://www.handelsblatt.com/politik/international/usa-usluftfahrtbehoerde-stoppt-flugverkehr-im-gesamten-land/100269817.html"
+        }
+      ],
+      "image": {
+        "url": "https://img.zeit.de/administratives/eilmeldung/fallback-bild/wide__820x461",
+        "source": "Zeit"
       },
       "model": "gemini-3.6-flash"
     }
