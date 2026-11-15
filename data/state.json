@@ -1,29 +1,34 @@
 {
-  "updatedAt": "2026-11-15T07:12:27+01:00",
+  "updatedAt": "2026-11-15T23:42:32+01:00",
   "morningPush": "2026-11-15",
   "breaking": [
     {
-      "id": "e2026111322270",
-      "time": "2026-11-13T21:19:36+00:00",
-      "pushedAt": "2026-11-13T22:27:30+01:00",
-      "headline": "US-Luftfahrtbehörde FAA stoppt Flugverkehr in den gesamten USA",
-      "summary": "Die FAA hat den gesamten zivilen Flugverkehr in den Vereinigten Staaten vorübergehend gestoppt. Die Behörde nannte außergewöhnliche Umstände und Sicherheitsgründe für die Maßnahme.",
-      "reason": "Unerwartete, landesweite Stilllegung des US-Luftraums mit erheblichen globalen Auswirkungen.",
+      "id": "e2026111523420",
+      "time": "2026-11-15T20:44:43+00:00",
+      "pushedAt": "2026-11-15T23:42:32+01:00",
+      "headline": "Estland schließt nach Anschlag alle Grenzen zu Russland",
+      "summary": "Estland hat angekündigt, ab dem 1. Dezember alle drei Grenzübergänge nach Russland zu schließen. Die Regierung reagiert damit auf einen mutmaßlichen Sabotageangriff russischer Agenten auf einen estnischen Drohnenhersteller.",
+      "reason": "Machtwechsel/Sturz nicht ganz, aber eine bedeutende wendungsreiche diplomatische/sicherheitspolitische Schließung aller Grenzen eines NATO-Staates zu Russland nach Sabotageakt.",
       "sources": [
         {
-          "name": "Zeit",
-          "country": "DE",
-          "url": "https://www.zeit.de/politik/ausland/2026-11/usa-flugverkehr-stopp-faa-luftfahrtbehoerde"
+          "name": "Guardian",
+          "country": "UK",
+          "url": "https://www.theguardian.com/world/2026/nov/15/estonia-to-close-all-border-crossings-with-russia-after-attack-on-drone-maker"
         },
         {
-          "name": "Handelsblatt",
+          "name": "Financial Times",
+          "country": "UK",
+          "url": "https://www.ft.com/content/4dbb2c30-1649-4d0f-b1b6-3ca91c64e250?syn-25a6b1a6=1"
+        },
+        {
+          "name": "Tagesschau",
           "country": "DE",
-          "url": "https://www.handelsblatt.com/politik/international/usa-usluftfahrtbehoerde-stoppt-flugverkehr-im-gesamten-land/100269817.html"
+          "url": "https://www.tagesschau.de/ausland/europa/estland-russland-grenze-geschlossen-100.html"
         }
       ],
       "image": {
-        "url": "https://img.zeit.de/administratives/eilmeldung/fallback-bild/wide__820x461",
-        "source": "Zeit"
+        "url": "https://i.guim.co.uk/img/media/871b52d53845d358d898e60304c0661c3bf28013/293_0_4672_3738/master/4672.jpg?width=700&quality=85&auto=format&fit=max&s=722958ed79c49e6d50dd5b7618fe258d",
+        "source": "Guardian"
       },
       "model": "gemini-3.6-flash"
     }
