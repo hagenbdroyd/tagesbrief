@@ -1,9 +1,9 @@
 {
-  "date": "2026-11-15",
-  "generatedAt": "2026-11-15T05:11:32+01:00",
+  "date": "2026-11-16",
+  "generatedAt": "2026-11-16T05:11:32+01:00",
   "notice": null,
   "aiModel": "gemini-3.6-flash",
-  "push": "Selenskyj: USA schlagen Ukraine NATO-Beitritt für Donbass-Verzicht vor",
+  "push": "Dritter US-Flugzeugträger erreicht Nahen Osten nach weiteren Angriffen",
   "breaking": [],
   "sections": [
     {
@@ -12,162 +12,162 @@
       "items": [
         {
           "id": "p1",
-          "headline": "USA schlagen Ukraine laut Selenskyj NATO-Beitritt vor",
-          "summary": "Nach Angaben des ukrainischen Präsidenten Wolodymyr Selenskyj haben US-Verhandler einen NATO-Beitritt der Ukraine im Gegenzug für einen Rückzug aus dem Donbass ins Spiel gebracht. Selenskyj stellte in Aussicht, die Frage unter bestimmten Bedingungen per Referendum abstimmen zu lassen. Die US-Seite hat die Angaben bisher nicht bestätigt.",
-          "perspectives": "Während Handelsblatt und Tagesschau die Aussagen Selenskyjs im Detail wiedergeben, betont die BBC unter Berufung auf einen US-Vertreter, dass lediglich viele verschiedene Ideen diskutiert würden. Die Financial Times hebt hervor, dass Washington die Bedingungen für ein Kriegeende auslotet und Selenskyj ein Referendum ins Spiel brachte.",
+          "headline": "Dritter US-Flugzeugträger erreicht den Nahen Osten",
+          "summary": "Die USA haben mit der USS Theodore Roosevelt einen dritten Flugzeugträger in den Nahen Osten verlegt. Zeitgleich griff der Iran nach eigenen Angaben erneut einen US-Stützpunkt in Bahrain an. Zudem zogen sich jemenitische Truppen von der Meerenge Bab al-Mandab zurück.",
+          "perspectives": "Tagesschau und Guardian berichten über die Angriffe des Iran auf den US-Stützpunkt in Bahrain. Spiegel und FAZ heben das Eintreffen des Flugzeugträgers hervor. Die FAZ verweist ergänzend auf den Truppenrückzug jemenitischer Kräfte im Bereich der Meerenge.",
           "sources": [
             {
-              "name": "Handelsblatt",
+              "name": "Spiegel",
               "country": "DE",
-              "url": "https://www.handelsblatt.com/politik/international/ukraine-usa-schlagen-laut-selenskyj-donbass-rueckzug-gegen-nato-beitritt-vor/27982126.html"
+              "url": "https://www.spiegel.de/ausland/iran-krieg-dritter-us-flugzeugtraeger-erreicht-nahen-osten-a-97da317f-1d1c-41c8-ae22-22a908b3b203"
             },
-            {
-              "name": "BBC",
-              "country": "UK",
-              "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo"
-            },
-            {
-              "name": "Tagesschau",
-              "country": "DE",
-              "url": "https://www.tagesschau.de/ausland/europa/ukraine-usa-nato-gebietsverzicht-100.html"
-            },
-            {
-              "name": "Financial Times",
-              "country": "UK",
-              "url": "https://www.ft.com/content/24319e2d-1a34-4a72-8c91-008d974234f9?syn-25a6b1a6=1"
-            }
-          ],
-          "time": "2026-11-14T11:41:15+00:00",
-          "image": {
-            "url": "https://images.handelsblatt.com/tNSOAxJjxzDu/cover/900/506/0/0/144/170/0.5/0.5/praesident-wolodymyr-selenskyj-beim-eu-gipfel-in-dublin-wolodymyr-selenskyj-trifft-us-unterhaendler.jpg",
-            "source": "Handelsblatt"
-          }
-        },
-        {
-          "id": "p2",
-          "headline": "Trump plant Dreiertreffen mit Putin und Xi in China",
-          "summary": "Das Weiße Haus hat ein geplantes Treffen von US-Präsident Donald Trump mit Chinas Staatschef Xi Jinping und Russlands Präsident Wladimir Putin in China bestätigt. Das Treffen soll in der kommenden Woche stattfinden. Auf der Tagesordnung steht nach US-Angaben unter anderem die Reduzierung von Nuklearwaffen.",
-          "perspectives": "Die New York Times berichtet, dass Trump auch den Krieg gegen den Iran thematisieren wolle, während der Ukraine-Krieg ausgespart bliebe. Die NZZ hebt hervor, dass die beteiligten Staatschefs mit unterschiedlichen Absichten in die Gespräche gehen. Die BBC betont die Aussage einer US-Sprecherin zur Reduzierung von Atomwaffen.",
-          "sources": [
-            {
-              "name": "New York Times",
-              "country": "US",
-              "url": "https://www.nytimes.com/2026/11/13/us/politics/trump-putin-xi-china-nuclear-proliferation.html"
-            },
-            {
-              "name": "Handelsblatt",
-              "country": "DE",
-              "url": "https://www.handelsblatt.com/politik/international/treffen-am-rande-des-gipfels-trump-trifft-xi-und-putin-in-china/100269826.html"
-            },
-            {
-              "name": "BBC",
-              "country": "UK",
-              "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do"
-            },
-            {
-              "name": "NZZ",
-              "country": "CH",
-              "url": "https://www.nzz.ch/international/dreiergipfel-in-shenzhen-peking-organisiert-ein-treffen-zwischen-donald-trump-xi-jinping-und-wladimir-putin-ld.10063910"
-            }
-          ],
-          "time": "2026-11-14T12:33:24+00:00",
-          "image": {
-            "url": "https://static01.nyt.com/images/2026/11/13/multimedia/13dc-trilateral-meeting-kvtj/13dc-trilateral-meeting-kvtj-mediumSquareAt3X.jpg",
-            "source": "New York Times"
-          }
-        },
-        {
-          "id": "p3",
-          "headline": "Hubertus Heil kandidiert für den SPD-Vorsitz",
-          "summary": "Der frühere Bundesarbeitsminister Hubertus Heil hat seine Kandidatur für den Parteivorsitz der SPD angekündigt. Er kritisierte eine Profillosigkeit der Partei unter dem aktuellen Vorsitzenden Lars Klingbeil. Klingbeil erfährt gleichzeitig Unterstützung aus der SPD-Spitze für einen Verbleib im Amt.",
-          "perspectives": "Während die FAZ Heils Kritik an der akuten Profillosigkeit der SPD unter Klingbeil in den Vordergrund stellt, hebt die Zeit hervor, dass Bundespolitiker wie Carsten Schneider einen Wechsel an der Parteispitze ablehnen. Der Spiegel betont den heraufziehenden Machtkampf vor dem Parteitag im Januar.",
-          "sources": [
             {
               "name": "FAZ",
               "country": "DE",
-              "url": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-hubertus-heil-kandidiert-fuer-den-spd-vorsitz-faz-110093143.html"
-            },
-            {
-              "name": "Spiegel",
-              "country": "DE",
-              "url": "https://www.spiegel.de/politik/deutschland/spd-hubertus-heil-will-fuer-parteivorsitz-kandidieren-a-f9209fb9-0404-43be-b66d-b2207e7e6aaa"
-            },
-            {
-              "name": "Tagesschau",
-              "country": "DE",
-              "url": "https://www.tagesschau.de/inland/innenpolitik/heil-spd-vorsitz-kandidatur-100.html"
-            },
-            {
-              "name": "Zeit",
-              "country": "DE",
-              "url": "https://www.zeit.de/politik/deutschland/2026-11/spd-parteivorsitz-lars-klingbeil-bundesumweltminister-carsten-schneider"
-            }
-          ],
-          "time": "2026-11-14T18:12:45+00:00",
-          "image": {
-            "url": "https://media0.faz.net/image/f474bc8dbf96/w2048h1152x0y60/202611/d4137950-e8e7-4e37-b223-e47ea5e83b17/hubertus-heil-spd-im-april-in.webp",
-            "source": "FAZ"
-          }
-        },
-        {
-          "id": "p4",
-          "headline": "Ungarische Ermittler finden Millionen-Bargeld bei Ex-Minister",
-          "summary": "Bei Korruptionsermittlungen gegen einen früheren ungarischen Entwicklungsminister der Orbán-Regierung haben Behörden Bargeld in Millionenhöhe sichergestellt. Die Geldbündel waren in Wäldern vergraben sowie in Scheunen und Lagerhallen versteckt. Der Fund setzt die ungarische Regierungspartei unter politischen Druck.",
-          "perspectives": "Bei den Mengenangaben nennen die Medien unterschiedliche Zahlen: Handelsblatt, Tagesschau und Spiegel berichten von 17,7 beziehungsweise mehr als 17 Millionen Euro. Die NZZ gibt den Gesamtwert hingegen mit 16 Millionen Franken an.",
-          "sources": [
-            {
-              "name": "NZZ",
-              "country": "CH",
-              "url": "https://www.nzz.ch/international/vergraben-und-versteckt-ermittler-in-ungarn-finden-millionen-euro-die-spur-fuehrt-zu-einem-frueheren-minister-ld.10064198"
-            },
-            {
-              "name": "Handelsblatt",
-              "country": "DE",
-              "url": "https://www.handelsblatt.com/politik/international/orbans-ex-minister-im-wald-vergraben-ermittler-in-ungarn-finden-millionen-euro/100269922.html"
-            },
-            {
-              "name": "Tagesschau",
-              "country": "DE",
-              "url": "https://www.tagesschau.de/ausland/europa/ungarn-bargeldfund-sesztak-100.html"
-            },
-            {
-              "name": "Spiegel",
-              "country": "DE",
-              "url": "https://www.spiegel.de/ausland/ungarn-bei-korruptionsermittlungen-gegen-ex-minister-17-7-millionen-euro-sichergestellt-a-388f3d15-9839-401e-85c8-9ae015ee2c6b"
-            }
-          ],
-          "time": "2026-11-14T16:01:00+00:00",
-          "image": {
-            "url": "https://img-msp-prod.nzz.ch/2026/10/30/27c2cccd-f9ca-4aa8-b1c3-82f69d778a57.jpg?width=900&height=900&fit=bounds",
-            "source": "NZZ"
-          }
-        },
-        {
-          "id": "p5",
-          "headline": "Demokrat Kreiss-Tomkins gewinnt Gouverneurswahl in Alaska",
-          "summary": "Der Demokrat Jonathan Kreiss-Tomkins hat die Gouverneurswahl im US-Bundesstaat Alaska gewonnen. Er löst damit die bisherige republikanische Führung ab, da der bisherige Amtsinhaber Dunleavy nicht erneut antreten durfte. Es ist der erste Sieg der Demokraten in dem Bundesstaat seit fast drei Jahrzehnten.",
-          "perspectives": "Der Guardian hebt hervor, dass die Demokraten nun 30 US-Gouverneure stellen. Der Spiegel betont, dass Kreiss-Tomkins der bisher jüngste Gouverneur in der Geschichte des Bundesstaates wird, während das Handelsblatt herausstellt, dass die Demokraten den Posten erstmals seit 1998 erobern konnten.",
-          "sources": [
-            {
-              "name": "Spiegel",
-              "country": "DE",
-              "url": "https://www.spiegel.de/ausland/midterms-in-den-usa-demokrat-jonathan-kreiss-tomkins-gewinnt-gouverneurswahl-in-alaska-a-fb2cad4c-5ecc-438a-b9dd-76812d0a333d"
+              "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-nahost-jemenitische-armee-zieht-sich-von-bab-al-mandab-zurueck-faz-200583539.html"
             },
             {
               "name": "Guardian",
               "country": "UK",
-              "url": "https://www.theguardian.com/us-news/2026/nov/14/alaska-governor-democrat-jonathan-kreiss-tomkins-wins"
+              "url": "https://www.theguardian.com/world/2026/nov/15/iran-launches-drone-attacks-against-us-military-base-in-bahrain"
+            },
+            {
+              "name": "Tagesschau",
+              "country": "DE",
+              "url": "https://www.tagesschau.de/ausland/asien/iran-revolutionsgarde-angriff-bahrain-100.html"
+            }
+          ],
+          "time": "2026-11-15T11:21:27+00:00",
+          "image": {
+            "url": "https://cdn.prod.www.spiegel.de/images/ab7dad52-b12c-4634-bf12-b32a35c57fb6_w520_r2.08_fpx39.72_fpy50.jpg",
+            "source": "Spiegel"
+          }
+        },
+        {
+          "id": "p2",
+          "headline": "Estland schließt im Dezember alle Grenzen zu Russland",
+          "summary": "Estland wird ab dem 1. Dezember seine drei Grenzübergänge nach Russland schließen. Grund ist ein gescheiterter Brandanschlag auf eine estnische Drohnenfabrik. Die Regierung in Tallinn macht dafür russische Agenten und den Geheimdienst verantwortlich.",
+          "perspectives": "Tagesschau und Spiegel berichten, dass der Anschlag auf die Drohnenfabrik von russischen Agenten verübt wurde. Guardian betont, dass die estnische Premierministerin die Attacke mit der Unterstützung des Landes für die Ukraine in Verbindung bringt. Die Berichte stimmen in den Grundfakten überein.",
+          "sources": [
+            {
+              "name": "Guardian",
+              "country": "UK",
+              "url": "https://www.theguardian.com/world/2026/nov/15/estonia-to-close-all-border-crossings-with-russia-after-attack-on-drone-maker"
+            },
+            {
+              "name": "Tagesschau",
+              "country": "DE",
+              "url": "https://www.tagesschau.de/ausland/europa/estland-russland-grenze-geschlossen-100.html"
+            },
+            {
+              "name": "Spiegel",
+              "country": "DE",
+              "url": "https://www.spiegel.de/ausland/estland-regierung-will-grenzen-zu-russland-zum-1-dezember-schliessen-a-e6ae48a9-aa70-4399-bcbb-b27ce32d5819"
+            },
+            {
+              "name": "Zeit",
+              "country": "DE",
+              "url": "https://www.zeit.de/politik/ausland/2026-11/estland-grenzschliessung-russland-brandanschlag-drohnenfabrik"
+            }
+          ],
+          "time": "2026-11-15T16:00:05+00:00",
+          "image": {
+            "url": "https://i.guim.co.uk/img/media/871b52d53845d358d898e60304c0661c3bf28013/293_0_4672_3738/master/4672.jpg?width=700&quality=85&auto=format&fit=max&s=722958ed79c49e6d50dd5b7618fe258d",
+            "source": "Guardian"
+          }
+        },
+        {
+          "id": "p3",
+          "headline": "Hunderttausende demonstrieren in Prag für Medienfreiheit",
+          "summary": "In Prag haben hunderte Tausende Menschen gegen eine geplante Reform des öffentlich-rechtlichen Rundfunks demonstriert. Die tschechische Regierung will die Rundfunkgebühren streichen und die Sender aus dem Staatshaushalt finanzieren. Kritiker befürchten eine Beschneidung der Medienfreiheit.",
+          "perspectives": "Guardian berichtet von schätzungsweise 350.000 Demonstranten in Prag. FAZ und Handelsblatt betonen die Sorge vor staatlicher Einflussnahme auf den Rundfunk durch die Regierung. Zeit verweist darauf, dass sich der Protest auch gegen klandestine nächtliche Parlamentssitzungen richtet.",
+          "sources": [
+            {
+              "name": "Zeit",
+              "country": "DE",
+              "url": "https://www.zeit.de/politik/ausland/2026-11/tschechien-proteste-rechtspopulismus-rundfunk"
+            },
+            {
+              "name": "Guardian",
+              "country": "UK",
+              "url": "https://www.theguardian.com/world/2026/nov/15/czechia-protest-prague-media-freedom"
+            },
+            {
+              "name": "FAZ",
+              "country": "DE",
+              "url": "https://www.faz.net/aktuell/politik/ausland/massenprotest-in-prag-400-000-gegen-babiss-medienreform-accg-201685448.html"
             },
             {
               "name": "Handelsblatt",
               "country": "DE",
-              "url": "https://www.handelsblatt.com/politik/international/erstmals-seit-1998-demokrat-gewinnt-gouverneurswahl-in-alaska/100269916.html"
+              "url": "https://www.handelsblatt.com/politik/international/sorge-um-medien-riesendemo-gegen-umstrittene-medienreform-in-tschechien/100270017.html"
             }
           ],
-          "time": "2026-11-14T15:53:15+00:00",
+          "time": "2026-11-15T15:31:16+00:00",
           "image": {
-            "url": "https://cdn.prod.www.spiegel.de/images/73952536-7d52-4243-85a2-9ef3dd49530c_w520_r2.08_fpx52_fpy22.jpg",
-            "source": "Spiegel"
+            "url": "https://img.zeit.de/politik/ausland/2026-11/tschechien-proteste-rechtspopulismus-rundfunk-bild/wide__820x461",
+            "source": "Zeit"
+          }
+        },
+        {
+          "id": "p4",
+          "headline": "Hubertus Heil kandidiert für den SPD-Parteivorsitz",
+          "summary": "Arbeitsminister Hubertus Heil bewirbt sich um den Parteivorsitz der SPD. Er forderte, dass der Parteichef kein Ministeramt innehaben sollte, sprach Vizekanzler Lars Klingbeil jedoch seine Unterstützung aus. Damit ist die Debatte über die zukünftige Parteiführung offen eröffnet.",
+          "perspectives": "Handelsblatt ordnet Heils Schritt als Beginn eines Machtkampfs in der Partei ein. Tagesschau hebt hervor, dass Heil laut eigenen Angaben viel Zuspruch erhält, seine Doppelspitze aber noch offenließ. FAZ sieht in der Kandidatur eine weitere Festigung des Linksrucks der Partei.",
+          "sources": [
+            {
+              "name": "Tagesschau",
+              "country": "DE",
+              "url": "https://www.tagesschau.de/inland/innenpolitik/heil-spd-kandidatur-100.html"
+            },
+            {
+              "name": "Zeit",
+              "country": "DE",
+              "url": "https://www.zeit.de/politik/deutschland/2026-11/hubertus-heil-spd-vorsitz-klingbeil"
+            },
+            {
+              "name": "Handelsblatt",
+              "country": "DE",
+              "url": "https://www.handelsblatt.com/politik/deutschland/kandidaten-suche-machtkampf-in-spd-ist-eroeffnet-heil-tritt-fuer-vorsitz-an/100269975.html"
+            },
+            {
+              "name": "FAZ",
+              "country": "DE",
+              "url": "https://www.faz.net/aktuell/politik/inland/hubertus-heil-kandidiert-fuer-spd-vorsitz-muss-lars-klingbeil-weichen-201685017.html"
+            }
+          ],
+          "time": "2026-11-15T15:10:24+00:00",
+          "image": {
+            "url": "https://images.tagesschau.de/image/f962e541-2509-42bb-a115-4ea9044ea8ec/AAABoeA8Lts/AAABnSSvrFg/16x9-big/sendungsbild-1827956.jpg?width=1024",
+            "source": "Tagesschau"
+          }
+        },
+        {
+          "id": "p5",
+          "headline": "Papst fordert am Amazonas Schutz von Natur und Indigenen",
+          "summary": "Zum Abschluss seiner Südamerika-Reise hat Papst Leo XIV. die Anden und das Amazonasgebiet besucht. Er forderte Gerechtigkeit für ermordete Umweltschützer und mahnte strenge Grenzen für die Wirtschaft an. Zudem sprach er sich gegen Umweltzerstörung und soziale Ungleichheit aus.",
+          "perspectives": "Guardian hebt den Aufruf des Papstes zur Verfolgung von Verbrechen an Amazonasschützern hervor. Handelsblatt betont seine Aussage, wonach die Wirtschaft klare Schranken benötige. Tagesschau verweist auf die Kritik des Pontifex an sozialer Ungleichheit während seiner Besuche bei indigenen Gruppen.",
+          "sources": [
+            {
+              "name": "Tagesschau",
+              "country": "DE",
+              "url": "https://www.tagesschau.de/ausland/amerika/papst-suedamerikareise-100.html"
+            },
+            {
+              "name": "Guardian",
+              "country": "UK",
+              "url": "https://www.theguardian.com/world/2026/nov/16/pope-leo-speech-peru-justice-for-amazon-activists-environment"
+            },
+            {
+              "name": "Handelsblatt",
+              "country": "DE",
+              "url": "https://www.handelsblatt.com/politik/international/suedamerika-reise-papst-mahnt-am-amazonas-zu-umweltschutz/100270055.html"
+            }
+          ],
+          "time": "2026-11-15T23:26:04+00:00",
+          "image": {
+            "url": "https://images.tagesschau.de/image/8017afff-e03f-4606-8ea2-c0a176bf8019/AAABoeJgt80/AAABnSSvrFg/16x9-big/papst-peru-112.jpg?width=1024",
+            "source": "Tagesschau"
           }
         }
       ]
@@ -178,123 +178,126 @@
       "items": [
         {
           "id": "w1",
-          "headline": "SpaceX fängt Starship-Oberstufe an Startrampe auf",
-          "summary": "Dem Raumfahrtunternehmen SpaceX ist bei einem Testflug des megaraketen-Systems Starship das Auffangen der oberen Raketenstufe an der Startrampe gelungen. Dies gilt als wichtiger Schritt für die Entwicklung wiederverwendbarer Raketen. Die untere Stufe explodierte jedoch nach dem Manöver.",
-          "perspectives": "Während New York Times und Handelsblatt das erfolgreiche Auffangen der Oberstufe als historischen Meilenstein bezeichnen, verweist der Guardian darauf, dass der Booster explodierte. Die Tagesschau betont das langfristige Ziel von SpaceX, Raketen ähnlich wie zivile Verkehrsflugzeuge wieder einzusetzen.",
+          "headline": "Debatte über Rückkehr von Ex-Nvidia-Chef Jensen Huang",
+          "summary": "Nach dem Rücktritt von Nvidia-Chef Jensen Huang wegen einer Spionage- und Sexaffäre beraten Vertraute über eine Rückkehr an die Spitze. US-Finanzminister Bessent forderte dagegen einen externen Nachfolger. Auch Handelsminister Lutnick geriet wegen seiner Haltung zu Nvidia in die Kritik.",
+          "perspectives": "Financial Times und Handelsblatt berichten übereinstimmend über Beratungen zu Huangs Comeback. Handelsblatt zitiert zudem Finanzminister Bessent mit der Forderung nach einem neuen Chef von außerhalb. Spiegel stellt die Kritik an Handelsminister Lutnick wegen dessen Handhabung der Chip-Exporte in den Vordergrund.",
           "sources": [
             {
-              "name": "New York Times",
-              "country": "US",
-              "url": "https://www.nytimes.com/2026/11/14/science/spacex-starship-first-catch.html"
+              "name": "Spiegel",
+              "country": "DE",
+              "url": "https://www.spiegel.de/ausland/nvidia-affaere-handelsminister-lutnick-geraet-in-spionage-und-sexaffaere-unter-druck-a-d5a8dd06-a4ad-4dae-a33c-fb6a530f956a"
             },
             {
               "name": "Handelsblatt",
               "country": "DE",
-              "url": "https://www.handelsblatt.com/technik/forschung-innovation/raumfahrt-spacex-faengt-riesen-rakete-starship-erstmals-wieder-auf/100269942.html"
+              "url": "https://www.handelsblatt.com/technik/it-internet/nvidia-huang-offenbar-in-gespraechen-ueber-rueckkehr-an-nvidia-spitze/100270044.html"
             },
             {
-              "name": "Tagesschau",
-              "country": "DE",
-              "url": "https://www.tagesschau.de/ausland/amerika/space-x-rakete-rueckkehr-100.html"
-            },
-            {
-              "name": "Guardian",
+              "name": "Financial Times",
               "country": "UK",
-              "url": "https://www.theguardian.com/science/2026/nov/14/spacex-starship-double-catch"
+              "url": "https://www.ft.com/content/45383d86-33c4-4d99-86e5-5e058d3567c1?syn-25a6b1a6=1"
             }
           ],
-          "time": "2026-11-14T22:35:06+00:00",
+          "time": "2026-11-15T19:03:41+00:00",
           "image": {
-            "url": "https://static01.nyt.com/images/2026/11/14/multimedia/14starship-header-01-vgzq/14starship-header-01-vgzq-mediumSquareAt3X.jpg",
-            "source": "New York Times"
+            "url": "https://cdn.prod.www.spiegel.de/images/31b0cf9a-50d7-424d-9b09-ab574c484880_w520_r2.08_fpx65.39_fpy54.97.jpg",
+            "source": "Spiegel"
           }
         },
         {
           "id": "w2",
-          "headline": "Italien verhängt 805 Millionen Euro Strafe gegen Meta",
-          "summary": "Die italienische Datenschutzbehörde hat eine Geldbuße von 805 Millionen Euro gegen den Meta-Konzern verhängt. Grund ist der unbefugte Zugriff auf private Fotos und Videos von rund 20 Millionen Nutzerinnen und Nutzern in Italien. Das Unternehmen soll die Betroffenen nicht ausreichend darüber informiert haben.",
-          "perspectives": "Politico betont, dass es sich um das höchste jemals von der italienischen Datenschutzbehörde verhängte Bußgeld handelt. Das Handelsblatt hebt hervor, dass eine Beitrags-Vorschlagsfunktion auf Facebook den Datenzugriff auslöste, während die BBC die fehlende Nutzerinformation unterstreicht.",
-          "sources": [
-            {
-              "name": "BBC",
-              "country": "UK",
-              "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o"
-            },
-            {
-              "name": "Zeit",
-              "country": "DE",
-              "url": "https://www.zeit.de/politik/ausland/2026-11/meta-strafe-italien-datenschutz-facebook-app-garante"
-            },
-            {
-              "name": "Handelsblatt",
-              "country": "DE",
-              "url": "https://www.handelsblatt.com/unternehmen/it-medien/urteil-italien-verhaengt-805-millionen-euro-strafe-gegen-meta/100269913.html"
-            },
-            {
-              "name": "Politico Europe",
-              "country": "EU",
-              "url": "https://www.politico.eu/article/italy-hits-meta-with-e805m-fine-over-privacy-law-violation/"
-            }
-          ],
-          "time": "2026-11-14T14:03:27+00:00",
-          "image": {
-            "url": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/d6be/live/f51842e0-e041-11f1-88e1-eb4e155225b3.jpg",
-            "source": "BBC"
-          }
-        },
-        {
-          "id": "w3",
-          "headline": "Microsoft-Dienste laufen nach weltweiter Störung wieder",
-          "summary": "Nach einer massiven globalen IT-Störung bei Microsoft sind betroffene Dienste wie Outlook und Teams wieder vollständig einsatzbereit. Die Ausfälle hatten Unternehmen und Einrichtungen weltweit über 24 Stunden hinweg behindert. Laut Microsoft gibt es keine Hinweise auf einen Cyberangriff.",
-          "perspectives": "Die Tagesschau hebt hervor, dass laut Microsoft keine böswilligen Aktivitäten für den Ausfall verantwortlich waren. Die BBC berichtet über den vollständigen Abschluss der Behebungsarbeiten bei Outlook, Teams und Copilot, während das Handelsblatt auf die konkreten Behinderungen in Büroabläufen verweist.",
+          "headline": "Raketenabsturz zerstört 40 Satelliten für Amazons Netz",
+          "summary": "Eine Vulcan-Rakete von Boeing und Lockheed Martin ist zehn Minuten nach dem Start abgestürzt. Bei der missglückten Mission wurden 40 Satelliten für den Internetdienst Leo von Amazon zerstört. Der Aufbau des geplanten Konkurrenten zum Starlink-Netzwerk erleidet dadurch erneut Verzögerungen.",
+          "perspectives": "Handelsblatt verweist darauf, dass es der erste Fehlschlag für das Gemeinschaftsunternehmen von Boeing und Lockheed Martin ist. FAZ hebt hervor, dass sich der Zeitplan für den Aufbau des Starlink-Konkurrenten dadurch weiter nach hinten verschiebt.",
           "sources": [
             {
               "name": "Handelsblatt",
               "country": "DE",
-              "url": "https://www.handelsblatt.com/technik/it-internet/panne-mit-folgen-microsoft-bueroprogramme-laufen-nach-stoerung-wieder/100269858.html"
-            },
-            {
-              "name": "Tagesschau",
-              "country": "DE",
-              "url": "https://www.tagesschau.de/wirtschaft/unternehmen/microsoft-stoerung-behoben-100.html"
+              "url": "https://www.handelsblatt.com/technik/forschung-innovation/raumfahrt-absturz-von-boeing-lockheed-rakete-amazon-verliert-40-satelliten/100270060.html"
             },
             {
               "name": "FAZ",
               "country": "DE",
-              "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/microsoft-dienste-fuer-verbraucher-arbeiten-nach-mega-panne-wieder-accg-201679156.html"
-            },
-            {
-              "name": "BBC",
-              "country": "UK",
-              "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o"
+              "url": "https://www.faz.net/aktuell/wirtschaft/40-amazon-satelliten-bei-absturz-von-vulcan-rakete-zerstoert-accg-201686018.html"
             }
           ],
-          "time": "2026-11-14T06:42:27+00:00",
+          "time": "2026-11-16T00:57:40+00:00",
           "image": {
-            "url": "https://images.handelsblatt.com/MFfiFIPyvEPp/cover/900/506/0/0/125/125/0.5/0.5/microsoft-stoerung.jpg",
+            "url": "https://images.handelsblatt.com/rnMvVzgzBf94/cover/900/506/0/0/92/92/0.5/0.5/us-news-sci-ula-vulcan-launch-os-a-united-launch-alliance-vulcan-launches-from-cape-canaveral-space.jpg",
+            "source": "Handelsblatt"
+          }
+        },
+        {
+          "id": "w3",
+          "headline": "Japans Wirtschaft schrumpft überraschend im Sommerquartal",
+          "summary": "Das Bruttoinlandsprodukt Japans ist im dritten Quartal überraschend um 0,1 Prozent gesunken. Grund sind hohe Lebenshaltungskosten, die den privaten Konsum belasten. Zudem liefen im September staatliche Subventionen für Strom- und Heizkosten aus.",
+          "perspectives": "CNBC betont das Auslaufen der staatlichen Energiehilfen und den Einfluss der hohen Energiepreise durch den Iran-Krieg. Handelsblatt hebt die Zurückhaltung der japanischen Haushalte beim privaten Konsum hervor.",
+          "sources": [
+            {
+              "name": "CNBC",
+              "country": "US",
+              "url": "https://www.cnbc.com/2026/11/16/japan-q3-gdp-energy-oil-prices.html"
+            },
+            {
+              "name": "Handelsblatt",
+              "country": "DE",
+              "url": "https://www.handelsblatt.com/politik/international/asien-japans-wirtschaft-schrumpft-hohe-lebenshaltungskosten-belasten-konsum/100270056.html"
+            }
+          ],
+          "time": "2026-11-16T00:18:29+00:00",
+          "image": {
+            "url": "https://images.handelsblatt.com/oAmWbf4gulI5/cover/900/506/0/0/208/208/0.5/0.5/customers-shop-at-a-grocery-store-in-tokyo-japan-on-wednesday-dec.-29-2021.-japans-retail-sales.jpg",
             "source": "Handelsblatt"
           }
         },
         {
           "id": "w4",
-          "headline": "Staat steht vor vorzeitigem Ausstieg bei Meyer Werft",
-          "summary": "Die Bundesregierung bereitet laut Medienberichten einen vorzeitigen Ausstieg bei der Meyer Werft vor. Dem weltgrößten Reedereikonzern MSC soll ein Kaufrecht für die Werft eingeräumt werden. Eine Unterzeichnung des Vertrags soll bereits in der kommenden Woche erfolgen.",
-          "perspectives": "Das Handelsblatt beruft sich auf einen Medienbericht über den überraschend frühen staatlichen Ausstieg. Der Spiegel berichtet, dass dem MSC-Konzern ein Kaufrecht eingeräumt werden soll, während das Handelsblatt betont, dass MSC als weltgrößte Reederei übernimmt.",
+          "headline": "US-Flugverkehr soll sich nach Systemstörung erholen",
+          "summary": "Nach einem stundenlangen Startverbot in den USA rechnet das Verkehrsministerium ab Montag wieder mit einem normalen Flugbetrieb. Ursache waren Erneuerungsarbeiten am Kommunikationsnetz der Flugsicherung. US-Präsident Trump forderte vom Kongress Geld für eine Modernisierung der Systeme.",
+          "perspectives": "Zeit und Handelsblatt berichten über Trumps Forderung an den Kongress nach Modernisierungsmitteln. NZZ verweist auf Erneuerungsarbeiten an Kommunikationsrouten in Arkansas und Texas als Auslöser der Störung. FAZ betont die logistische Herausforderung, Flugzeuge und Besatzungen wieder an ihre Einsatzorte zu bringen.",
+          "sources": [
+            {
+              "name": "NZZ",
+              "country": "CH",
+              "url": "https://www.nzz.ch/international/vier-stunden-stillstand-flugstopp-stuerzt-die-usa-in-chaotische-zustaende-ld.10063833"
+            },
+            {
+              "name": "FAZ",
+              "country": "DE",
+              "url": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/sean-duffy-us-flugverkehr-normalisiert-sich-erst-am-montag-201685902.html"
+            },
+            {
+              "name": "Handelsblatt",
+              "country": "DE",
+              "url": "https://www.handelsblatt.com/politik/international/flugverkehr-tausende-fluege-gestrichen-trump-schaltet-sich-ein/100269925.html"
+            },
+            {
+              "name": "Zeit",
+              "country": "DE",
+              "url": "https://www.zeit.de/politik/ausland/2026-11/us-flugstopp-sean-duffy-flugsicherung-system-ausfall-gxe"
+            }
+          ],
+          "time": "2026-11-15T16:34:32+00:00",
+          "image": {
+            "url": "https://img-msp-prod.nzz.ch/2026/11/14/e934875d-945b-42cc-9dac-46825e867039.jpg?width=900&height=900&fit=bounds",
+            "source": "NZZ"
+          }
+        },
+        {
+          "id": "w5",
+          "headline": "Deutsche Industrie baut trotz Umsatzplus 140.000 Jobs ab",
+          "summary": "Trotz des dritten Quartalsplus in Folge fallen in der deutschen Industrie weiter Arbeitsplätze weg. Hauptgründe für den Umsatzanstieg sind unter anderem der KI-Boom. Dennoch sind vom Stellenabbau 140.000 Arbeitsplätze in allen Branchen betroffen.",
+          "perspectives": "Bisher nur von Handelsblatt berichtet.",
           "sources": [
             {
               "name": "Handelsblatt",
               "country": "DE",
-              "url": "https://www.handelsblatt.com/unternehmen/industrie/schiffbau-staat-steht-offenbar-vor-ausstieg-aus-meyer-werft/100269911.html"
-            },
-            {
-              "name": "Spiegel",
-              "country": "DE",
-              "url": "https://www.spiegel.de/wirtschaft/reederei-msc-steht-vor-kauf-der-meyer-werft-a-16726211-4815-4015-b4de-1f2db396e978"
+              "url": "https://www.handelsblatt.com/unternehmen/industrie/studie-industrie-steigert-umsatz-doch-140.000-jobs-fallen-weg/100270074.html"
             }
           ],
-          "time": "2026-11-14T09:56:00+00:00",
+          "time": "2026-11-16T03:49:05+00:00",
           "image": {
-            "url": "https://images.handelsblatt.com/lu9F2XRAu4eP/cover/900/506/0/0/206/205/0.5/0.5/11092024-niedersachsen-papenburg-arbeiter-gehen-zum-parkplatz-der-meyer-werft-die-milliardensc.jpeg",
+            "url": "https://images.handelsblatt.com/CZQZrUqhpRIc/cover/900/506/0/0/90/90/0.5/0.5/industrieanlagen.jpg",
             "source": "Handelsblatt"
           }
         }
@@ -303,204 +306,204 @@
   ],
   "more": [
     {
-      "section": "wirtschaft",
-      "headline": "US-Flugausfälle: „Das Schlimmste liegt hinter uns“",
-      "source": "FAZ",
-      "country": "DE",
-      "url": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/faa-panne-in-usa-flugverkehr-soll-sich-normalisieren-accg-201684028.html",
-      "time": "2026-11-15T03:38:13+00:00",
-      "opinion": false,
-      "image": "https://media0.faz.net/image/4214549b7793/w6720h3780x0y350/202611/27cacb38-bcbe-4923-a53e-5b798a98122a/in-los-angeles-warten.webp"
-    },
-    {
       "section": "politik",
-      "headline": "Javier Milei: Argentiniens Präsident will erneut kandidieren",
-      "source": "Spiegel",
-      "country": "DE",
-      "url": "https://www.spiegel.de/ausland/javier-milei-argentiniens-praesident-will-erneut-kandidieren-a-86350cf4-1147-4493-af63-aa78f65f3581",
-      "time": "2026-11-15T03:28:00+00:00",
-      "opinion": false,
-      "image": "https://cdn.prod.www.spiegel.de/images/64750b20-ea3b-4550-83bf-9e56a8dec118_w520_r2.08_fpx57.33_fpy50.jpg"
-    },
-    {
-      "section": "politik",
-      "headline": "Gaza: Israel tötet hochrangigen Hamas-Kommandeur",
-      "source": "Zeit",
-      "country": "DE",
-      "url": "https://www.zeit.de/politik/ausland/2026-11/gaza-samir-abu-junis-tot-hamas-kommandeur-luftangriff-israel-rafah-chan-junis",
-      "time": "2026-11-15T02:26:55+00:00",
-      "opinion": false,
-      "image": "https://img.zeit.de/politik/ausland/2026-11/gaza-samir-abu-junis-hamas-kommandeur-luftangriff-israel-rafah-chan-junis-foto-1/wide__820x461"
-    },
-    {
-      "section": "politik",
-      "headline": "UK government to consider changing age of consent after allegations against Russell Brand",
+      "headline": "Coles investigates cyber-attack and apologises to customers",
       "source": "Guardian",
       "country": "UK",
-      "url": "https://www.theguardian.com/law/2026/nov/15/uk-government-to-consider-changing-age-of-consent-after-allegations-against-russell-brand",
-      "time": "2026-11-15T00:17:14+00:00",
+      "url": "https://www.theguardian.com/business/2026/nov/16/coles-cyber-attack-incident-data",
+      "time": "2026-11-16T04:04:37+00:00",
       "opinion": false,
-      "image": "https://i.guim.co.uk/img/media/36adee7d1aea2fce8a66550d02c86c4385f1808c/238_0_2742_2194/master/2742.jpg?width=700&quality=85&auto=format&fit=max&s=0d792b817c61d35470c5201de168cd53"
+      "image": "https://i.guim.co.uk/img/media/5d6841423c15f03bccc940dc248768d8adba7384/780_0_6827_5464/master/6827.jpg?width=700&quality=85&auto=format&fit=max&s=e36010dcf8bc181cbce5b8190676c528"
+    },
+    {
+      "section": "politik",
+      "headline": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
+      "source": "BBC",
+      "country": "UK",
+      "url": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo",
+      "time": "2026-11-16T03:21:56+00:00",
+      "opinion": false,
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/e43a/live/4a4493e0-e169-11f1-89b7-092cfa4897c7.jpg"
+    },
+    {
+      "section": "politik",
+      "headline": "Australia’s national medical research body advises conditional use of puberty blockers for transgender children",
+      "source": "Guardian",
+      "country": "UK",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/16/australias-national-medical-research-body-advises-conditional-use-of-puberty-blockers-for-transgender-children",
+      "time": "2026-11-16T03:15:43+00:00",
+      "opinion": false,
+      "image": "https://i.guim.co.uk/img/media/8801c801d7196ac4f76fb6a202034282d022f081/305_0_3945_3156/master/3945.jpg?width=700&quality=85&auto=format&fit=max&s=9af00bc2f285fd529ea7a3d7a2783f88"
+    },
+    {
+      "section": "politik",
+      "headline": "MP Helen Haines’ first words since leaving hospital after alleged attack led to double amputation",
+      "source": "Guardian",
+      "country": "UK",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/16/mp-helen-haines-out-of-hospital-after-attack-leg-amputation-ntwnfb",
+      "time": "2026-11-16T03:10:22+00:00",
+      "opinion": false,
+      "image": "https://i.guim.co.uk/img/media/e095e9628412d9e77ce67e0af0ba05d71fc9eca9/698_0_5541_4435/master/5541.jpg?width=700&quality=85&auto=format&fit=max&s=776536298ce0b0c0b48796a779d997e7"
     },
     {
       "section": "wirtschaft",
-      "headline": "Family Dollar to Pay $63 Million Settlement for Overcharging Customers",
-      "source": "New York Times",
-      "country": "US",
-      "url": "https://www.nytimes.com/2026/11/14/business/family-dollar-overcharging-settlement.html",
-      "time": "2026-11-14T23:20:04+00:00",
-      "opinion": false,
-      "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14xp-settlement-topart-02-zvcf/14xp-settlement-topart-02-zvcf-mediumSquareAt3X.jpg"
-    },
-    {
-      "section": "politik",
-      "headline": "Abschiebezentren in Ruanda: Wie weit darf Deutschland bei Abschiebungen gehen?",
-      "source": "Zeit",
-      "country": "DE",
-      "url": "https://www.zeit.de/politik/2026-11/abschiebezentren-ruanda-eu-asyl-nachrichtenpodcast",
-      "time": "2026-11-14T23:10:06+00:00",
-      "opinion": false,
-      "image": "https://img.zeit.de/politik/deutschland/2026-11/abschiebezentren-ruanda-eu-asyl-nachrichtenpodcast-bild/wide__820x461"
-    },
-    {
-      "section": "politik",
-      "headline": "Demonstrationen: Mehr als 100.000 Menschen protestieren in Frankreich",
-      "source": "Zeit",
-      "country": "DE",
-      "url": "https://www.zeit.de/politik/ausland/2026-11/proteste-frankreich-paris-schueler-polizei",
-      "time": "2026-11-14T21:33:47+00:00",
-      "opinion": false,
-      "image": "https://img.zeit.de/politik/ausland/2026-11/proteste-in-frankreich-bild/wide__820x461"
-    },
-    {
-      "section": "politik",
-      "headline": "Selbstzahlen oder lange Wartezeit? Kritik an Kassenärzte-Chef",
-      "source": "Tagesschau",
-      "country": "DE",
-      "url": "https://www.tagesschau.de/inland/reaktionen-selbstzahler-arzttermine-100.html",
-      "time": "2026-11-14T19:45:01+00:00",
-      "opinion": false,
-      "image": "https://images.tagesschau.de/image/d5214042-cf3f-48f9-bc4b-89dd65405722/AAABleWVibQ/AAABnSSvrFg/16x9-big/aerzte-113.jpg?width=1024"
-    },
-    {
-      "section": "politik",
-      "headline": "Masern: USA verlieren offenbar Status als masernfreies Land",
-      "source": "Spiegel",
-      "country": "DE",
-      "url": "https://www.spiegel.de/ausland/masern-usa-verlieren-offenbar-status-als-masernfreies-land-a-c2e5f007-0fbc-4e62-aa55-4abb1388fbd9",
-      "time": "2026-11-14T19:44:00+00:00",
-      "opinion": false,
-      "image": "https://cdn.prod.www.spiegel.de/images/e1a7f1a7-fa96-4ad8-b40f-01a4bb545be2_w520_r2.08_fpx60.67_fpy54.99.jpg"
-    },
-    {
-      "section": "politik",
-      "headline": "Mecklenburg-Vorpommern: SPD, Linke und Grüne unterschreiben Koalitionsvertrag",
-      "source": "Zeit",
-      "country": "DE",
-      "url": "https://www.zeit.de/politik/deutschland/2026-11/koalitionsvertrag-mecklenburg-vorpommern-spd-linke-gruene-manuela-schwesig",
-      "time": "2026-11-14T19:39:00+00:00",
-      "opinion": false,
-      "image": "https://img.zeit.de/politik/deutschland/2026-11/koalitionsvertrag-mecklenburg-vorpommern-spd-linke-gruene-manuela-schwesig-foto-1/wide__820x461"
-    },
-    {
-      "section": "politik",
-      "headline": "Philippines’ Carmelle wins first Eurovision contest in Asia",
-      "source": "Guardian",
-      "country": "UK",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/nov/14/philippines-carmelle-wins-first-eurovision-contest-in-asia",
-      "time": "2026-11-14T19:01:32+00:00",
-      "opinion": false,
-      "image": "https://i.guim.co.uk/img/media/e086ead12105dc2c27d05464ce6db1d81b380886/300_0_3206_2564/master/3206.jpg?width=700&quality=85&auto=format&fit=max&s=4fa239ca1d8d228ef9b776b7e1d25879"
-    },
-    {
-      "section": "politik",
-      "headline": "Protest bei der COP in Antalya: Mehr Klimagerechtigkeit gefordert",
-      "source": "Tagesschau",
-      "country": "DE",
-      "url": "https://www.tagesschau.de/ausland/europa/cop-tuerkei-protest-100.html",
-      "time": "2026-11-14T18:47:48+00:00",
-      "opinion": false,
-      "image": "https://images.tagesschau.de/image/50c18f09-1224-4fef-bf77-97d350b85ae9/AAABodshUKU/AAABnSSvrFg/16x9-big/cop-protest-100.jpg?width=1024"
-    },
-    {
-      "section": "politik",
-      "headline": "Erneuerbare-Energien-Gesetz: Union und SPD weiter uneins bei Reform der Ökostromförderung",
-      "source": "Zeit",
-      "country": "DE",
-      "url": "https://www.zeit.de/politik/deutschland/2026-11/eeg-reform-einspeiseverguetung-solaranlagen-netzpaket-spd-cdu-gxe",
-      "time": "2026-11-14T17:25:56+00:00",
-      "opinion": false,
-      "image": "https://img.zeit.de/politik/deutschland/2026-11/eeg-reform-einspeiseverguetung-solaranlagen-netzpaket-spd-cdu-gxe-foto-1/wide__820x461"
-    },
-    {
-      "section": "politik",
-      "headline": "South Sudan’s National Election, Its First, Will Be Delayed",
-      "source": "New York Times",
-      "country": "US",
-      "url": "https://www.nytimes.com/2026/11/14/world/africa/south-sudan-election.html",
-      "time": "2026-11-14T16:51:55+00:00",
-      "opinion": false,
-      "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14int-southsudan-election-cptk/14int-southsudan-election-cptk-mediumSquareAt3X.jpg"
-    },
-    {
-      "section": "politik",
-      "headline": "Pläne für höhere Abzüge bei vorgezogener Rente",
-      "source": "Tagesschau",
-      "country": "DE",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/rente-versicherung-abschlaege-100.html",
-      "time": "2026-11-14T15:37:32+00:00",
-      "opinion": false,
-      "image": "https://images.tagesschau.de/image/b3a3c354-5f2d-4a9f-92a3-2b7089c93450/AAABodq066c/AAABnSSvrFg/16x9-big/rentner-165.jpg?width=1024"
-    },
-    {
-      "section": "politik",
-      "headline": "Schleswig-Holstein: Daniel Günther tritt erneut als CDU-Spitzenkandidat an",
-      "source": "Spiegel",
-      "country": "DE",
-      "url": "https://www.spiegel.de/politik/deutschland/schleswig-holstein-daniel-guenther-erneut-cdu-spitzenkandidat-bei-landtagswahl-2027-a-19a20388-dc35-46f9-8d09-20c1aaf83358",
-      "time": "2026-11-14T15:03:00+00:00",
-      "opinion": false,
-      "image": "https://cdn.prod.www.spiegel.de/images/fcdb0169-ed35-4331-b79f-de3b17b59358_w520_r2.08_fpx36_fpy47.jpg"
-    },
-    {
-      "section": "politik",
-      "headline": "Trauerakt in München: Große Anteilnahme bei Abschied von Aiwanger",
-      "source": "Tagesschau",
-      "country": "DE",
-      "url": "https://www.tagesschau.de/inland/aiwanger-trauerfeier-100.html",
-      "time": "2026-11-14T13:22:33+00:00",
-      "opinion": false,
-      "image": "https://images.tagesschau.de/image/22daa702-6dd7-4916-b63e-089f68d00f62/AAABodofE2M/AAABnSSvrFg/16x9-big/aiwanger-gottesdienst-102.jpg?width=1024"
-    },
-    {
-      "section": "politik",
-      "headline": "Bundespräsidenten-Wahl: AfD schickt Ex-Fußballer Berthold ins Rennen um Bellevue",
+      "headline": "Seefahrt: Kontroverse Debatte: Deutsche Häfen bereiten sich auf Atomantrieb vor",
       "source": "Handelsblatt",
       "country": "DE",
-      "url": "https://www.handelsblatt.com/politik/deutschland/bundespraesidenten-wahl-afd-schickt-ex-fussballer-berthold-ins-rennen-um-bellevue/100269893.html",
-      "time": "2026-11-14T12:24:37+00:00",
+      "url": "https://www.handelsblatt.com/unternehmen/industrie/logistik-deutsche-haefen-bereiten-sich-auf-atomantrieb-vor/100269158.html",
+      "time": "2026-11-16T03:08:09+00:00",
       "opinion": false,
-      "image": "https://images.handelsblatt.com/QZbHjdLLIWxm/cover/900/506/0/0/117/116/0.5/0.5/fussball-weltmeister-thomas-berthold.jpg"
-    },
-    {
-      "section": "politik",
-      "headline": "Bahn zieht positive Bilanz zu Alkoholverbot an Bahnhöfen",
-      "source": "Tagesschau",
-      "country": "DE",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/bahn-alkohol-verbot-bilanz-100.html",
-      "time": "2026-11-14T10:07:05+00:00",
-      "opinion": false,
-      "image": "https://images.tagesschau.de/image/9fe06521-e9d3-4c8b-b3f6-a46767c2e54e/AAABodl-Glc/AAABnSSvrFg/16x9-big/alkoholverbot-bahngelaende-100.jpg?width=1024"
+      "image": "https://images.handelsblatt.com/L1I-93zN62x8/cover/900/506/0/0/107/106/0.5/0.5/hafen-bremerhaven.jpeg"
     },
     {
       "section": "wirtschaft",
-      "headline": "Straße von Hormus: Iran meldet drei brennende Öltanker in Meerenge",
+      "headline": "Investors sue chip giant Intel after 29% stock plunge",
+      "source": "BBC",
+      "country": "UK",
+      "url": "https://www.bbc.co.uk/news/articles/cw62p42p288do",
+      "time": "2026-11-16T03:04:01+00:00",
+      "opinion": false,
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/e63c/live/afebacc0-e14f-11f1-8fb1-c394c4317b6a.jpg"
+    },
+    {
+      "section": "politik",
+      "headline": "Gaza: Vier Staaten fordern Israel zum Stopp der Blockade von Gazahilfe auf",
+      "source": "Zeit",
+      "country": "DE",
+      "url": "https://www.zeit.de/politik/ausland/2025-10/krieg-gaza-israel-hamas-liveblog",
+      "time": "2026-11-16T02:41:18+00:00",
+      "opinion": false,
+      "image": "https://img.zeit.de/politik/ausland/2026-11/krieg-gaza-israel-hamas-liveblog-bild/wide__820x461"
+    },
+    {
+      "section": "politik",
+      "headline": "Liveblog Ukrainekrieg: Prinz Harry trifft verwundete Veteranen in der Ukraine",
+      "source": "FAZ",
+      "country": "DE",
+      "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-estland-will-alle-grenzuebergaenge-zu-russland-schliessen-faz-110683325.html",
+      "time": "2026-11-16T02:32:52+00:00",
+      "opinion": false,
+      "image": "https://media0.faz.net/image/ba80fb803eb9/w8019h4511x0y0/202611/921ff1a0-0a9f-4ca3-9f97-f8a6b836d581/prinz-harry-bei-einem.webp"
+    },
+    {
+      "section": "politik",
+      "headline": "Huge waves pummel California coast, forcing closure of popular piers",
+      "source": "Guardian",
+      "country": "UK",
+      "url": "https://www.theguardian.com/us-news/2026/nov/15/california-coast-waves-piers-closed",
+      "time": "2026-11-16T01:00:42+00:00",
+      "opinion": false,
+      "image": "https://i.guim.co.uk/img/media/1a1e5e3fbb5f413df3cb62b0cb50831adc5a0734/597_0_2985_2388/master/2985.jpg?width=700&quality=85&auto=format&fit=max&s=327024aa0db20c0f26d45b250f01aee3"
+    },
+    {
+      "section": "politik",
+      "headline": "F.D.A. Rejects Closely Watched Lung Cancer Drug From China",
+      "source": "New York Times",
+      "country": "US",
+      "url": "https://www.nytimes.com/2026/11/15/business/fda-lung-cancer-drug-china.html",
+      "time": "2026-11-15T20:33:07+00:00",
+      "opinion": false,
+      "image": "https://static01.nyt.com/images/2026/11/11/business/11BIZ-CANCER-DRUG/11BIZ-CANCER-DRUG-mediumSquareAt3X.jpg"
+    },
+    {
+      "section": "politik",
+      "headline": "Viktor Orbán’s party reels from $20mn hidden cash discovery",
+      "source": "Financial Times",
+      "country": "UK",
+      "url": "https://www.ft.com/content/f05cfe6d-758e-4b14-b150-acc9f3fc9321?syn-25a6b1a6=1",
+      "time": "2026-11-15T18:44:15+00:00",
+      "opinion": false,
+      "image": null
+    },
+    {
+      "section": "politik",
+      "headline": "Hunderte Flüchtlinge auf Kanaren angekommen",
+      "source": "Tagesschau",
+      "country": "DE",
+      "url": "https://www.tagesschau.de/ausland/europa/fluechtlinge-ankunft-kanaren-100.html",
+      "time": "2026-11-15T17:31:41+00:00",
+      "opinion": false,
+      "image": "https://images.tagesschau.de/image/d8c716a3-4fe1-4814-ae78-b6f7d9ae4f8d/AAABoeAudJc/AAABnSSvrFg/16x9-big/el-hierro-boot-fluechtlinge-100.jpg?width=1024"
+    },
+    {
+      "section": "politik",
+      "headline": "Despite restrictive abortion laws, Poland's 'Abortomat' — a locker that dispenses abortion pills — helps women who want to end a pregnancy",
+      "source": "Deutsche Welle",
+      "country": "DE",
+      "url": "https://www.dw.com/en/despite-restrictive-abortion-laws-poland-s-abortomat-a-locker-that-dispenses-abortion-pills-helps-women-who-want-to-end-a-pregnancy/a-79943914",
+      "time": "2026-11-15T14:40:00+00:00",
+      "opinion": false,
+      "image": null
+    },
+    {
+      "section": "wirtschaft",
+      "headline": "Cyberangriff: Hacker stehlen in Frankreich Daten von 22 Millionen Menschen",
+      "source": "Handelsblatt",
+      "country": "DE",
+      "url": "https://www.handelsblatt.com/unternehmen/dienstleister/cyberangriff-hacker-stehlen-in-frankreich-daten-von-22-millionen-menschen/100270012.html",
+      "time": "2026-11-15T14:03:20+00:00",
+      "opinion": false,
+      "image": "https://images.handelsblatt.com/ma5jSOP6dTzO/cover/900/506/0/0/378/378/0.5/0.5/archiv-26.05.2025-frankreich-paris-das-logo-der-franzoesischen-post-haengt-an-einer-filiale-daru.jpg"
+    },
+    {
+      "section": "politik",
+      "headline": "Bremen stoppt umstrittene Kampagne gegen Islamisten",
       "source": "Spiegel",
       "country": "DE",
-      "url": "https://www.spiegel.de/wirtschaft/service/iran-meldet-zwei-brennende-oel-tanker-in-der-strasse-von-hormus-a-872ff571-83d5-4520-9cd2-bdbdf570b95e",
-      "time": "2026-11-14T07:49:00+00:00",
+      "url": "https://www.spiegel.de/politik/deutschland/wolf-im-schafsfell-bremen-stoppt-eine-umstrittene-kampagne-gegen-islamisten-a-f8f51f70-598f-4adc-84d4-70cfff11f0a2",
+      "time": "2026-11-15T13:24:00+00:00",
       "opinion": false,
-      "image": "https://cdn.prod.www.spiegel.de/images/2b5f5b16-4890-4fa7-967d-8e1ea6d8346a_w520_r2.08_fpx53_fpy76.jpg"
+      "image": "https://cdn.prod.www.spiegel.de/images/a6687023-89ff-4a99-bf39-f21bf9507833_w520_r2.08_fpx37.5_fpy50.jpg"
+    },
+    {
+      "section": "politik",
+      "headline": "Israelischer Angriff im Gazastreifen: Ranghoher Hamas-Kommandeur tot",
+      "source": "Tagesschau",
+      "country": "DE",
+      "url": "https://www.tagesschau.de/ausland/asien/hamas-kommandeur-gazastreifen-getoetet-100.html",
+      "time": "2026-11-15T12:46:16+00:00",
+      "opinion": false,
+      "image": "https://images.tagesschau.de/image/e3f6ce26-a53c-4ebc-a5db-d36b67c80c1a/AAABod8TJPM/AAABnSSvrFg/16x9-big/abu-younis-100.jpg?width=1024"
+    },
+    {
+      "section": "wirtschaft",
+      "headline": "Kryptowährungen: Neue Schwächephase: Bitcoin fällt zeitweise unter 65.000 Dollar",
+      "source": "Handelsblatt",
+      "country": "DE",
+      "url": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/kryptowaehrungen-neue-schwaechephase-bitcoin-faellt-unter-65.000-dollar/100269990.html",
+      "time": "2026-11-15T11:47:13+00:00",
+      "opinion": false,
+      "image": "https://images.handelsblatt.com/UzZGTHSuHRZH/cover/900/506/0/0/209/208/0.5/0.5/illustration-10.11.2023-berlin-muenzen-mit-den-symbolen-von-bitcoin-m-und-ethereum-sind-auf-ein.jpg"
+    },
+    {
+      "section": "wirtschaft",
+      "headline": "Meta: Italien verhängt 805-Millionen-Euro-Strafe wegen ausgelesener Fotogalerien",
+      "source": "Spiegel",
+      "country": "DE",
+      "url": "https://www.spiegel.de/wirtschaft/unternehmen/meta-facebook-muss-wegen-ausgelesener-fotogalerien-805-millionen-euro-zahlen-a-3347008b-5b9a-4955-82be-f7aa6f7e20ef",
+      "time": "2026-11-15T08:32:00+00:00",
+      "opinion": false,
+      "image": "https://cdn.prod.www.spiegel.de/images/219e65d6-61b0-448c-abbe-b84291eb2d90_w520_r2.08_fpx52.66_fpy44.99.jpg"
+    },
+    {
+      "section": "politik",
+      "headline": "Hong Kong developer New World’s shares tumble 47% on $3.2bn rights issue plan",
+      "source": "Financial Times",
+      "country": "UK",
+      "url": "https://www.ft.com/content/9daa3a26-c49c-4c94-91af-0d4c2116d2e4?syn-25a6b1a6=1",
+      "time": "2026-11-16T04:01:04+00:00",
+      "opinion": false,
+      "image": null
+    },
+    {
+      "section": "politik",
+      "headline": "Whoops, I may be sleeping with a Chinese spy",
+      "source": "Financial Times",
+      "country": "UK",
+      "url": "https://www.ft.com/content/c21130ff-f8bf-45dc-bea7-1a38b53ab4b2",
+      "time": "2026-11-16T04:00:01+00:00",
+      "opinion": false,
+      "image": null
     }
   ]
 }
