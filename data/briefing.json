@@ -1,9 +1,9 @@
 {
-  "date": "2026-11-19",
-  "generatedAt": "2026-11-19T05:11:35+01:00",
+  "date": "2026-11-20",
+  "generatedAt": "2026-11-20T05:11:37+01:00",
   "notice": null,
   "aiModel": "gemini-3.6-flash",
-  "push": "Gipfeltreffen in China: Trump, Xi und Putin kommen in Shenzhen zusammen",
+  "push": "Rekord-Börsengang: KI-Entwickler Anthropic nimmt über 80 Milliarden Dollar ein",
   "breaking": [],
   "sections": [
     {
@@ -12,162 +12,157 @@
       "items": [
         {
           "id": "p1",
-          "headline": "Erstes Dreiergipfel-Treffen von Trump, Xi und Putin in China",
-          "summary": "Beim APEC-Gipfel im chinesischen Shenzhen kommen US-Präsident Trump, Chinas Staatschef Xi Jinping und Russlands Präsident Putin erstmals zu einem dreiseitigen Treffen zusammen. Im Mittelpunkt der Gespräche stehen atomare Abrüstung, der Iran sowie der Konflikt in der Ukraine.",
-          "perspectives": "Spiegel hebt hervor, dass Xi Jinping den US-Präsidenten Donald Trump bei dessen Ankunft am Flughafen persönlich mit einer Umarmung empfing. New York Times und Handelsblatt berichten über die Begrüßungen per Handschlag zwischen den drei Führungspersönlichkeiten. Tagesschau verweist hingegen auf die deutlichen Differenzen bei den Themen Rüstungskontrolle, Iran und Ukraine.",
-          "sources": [
-            {
-              "name": "New York Times",
-              "country": "US",
-              "url": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec"
-            },
-            {
-              "name": "Tagesschau",
-              "country": "DE",
-              "url": "https://www.tagesschau.de/ausland/asien/apec-treffen-xi-putin-trump-themen-100.html"
-            },
-            {
-              "name": "Handelsblatt",
-              "country": "DE",
-              "url": "https://www.handelsblatt.com/politik/international/apec-gipfel-umarmung-handschlag-xi-putin-und-trump-in-china/100271013.html"
-            },
-            {
-              "name": "Spiegel",
-              "country": "DE",
-              "url": "https://www.spiegel.de/ausland/xi-jinping-empfaengt-donald-trump-persoenlich-am-flughafen-a-1c046d0b-75bb-4cce-b787-1c29134402f7"
-            }
-          ],
-          "time": "2026-11-18T12:10:00+00:00",
-          "image": {
-            "url": "https://static01.nyt.com/images/2026/11/18/multimedia/18trump-summits-promo6am/18trump-summits-promo6am-mediumSquareAt3X.jpg",
-            "source": "New York Times"
-          }
-        },
-        {
-          "id": "p2",
-          "headline": "Gipfel in Berlin berät über Hilfen für die Ukraine",
-          "summary": "In Berlin beraten knapp 30 Staats- und Regierungschefs gemeinsam mit dem ukrainischen Präsidenten Selenskyj über weitere Unterstützung für die Ukraine. Zeitgleich hat die EU-Kommission ein neues Darlehen über 45 Milliarden Euro vorgeschlagen, um Kiews Staatsfinanzen abzusichern.",
-          "perspectives": "Tagesschau und Handelsblatt heben das Berliner Treffen als Signal langfristiger Unterstützung für Kiew hervor. Guardian und FAZ richten den Fokus auf den EU-Kreditvorschlag über 45 Milliarden Euro, wobei FAZ betont, dass diese Initiative maßgeblich auf einen Vorstoß von Friedrich Merz zurückgeht.",
+          "headline": "Gipfel in Berlin und Shenzhen zu Ukraine-Krieg",
+          "summary": "Während in Shenzhen Donald Trump, Xi Jinping und Wladimir Putin eine Friedensdeklaration abgaben, beriet Bundeskanzler Friedrich Merz in Berlin mit Unterstützerstaaten über den Ukraine-Krieg.",
+          "perspectives": "Das Handelsblatt hebt hervor, dass Merz den Gipfel in Shenzhen als bloßen Bildtermin kritisierte und ein Diktat der Supermächte verhindern will. BBC und Guardian betonen hingegen die historische Symbolik des ersten gemeinsamen Treffens der drei Staatschefs.",
           "sources": [
             {
               "name": "Tagesschau",
               "country": "DE",
-              "url": "https://www.tagesschau.de/ausland/europa/ukraine-unterstuetzung-treffen-berlin-100.html"
+              "url": "https://www.tagesschau.de/inland/innenpolitik/gipfel-koalition-willige-ukraine-100.html"
             },
             {
               "name": "Handelsblatt",
               "country": "DE",
-              "url": "https://www.handelsblatt.com/politik/international/koalition-der-willigen-was-hinter-dem-ukraine-gipfel-bei-merz-steckt/100271104.html"
+              "url": "https://www.handelsblatt.com/politik/deutschland/gipfel-im-kanzleramt-merz-laestert-ueber-bildtermin-von-trump-putin-und-xi/100271270.html"
+            },
+            {
+              "name": "BBC",
+              "country": "UK",
+              "url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o"
             },
             {
               "name": "Guardian",
               "country": "UK",
-              "url": "https://www.theguardian.com/world/2026/nov/18/eu-loan-ukraine-cash-crisis-defences-von-der-leyen-kyiv"
-            },
-            {
-              "name": "FAZ",
-              "country": "DE",
-              "url": "https://www.faz.net/aktuell/politik/ausland/neuer-ukraine-kredit-eu-kommission-folgt-merz-vorstoss-201694290.html"
+              "url": "https://www.theguardian.com/world/2026/nov/19/china-russia-us-agree-peace-statement-no-mention-ukraine-iran-wars"
             }
           ],
-          "time": "2026-11-18T17:23:08+00:00",
+          "time": "2026-11-19T17:13:23+00:00",
           "image": {
-            "url": "https://images.tagesschau.de/image/5a1dfa69-18d4-481b-b8e8-803ae3e989b6/AAABoe_VtVM/AAABnSSvrFg/16x9-big/flaggen-eu-ukraine-deutschland-100.jpg?width=1024",
+            "url": "https://images.tagesschau.de/image/3b7c6fa0-d02a-48ae-ac35-cd33b8e7e3b2/AAABofS75Xg/AAABnSSvrFg/16x9-big/koalition-der-willigen-118.jpg?width=1024",
             "source": "Tagesschau"
           }
         },
         {
-          "id": "p3",
-          "headline": "Krim-Brücke nach erneutem Angriff weiter beschädigt",
-          "summary": "Die Brücke von Kertsch zur annektierten Halbinsel Krim ist nach einem erneuten ukrainischen Luftangriff weiter beschädigt worden. Nach Behördenangaben wurde der Zugverkehr über das Bauwerk bis auf Weiteres eingestellt.",
-          "perspectives": "Zeit und Handelsblatt berichten übereinstimmend, dass der Bahnverkehr nach dem erneuten Angriff vorübergehend gestoppt werden musste. Spiegel hebt hervor, dass die Attacke auf das Prestigeobjekt für den Kreml zu einem ungünstigen Zeitpunkt kommt. BBC bezieht sich auf Angaben des von Russland eingesetzten Regionalleiters der Krim.",
+          "id": "p2",
+          "headline": "IGH stuft Vorgehen Myanmars als Völkermord ein",
+          "summary": "Der Internationale Gerichtshof hat entschieden, dass Myanmar bei der Verfolgung der Rohingya-Minderheit einen Völkermord begangen hat. Es ist das erste Mal in der Geschichte des UN-Gerichts, dass ein Staat direkt wegen Genozids schuldig gesprochen wird.",
+          "perspectives": "Tagesschau und New York Times stellen den historischen Charakter des Gerichtsurteils in den Vordergrund. Die FAZ beleuchtet zudem die mögliche Signalwirkung der Entscheidung für weitere laufende Verfahren vor dem IGH, wie etwa bezüglich Israel.",
           "sources": [
             {
-              "name": "Zeit",
+              "name": "New York Times",
+              "country": "US",
+              "url": "https://www.nytimes.com/2026/11/19/world/europe/myanmar-genocide-icj-decision-.html"
+            },
+            {
+              "name": "FAZ",
               "country": "DE",
-              "url": "https://www.zeit.de/politik/ausland/2026-11/krim-bruecke-kertsch-bruecke-russland-ukraine-angriffe"
-            },
-            {
-              "name": "Spiegel",
-              "country": "DE",
-              "url": "https://www.spiegel.de/ausland/ukraine-krieg-nach-erneutem-angriff-steht-zugverkehr-auf-krimbruecke-still-a-9e01117c-8373-480f-ad57-6c08a2bd1af7"
-            },
-            {
-              "name": "BBC",
-              "country": "UK",
-              "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo"
-            },
-            {
-              "name": "Handelsblatt",
-              "country": "DE",
-              "url": "https://www.handelsblatt.com/politik/international/ukraine-krieg-krim-bruecke-zugverkehr-nach-erneutem-angriff-eingestellt/100271082.html"
-            }
-          ],
-          "time": "2026-11-18T23:22:22+00:00",
-          "image": {
-            "url": "https://img.zeit.de/politik/ausland/2026-11/krim-bruecke-kertsch-bruecke-russland-ukraine-angriffe-foto-1/wide__820x461",
-            "source": "Zeit"
-          }
-        },
-        {
-          "id": "p4",
-          "headline": "Musk nennt Wahlkampfspenden für Republikaner unklug",
-          "summary": "Nach den Niederlagen republikanischer Kandidaten bei den US-Midterms hat Tech-Milliardär Elon Musk seine hohen Wahlkampfspenden bedauert. Er distanzierte sich von der MAGA-Bewegung und bezeichnete sein bisheriges politisches Engagement als unklug.",
-          "perspectives": "Spiegel und Financial Times beziffern Musks Zuwendungen an die Republikaner auf knapp 500 Millionen US-Dollar. BBC und Guardian heben Musks Aussage hervor, dass er nicht zur MAGA-Bewegung gehöre und sich im Nachhinein dumm vorkomme.",
-          "sources": [
-            {
-              "name": "Spiegel",
-              "country": "DE",
-              "url": "https://www.spiegel.de/ausland/midterms-in-den-usa-elon-musk-bereut-hohe-spenden-an-republikaner-a-45e99b3b-ccc9-49db-ace8-51665d170cd9"
-            },
-            {
-              "name": "BBC",
-              "country": "UK",
-              "url": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o"
-            },
-            {
-              "name": "Financial Times",
-              "country": "UK",
-              "url": "https://www.ft.com/content/1af0d736-d5e5-4601-989d-638c9cea74b2?syn-25a6b1a6=1"
+              "url": "https://www.faz.net/aktuell/politik/ausland/was-das-voelkermordurteil-gegen-myanmar-fuer-israel-bedeutet-201698103.html"
             },
             {
               "name": "Guardian",
               "country": "UK",
-              "url": "https://www.theguardian.com/us-news/2026/nov/18/elon-musk-maga-trump"
-            }
-          ],
-          "time": "2026-11-19T01:07:51+00:00",
-          "image": {
-            "url": "https://cdn.prod.www.spiegel.de/images/14664dd0-776f-4951-9441-28194e746322_w520_r2.08_fpx40_fpy44.jpg",
-            "source": "Spiegel"
-          }
-        },
-        {
-          "id": "p5",
-          "headline": "US-Demokraten nominieren Jeffries für House-Vorsitz",
-          "summary": "Die US-Demokraten haben Hakeem Jeffries für den Vorsitz im Repräsentantenhaus nominiert.",
-          "perspectives": "Tagesschau und Zeit berichten, dass Jeffries der erste schwarze Vorsitzende der Kammer werden kann, erwähnen aber auch Vorbehalte im linken Parteiflügel. New York Times stellt die historische Bedeutung der Nominierung in den Vordergrund.",
-          "sources": [
-            {
-              "name": "Zeit",
-              "country": "DE",
-              "url": "https://www.zeit.de/politik/ausland/2026-11/us-repraesentantenhaus-speaker-hakeem-jeffries-demokraten-schwarzer"
+              "url": "https://www.theguardian.com/world/2026/nov/19/genocide-rohingya-international-court-of-justice-ruling-myanmar"
             },
             {
               "name": "Tagesschau",
               "country": "DE",
-              "url": "https://www.tagesschau.de/ausland/amerika/jeffries-nominiert-100.html"
-            },
+              "url": "https://www.tagesschau.de/ausland/asien/urteil-voelkermord-rohingya-myanmar-100.html"
+            }
+          ],
+          "time": "2026-11-19T12:42:10+00:00",
+          "image": {
+            "url": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-ICJ-Myanmar-01-fkth/19int-ICJ-Myanmar-01-fkth-mediumSquareAt3X.jpg",
+            "source": "New York Times"
+          }
+        },
+        {
+          "id": "p3",
+          "headline": "Trumps Cyberberater tritt nach IT-Ausfällen zurück",
+          "summary": "Der oberste Cyberbeauftragte des US-Präsidenten, Sean Cairncross, hat sein Amt niedergelegt. Dem Rücktritt gingen massive technische Störungen bei US-Flugaufsichtsbehörden, Banken und Unternehmen in der vergangenen Woche voraus.",
+          "perspectives": "Spiegel und Handelsblatt fokussieren sich auf den Zusammenhang zwischen dem Rücktritt und der Serie schwerer IT-Pannen bei Behörden und Konzernen. Die Zeit berichtet ergänzend, dass Kirsten Davies aus dem US-Verteidigungsministerium als Nachfolgerin im Gespräch ist.",
+          "sources": [
             {
               "name": "New York Times",
               "country": "US",
-              "url": "https://www.nytimes.com/2026/11/18/us/politics/hakeem-jeffries-speaker-of-the-house-democrats.html"
+              "url": "https://www.nytimes.com/2026/11/19/us/politics/white-house-cyber-director-departs.html"
+            },
+            {
+              "name": "Zeit",
+              "country": "DE",
+              "url": "https://www.zeit.de/politik/ausland/2026-11/sean-cairncross-nationaler-cyber-direktor-weisses-haus-rucktritt"
+            },
+            {
+              "name": "Handelsblatt",
+              "country": "DE",
+              "url": "https://www.handelsblatt.com/politik/international/usa-trumps-cyberbeauftragter-verlaesst-posten-nach-technik-pannen/100271422.html"
+            },
+            {
+              "name": "Spiegel",
+              "country": "DE",
+              "url": "https://www.spiegel.de/ausland/usa-cyberdirektor-sean-cairncross-verlaesst-nach-it-ausfaellen-das-weisse-haus-a-e65eb701-4f48-47bf-86c6-e22b7af6bb47"
             }
           ],
-          "time": "2026-11-18T16:42:44+00:00",
+          "time": "2026-11-20T01:18:00+00:00",
           "image": {
-            "url": "https://img.zeit.de/politik/ausland/2026-11/us-repraesentantenhaus-speaker-hakeem-jeffries-demokraten-schwarzer-foto-1/wide__820x461",
-            "source": "Zeit"
+            "url": "https://static01.nyt.com/images/2026/11/19/multimedia/19dc-cyber-director-ckwm/19dc-cyber-director-ckwm-mediumSquareAt3X.jpg",
+            "source": "New York Times"
+          }
+        },
+        {
+          "id": "p4",
+          "headline": "Deutschland und Polen verstärken Militärpakt",
+          "summary": "Verteidigungsminister Boris Pistorius hat bei einem Besuch in Warschau den Ausbau der militärischen Zusammenarbeit mit Polen angekündigt. Die Initiativen umfassen den gemeinsamen Schutz der NATO-Ostflanke mit Patriot-Systemen und Eurofightern sowie eine engere Rüstungskooperation.",
+          "perspectives": "Die Tagesschau hebt die Ausweitung der Truppenkooperation und gemeinsame Verteidigungsstellungen hervor, während die Zeit die Kooperation in der Rüstungsindustrie betont. Der Spiegel merkt an, dass die engere militärische Partnerschaft mit Deutschland in der polnischen Politik auch auf Kritik stößt.",
+          "sources": [
+            {
+              "name": "Tagesschau",
+              "country": "DE",
+              "url": "https://www.tagesschau.de/ausland/europa/polen-deutschland-militaer-100.html"
+            },
+            {
+              "name": "Spiegel",
+              "country": "DE",
+              "url": "https://www.spiegel.de/politik/nato-ostflanke-berlin-und-warschau-planen-engere-militaerische-zusammenarbeit-a-45a623db-265e-415f-b96b-fe4f441a96e9"
+            },
+            {
+              "name": "Zeit",
+              "country": "DE",
+              "url": "https://www.zeit.de/politik/2026-11/verteidigungsabkommen-polen-deutschland-russland-nato-ostflanke"
+            }
+          ],
+          "time": "2026-11-19T23:33:00+00:00",
+          "image": {
+            "url": "https://images.tagesschau.de/image/6b710bd1-5442-4146-a0e1-dee546709517/AAABofb5ggU/AAABnSSvrFg/16x9-big/pistorius-708.jpg?width=1024",
+            "source": "Tagesschau"
+          }
+        },
+        {
+          "id": "p5",
+          "headline": "Großbritannien und EU verhandeln über Annäherung",
+          "summary": "In Brüssel verhandeln Vertreter Großbritanniens und der EU über ein Abkommen zur schrittweisen Wiederannäherung nach dem Brexit. Ziel sind Erleichterungen im Handelsverkehr sowie Programme für den Jugendaustausch.",
+          "perspectives": "Das Handelsblatt stellt die geplanten Erleichterungen für Menschen unter 30 Jahren in den Mittelpunkt. Der Guardian berichtet, dass die Gespräche über Agrarprodukte und Lebensmittel bis zuletzt hart umkämpft sind.",
+          "sources": [
+            {
+              "name": "Handelsblatt",
+              "country": "DE",
+              "url": "https://www.handelsblatt.com/politik/international/gipfel-in-bruessel-exit-vom-brexit-darueber-verhandeln-london-und-bruessel/100271426.html"
+            },
+            {
+              "name": "Financial Times",
+              "country": "UK",
+              "url": "https://www.ft.com/content/912a7730-2428-4d4c-8dde-9c41a99ab562?syn-25a6b1a6=1"
+            },
+            {
+              "name": "Guardian",
+              "country": "UK",
+              "url": "https://www.theguardian.com/world/2026/nov/19/uk-eu-reset-talks-andy-burnham-food-farming-tuition-fees"
+            }
+          ],
+          "time": "2026-11-19T20:52:05+00:00",
+          "image": {
+            "url": "https://images.handelsblatt.com/lYIELpUZCqcC/cover/900/506/0/0/107/106/0.5/0.5/andy-burnham-und-ursula-von-der-leyen.jpg",
+            "source": "Handelsblatt"
           }
         }
       ]
@@ -178,142 +173,147 @@
       "items": [
         {
           "id": "w1",
-          "headline": "Anthropic legt Ausgabepreis für Rekord-Börsengang fest",
-          "summary": "Das KI-Unternehmen Anthropic hat den Ausgabepreis für seine Aktien vor dem Börsenstart auf 83 US-Dollar festgelegt. Der Börsengang übertrifft volumenmäßig bisherige Rekorde und stellt eine der größten Neuemissionen dar.",
-          "perspectives": "NZZ nennt Einnahmen in Höhe von 107 Milliarden Dollar, während die Financial Times von einem Emissionsvolumen von 81 Milliarden Dollar berichtet. Tagesschau und FAZ nennen übereinstimmend den Ausgabepreis von 83 US-Dollar, wobei FAZ ergänzend eine angestrebte Marktkapitalisierung von 1,5 Billionen Dollar anführt.",
+          "headline": "Rekord-Börsengang von KI-Anbieter Anthropic",
+          "summary": "Das KI-Unternehmen Anthropic hat den bislang größten Börsengang der Geschichte absolviert. Am ersten Handelstag schloss die Aktie rund 17 Prozent über dem Ausgabepreis.",
+          "perspectives": "Der Guardian hebt den fulminanten Start und die Bewertung des Unternehmens von über einer Billion Dollar hervor. Das Handelsblatt merkt an, dass die anfängliche Euphorie mit Kursgewinnen von über 30 Prozent im Verlauf des Handelstages spürbar abebbte.",
           "sources": [
             {
-              "name": "Tagesschau",
+              "name": "Guardian",
+              "country": "UK",
+              "url": "https://www.theguardian.com/technology/2026/nov/19/anthropic-public-trading-ipo"
+            },
+            {
+              "name": "FAZ",
               "country": "DE",
-              "url": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-boersengang-aktie-100.html"
+              "url": "https://www.faz.net/aktuell/finanzen/boersenstart-anthropic-gelingt-kurssprung-um-34-prozent-201699078.html"
+            },
+            {
+              "name": "Handelsblatt",
+              "country": "DE",
+              "url": "https://www.handelsblatt.com/finanzen/maerkte/aktien/boersengang-anthropic-schliesst-17-prozent-im-plus-kursrueckgang-im-handelsverlauf/100270027.html"
             },
             {
               "name": "NZZ",
               "country": "CH",
-              "url": "https://www.nzz.ch/wirtschaft/noch-groesser-als-erwartet-anthropic-nimmt-bei-seinem-boersengang-107-milliarden-dollar-ein-ld.10065173"
-            },
-            {
-              "name": "FAZ",
-              "country": "DE",
-              "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/anthropic-aktie-soll-laut-berichten-83-dollar-kosten-201696457.html"
-            },
-            {
-              "name": "Financial Times",
-              "country": "UK",
-              "url": "https://www.ft.com/content/62c0510b-ca65-441e-9baf-675b93903b9e?syn-25a6b1a6=1"
+              "url": "https://www.nzz.ch/wirtschaft/anthropic-uebertrifft-alle-prognosen-und-startet-mit-einem-kursfeuerwerk-an-der-boerse-ld.10068793"
             }
           ],
-          "time": "2026-11-18T22:04:50+00:00",
+          "time": "2026-11-19T17:04:33+00:00",
           "image": {
-            "url": "https://images.tagesschau.de/image/6962dfba-07c1-4aa0-aa94-86857f740465/AAABofETAbs/AAABnSSvrFg/16x9-big/anthropic-138.jpg?width=1024",
-            "source": "Tagesschau"
+            "url": "https://i.guim.co.uk/img/media/6998f4e0d8ab24e4c35516c1ab618511a39fcd71/545_0_4583_3667/master/4583.jpg?width=700&quality=85&auto=format&fit=max&s=0a0587bae3284620bfda93f17c2a2626",
+            "source": "Guardian"
           }
         },
         {
           "id": "w2",
-          "headline": "Bundesregierung und UniCredit einig bei Commerzbank",
-          "summary": "Die Bundesregierung hat ihre Vorbehalte gegen die Übernahme der Commerzbank durch die italienische UniCredit beigelegt. Nach den Zustimmungen von EU-Kommission und US-Notenbank Fed wurde eine politische Verständigung erzielt.",
-          "perspectives": "Tagesschau und FAZ berichten übereinstimmend, dass die Bundesregierung ihren bisherigen Widerstand gegen den Deal aufgegeben hat. Handelsblatt hebt hervor, dass der Einigung Bedingungen von Finanzminister Lars Klingbeil vorausgegangen waren.",
+          "headline": "Lufthansa plant Abbau von 1000 Stellen",
+          "summary": "Die Fluggesellschaft Lufthansa plant die Streichung von rund 1.000 Stellen an den Drehkreuzen Frankfurt und München. Grund für den Stellenabbau sind anhaltende operative Verluste der Kernmarke.",
+          "perspectives": "Tagesschau und Zeit verweisen auf Verluste im operativen Geschäft als Auslöser für den Sparplan. Tagesschau und Handelsblatt berichten unter Berufung auf ein internes Schreiben an die Mitarbeiter über den geplanten Stellenabbau.",
           "sources": [
-            {
-              "name": "FAZ",
-              "country": "DE",
-              "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-bundesregierung-und-unicredit-einigen-sich-bei-commerzbank-uebernahme-faz-200452404.html"
-            },
             {
               "name": "Tagesschau",
               "country": "DE",
-              "url": "https://www.tagesschau.de/wirtschaft/unternehmen/unicredit-bundesregierung-100.html"
+              "url": "https://www.tagesschau.de/wirtschaft/lufthansa-1000-stellen-100.html"
+            },
+            {
+              "name": "Zeit",
+              "country": "DE",
+              "url": "https://www.zeit.de/wirtschaft/2026-11/lufthansa-stellenabbau-frankfurt-muenchen-airbus-a320-a220"
             },
             {
               "name": "Handelsblatt",
               "country": "DE",
-              "url": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/banken-bundesregierung-und-unicredit-einigen-sich-bei-commerzbank-uebernahme/100271077.html"
+              "url": "https://www.handelsblatt.com/politik/deutschland/brief-an-mitarbeiter-lufthansa-will-1000-stellen-an-drehkreuzen-streichen/100271404.html"
             }
           ],
-          "time": "2026-11-18T23:13:33+00:00",
+          "time": "2026-11-19T21:44:55+00:00",
           "image": {
-            "url": "https://media0.faz.net/image/946bc84d0742/w4717h2653x0y155/202611/1ee9fcfd-e6ca-41db-b3a7-7d0c50938a56/frankfurt-soll-sitz-von.webp",
-            "source": "FAZ"
+            "url": "https://images.tagesschau.de/image/2841e225-4886-4828-8c4b-5ef6e85bc0ab/AAABofZ_wqM/AAABnSSvrFg/16x9-big/lufhansa-boeing-100.jpg?width=1024",
+            "source": "Tagesschau"
           }
         },
         {
           "id": "w3",
-          "headline": "Koalition beschließt Stromsteuersenkung für 2027",
-          "summary": "Die Spitzen der Regierungsfraktionen haben sich auf eine Absenkung der Stromsteuer für das Jahr 2027 geeinigt. Zudem soll vorübergehend ein Spritpreisdeckel greifen, um Haushalte und Unternehmen bei den Energiekosten zu entlasten.",
-          "perspectives": "Tagesschau und Spiegel heben hervor, dass die Stromsteuersenkung vorerst nur für das Jahr 2027 gesichert ist. Handelsblatt verweist darauf, dass der konkrete Nutzen der Beschlüsse unter Fachleuten umstritten bleibt, während Tagesschau die schwierigen Verhandlungen im Koalitionsausschuss betont.",
+          "headline": "IG Metall startet ganztägige Warnstreiks",
+          "summary": "In der Metall- und Elektroindustrie hat die IG Metall 24-stündige Warnstreiks gestartet, um höheren Lohnforderungen Nachdruck zu verleihen. Zeitgleich fordert der Volkswagen-Konzern in den Haustarifverhandlungen Nullrunden bis 2028 und Anpassungen der Arbeitszeiten.",
+          "perspectives": "Tagesschau und FAZ heben den Einsatz der seltenen 24-Stunden-Streiks nach festgefahrenen Verhandlungen hervor. Zeit und Handelsblatt betonen den harten Gegenkurs bei Volkswagen, wo die Arbeitnehmervertreter die Forderungen der Unternehmensleitung scharf kritisieren.",
           "sources": [
             {
               "name": "Handelsblatt",
               "country": "DE",
-              "url": "https://www.handelsblatt.com/audio/made-in-berlin-podcast/senkung-der-stromsteuer-und-spritpreisdeckel-was-bringt-die-einigung-der-koalition-wirklich/100271124.html"
+              "url": "https://www.handelsblatt.com/politik/deutschland/ig-metall-rechnung-so-viel-koennten-die-vw-forderungen-die-beschaeftigten-kosten/100271431.html"
+            },
+            {
+              "name": "FAZ",
+              "country": "DE",
+              "url": "https://www.faz.net/aktuell/wirtschaft/arm-und-reich/metallbranche-startet-groessten-warnstreik-seit-acht-jahren-201698884.html"
             },
             {
               "name": "Tagesschau",
               "country": "DE",
-              "url": "https://www.tagesschau.de/inland/innenpolitik/stromsteuer-spritpreisdeckel-einigung-koalition-100.html"
+              "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/warnstreik-ig-metall-126.html"
             },
             {
-              "name": "Spiegel",
+              "name": "Zeit",
               "country": "DE",
-              "url": "https://www.spiegel.de/politik/deutschland/koalition-einigt-sich-auf-senkung-der-stromsteuer-vorerst-nur-2027-a-69144e3f-1de4-4fec-a38d-ee695e64d899"
+              "url": "https://www.zeit.de/wirtschaft/2026-11/volkswagen-tarifverhandlungen-nullrunde-arbeitszeit-ig-metall"
             }
           ],
-          "time": "2026-11-18T06:37:00+00:00",
+          "time": "2026-11-19T16:20:04+00:00",
           "image": {
-            "url": "https://images.handelsblatt.com/F1ftqWBMje8Y/cover/900/506/0/0/394/394/0.5/0.5/made-in-berlin-podcast-cover.jpg",
+            "url": "https://images.handelsblatt.com/1efERnm45v0Y/cover/900/506/0/0/107/106/0.5/0.5/volkswagen-statement-ig-metall.jpg",
             "source": "Handelsblatt"
           }
         },
         {
           "id": "w4",
-          "headline": "Paketdienste DPD und GLS planen Fusion in Deutschland",
-          "summary": "Die Paketdienstleister DPD und GLS wollen ihre Aktivitäten auf dem deutschen Markt zusammenlegen. Das neue Gemeinschaftsunternehmen strebt bei vier Milliarden Euro Umsatz die jährliche Zustellung von 700 Millionen Paketen an.",
-          "perspectives": "Zeit und Spiegel berichten im Wesentlichen übereinstimmend über das Fusionsvorhaben. Spiegel hebt dabei hervor, dass der Zusammenschluss darauf abzielt, den Marktführer DHL wirksamer herauszufordern.",
+          "headline": "Bund einigt sich mit Unicredit bei Commerzbank",
+          "summary": "Die Bundesregierung und die italienische Großbank Unicredit haben Bedingungen für die geplante Übernahme der Commerzbank vereinbart.",
+          "perspectives": "Die Zeit berichtet über die Aufgabe des Widerstands der Bundesregierung und die gefundene gemeinsame Basis. Die FAZ beleuchtet kritisch die Rolle des Staates bei der Übernahme durch Unicredit.",
           "sources": [
+            {
+              "name": "FAZ",
+              "country": "DE",
+              "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/commerzbank-besser-mit-unicredit-ohne-staat-201697515.html"
+            },
             {
               "name": "Zeit",
               "country": "DE",
-              "url": "https://www.zeit.de/wirtschaft/2026-11/gls-dpd-zusammenschluss-paketdienste-deutschland-daniel-kretinsky"
-            },
-            {
-              "name": "Spiegel",
-              "country": "DE",
-              "url": "https://www.spiegel.de/wirtschaft/unternehmen/gls-und-dpd-paket-unternehmen-schliessen-sich-zusammen-um-dhl-anzugreifen-a-af779ac8-0115-4712-a758-00cc4328421c"
+              "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-11/commerzbank-unicredit-uebernahme-bundesregierung-lars-klingbeil-einigung"
             }
           ],
-          "time": "2026-11-18T15:56:00+00:00",
+          "time": "2026-11-19T07:46:08+00:00",
           "image": {
-            "url": "https://img.zeit.de/wirtschaft/2026-11/gls-dpd-zusammenschluss-paketdienste-deutschland-daniel-kretinsky-foto-1/wide__820x461",
-            "source": "Zeit"
+            "url": "https://media0.faz.net/image/3add09fb7ad6/w2000h1125x0y0/202611/64779f17-903c-45ad-8673-3063c4a15b3a/die-ampelregierung-hat.webp",
+            "source": "FAZ"
           }
         },
         {
           "id": "w5",
-          "headline": "Britische Teuerungsrate steigt auf 3,6 Prozent",
-          "summary": "In Großbritannien ist die Inflationsrate im Oktober auf ein Jahreshöchststand von 3,6 Prozent geklettert. Als Ursache gelten vor allem gestiegene Kraftstoff- und Energiepreise.",
-          "perspectives": "Financial Times und BBC führen den Inflationsanstieg übereinstimmend auf gestiegene Benzin- und Dieselpreise zurück. Handelsblatt ergänzt, dass die Bank of England im Laufe des nächsten Jahres eine Inflation von knapp fünf Prozent erwartet und Marktteilnehmer weitere Zinsanhebungen erwarten.",
+          "headline": "US-Behörden prüfen Nvidia-Lieferungen nach China",
+          "summary": "Der US-Bundesstaat Kalifornien hat Untersuchungen zu Halbleiter-Lieferungen von Nvidia nach China eingeleitet. Zudem stehen US-Behörden in der Kritik, weil sie Verkäufe von KI-Chips an chinesische Firmen mit Verbindungen zum Militär genehmigt haben sollen.",
+          "perspectives": "Handelsblatt und BBC berichten über die behördliche Untersuchung im US-Bundesstaat Kalifornien. Die New York Times verweist auf vertrauliche Dokumente, wonach mehr als 800.000 KI-Chips an chinesische Firmen geliefert werden durften.",
           "sources": [
-            {
-              "name": "BBC",
-              "country": "UK",
-              "url": "https://www.bbc.co.uk/news/videos/cxp80q5pv4q5o"
-            },
-            {
-              "name": "Financial Times",
-              "country": "UK",
-              "url": "https://www.ft.com/content/829844ba-849f-4d9c-a667-d65d2786ad2c?syn-25a6b1a6=1"
-            },
             {
               "name": "Handelsblatt",
               "country": "DE",
-              "url": "https://www.handelsblatt.com/finanzen/geldpolitik/grossbritannien-britische-inflation-steigt-auf-jahreshoch-von-36-prozent/100270860.html"
+              "url": "https://www.handelsblatt.com/technik/ki/huang-affaere-kalifornien-will-von-nvidia-aufklaerung-zu-china-lieferungen/100271418.html"
+            },
+            {
+              "name": "New York Times",
+              "country": "US",
+              "url": "https://www.nytimes.com/2026/11/19/business/economy/nvidia-chips-commerce-china-huang.html"
+            },
+            {
+              "name": "BBC",
+              "country": "UK",
+              "url": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no"
             }
           ],
-          "time": "2026-11-18T10:13:38+00:00",
+          "time": "2026-11-19T23:04:30+00:00",
           "image": {
-            "url": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/accb/live/ce864ea0-e385-11f1-a094-5fdc692f3e33.jpg",
-            "source": "BBC"
+            "url": "https://images.handelsblatt.com/HGgKz2gF3BiI/cover/900/506/0/0/232/232/0.5/0.5/imago-images-0869572735.jpg",
+            "source": "Handelsblatt"
           }
         }
       ]
@@ -322,203 +322,203 @@
   "more": [
     {
       "section": "politik",
-      "headline": "Save the Children: 589 Millionen Kinder lebten 2025 in Konfliktgebieten",
-      "source": "FAZ",
-      "country": "DE",
-      "url": "https://www.faz.net/aktuell/politik/ausland/bericht-fast-jedes-vierte-kind-lebt-in-einem-konfliktgebiet-accg-201696727.html",
-      "time": "2026-11-19T04:01:16+00:00",
-      "opinion": false,
-      "image": "https://media0.faz.net/image/7c0bc2e59b15/w5712h3213x0y395/202611/b5e477f0-a104-4188-81af-1107fa19b70c/eine-gefluechtete-frau-und-ihr.webp"
-    },
-    {
-      "section": "politik",
-      "headline": "Militärabkommen zwischen Venezuela und USA unterzeichnet",
+      "headline": "BSI warnt vor erhöhter Gefahrenlage durch KI-Angriffe",
       "source": "Tagesschau",
       "country": "DE",
-      "url": "https://www.tagesschau.de/ausland/amerika/hegseth-usa-venezuela-100.html",
-      "time": "2026-11-19T02:10:36+00:00",
+      "url": "https://www.tagesschau.de/inland/bsi-sicherheitslage-bericht-100.html",
+      "time": "2026-11-19T11:06:07+00:00",
       "opinion": false,
-      "image": "https://images.tagesschau.de/image/0c11c42d-43e1-4c3c-83bc-84d0c7b69f5d/AAABofGRwZ0/AAABnSSvrFg/16x9-big/hegseth-192.jpg?width=1024"
+      "image": "https://images.tagesschau.de/image/3d3df91e-0f26-473b-9ee4-6e3a079cf0b6/AAABofPJDeE/AAABnSSvrFg/16x9-big/plattner-dobrindt-100.jpg?width=1024"
     },
     {
       "section": "politik",
-      "headline": "Florida Man Found Guilty in Plot to Kill Haiti’s President",
-      "source": "New York Times",
-      "country": "US",
-      "url": "https://www.nytimes.com/2026/11/18/world/americas/haiti-pastor-assassination-moise.html",
-      "time": "2026-11-19T03:36:55+00:00",
-      "opinion": false,
-      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/18int-haiti-pastor/18int-haiti-pastor-mediumSquareAt3X.jpg"
-    },
-    {
-      "section": "politik",
-      "headline": "Sicherheit: Datenleck bei der Deutschen Bank soll Fall für Nationalen Sicherheitsrat werden",
-      "source": "Handelsblatt",
-      "country": "DE",
-      "url": "https://www.handelsblatt.com/politik/deutschland/deutsche-bank-datenleck-soll-fall-fuer-nationalen-sicherheitsrat-werden/100270853.html",
-      "time": "2026-11-19T03:01:44+00:00",
-      "opinion": false,
-      "image": "https://images.handelsblatt.com/5cgOo7rbLXFt/cover/900/506/0/0/0/625/0.5/0.5/..jpg"
-    },
-    {
-      "section": "politik",
-      "headline": "Israels Armee startet Einsatz in von Hamas kontrolliertem Gebiet",
-      "source": "Tagesschau",
-      "country": "DE",
-      "url": "https://www.tagesschau.de/ausland/asien/israel-gaza-bodenoffensive-104.html",
-      "time": "2026-11-18T21:04:52+00:00",
-      "opinion": false,
-      "image": "https://images.tagesschau.de/image/7e17a424-7280-4eda-8fc5-c5623d7149df/AAABleaWtkk/AAABnSSvrFg/16x9-big/israel-soldaten-112.jpg?width=1024"
-    },
-    {
-      "section": "politik",
-      "headline": "Keine Neuauszählung: BSW scheitert mit Wahlprüfungsbeschwerde",
-      "source": "Tagesschau",
-      "country": "DE",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/bsw-beschwerde-abgelehnt-bundestagswahl-100.html",
-      "time": "2026-11-18T11:55:00+00:00",
-      "opinion": false,
-      "image": "https://images.tagesschau.de/image/d1e05f6d-a426-4d3a-bdf4-ee7d2d1a8241/AAABmvnG4RI/AAABnSSvrFg/16x9-big/bsw-parteitag-106.jpg?width=1024"
-    },
-    {
-      "section": "politik",
-      "headline": "Türkei: Gericht verhängt Politikverbot gegen Erdoğan-Rivalen İmamoğlu",
+      "headline": "SPD: Niedersachsens Justizministerin Kathrin Wahlmann tritt zurück",
       "source": "Zeit",
       "country": "DE",
-      "url": "https://www.zeit.de/politik/ausland/2026-11/ekrem-imamoglu-politikverbot-prozess-chp-oezguer-oezel",
-      "time": "2026-11-18T18:41:15+00:00",
+      "url": "https://www.zeit.de/politik/deutschland/2026-11/kathrin-wahlmann-spd-ruecktritt-justizministerin-niedersachsen",
+      "time": "2026-11-19T19:50:33+00:00",
       "opinion": false,
-      "image": "https://img.zeit.de/politik/ausland/2026-11/ekrem-imamoglu-politikverbot-prozess-chp-oezguer-oezel-foto-1/wide__820x461"
-    },
-    {
-      "section": "politik",
-      "headline": "Australia may have ‘one foot in recession’ as unemployment surges to five-year high",
-      "source": "Guardian",
-      "country": "UK",
-      "url": "https://www.theguardian.com/business/2026/nov/19/unemployment-rate-jumps-highest-level-five-years-job-figures",
-      "time": "2026-11-19T03:32:42+00:00",
-      "opinion": false,
-      "image": "https://i.guim.co.uk/img/media/ccbba5c44390f21ce8f21f8caaf8486c31bac8c4/529_0_4164_3333/master/4164.jpg?width=700&quality=85&auto=format&fit=max&s=3a6a8e98b1d1f2d76b399ad60059cd79"
-    },
-    {
-      "section": "politik",
-      "headline": "Polen: Immunität von oberstem polnischen Verfassungsrichter aufgehoben",
-      "source": "Zeit",
-      "country": "DE",
-      "url": "https://www.zeit.de/politik/ausland/2026-11/polnisches-verfassungsgericht-bogdan-swieczkowski-immunitaet",
-      "time": "2026-11-18T23:19:34+00:00",
-      "opinion": false,
-      "image": "https://img.zeit.de/politik/ausland/2026-11/polnisches-verfassungsgericht-bogdan-swieczkowski-immunitaet-bild-1/wide__820x461"
-    },
-    {
-      "section": "politik",
-      "headline": "DAK-Auswertung: Jugendliche konsumieren immer mehr Nikotinbeutel",
-      "source": "Tagesschau",
-      "country": "DE",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/nikotinbeutel-jugendliche-100.html",
-      "time": "2026-11-18T14:24:48+00:00",
-      "opinion": false,
-      "image": "https://images.tagesschau.de/image/b2f9bc0c-141b-43d1-bdd2-c9105254dd3d/AAABoe7fi74/AAABnSSvrFg/16x9-big/nikotinbeutel-134.jpg?width=1024"
-    },
-    {
-      "section": "politik",
-      "headline": "Kabinett will bei Unterhaltszahlungen für Alleinerziehende sparen",
-      "source": "Tagesschau",
-      "country": "DE",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/kabinett-unterhaltszahlung-verschaerfung-100.html",
-      "time": "2026-11-18T15:37:39+00:00",
-      "opinion": false,
-      "image": "https://images.tagesschau.de/image/a0b38ded-8afc-47f1-8190-84f6d1fcfc0e/AAABoe8qz2M/AAABnSSvrFg/16x9-big/mutter-kinder-106.jpg?width=1024"
-    },
-    {
-      "section": "politik",
-      "headline": "Brasilianischer Regenwald: Indigene verlassen offenbar aus Not ihre Isolation",
-      "source": "Tagesschau",
-      "country": "DE",
-      "url": "https://www.tagesschau.de/ausland/amerika/brasilien-awa-100.html",
-      "time": "2026-11-18T17:09:00+00:00",
-      "opinion": false,
-      "image": "https://images.tagesschau.de/image/ff511569-142c-4ea3-b12c-b67a196bf772/AAABoe_x1c8/AAABnSSvrFg/16x9-big/awa-100.jpg?width=1024"
-    },
-    {
-      "section": "politik",
-      "headline": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
-      "source": "BBC",
-      "country": "UK",
-      "url": "https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo",
-      "time": "2026-11-19T00:49:19+00:00",
-      "opinion": false,
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/ead6/live/066e7440-e3af-11f1-8476-9fd445fc522b.jpg"
-    },
-    {
-      "section": "politik",
-      "headline": "Metall-Tarifkonflikt eskaliert: Ganztägige Warnstreiks: Selten genutzte „Phase Gelb“",
-      "source": "Handelsblatt",
-      "country": "DE",
-      "url": "https://www.handelsblatt.com/politik/deutschland/metall-tarifkonflikt-eskaliert-ganztaegige-warnstreiks-selten-genutzte-phase-gelb/100271107.html",
-      "time": "2026-11-19T02:45:05+00:00",
-      "opinion": false,
-      "image": "https://images.handelsblatt.com/y66drEk-VI41/cover/900/506/2/2/0/0/0.5/0.5/warnstreik-der-ig-metall-jena.jpg"
-    },
-    {
-      "section": "politik",
-      "headline": "Sturm und Regen in Deutschland - viele Einsätze von Polizei und Feuerwehr",
-      "source": "Tagesschau",
-      "country": "DE",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/sturm-deutschland-106.html",
-      "time": "2026-11-18T12:59:46+00:00",
-      "opinion": false,
-      "image": "https://images.tagesschau.de/image/ad51b652-05fa-47e6-9495-466c708659a2/AAABoe696bk/AAABnSSvrFg/16x9-big/regen-196.jpg?width=1024"
-    },
-    {
-      "section": "politik",
-      "headline": "Ex-Ministerin Kneissl: Österreich prüft Aberkennung der Staatsbürgerschaft",
-      "source": "Tagesschau",
-      "country": "DE",
-      "url": "https://www.tagesschau.de/ausland/europa/kneissl-staatsbuergerschaft-100.html",
-      "time": "2026-11-18T17:17:56+00:00",
-      "opinion": false,
-      "image": "https://images.tagesschau.de/image/4128a5e5-8c23-467c-b980-64a2311c60d8/AAABoe9q4v0/AAABnSSvrFg/16x9-big/kneissl-110.jpg?width=1024"
+      "image": "https://img.zeit.de/politik/deutschland/2026-11/kathrin-wahlmann-spd-ruecktritt-justizministerin-niedersachsen-foto-1/wide__820x461"
     },
     {
       "section": "wirtschaft",
-      "headline": "In Brandenburg: Höchstes Windrad der Welt soll offiziell ans Netz gehen",
-      "source": "FAZ",
+      "headline": "BASF und Evonik: Leg dich nicht mit dem Ruhrpott an!",
+      "source": "Zeit",
       "country": "DE",
-      "url": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/hoechstes-windrad-der-welt-gicon-turm-in-brandenburg-geht-ans-netz-201696305.html",
-      "time": "2026-11-18T19:39:51+00:00",
+      "url": "https://www.zeit.de/wirtschaft/2026-11/basf-evonik-uebernahmeversuch-chemiebranche-nrw-hendrik-wuest",
+      "time": "2026-11-19T17:46:58+00:00",
       "opinion": false,
-      "image": "https://media0.faz.net/image/de792bb7b1ff/w5272h2965x0y219/202611/e8fc5186-5b9b-4a85-a5d5-c87daaa273e0/deutlich-hoeher-als.webp"
+      "image": "https://img.zeit.de/wirtschaft/2026-11/basf-evonik-uebernahmeversuch-chemiebranche-nrw-hendrik-wuest-bild/wide__820x461"
+    },
+    {
+      "section": "politik",
+      "headline": "EGMR-Urteil: Corona-Impfpflichten waren menschenrechtskonform",
+      "source": "Tagesschau",
+      "country": "DE",
+      "url": "https://www.tagesschau.de/ausland/europa/egmr-corona-impfpflicht-100.html",
+      "time": "2026-11-19T15:24:28+00:00",
+      "opinion": false,
+      "image": "https://images.tagesschau.de/image/5c82f2c9-c084-4821-a88c-6a64ba8cb920/AAABofRUwNg/AAABnSSvrFg/16x9-big/klinik-flur-101.jpg?width=1024"
+    },
+    {
+      "section": "politik",
+      "headline": "Dänisches Parlament ratifiziert Grönland-Deal mit Trump",
+      "source": "Tagesschau",
+      "country": "DE",
+      "url": "https://www.tagesschau.de/ausland/europa/parlament-in-daenemark-ratifiziert-groenland-abkommen-100.html",
+      "time": "2026-11-19T10:02:23+00:00",
+      "opinion": false,
+      "image": "https://images.tagesschau.de/image/53f17c19-4c8e-4718-8fc6-4f8f20800534/AAABnIYRdIw/AAABnSSvrFg/16x9-big/nuuk-112.jpg?width=1024"
+    },
+    {
+      "section": "politik",
+      "headline": "Parlamentarisches Kontrollgremium: AfD-Politiker in Kontrollgremium für Verfassungsschutz gewählt",
+      "source": "Zeit",
+      "country": "DE",
+      "url": "https://www.zeit.de/politik/deutschland/2026-11/parlamentarisches-kontrollgremium-sachsen-anhalt-verfassungsschutz-afd-bsw-cdu",
+      "time": "2026-11-19T18:48:54+00:00",
+      "opinion": false,
+      "image": "https://img.zeit.de/politik/deutschland/2026-11/parlamentarisches-kontrollgremium-sachsen-anhalt-verfassungsschutz-afd-bsw-cdu-foto-1/wide__820x461"
     },
     {
       "section": "wirtschaft",
-      "headline": "Waymo stoppt autonome Fahrten auf US-Autobahnen",
+      "headline": "Windenergie in Brandenburg: Höchstes Windrad der Welt geht in Betrieb",
       "source": "Spiegel",
       "country": "DE",
-      "url": "https://www.spiegel.de/wirtschaft/unternehmen/waymo-stoppt-autonome-fahrten-auf-us-autobahnen-a-022b4b7c-103a-40d8-9dda-e6365a5ec28e",
-      "time": "2026-11-18T06:50:00+00:00",
+      "url": "https://www.spiegel.de/wirtschaft/windenergie-in-brandenburg-hoechstes-windrad-der-welt-geht-in-betrieb-a-eddc2afd-3bd5-4bde-9528-71b3d7c10c92",
+      "time": "2026-11-19T19:01:00+00:00",
       "opinion": false,
-      "image": "https://cdn.prod.www.spiegel.de/images/7f7bcd01-d855-4136-8bf4-b09d8be62df1_w520_r2.08_fpx36.67_fpy45.jpg"
+      "image": "https://cdn.prod.www.spiegel.de/images/8aba3b56-46c0-497f-97f7-a408ed476edc_w520_r2.08_fpx51.74_fpy55.jpg"
     },
     {
       "section": "politik",
-      "headline": "Treibhausgas Methan: EU verschiebt Klimaschutzregeln wegen Energiekrise",
-      "source": "Handelsblatt",
+      "headline": "Save the Children: Fast jedes vierte Kind lebt in einem Konfliktgebiet",
+      "source": "Tagesschau",
       "country": "DE",
-      "url": "https://www.handelsblatt.com/politik/deutschland/treibhausgas-methan-eu-verschiebt-klimaschutzregeln-wegen-energiekrise/100271127.html",
-      "time": "2026-11-19T04:01:14+00:00",
+      "url": "https://www.tagesschau.de/ausland/kinder-konfliktgebiete-106.html",
+      "time": "2026-11-19T08:14:57+00:00",
       "opinion": false,
-      "image": "https://images.handelsblatt.com/Xks0oEZWrib6/cover/900/506/0/0/107/107/0.5/0.5/methan.jpg"
+      "image": "https://images.tagesschau.de/image/11a6526f-d2e6-443b-bc65-e0157182ee8e/AAABofLPotQ/AAABnSSvrFg/16x9-big/kinder-gazastreifen-100.jpg?width=1024"
     },
     {
       "section": "politik",
-      "headline": "Klimagipfel in Antalya: „Frage des Überlebens“ – Warum diese Frauen nicht aufgeben",
+      "headline": "Diplom aberkannt: İmamoğlu kann wohl nicht zur Präsidentenwahl antreten",
+      "source": "FAZ",
+      "country": "DE",
+      "url": "https://www.faz.net/aktuell/politik/ausland/diplom-aberkannt-ekrem-imamolu-darf-wohl-nicht-bei-tuerkischer-praesidentenwahl-antreten-201698604.html",
+      "time": "2026-11-19T17:04:12+00:00",
+      "opinion": false,
+      "image": "https://media0.faz.net/image/0b5ed19cfdcc/w3401h1913x746y518/202611/7ecbc2a8-1c9d-4020-8a23-850df54df1cf/ekrem-i-mamo-lu-spricht-zu.webp"
+    },
+    {
+      "section": "politik",
+      "headline": "Haiti: Polizei in Haiti tötet 34 mutmaßliche Bandenmitglieder",
+      "source": "Zeit",
+      "country": "DE",
+      "url": "https://www.zeit.de/politik/ausland/2026-11/haiti-banden-martissant-port-au-prince",
+      "time": "2026-11-19T22:16:27+00:00",
+      "opinion": false,
+      "image": "https://img.zeit.de/politik/ausland/2026-11/haiti-banden-martissant-port-au-prince-foto-1/wide__820x461"
+    },
+    {
+      "section": "wirtschaft",
+      "headline": "Verkehrsminister Steffen Bilger verschweigt Zielwerte für die Netzsanierung",
+      "source": "Spiegel",
+      "country": "DE",
+      "url": "https://www.spiegel.de/wirtschaft/unternehmen/verkehrsminister-steffen-bilger-verschweigt-zielwerte-fuer-die-netzsanierung-a-bddca2c9-4c2c-4f3d-acc7-d55e10060516",
+      "time": "2026-11-19T20:56:00+00:00",
+      "opinion": false,
+      "image": "https://cdn.prod.www.spiegel.de/images/31bae66d-f46d-4ed0-8266-7e7a58db9fc2_w520_r2.08_fpx69.98_fpy44.98.jpg"
+    },
+    {
+      "section": "wirtschaft",
+      "headline": "Isomorphic Labs: Start-up von Google DeepMind-Gründer mit 50 Milliarden Dollar bewertet",
+      "source": "FAZ",
+      "country": "DE",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/isomorphic-labs-ki-start-up-von-demis-hassabis-mit-50-millliarden-bewertet-201697847.html",
+      "time": "2026-11-19T18:02:16+00:00",
+      "opinion": false,
+      "image": "https://media0.faz.net/image/0764d1cb6bf9/w6000h3375x0y313/202609/43601.0.2565983116/demis-hassabis-spricht-ueber.webp"
+    },
+    {
+      "section": "wirtschaft",
+      "headline": "Gebrauchte Spielekonsolen so teuer wie noch nie",
+      "source": "Tagesschau",
+      "country": "DE",
+      "url": "https://www.tagesschau.de/wirtschaft/digitales/gta-vi-konsolen-preise-gaming-100.html",
+      "time": "2026-11-19T13:33:49+00:00",
+      "opinion": false,
+      "image": "https://images.tagesschau.de/image/5d1893ed-e867-40f0-8187-9b9dd9ad83ed/AAABoe_EV14/AAABnSSvrFg/16x9-big/gta-vi-104.jpg?width=1024"
+    },
+    {
+      "section": "politik",
+      "headline": "Wirtschaftspolitik: BDI fordert Resilienzpolitik aus einem Guss: Wirtschaftssicherheit soll Chefsache werden",
       "source": "Handelsblatt",
       "country": "DE",
-      "url": "https://www.handelsblatt.com/politik/international/klimagipfel-in-antalya-frage-des-ueberlebens-warum-diese-frauen-nicht-aufgeben/100271126.html",
-      "time": "2026-11-19T04:00:10+00:00",
+      "url": "https://www.handelsblatt.com/politik/deutschland/wirtschaftspolitik-bdi-will-resilienzpolitik-ins-kanzleramt-holen/100271055.html",
+      "time": "2026-11-20T03:00:53+00:00",
       "opinion": false,
-      "image": "https://images.handelsblatt.com/AELk1NBuVnEL/cover/900/506/0/0/107/106/0.5/0.5/cop31.jpg"
+      "image": "https://images.handelsblatt.com/92ABinW0zHiK/cover/900/506/0/0/0/417/0.5/0.5/tanja-goenner.jpg"
+    },
+    {
+      "section": "wirtschaft",
+      "headline": "Ex-Bundesaußenministerin: Annalena Baerbock wird jetzt auch Beraterin",
+      "source": "Handelsblatt",
+      "country": "DE",
+      "url": "https://www.handelsblatt.com/unternehmen/ex-bundesaussenministerin-annalena-baerbock-wird-jetzt-auch-beraterin/100271366.html",
+      "time": "2026-11-20T03:00:00+00:00",
+      "opinion": false,
+      "image": "https://images.handelsblatt.com/g5LizLTfZMxx/cover/900/506/0/0/110/103/0.5/0.5/baerbock-.jpeg"
+    },
+    {
+      "section": "wirtschaft",
+      "headline": "Tesla: Eine Drei-Milliarden-Fabrik für ein Auto ohne Zulassung",
+      "source": "Handelsblatt",
+      "country": "DE",
+      "url": "https://www.handelsblatt.com/unternehmen/industrie/tesla-eine-drei-milliarden-fabrik-fuer-ein-auto-ohne-zulassung/100270671.html",
+      "time": "2026-11-20T03:00:00+00:00",
+      "opinion": false,
+      "image": "https://images.handelsblatt.com/w3ws5HnYrIOU/cover/900/506/0/0/0/0/0.5/0.5/longread-gruenheide-tesla-musk.jpg"
+    },
+    {
+      "section": "politik",
+      "headline": "Erneuerbare Energien: Grüner Wasserstoff aus der Nordsee: Politik deckelt die Zukunft",
+      "source": "Handelsblatt",
+      "country": "DE",
+      "url": "https://www.handelsblatt.com/politik/deutschland/erneuerbare-energien-chancen-fuer-wasserstoff-aus-dem-meer-schwinden/100270322.html",
+      "time": "2026-11-20T03:00:00+00:00",
+      "opinion": false,
+      "image": "https://images.handelsblatt.com/FmfYYdTKspwA/cover/900/506/0/0/156/157/0.5/0.5/die-konverterstation-quotsylwin-alphaquot-des-niederlaendischen-stromnetzbetreibers-tennet-und-wi.jpg"
+    },
+    {
+      "section": "wirtschaft",
+      "headline": "Sprite: Coca-Cola ruft falsch befüllte Limonadendosen zurück",
+      "source": "Spiegel",
+      "country": "DE",
+      "url": "https://www.spiegel.de/wirtschaft/sprite-coca-cola-ruft-falsch-befuellte-limonadendosen-zurueck-a-efc5fc1e-f63f-4eec-9964-cd0dfcfbc008",
+      "time": "2026-11-20T02:33:00+00:00",
+      "opinion": false,
+      "image": "https://cdn.prod.www.spiegel.de/images/f808abe0-97c8-4bd7-baa3-5f61dea2f487_w520_r2.08_fpx30.67_fpy55.01.jpg"
+    },
+    {
+      "section": "politik",
+      "headline": "Das Zaudern der Manuela Schwesig",
+      "source": "Politico Europe",
+      "country": "EU",
+      "url": "https://www.politico.eu/podcast/berlin-playbook-podcast/das-zaudern-der-manuela-schwesig/",
+      "time": "2026-11-20T04:02:00+00:00",
+      "opinion": false,
+      "image": null
+    },
+    {
+      "section": "politik",
+      "headline": "+++ Ukraine-Krieg +++: Wadephul sieht „gute Chance“ für Fortschritte",
+      "source": "Handelsblatt",
+      "country": "DE",
+      "url": "https://www.handelsblatt.com/politik/international/ukraine-wadephul-sieht-gute-chance-fuer-fortschritte/27982126.html",
+      "time": "2026-11-20T03:59:00+00:00",
+      "opinion": false,
+      "image": "https://images.handelsblatt.com/jK3xTxpTdh0w/cover/900/506/0/0/196/203/0.5/0.5/johann-wadephul.jpg"
     }
   ]
 }
