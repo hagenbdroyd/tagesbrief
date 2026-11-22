@@ -1,9 +1,9 @@
 {
-  "date": "2026-11-21",
-  "generatedAt": "2026-11-21T05:11:33+01:00",
-  "notice": "Der zweite Prüfdurchgang ist heute ausgefallen (KI-Kontingent aufgebraucht) – die Texte sind ungeprüft.",
+  "date": "2026-11-22",
+  "generatedAt": "2026-11-22T05:11:32+01:00",
+  "notice": null,
   "aiModel": "gemini-3.6-flash",
-  "push": "Flugkörper im polnischen Luftraum abgestürzt: Warschau spricht von Provokation",
+  "push": "US-Börsenaufsicht ermittelt gegen Nvidia – Tech-Aktien brechen ein",
   "breaking": [],
   "sections": [
     {
@@ -12,167 +12,180 @@
       "items": [
         {
           "id": "p1",
-          "headline": "Russische Flugkörper im polnischen Luftraum abgestürzt",
-          "summary": "Während eines Militärmanövers von Ukraine-Verbündeten sind russische Flugobjekte im polnischen Luftraum abgestürzt. Laut Behörden gab es keine Verletzten oder Sachschäden. Polen spricht von einer gezielten Provokation aus Moskau.",
-          "perspectives": "BBC berichtet unter Berufung auf Premierminister Tusk von einer eingeschlagenen russischen Rakete. NZZ meldet den Absturz zweier Marschflugkörper, während Tagesschau und New York Times von mehreren Flugobjekten beziehungsweise drei Vorfällen sprechen. BBC, New York Times und NZZ heben übereinstimmend hervor, dass Warschau den Vorfall als Provokation einstuft.",
+          "headline": "COP31: Klimagipfel in Antalya ringt um Abschlusserklärung",
+          "summary": "Die UN-Klimakonferenz in Antalya geht in die Verlängerung, da sich die Staaten uneinig über den Ausstieg aus fossilen Energien sind. Australien und die Türkei schlugen einen neuen Textentwurf vor. Der Präsident der COP31 sieht eine Einigung in Reichweite.",
+          "perspectives": "Während Zeit und Handelsblatt auf den Entwurf von Australien und der Türkei verweisen, hebt Financial Times hervor, dass Saudi-Arabien den Widerstand gegen den Ausstieg aus fossilen Brennstoffen anführt. Financial Times erwähnt zudem die Drohung der EU mit einem Scheitern der Verhandlungen, wohingegen Tagesschau das Gastgeberland optimistisch zitiert.",
           "sources": [
             {
-              "name": "BBC",
-              "country": "UK",
-              "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro"
-            },
-            {
-              "name": "New York Times",
-              "country": "US",
-              "url": "https://www.nytimes.com/2026/11/20/world/europe/poland-russia-airspace-missile.html"
-            },
-            {
-              "name": "NZZ",
-              "country": "CH",
-              "url": "https://www.nzz.ch/international/nato-ostflanke-russische-marschflugkoerper-schlagen-in-polen-ein-ld.10070169"
+              "name": "Zeit",
+              "country": "DE",
+              "url": "https://www.zeit.de/politik/ausland/2026-11/cop31-antalya-einigung-tuerkei-australien-fossile-brennstoffe-finanzhilfe"
             },
             {
               "name": "Tagesschau",
               "country": "DE",
-              "url": "https://www.tagesschau.de/ausland/europa/absturz-russische-flugobjekte-polen-100.html"
-            }
-          ],
-          "time": "2026-11-20T16:22:28+00:00",
-          "image": {
-            "url": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/cbb7/live/b5de9720-e4ea-11f1-99b6-a35a62fa4264.jpg",
-            "source": "BBC"
-          }
-        },
-        {
-          "id": "p2",
-          "headline": "Großbritannien und EU beschließen neue Partnerschaft",
-          "summary": "Großbritannien und die EU haben sich auf einem Gipfel in Brüssel auf Vereinbarungen zur Wiederannäherung geeinigt. Diese betreffen den Agrarhandel, den Emissionshandel sowie Erleichterungen für den Jugendaustausch.",
-          "perspectives": "Die Medien berichten im Wesentlichen übereinstimmend über das Abkommen. Tagesschau und Deutsche Welle betonen die Chancen für die Annäherung und die Jugend. Guardian streicht heraus, dass die Frage der Studiengebühren für EU-Studierende vorerst ungeklärt blieb, während New York Times globale Turbulenzen als Auslöser sieht.",
-          "sources": [
-            {
-              "name": "Guardian",
-              "country": "UK",
-              "url": "https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates"
-            },
-            {
-              "name": "Tagesschau",
-              "country": "DE",
-              "url": "https://www.tagesschau.de/ausland/eu-uk-gipfel-102.html"
-            },
-            {
-              "name": "New York Times",
-              "country": "US",
-              "url": "https://www.nytimes.com/2026/11/20/world/europe/uk-eu-summit-brexit.html"
-            },
-            {
-              "name": "Deutsche Welle",
-              "country": "DE",
-              "url": "https://www.dw.com/en/eu-and-uk-strike-landmark-deal-to-strengthen-ties-after-brexit/a-80001076"
-            }
-          ],
-          "time": "2026-11-20T14:30:00+00:00",
-          "image": {
-            "url": "https://i.guim.co.uk/img/media/bb99120c2f7d41fd909aef903d962db65654e712/450_38_3420_2737/master/3420.jpg?width=700&quality=85&auto=format&fit=max&s=208f4dc2f1acef8d1b4443cd0df870d0",
-            "source": "Guardian"
-          }
-        },
-        {
-          "id": "p3",
-          "headline": "Tausende Jugendliche demonstrieren in Europa",
-          "summary": "Unter dem Motto „Gen Z regelt“ haben zehntausende junge Menschen in Deutschland und anderen europäischen Ländern demonstriert. Sie protestieren gegen hohe Lebenshaltungskosten, Sparmaßnahmen und Forderungen nach einer Wehrpflicht.",
-          "perspectives": "FAZ bezeichnet die Proteste in Deutschland als weitestgehend friedlich. Handelsblatt und Tagesschau berichten hingegen von vereinzelten Krawallen, Flaschenwürfen und Festnahmen im Anschluss an die Demos. NZZ rückt die grenzübergreifenden Proteste in mehreren europäischen Großstädten in den Fokus.",
-          "sources": [
-            {
-              "name": "Tagesschau",
-              "country": "DE",
-              "url": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-krawalle-gen-z-100.html"
-            },
-            {
-              "name": "Handelsblatt",
-              "country": "DE",
-              "url": "https://www.handelsblatt.com/politik/deutschland/demonstrationen-festnahmen-und-fliegende-flaschen-nach-jugendprotesten/100271691.html"
-            },
-            {
-              "name": "FAZ",
-              "country": "DE",
-              "url": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-bundesweite-jugendproteste-weitestgehend-friedlich-faz-110093143.html"
-            },
-            {
-              "name": "NZZ",
-              "country": "CH",
-              "url": "https://www.nzz.ch/international/tausende-junge-protestieren-in-europa-die-bilder-ld.10070000"
-            }
-          ],
-          "time": "2026-11-20T15:27:19+00:00",
-          "image": {
-            "url": "https://images.tagesschau.de/image/2c703d3c-7472-41bf-bb2d-e59b13301821/AAABofv4RzI/AAABnSSvrFg/16x9-big/jugendproteste-120.jpg?width=1024",
-            "source": "Tagesschau"
-          }
-        },
-        {
-          "id": "p4",
-          "headline": "Trump droht US-Tech-Konzernen wegen Rechenzentren im Ausland",
-          "summary": "US-Präsident Donald Trump hat heimischen Technologiekonzernen mit hohen Strafen gedroht, falls sie KI-Rechenzentren im Ausland bauen. Er will damit den Vorsprung der USA gegenüber China bei der künstlichen Intelligenz sichern.",
-          "perspectives": "Handelsblatt verweist auf den Widerstand von US-Bürgern gegen heimische Rechenzentren als Hintergrund der Debatte. BBC und Guardian heben hervor, dass Trump keine Details zur Umsetzung nannte und sogar sein eigenes Team überraschte. Financial Times betont Trumps Ziel, Chinas KI-Entwicklung einzudämmen.",
-          "sources": [
-            {
-              "name": "Guardian",
-              "country": "UK",
-              "url": "https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house"
-            },
-            {
-              "name": "BBC",
-              "country": "UK",
-              "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko"
+              "url": "https://www.tagesschau.de/ausland/europa/cop31-klimakonferenz-100.html"
             },
             {
               "name": "Financial Times",
               "country": "UK",
-              "url": "https://www.ft.com/content/ae564e09-eb0d-42c6-b61f-50a4e61d0240?syn-25a6b1a6=1"
+              "url": "https://www.ft.com/content/b3ba64e9-9482-4525-acc7-49825f3daace?syn-25a6b1a6=1"
             },
             {
               "name": "Handelsblatt",
               "country": "DE",
-              "url": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-trump-droht-us-firmen-wegen-rechenzentren-im-ausland/100271664.html"
+              "url": "https://www.handelsblatt.com/politik/deutschland/cop31-klimagipfel-in-antalya-cop31-praesident-sieht-einigung-in-reichweite/100270720.html"
             }
           ],
-          "time": "2026-11-20T18:52:18+00:00",
+          "time": "2026-11-21T17:35:42+00:00",
           "image": {
-            "url": "https://i.guim.co.uk/img/media/9532d886df85f2ca4c23d7e6a6341c606f995971/357_0_3572_2857/master/3572.jpg?width=700&quality=85&auto=format&fit=max&s=e3ce231e19384f7ffe08719d16fbacd2",
-            "source": "Guardian"
+            "url": "https://img.zeit.de/politik/ausland/2026-11/cop31-antalya-einigung-tuerkei-australien-fossile-brennstoffe-finanzhilfe-foto-1/wide__820x461",
+            "source": "Zeit"
           }
         },
         {
-          "id": "p5",
-          "headline": "Dänemark weist russischen Diplomaten nach Mordkomplott aus",
-          "summary": "Dänemark beschuldigt den russischen Geheimdienst, ein Mordkomplott gegen einen ukrainisch-amerikanischen Rapper geplant zu haben. Als Reaktion weist das Land einen russischen Diplomaten aus.",
-          "perspectives": "BBC und Tagesschau nennen das Ziel des vereitelten Anschlags einen ukrainisch-amerikanischen Rapper. Spiegel spricht von einem Musiker aus der Ukraine, während New York Times ergänzt, dass Russland für die Tat eine kriminelle Bande rekrutiert haben soll. BBC erwähnt zudem, dass die russische Botschaft die Vorwürfe zurückweist.",
+          "id": "p2",
+          "headline": "Russisches Schiff nach Drohnenangriff in der Ostsee in Brand",
+          "summary": "Im Finnischen Meerbusen ist ein russisches Frachtschiff nach einem Drohnenangriff in Brand geraten. Finnlands Streitkräfte vermuten einen ukrainischen Angriff in internationalen Gewässern. Zudem verletzte laut NZZ ein russischer Militärhubschrauber während der Rettung den finnischen Luftraum.",
+          "perspectives": "NZZ ordnet den Frachter dem russischen Verteidigungsministerium zu, wogegen Tagesschau von einem Handelsschiff und BBC von einem Schiff auf dem Weg nach Russland berichtet. Tagesschau verweist zudem ausdrücklich auf widersprüchliche Angaben zur Schiffsbesatzung.",
           "sources": [
             {
-              "name": "New York Times",
-              "country": "US",
-              "url": "https://www.nytimes.com/2026/11/20/world/europe/denmark-russia-ukraine-rapper-assassination.html"
+              "name": "Zeit",
+              "country": "DE",
+              "url": "https://www.zeit.de/politik/ausland/2026-11/drohnenangriff-sparta-2-russisches-frachtschiff-ostsee-gogland-gxe"
             },
             {
               "name": "BBC",
               "country": "UK",
-              "url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno"
+              "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko"
             },
             {
               "name": "Tagesschau",
               "country": "DE",
-              "url": "https://www.tagesschau.de/ausland/europa/daenemark-attentatsversuch-100.html"
+              "url": "https://www.tagesschau.de/ausland/europa/finnland-ostsee-drohnenangriff-russland-frachter-100.html"
+            },
+            {
+              "name": "NZZ",
+              "country": "CH",
+              "url": "https://www.nzz.ch/international/russischer-frachter-im-finnischen-meerbusen-von-drohnen-attackiert-ld.10070933"
+            }
+          ],
+          "time": "2026-11-21T14:04:30+00:00",
+          "image": {
+            "url": "https://img.zeit.de/politik/ausland/2026-11/drohnenangriff-sparta-2-russisches-frachtschiff-ostsee-gogland-gxe-foto-1/wide__820x461",
+            "source": "Zeit"
+          }
+        },
+        {
+          "id": "p3",
+          "headline": "Mexiko nimmt gesuchten Drogenboss nach Schusswechsel fest",
+          "summary": "Mexikanische Einsatzkräfte haben den mutmaßlichen Drogenboss Fausto Isidro Meza Flores festgenommen. Der als „El Chapo Isidro“ bekannte Mann stand auf der FBI-Liste der zehn meistgesuchten Verbrecher. Nach dem Zugriff kam es zu gewaltsamen Ausschreitungen.",
+          "perspectives": "BBC berichtet von einem vorausgegangenen Schusswechsel bei der Festnahme, während New York Times von einem Militäreinsatz spricht. Zeit betont die anschließenden gewalttätigen Ausschreitungen. Tagesschau stellt den Druck der USA auf Mexiko in den Vordergrund.",
+          "sources": [
+            {
+              "name": "BBC",
+              "country": "UK",
+              "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o"
+            },
+            {
+              "name": "Zeit",
+              "country": "DE",
+              "url": "https://www.zeit.de/politik/ausland/2026-11/fausto-isidro-meza-flores-el-chapo-isidro-sinaloa-fbi"
+            },
+            {
+              "name": "New York Times",
+              "country": "US",
+              "url": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-captured-drugs.html"
+            },
+            {
+              "name": "Tagesschau",
+              "country": "DE",
+              "url": "https://www.tagesschau.de/ausland/amerika/mexiko-drogenkartell-chef-festnahme-100.html"
+            }
+          ],
+          "time": "2026-11-21T15:36:57+00:00",
+          "image": {
+            "url": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/5701/live/7ac9e270-e5ad-11f1-99a1-253766e7ad8b.jpg",
+            "source": "BBC"
+          }
+        },
+        {
+          "id": "p4",
+          "headline": "Iran-Krieg: Bahrain meldet Angriffe auf Industrieanlage",
+          "summary": "Der mit den USA verbündete Golfstaat Bahrain ist erneut vom Iran angegriffen worden, wodurch eine Industrieanlage in Brand geriet. Zudem wurden in der Straße von Hormus Frachtschiffe attackiert. Die USA und der Iran befinden sich seit Februar 2026 im Kriegszustand.",
+          "perspectives": "NZZ hebt hervor, dass Donald Trump die vereinbarte Waffenruhe im Juli für beendet erklärt habe. Handelsblatt meldet als einzige Quelle, dass Saudi-Arabien Angriffe auf Riad abwehrte. Zeit betont vor allem die brennende Industrieanlage und Angriffe auf Frachter.",
+          "sources": [
+            {
+              "name": "NZZ",
+              "country": "CH",
+              "url": "https://www.nzz.ch/international/iran-krieg-bahrain-geraet-erneut-unter-iranischen-beschuss-ld.10021246"
+            },
+            {
+              "name": "Zeit",
+              "country": "DE",
+              "url": "https://www.zeit.de/politik/ausland/2026-05/iran-krieg-donald-trump-hormus-live"
+            },
+            {
+              "name": "Handelsblatt",
+              "country": "DE",
+              "url": "https://www.handelsblatt.com/politik/international/iran-krieg-bahrain-geraet-erneut-unter-iranischen-beschuss/100136895.html"
+            }
+          ],
+          "time": "2026-11-22T02:26:00+00:00",
+          "image": {
+            "url": "https://img-msp-prod.nzz.ch/2026/10/11/4c37ffa1-3c81-4bae-9e45-f4ef9f5f955a.jpg?width=900&height=900&fit=bounds",
+            "source": "NZZ"
+          }
+        },
+        {
+          "id": "p5",
+          "headline": "UN-Verhandlungen über Regulierung autonomer Waffen gescheitert",
+          "summary": "Die Verhandlungen von 128 Vertragsstaaten der UN-Waffenkonvention über Regeln für vollautonome Waffensysteme in Genf wurden laut Politico auf das Jahr 2028 verschoben, während der Spiegel von einem Minimalkonsens berichtet.",
+          "perspectives": "Spiegel nennt 128 Vertragsstaaten und betont, dass konkrete Beschlüsse an drei Ländern scheiterten. Politico und Guardian machen hingegen eine Blockade durch Russland verantwortlich. Während Spiegel von einem Ende mit Minimalkonsens berichtet, sprechen Guardian vom Scheitern und Politico von einer Verschiebung auf 2028.",
+          "sources": [
+            {
+              "name": "Politico Europe",
+              "country": "EU",
+              "url": "https://www.politico.eu/article/effort-regulate-killer-robots-delayed-until-2028-ai-un/"
+            },
+            {
+              "name": "Guardian",
+              "country": "UK",
+              "url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse"
             },
             {
               "name": "Spiegel",
               "country": "DE",
-              "url": "https://www.spiegel.de/ausland/daenemark-macht-russischen-geheimdienst-fuer-mordkomplott-gegen-ukrainischen-rapper-verantwortlich-a-38bdaa9f-19c3-448d-8c67-7493d0a798f8"
+              "url": "https://www.spiegel.de/politik/killerroboter-un-konferenz-endet-mit-minimalkonsens-a-ac54782b-a751-4962-94fe-3b5731986bce"
             }
           ],
-          "time": "2026-11-20T17:51:00+00:00",
+          "time": "2026-11-21T06:45:00+00:00",
           "image": {
-            "url": "https://static01.nyt.com/images/2026/11/20/multimedia/20int-denmark-ukraine-rapper-photo-pqwv/20int-denmark-ukraine-rapper-photo-pqwv-mediumSquareAt3X.jpg",
-            "source": "New York Times"
+            "url": "https://i.guim.co.uk/img/media/247601abada695f09f302253178bbc8f6e58cd42/415_0_4165_3333/master/4165.jpg?width=700&quality=85&auto=format&fit=max&s=53e5333670bc5c7e1cdca1ffee1bca36",
+            "source": "Guardian"
+          }
+        },
+        {
+          "id": "p6",
+          "headline": "Israels Oppositionschef Eisenkot lädt Likud zu Koalition ein",
+          "summary": "Israels Oppositionschef Gadi Eisenkot hat die Likud-Partei von Premierminister Benjamin Netanjahu zu Koalitionsgesprächen eingeladen. Am Vortag hatte Eisenkot noch eine Minderheitsregierung ins Gespräch gebracht. Die Likud-Partei stellt bereits erste Bedingungen.",
+          "perspectives": "Spiegel verweist darauf, dass Eisenkot am Vortag noch eine Minderheitsregierung ins Spiel brachte. Zeit hebt dagegen hervor, dass die Likud-Partei bereits erste Bedingungen für die Verhandlungen stellt.",
+          "sources": [
+            {
+              "name": "Zeit",
+              "country": "DE",
+              "url": "https://www.zeit.de/politik/ausland/2026-11/israel-gadi-eisenkot-regierungsbildung-likud-benjamin-netanjahu"
+            },
+            {
+              "name": "Spiegel",
+              "country": "DE",
+              "url": "https://www.spiegel.de/ausland/wahl-in-israel-gadi-eisenkot-trifft-benjamin-netanyahus-partei-zu-koalitionsgespraechen-a-5350748d-252f-43b2-ada8-8c0279780790"
+            }
+          ],
+          "time": "2026-11-21T22:22:00+00:00",
+          "image": {
+            "url": "https://img.zeit.de/politik/ausland/2026-11/repository-politik-ausland-2026-11-israel-gadi-eisenkot-regierungsbildung-likud-benjamin-netanjahu-bild-1/wide__820x461",
+            "source": "Zeit"
           }
         }
       ]
@@ -183,129 +196,119 @@
       "items": [
         {
           "id": "w1",
-          "headline": "US-Gericht genehmigt Milliarden-Vergleich für Bayer",
-          "summary": "Ein US-Gericht hat einen milliardenschweren Vergleich im Streit um angebliche Krebsrisiken des Unkrautvernichters Roundup genehmigt. Bayer hofft damit, tens of thousands Klagen in den USA beizulegen.",
-          "perspectives": "Bei der finanziellen Höhe nennen Financial Times 7,25 Milliarden Dollar und New York Times 7 Milliarden Dollar, während Tagesschau und FAZ allgemein von einem Milliarden-Vergleich sprechen. FAZ und Tagesschau heben hervor, dass die Entscheidung nach einem vorherigen Erfolg vor dem US Supreme Court den Rechtsstreit für Bayer weitgehend beendet.",
+          "headline": "US-Börsenaufsicht ermittelt gegen Chipkonzern Nvidia",
+          "summary": "Die US-Börsenaufsicht SEC untersucht Berichten zufolge die Bilanzierung von Nvidia. Anlass sind Fragen zum Schmuggel von Chips nach China. Der Kurs der Aktie brach daraufhin ein.",
+          "perspectives": "FAZ berichtet von einem Kurssturz der Nvidia-Aktie um 14 Prozent. Handelsblatt und FAZ erwähnen zudem, dass Donald Trump die Rückkehr von Ex-Chef Jensen Huang fordert.",
           "sources": [
             {
-              "name": "Tagesschau",
+              "name": "Handelsblatt",
               "country": "DE",
-              "url": "https://www.tagesschau.de/wirtschaft/bayer-glyphosat-vergleich-usa-100.html"
-            },
-            {
-              "name": "New York Times",
-              "country": "US",
-              "url": "https://www.nytimes.com/2026/11/20/business/judge-approves-7-billion-settlement-over-claims-that-roundup-caused-cancer.html"
-            },
-            {
-              "name": "Financial Times",
-              "country": "UK",
-              "url": "https://www.ft.com/content/e7d36416-9eb7-4479-a217-d593545499df?syn-25a6b1a6=1"
+              "url": "https://www.handelsblatt.com/technik/ki/chip-konzern-aufsicht-sec-ueberprueft-laut-bericht-nvidia-bilanzierung/100271678.html"
             },
             {
               "name": "FAZ",
               "country": "DE",
-              "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/bayer-gericht-genehmigt-7-25-milliarden-glyphosat-vergleich-201703914.html"
+              "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/nvidia-aktie-faellt-um-14-prozent-sec-ermittelt-accg-201704341.html"
             }
           ],
-          "time": "2026-11-20T22:18:30+00:00",
+          "time": "2026-11-21T09:16:40+00:00",
           "image": {
-            "url": "https://images.tagesschau.de/image/8abc89ba-9a3f-4036-b1d7-d035db21bc32/AAABnHAaiEY/AAABnSSvrFg/16x9-big/bayer-204.jpg?width=1024",
-            "source": "Tagesschau"
+            "url": "https://images.handelsblatt.com/NL7DUxZIYhvP/cover/900/506/613/112/0/621/0.5/0.5/nvidia-ki-konferenz.jpg",
+            "source": "Handelsblatt"
           }
         },
         {
           "id": "w2",
-          "headline": "Videospiel GTA VI erzielt Rekordumsatz am ersten Tag",
-          "summary": "Das Videospiel Grand Theft Auto VI hat am ersten Verkaufstag weltweite Einnahmen von rund 3,8 Milliarden US-Dollar erzielt. Laut Entwickler Rockstar Games ist dies der erfolgreichste Verkaufsstart der Unterhaltungsgeschichte.",
-          "perspectives": "Guardian, BBC und Handelsblatt nennen Einnahmen von 3,8 Milliarden US-Dollar, während New York Times und Handelsblatt im Detail 3,79 Milliarden US-Dollar angeben. New York Times und BBC heben übereinstimmend hervor, dass kein Kinofilm jemals mehr als drei Milliarden Dollar an den Kinokassen eingespielt hat.",
+          "headline": "EU und Indonesien unterzeichnen Freihandelsabkommen",
+          "summary": "Die EU und Indonesien haben nach jahrelangen Verhandlungen ein Freihandelsabkommen unterzeichnet. Es sieht den Abbau von Zöllen vor, wovon europäische Autobauer profitieren sollen. Im Gegenzug erhält die EU Zugang zu wichtigen Batterierohstoffen.",
+          "perspectives": "Zeit, Tagesschau und Spiegel betonen den künftigen Wegfall von Zöllen auf Autos. Handelsblatt hebt dagegen Risiken durch den Rohstoffnationalismus des indonesischen Präsidenten und die schwache Rupiah hervor. Tagesschau nennt eine Verhandlungsdauer von fast zehn Jahren.",
           "sources": [
             {
-              "name": "Guardian",
-              "country": "UK",
-              "url": "https://www.theguardian.com/games/2026/nov/21/a-new-record-for-entertainment-grand-theft-auto-vi-sales-hit-38bn-on-first-day-of-release-developer-says"
+              "name": "Zeit",
+              "country": "DE",
+              "url": "https://www.zeit.de/politik/ausland/2026-11/freihandelsabkommen-eu-indonesien-zolle-rohstoffe"
             },
             {
-              "name": "BBC",
-              "country": "UK",
-              "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o"
+              "name": "Tagesschau",
+              "country": "DE",
+              "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/eu-indonesien-handelsabkommen-102.html"
             },
             {
-              "name": "New York Times",
-              "country": "US",
-              "url": "https://www.nytimes.com/2026/11/20/arts/grand-theft-auto-vi-sales-revenue.html"
+              "name": "Spiegel",
+              "country": "DE",
+              "url": "https://www.spiegel.de/wirtschaft/eu-und-indonesien-unterzeichnen-weitreichenden-handelspakt-a-169be32d-6dd7-4308-8329-005d9e97b0bc"
             },
             {
               "name": "Handelsblatt",
               "country": "DE",
-              "url": "https://www.handelsblatt.com/technik/it-internet/nach-langem-warten-gta-6-spielte-am-ersten-tag-379-milliarden-us-dollar-ein/100271672.html"
+              "url": "https://www.handelsblatt.com/politik/international/indonesien-eu-besiegelt-freihandelsabkommen-mit-indonesien/100271180.html"
             }
           ],
-          "time": "2026-11-20T20:08:11+00:00",
+          "time": "2026-11-21T14:39:40+00:00",
           "image": {
-            "url": "https://i.guim.co.uk/img/media/5988d7ddcc73c1dddca7f0d330ee2d523648a57a/1183_0_6827_5464/master/6827.jpg?width=700&quality=85&auto=format&fit=max&s=0d6c5ce612bd99b0be41b89886149ab5",
-            "source": "Guardian"
+            "url": "https://img.zeit.de/politik/ausland/2026-11/freihandelsabkommen-eu-indonesien-zolle-rohstoffe-foto-1/wide__820x461",
+            "source": "Zeit"
           }
         },
         {
           "id": "w3",
-          "headline": "Tech-Aktien auf Talfahrt und SEC-Ermittlungen gegen Nvidia",
-          "summary": "Der Ausverkauf im US-Technologiesektor hält an. Neben deutlichen Kursverlusten bei KI-Werten wie Anthropic gerät Nvidia durch Ermittlungen der US-Börsenaufsicht SEC wegen mutmaßlicher Bilanzierungsprobleme unter Druck.",
-          "perspectives": "Handelsblatt und Spiegel berichten, dass die SEC neben der Buchhaltung auch mutmaßlichen Chip-Schmuggel nach China untersucht. New York Times und Financial Times heben hervor, dass die Ermittlungen die Unruhe nach dem Rücktritt von Nvidia-Chef Jensen Huang weiter verschärfen.",
+          "headline": "EU-Ratspräsident Costa legt Kompromiss für Budget vor",
+          "summary": "EU-Ratspräsident António Costa hat einen Kompromiss für den EU-Haushalt 2028–2034 vorgelegt. Er schlägt unter anderem eine dreiprozentige Steuer auf große Digitalunternehmen vor. Bundeskanzler Friedrich Merz wies den Entwurf als unzureichend zurück.",
+          "perspectives": "Deutsche Welle nennt die Höhe der Digitalsteuer von 3 Prozent und verweist auf die Ablehnung aus Frankreich. FAZ und Handelsblatt heben die Kritik von Bundeskanzler Merz hervor. Politico beziffert Costas Kürzungen auf 44 Milliarden Euro, während Handelsblatt von 204 Milliarden Euro Einsparungen spricht.",
           "sources": [
-            {
-              "name": "New York Times",
-              "country": "US",
-              "url": "https://www.nytimes.com/2026/11/20/business/nvidia-sec-accounting.html"
-            },
-            {
-              "name": "Financial Times",
-              "country": "UK",
-              "url": "https://www.ft.com/content/9b28ed72-aac4-4291-9734-bf60b66645ab?syn-25a6b1a6=1"
-            },
             {
               "name": "Handelsblatt",
               "country": "DE",
-              "url": "https://www.handelsblatt.com/technik/ki/chip-konzern-aufsicht-sec-ueberprueft-laut-bericht-nvidia-bilanzierung-aktie-faellt-weiter/100271678.html"
+              "url": "https://www.handelsblatt.com/politik/international/eu-haushalt-costa-will-204-milliarden-sparen-merz-reicht-das-nicht/100271749.html"
             },
             {
-              "name": "Spiegel",
+              "name": "Deutsche Welle",
               "country": "DE",
-              "url": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-us-boersenaufsicht-ermittelt-gegen-chip-riesen-a-89d79e61-5ac5-4389-aca3-f8e8d8aba4a5"
+              "url": "https://www.dw.com/en/new-eu-budget-proposal-aims-at-tax-gobal-tech-giants/a-80009255"
+            },
+            {
+              "name": "FAZ",
+              "country": "DE",
+              "url": "https://www.faz.net/aktuell/wirtschaft/eu-digitalsteuer-costas-plan-fuer-den-haushalt-und-trumps-moegliche-reaktion-accg-201704604.html"
+            },
+            {
+              "name": "Politico Europe",
+              "country": "EU",
+              "url": "https://www.politico.eu/article/costa-cuts-proposed-eu-budget-by-44billion-euros/"
             }
           ],
-          "time": "2026-11-20T20:34:00+00:00",
+          "time": "2026-11-21T10:44:05+00:00",
           "image": {
-            "url": "https://static01.nyt.com/images/2026/11/20/multimedia/20biz-Nvidia-SEC-kblz/20biz-Nvidia-SEC-kblz-mediumSquareAt3X.jpg",
-            "source": "New York Times"
+            "url": "https://images.handelsblatt.com/jXW7codkYHlJ/cover/900/506/0/0/380/628/0.5/0.5/archiv-19.06.2026-belgien-bruessel-antonio-costa-l-praesident-des-europaeischen-rates-kommt-ne.jpg",
+            "source": "Handelsblatt"
           }
         },
         {
           "id": "w4",
-          "headline": "Katar kündigt 15 Milliarden Euro Investitionen in Deutschland an",
-          "summary": "Der Emir von Katar hat bei einem Staatsbesuch in Berlin Neuinvestitionen in Höhe von 15 Milliarden Euro zugesagt. Bundeskanzler Friedrich Merz erhofft sich davon Impulse für heimische Zukunftsbranchen.",
-          "perspectives": "Handelsblatt, Zeit und Spiegel berichten übereinstimmend über die Zusage des Emirs gegenüber Kanzler Friedrich Merz. Die Medien heben unisono das Ausmaß der vereinbarten Investitionssumme von 15 Milliarden Euro hervor.",
+          "headline": "Staatliches Altersvorsorgedepot startet mit Verzögerung",
+          "summary": "Die Reform der geförderten Altersvorsorge startet zwar zum Jahreswechsel, das staatliche Basis-Fondsangebot verspätet sich jedoch. Sparern stehen ab Januar zunächst nur private Produkte zur Verfügung. Das öffentlich verwaltete Depot soll im Jahresverlauf folgen.",
+          "perspectives": "Handelsblatt nennt konkret den Sommer als voraussichtlichen Starttermin für das staatliche Depot und verweist auf private Angebote ab Januar. Tagesschau und Spiegel berichten allgemeiner über die Verzögerung, wobei Tagesschau anmerkt, dass es private Angebote bereits längst gibt.",
           "sources": [
+            {
+              "name": "Tagesschau",
+              "country": "DE",
+              "url": "https://www.tagesschau.de/wirtschaft/verbraucher/altersvorsorgedepot-staatlicher-fonds-nicht-startklar-100.html"
+            },
             {
               "name": "Handelsblatt",
               "country": "DE",
-              "url": "https://www.handelsblatt.com/politik/deutschland/golfstaaten-abkommen-katar-will-15-milliarden-in-deutschland-investieren/100271648.html"
-            },
-            {
-              "name": "Zeit",
-              "country": "DE",
-              "url": "https://www.zeit.de/wirtschaft/2026-11/katar-friedrich-merz-investitionen-deutschland-ki-sicherheit-gxe"
+              "url": "https://www.handelsblatt.com/politik/deutschland/aktienrente-staatliches-depot-fuer-zusatzrente-noch-nicht-startklar/100271724.html"
             },
             {
               "name": "Spiegel",
               "country": "DE",
-              "url": "https://www.spiegel.de/wirtschaft/katar-friedrich-merz-begruesst-milliarden-investitionen-in-deutschland-a-43570797-3fed-4b48-91a3-5bcd3d31d2d0"
+              "url": "https://www.spiegel.de/wirtschaft/service/altersvorsorgedepot-staatliches-depot-fuer-zusatzrente-verzoegert-sich-wohl-a-705ab323-1c12-4e1e-b81f-4293c37475d6"
             }
           ],
-          "time": "2026-11-20T15:52:00+00:00",
+          "time": "2026-11-21T08:43:00+00:00",
           "image": {
-            "url": "https://images.handelsblatt.com/noah8HGlTGC9/cover/900/506/0/0/284/284/0.5/0.5/pressekonferenz-mit-bundeskanzler-friedrich-merz-und-emirs-von-katar-scheich-tamim-bin-hamad-al-tha.jpg",
-            "source": "Handelsblatt"
+            "url": "https://images.tagesschau.de/image/0c6d5cc7-4763-4984-83f0-1b96f3ffc74e/AAABnb-A6wU/AAABnSSvrFg/16x9-big/passanten-innenstadt-102.jpg?width=1024",
+            "source": "Tagesschau"
           }
         }
       ]
@@ -313,204 +316,204 @@
   ],
   "more": [
     {
-      "section": "politik",
-      "headline": "Unterleibsschmerzen: Brasiliens Ex-Präsident Jair Bolsonaro im Krankenhaus",
-      "source": "FAZ",
-      "country": "DE",
-      "url": "https://www.faz.net/aktuell/politik/ausland/jair-bolsonaro-im-krankenhaus-fast-vollstaendige-darmobstruktion-accg-201704017.html",
-      "time": "2026-11-21T02:26:01+00:00",
-      "opinion": false,
-      "image": "https://media0.faz.net/image/4bfaa1599da5/w7535h4238x0y392/202611/dbb83390-cb6b-4434-a8c9-0915e6096826/jair-bolsonaro-wurde-nach.webp"
-    },
-    {
-      "section": "politik",
-      "headline": "Peru: Erdbeben der Stärke 6,7 – Erdrutsche und Steinschläge im Zentrum",
-      "source": "Spiegel",
-      "country": "DE",
-      "url": "https://www.spiegel.de/ausland/peru-erdbeben-der-staerke-6-7-erdrutsche-und-steinschlaege-im-zentrum-a-5a6f565a-d414-45ea-a6eb-bff84bc57829",
-      "time": "2026-11-21T03:08:00+00:00",
-      "opinion": false,
-      "image": "https://cdn.prod.www.spiegel.de/images/4fe0ae0a-0953-46cd-92a9-94d12aa7ea58_w520_r2.08_fpx61.99_fpy54.99.jpg"
-    },
-    {
-      "section": "politik",
-      "headline": "Tote und Verletzte bei Raketenangriff auf Krywyj Rih",
+      "section": "wirtschaft",
+      "headline": "IG Metall weitet Warnstreiks in norddeutscher Metall- und Elektroindustrie aus",
       "source": "Tagesschau",
       "country": "DE",
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-krieg-russland-krywyj-rih-100.html",
-      "time": "2026-11-21T02:39:59+00:00",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/ig-metall-warnstreik-102.html",
+      "time": "2026-11-22T03:50:01+00:00",
       "opinion": false,
-      "image": "https://images.tagesschau.de/image/9b3f1d60-628a-4f5d-bb7f-caa6b22aee9a/AAABofv5kMM/AAABnSSvrFg/16x9-big/ukraine-krywyj-rih-108.jpg?width=1024"
+      "image": "https://images.tagesschau.de/image/63d28ea6-067c-417e-a4a1-eae3ebdaaeb3/AAABogFgCrw/AAABnSSvrFg/16x9-big/ig-metall-290.jpg?width=1024"
     },
     {
       "section": "politik",
-      "headline": "Verivox-Analyse: Strom und Gas wird für Millionen Haushalte teurer",
+      "headline": "Deadly Protests Erupt in Bangladesh Over Exiled Former Leader. What to Know.",
+      "source": "New York Times",
+      "country": "US",
+      "url": "https://www.nytimes.com/2026/11/21/world/asia/bangladesh-protests-sheikh-hasina-what-to-know.html",
+      "time": "2026-11-22T03:44:19+00:00",
+      "opinion": false,
+      "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22int-bangladesh-protests-wtk-01-qvpf/22int-bangladesh-protests-wtk-01-qvpf-mediumSquareAt3X.jpg"
+    },
+    {
+      "section": "politik",
+      "headline": "AfD: „Absolut schlechtes Zeichen“ – Gefährdet die AfD die Kooperation mit Partnergeheimdiensten?",
       "source": "Handelsblatt",
       "country": "DE",
-      "url": "https://www.handelsblatt.com/politik/deutschland/verivox-analyse-strom-und-gas-wird-fuer-millionen-haushalte-teurer/100271696.html",
-      "time": "2026-11-21T02:01:04+00:00",
+      "url": "https://www.handelsblatt.com/politik/deutschland/afd-politiker-sorgen-sich-um-kooperation-mit-partnergeheimdiensten/100271788.html",
+      "time": "2026-11-22T02:01:18+00:00",
       "opinion": false,
-      "image": "https://images.handelsblatt.com/rOJDb0YTGUte/cover/900/506/0/0/107/106/0.5/0.5/gaspreise.jpg"
+      "image": "https://images.handelsblatt.com/lUUZiISXz8vE/cover/900/506/0/0/0/622/0.5/0.5/06.09.2026-sachsen-anhalt-magdeburg-ulrich-siegmund-mitte-l-afd-spitzenkandidat-und-co-vorsit.jpg"
     },
     {
       "section": "politik",
-      "headline": "Kalifornien: Schuldspruch im Prozess um Palisades-Feuer in Los Angeles",
+      "headline": "Antisemitismus: FDP-Politikerin bei propalästinensischer Demo angegriffen",
+      "source": "Zeit",
+      "country": "DE",
+      "url": "https://www.zeit.de/politik/deutschland/2026-11/karoline-preisler-angriff-demonstration-berlin-antisemitismus-katharina-von-schnurbein",
+      "time": "2026-11-22T01:40:35+00:00",
+      "opinion": false,
+      "image": "https://img.zeit.de/politik/deutschland/2026-11/karoline-preisler-angriff-demonstration-berlin-antisemitismus-foto-1/wide__820x461"
+    },
+    {
+      "section": "wirtschaft",
+      "headline": "Sonnennächster Planet: Merkur-Sonde „BepiColombo“ umkreist Zielplaneten",
+      "source": "Handelsblatt",
+      "country": "DE",
+      "url": "https://www.handelsblatt.com/technik/forschung-innovation/sonnennaechster-planet-merkur-sonde-bepicolombo-umkreist-zielplaneten/100271799.html",
+      "time": "2026-11-22T01:35:55+00:00",
+      "opinion": false,
+      "image": "https://images.handelsblatt.com/xFpzrVA5ehK-/cover/900/506/1/1/0/0/0.5/0.5/merkur-sonde-bepicolombo-auf-zielanflug.jpg"
+    },
+    {
+      "section": "politik",
+      "headline": "USA: Donald Trump hofft auf Erkenntnisse nach Hackerangriff auf FBI",
       "source": "Spiegel",
       "country": "DE",
-      "url": "https://www.spiegel.de/ausland/kalifornien-schuldspruch-im-prozess-um-palisades-feuer-in-los-angeles-a-a13a85a1-96cd-440c-a850-5927af4d6897",
-      "time": "2026-11-21T01:26:00+00:00",
+      "url": "https://www.spiegel.de/ausland/usa-donald-trump-hofft-auf-erkenntnisse-nach-hackerangriff-auf-fbi-a-d16451cc-3f81-4768-89e4-6f1b57438b3d",
+      "time": "2026-11-22T01:02:00+00:00",
       "opinion": false,
-      "image": "https://cdn.prod.www.spiegel.de/images/efc146f4-f4de-4b8b-ba4f-eddfd9e66118_w520_r2.08_fpx51_fpy51.jpg"
+      "image": "https://cdn.prod.www.spiegel.de/images/1b0754e8-6948-442d-b00d-3e791a056550_w520_r2.08_fpx52.66_fpy45.jpg"
     },
     {
       "section": "politik",
-      "headline": "French police officers sentenced for beating of music producer Michel Zecler",
+      "headline": "Umstrittene Äußerung: Nach Kritik: Trump bezeichnet Putin erneut als „Freund“",
+      "source": "Handelsblatt",
+      "country": "DE",
+      "url": "https://www.handelsblatt.com/politik/international/umstrittene-aeusserung-nach-kritik-trump-bezeichnet-putin-erneut-als-freund/100271795.html",
+      "time": "2026-11-22T00:23:27+00:00",
+      "opinion": false,
+      "image": "https://images.handelsblatt.com/8lEVGdai87iB/cover/900/506/0/0/185/184/0.5/0.5/apec-gipfel-in-china.jpg"
+    },
+    {
+      "section": "politik",
+      "headline": "Judge Blocks Trump Administration’s Effort to Transform Homelessness Policy",
+      "source": "New York Times",
+      "country": "US",
+      "url": "https://www.nytimes.com/2026/11/21/us/politics/judge-trump-homeless-aid-addiction-treatment.html",
+      "time": "2026-11-22T00:03:40+00:00",
+      "opinion": false,
+      "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21DC-HOMELESS-fmtb/21DC-HOMELESS-fmtb-mediumSquareAt3X.jpg"
+    },
+    {
+      "section": "politik",
+      "headline": "The Penny Is Dead. Now It’s Official.",
+      "source": "New York Times",
+      "country": "US",
+      "url": "https://www.nytimes.com/2026/11/21/us/politics/penny-mint-trump-common-cent-act.html",
+      "time": "2026-11-21T23:12:23+00:00",
+      "opinion": false,
+      "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21xp-penny-vjhm/21xp-penny-vjhm-mediumSquareAt3X.jpg"
+    },
+    {
+      "section": "politik",
+      "headline": "Gelbwestenbewegung: Sozialproteste in Frankreich münden in Gewalt",
+      "source": "Zeit",
+      "country": "DE",
+      "url": "https://www.zeit.de/politik/ausland/2026-11/proteste-frankreich-gelbwesten-weniger-teilnehmer-gewalt",
+      "time": "2026-11-21T22:15:35+00:00",
+      "opinion": false,
+      "image": "https://img.zeit.de/politik/ausland/2026-11/proteste-frankreich-gelbwesten-gewalt-bild/wide__820x461"
+    },
+    {
+      "section": "politik",
+      "headline": "Polen: Abgestürztes Flugobjekt war russische Rakete",
+      "source": "Spiegel",
+      "country": "DE",
+      "url": "https://www.spiegel.de/ausland/polen-flugobjekt-in-polen-war-russische-rakete-nato-spricht-von-einem-gefaehrlichen-vorfall-a-e82b2c83-f347-4ef6-b4b6-970b0d909be3",
+      "time": "2026-11-21T19:50:00+00:00",
+      "opinion": false,
+      "image": "https://cdn.prod.www.spiegel.de/images/5b4c7b94-67b2-4adb-8921-f0b456db2721_w520_r2.08_fpx40.16_fpy49.99.jpg"
+    },
+    {
+      "section": "politik",
+      "headline": "Ministerium will Autobahntankstellen vom Spritpreisdeckel ausnehmen",
+      "source": "Tagesschau",
+      "country": "DE",
+      "url": "https://www.tagesschau.de/inland/spritpreis-autobahntankstellen-ausnahme-100.html",
+      "time": "2026-11-21T15:55:59+00:00",
+      "opinion": false,
+      "image": "https://images.tagesschau.de/image/98d0f323-0dad-4ac9-8b0b-6a153c4037a7/AAABof7AlbY/AAABnSSvrFg/16x9-big/tankstelle-398.jpg?width=1024"
+    },
+    {
+      "section": "politik",
+      "headline": "ZWei Wochen nach Tod: Freie-Wähler-Chef Aiwanger in Niederbayern beigesetzt",
+      "source": "FAZ",
+      "country": "DE",
+      "url": "https://www.faz.net/aktuell/politik/inland/hubert-aiwanger-in-inkofen-beigesetzt-2-000-menschen-nehmen-abschied-accg-201704863.html",
+      "time": "2026-11-21T15:03:01+00:00",
+      "opinion": false,
+      "image": "https://media0.faz.net/image/de16e1d18907/w5774h3248x0y275/202611/4e824556-e144-4fea-8986-25f8e874102c/trauergaeste-stehen-am-samstag.webp"
+    },
+    {
+      "section": "politik",
+      "headline": "\"Costa Concordia\"-Kapitän Schettino auf Bewährung aus Haft entlassen",
+      "source": "Tagesschau",
+      "country": "DE",
+      "url": "https://www.tagesschau.de/ausland/europa/costa-concordia-kapitaen-aus-haft-entlassen-100.html",
+      "time": "2026-11-21T14:07:14+00:00",
+      "opinion": false,
+      "image": "https://images.tagesschau.de/image/0c24484f-639f-48c0-ad82-342eb5c57366/AAABof5OYYo/AAABnSSvrFg/16x9-big/schettino-121.jpg?width=1024"
+    },
+    {
+      "section": "politik",
+      "headline": "Dramatische Wende 34 Jahre nach dem Mord am Mafia-Jäger Paolo Borsellino",
+      "source": "NZZ",
+      "country": "CH",
+      "url": "https://www.nzz.ch/international/tod-von-ex-mafia-jaeger-gianni-de-gennaro-schockiert-italien-ld.10070946",
+      "time": "2026-11-21T13:05:59+00:00",
+      "opinion": false,
+      "image": "https://img-msp-prod.nzz.ch/2026/11/21/90cd67bb-9e9c-43bf-8b0d-fc347751bcdf.jpg?width=900&height=900&fit=bounds"
+    },
+    {
+      "section": "politik",
+      "headline": "Donald Trump demütigt Vance und Rubio öffentlich",
+      "source": "Spiegel",
+      "country": "DE",
+      "url": "https://www.spiegel.de/ausland/donald-trump-demuetigt-vance-und-rubio-oeffentlich-a-8b8a7280-1893-4b07-a935-41246834876c",
+      "time": "2026-11-21T12:46:00+00:00",
+      "opinion": false,
+      "image": null
+    },
+    {
+      "section": "politik",
+      "headline": "Wolodymyr Selenskyj: Russlands Prestigeprojekt Krimbrücke habe keine Zukunft",
+      "source": "Spiegel",
+      "country": "DE",
+      "url": "https://www.spiegel.de/ausland/wolodymyr-selenskyj-russisches-prestigeprojekt-krimbruecke-habe-keine-zukunft-a-a0180ce2-d9fe-446d-af25-b1ad00cb33bb",
+      "time": "2026-11-21T11:37:00+00:00",
+      "opinion": false,
+      "image": "https://cdn.prod.www.spiegel.de/images/64cfd838-74c0-4a8a-9cbe-756eedd25406_w520_r2.08_fpx48_fpy49.jpg"
+    },
+    {
+      "section": "politik",
+      "headline": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
       "source": "BBC",
       "country": "UK",
-      "url": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo",
-      "time": "2026-11-20T22:37:09+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno",
+      "time": "2026-11-21T10:26:36+00:00",
       "opinion": false,
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/eced/live/2313a9a0-e533-11f1-a094-5fdc692f3e33.jpg"
-    },
-    {
-      "section": "politik",
-      "headline": "IT-Sicherheit: Hackerangriff auf Immobilienverwaltung der Bundesagentur",
-      "source": "Handelsblatt",
-      "country": "DE",
-      "url": "https://www.handelsblatt.com/politik/deutschland/it-sicherheit-hackerangriff-auf-immobilienverwaltung-der-bundesagentur/100271684.html",
-      "time": "2026-11-20T22:38:44+00:00",
-      "opinion": false,
-      "image": "https://images.handelsblatt.com/M9Uv-2Imkeqv/cover/900/506/0/0/107/107/0.5/0.5/bundesagentur-fuer-arbeit.jpg"
-    },
-    {
-      "section": "politik",
-      "headline": "Energie: Neues Gesetz: Spritpreisdeckel soll doch am 1. Januar starten – aber Reiche plant andere Einschränkungen",
-      "source": "Handelsblatt",
-      "country": "DE",
-      "url": "https://www.handelsblatt.com/politik/deutschland/energie-spritpreisdeckel-startet-doch-am-1.januar-aber-auflagen-geplant/100271661.html",
-      "time": "2026-11-20T20:11:02+00:00",
-      "opinion": false,
-      "image": "https://images.handelsblatt.com/kOyFJEbFZXjU/cover/900/506/0/0/249/248/0.5/0.5/german-economy-minister-katherina-reiche-speaks-at-the-9th-german-ukrainian-economic-forum-in-berlin.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/9834/live/684cb9a0-e527-11f1-b32f-b1f1a32fbf0e.jpg"
     },
     {
       "section": "wirtschaft",
-      "headline": "Evonik-Übernahme Gescheitert: Verrannt im Ruhrgebiet",
-      "source": "FAZ",
-      "country": "DE",
-      "url": "https://www.faz.net/aktuell/wirtschaft/basf-gibt-uebernahme-von-evonik-auf-kamieth-scheitert-an-wuest-201701320.html",
-      "time": "2026-11-20T19:23:44+00:00",
-      "opinion": false,
-      "image": "https://media0.faz.net/image/386527219a1e/w6144h3456x0y320/202610/ac532441-8a53-49a6-b539-f5c70a3f65cc/sohn-eines-bergmanns-bei.webp"
-    },
-    {
-      "section": "politik",
-      "headline": "Buchhandel: Hacker legen Hugendubel-Onlineshop lahm",
+      "headline": "Pilgerort Okunoin: Durch Nacht und Nebel: Auf Japans größtem Friedhof",
       "source": "Handelsblatt",
       "country": "DE",
-      "url": "https://www.handelsblatt.com/politik/deutschland/buchhandel-hacker-legen-hugendubel-onlineshop-lahm/100271662.html",
-      "time": "2026-11-20T18:42:18+00:00",
+      "url": "https://www.handelsblatt.com/unternehmen/dienstleister/pilgerort-okunoin-durch-nacht-und-nebel-auf-japans-groesstem-friedhof/100271804.html",
+      "time": "2026-11-22T03:11:13+00:00",
       "opinion": false,
-      "image": "https://images.handelsblatt.com/USlObcNewNS7/cover/900/506/0/0/106/105/0.5/0.5/hugendubel.jpg"
-    },
-    {
-      "section": "wirtschaft",
-      "headline": "Weltgrößtes Windrad in Betrieb: Sind Höhenwindräder die Zukunft?",
-      "source": "Tagesschau",
-      "country": "DE",
-      "url": "https://www.tagesschau.de/wirtschaft/energie/groesstes-windrad-lausitz-100.html",
-      "time": "2026-11-20T16:25:17+00:00",
-      "opinion": false,
-      "image": "https://images.tagesschau.de/image/56909489-ad59-4730-a75e-0fcbe54907d9/AAABofhrlXk/AAABnSSvrFg/16x9-big/windrad-schipkau-100.jpg?width=1024"
+      "image": "https://images.handelsblatt.com/Pf1Sg7K9ljqD/cover/900/506/0/0/122/121/0.5/0.5/pfad-mit-zedern-und-laternen-ueber-den-friedhof-okunoin.jpg"
     },
     {
       "section": "politik",
-      "headline": "Gesundheitsreform: Gesetz abgesegnet – doch der Streit um die Notfallreform geht weiter",
-      "source": "Handelsblatt",
-      "country": "DE",
-      "url": "https://www.handelsblatt.com/politik/deutschland/gesundheitsreform-gesetz-abgesegnet-aber-streit-um-notfallreform-haelt-an/100270216.html",
-      "time": "2026-11-20T16:15:14+00:00",
+      "headline": "Man found dead on Flinders Island believed to have been shot by officer, police say",
+      "source": "Guardian",
+      "country": "UK",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/22/man-found-dead-on-flinders-island-linked-to-shooting-of-police-officer-tasmanian-authorities-say",
+      "time": "2026-11-22T02:44:01+00:00",
       "opinion": false,
-      "image": "https://images.handelsblatt.com/4QPXsMcWjARk/cover/900/506/0/0/145/146/0.5/0.5/notfallreform-wird-im-bundestag-beschlossen.jpg"
-    },
-    {
-      "section": "politik",
-      "headline": "Jemen: Militärkoalition greift erneut Ziele der Huthi-Miliz im Jemen an",
-      "source": "Zeit",
-      "country": "DE",
-      "url": "https://www.zeit.de/politik/ausland/2026-11/saudi-arabien-huthi-jemen-angriffe-hudaida-zivilisten",
-      "time": "2026-11-20T15:49:25+00:00",
-      "opinion": false,
-      "image": "https://img.zeit.de/politik/ausland/2026-11/saudi-arabien-huthi-jemen-angriffe-hodeida-zivilisten-foto-1/wide__820x461"
-    },
-    {
-      "section": "politik",
-      "headline": "Bundesrat stoppt \"Startchancengesetz\" vorerst",
-      "source": "Tagesschau",
-      "country": "DE",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/bundesrat-startchancengesetz-fruehstartrente-notfallreform-100.html",
-      "time": "2026-11-20T15:03:38+00:00",
-      "opinion": false,
-      "image": "https://images.tagesschau.de/image/d4ef0009-4ed9-4034-8b0d-4c38ac03a907/AAABofi4fic/AAABnSSvrFg/16x9-big/bundesrat-sitzung-102.jpg?width=1024"
-    },
-    {
-      "section": "politik",
-      "headline": "Niedersachsen: Der eine Fehler zu viel",
-      "source": "FAZ",
-      "country": "DE",
-      "url": "https://www.faz.net/aktuell/politik/inland/eine-falsche-antwort-wurde-kathrin-wahlmann-zum-verhaengnis-201701248.html",
-      "time": "2026-11-20T13:59:51+00:00",
-      "opinion": false,
-      "image": "https://media0.faz.net/image/023a10487b5e/w3758h2114x883y113/202611/1b00f178-e9ba-4bfd-9d9b-a8f8520d0005/kathrin-wahlmann-spd-erklaert.webp"
-    },
-    {
-      "section": "wirtschaft",
-      "headline": "Kaufhauskette: Galeria schließt drei weitere Filialen",
-      "source": "Zeit",
-      "country": "DE",
-      "url": "https://www.zeit.de/wirtschaft/2026-11/galeria-filialschliessungen-berlin-kurfuerstendamm-koeln-muenchen-gxe",
-      "time": "2026-11-20T13:50:47+00:00",
-      "opinion": false,
-      "image": "https://img.zeit.de/wirtschaft/2026-11/galeria-filialschliessungen-berlin-kurfuerstendamm-koeln-muenchen-gxe-foto-1/wide__820x461"
-    },
-    {
-      "section": "politik",
-      "headline": "Vietnam streicht Todesstrafe für Drogenhandel und weitere Straftaten",
-      "source": "Spiegel",
-      "country": "DE",
-      "url": "https://www.spiegel.de/ausland/vietnam-streicht-todesstrafe-fuer-drogenhandel-und-weitere-straftaten-a-9f13d237-de63-418d-971b-b7f27be6d852",
-      "time": "2026-11-20T13:07:00+00:00",
-      "opinion": false,
-      "image": "https://cdn.prod.www.spiegel.de/images/4aa3785a-07d8-4927-9bd7-4217dae26211_w520_r2.08_fpx40.82_fpy50.jpg"
-    },
-    {
-      "section": "wirtschaft",
-      "headline": "Gender Pay Gap: Frauen arbeiten den Rest des Jahres kostenlos",
-      "source": "Tagesschau",
-      "country": "DE",
-      "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/gender-pay-gap-140.html",
-      "time": "2026-11-20T10:09:15+00:00",
-      "opinion": false,
-      "image": "https://images.tagesschau.de/image/c7e68607-669f-4d53-acad-672235cfc902/AAABoffKKHE/AAABnSSvrFg/16x9-big/geschaeftsfrauen-100.jpg?width=1024"
-    },
-    {
-      "section": "wirtschaft",
-      "headline": "Lufthansa will an deutschen Drehkreuzen rund 1000 Stellen abbauen",
-      "source": "Spiegel",
-      "country": "DE",
-      "url": "https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-will-an-deutschen-drehkreuzen-rund-1000-stellen-abbauen-a-7be97521-a2ad-4a67-bc82-3c7453488916",
-      "time": "2026-11-20T05:56:00+00:00",
-      "opinion": false,
-      "image": "https://cdn.prod.www.spiegel.de/images/30bf4a00-c99e-4124-9c86-b8a50f83ef52_w520_r2.08_fpx33.35_fpy50.jpg"
-    },
-    {
-      "section": "politik",
-      "headline": "Billionen in den Depots: Vermögensverwalter - Kostenproblem in der Krösus-Branche",
-      "source": "Handelsblatt",
-      "country": "DE",
-      "url": "https://www.handelsblatt.com/politik/deutschland/billionen-in-den-depots-vermoegensverwalter-kostenproblem-in-der-kroesus-branche/100271706.html",
-      "time": "2026-11-21T04:00:04+00:00",
-      "opinion": false,
-      "image": "https://images.handelsblatt.com/cEytmYfFJH9h/cover/900/506/0/0/35/35/0.5/0.5/us-firma-blackrock.jpg"
+      "image": "https://i.guim.co.uk/img/media/37ac1eff6d2198604ce1f56e02ba752ac5645c8a/531_0_4102_3283/master/4102.jpg?width=700&quality=85&auto=format&fit=max&s=36933b87d175a61e67b61d69543d58c1"
     }
   ]
 }
