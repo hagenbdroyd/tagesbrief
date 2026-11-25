@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T21:57:26+01:00",
+  "updatedAt": "2026-11-26T00:42:26+01:00",
   "morningPush": "2026-11-25",
   "breaking": [
     {
@@ -48,6 +48,41 @@
       ],
       "image": {
         "url": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/5177/live/c7a2f690-e8fa-11f1-99a1-253766e7ad8b.jpg",
+        "source": "BBC"
+      },
+      "model": "gemini-3.8-flash"
+    },
+    {
+      "id": "e2026112600420",
+      "time": "2026-11-25T21:10:04+00:00",
+      "pushedAt": "2026-11-26T00:42:26+01:00",
+      "headline": "Mindestens 30 Tote nach Tanklaster-Unglück nahe Kairo",
+      "summary": "Nach dem Unfall eines Tanklastzugs ist auf einer Ringautobahn nahe Kairo ein Großbrand ausgebrochen. Dabei kamen mindestens 30 Menschen ums Leben, mehr als 20 weitere wurden verletzt.",
+      "reason": "Katastrophen: Schweres Unglück mit vielen Toten.",
+      "sources": [
+        {
+          "name": "BBC",
+          "country": "UK",
+          "url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o"
+        },
+        {
+          "name": "Guardian",
+          "country": "UK",
+          "url": "https://www.theguardian.com/world/2026/nov/25/people-killed-fuel-tanker-crash-ignites-large-fire-cairo-highway"
+        },
+        {
+          "name": "New York Times",
+          "country": "US",
+          "url": "https://www.nytimes.com/2026/11/25/world/middleeast/road-fire-near-cairo-kills-dozens-after-petroleum-laden-truck-crashes.html"
+        },
+        {
+          "name": "Tagesschau",
+          "country": "DE",
+          "url": "https://www.tagesschau.de/ausland/afrika/aegypten-brand-gizeh-tote-100.html"
+        }
+      ],
+      "image": {
+        "url": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/2d4b/live/5e57daf0-e91f-11f1-9108-c5b270b0703d.jpg",
         "source": "BBC"
       },
       "model": "gemini-3.8-flash"
