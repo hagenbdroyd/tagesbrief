@@ -1,5 +1,31 @@
 {
-  "updatedAt": "2026-11-24T07:12:27+01:00",
+  "updatedAt": "2026-11-25T03:42:25+01:00",
   "morningPush": "2026-11-24",
-  "breaking": []
+  "breaking": [
+    {
+      "id": "e2026112503420",
+      "time": "2026-11-25T00:38:01+00:00",
+      "pushedAt": "2026-11-25T03:42:25+01:00",
+      "headline": "USA planen offenbar neue Zölle gegen die EU und China",
+      "summary": "Medienberichten zufolge bereiten die USA neue Zölle gegen mehrere Handelspartner vor, darunter die Europäische Union und China. Den betroffenen Staaten wird vorgeworfen, ihre Industrieproduktion künstlich zu erhöhen.",
+      "reason": "Neue Zölle der USA gegen die EU entsprechen den festgelegten Kriterien für Wirtschaftseilmeldungen.",
+      "sources": [
+        {
+          "name": "Zeit",
+          "country": "DE",
+          "url": "https://www.zeit.de/politik/ausland/2026-11/us-zoelle-china-eu-donald-trump-gerichtshof"
+        },
+        {
+          "name": "BBC",
+          "country": "UK",
+          "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o"
+        }
+      ],
+      "image": {
+        "url": "https://img.zeit.de/politik/ausland/2026-11/us-zoelle-china-eu-donald-trump-gerichtshof-foto-1/wide__820x461",
+        "source": "Zeit"
+      },
+      "model": "gemini-3.6-flash"
+    }
+  ]
 }
