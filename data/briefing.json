@@ -1,9 +1,9 @@
 {
-  "date": "2026-11-25",
-  "generatedAt": "2026-11-25T05:11:32+01:00",
+  "date": "2026-11-26",
+  "generatedAt": "2026-11-26T05:11:32+01:00",
   "notice": null,
-  "aiModel": "gemini-3.6-flash",
-  "push": "US-Regierung plant Berichten zufolge neue Zölle gegen die EU und China",
+  "aiModel": "gemini-3.8-flash",
+  "push": "USA kündigen neue Zölle gegen EU und weitere Handelspartner an",
   "breaking": [],
   "sections": [
     {
@@ -12,162 +12,157 @@
       "items": [
         {
           "id": "p1",
-          "headline": "USA planen neue Zölle gegen EU und China",
-          "summary": "Die US-Regierung bereitet nach Medienberichten neue Zölle gegen Handelspartner wie China und die EU vor. Der Schritt erfolgt, nachdem der Supreme Court bisherige Zölle als illegal eingestuft hatte. Die USA werfen den betroffenen Ländern vor, ihre Industrieproduktion künstlich zu erhöhen.",
-          "perspectives": "Während Tagesschau, Zeit und Financial Times über geplante Maßnahmen gegen Handelspartner berichten, nennt die Financial Times konkret auch Japan und Südkorea als betroffene Länder. Die Berichte berufen sich auf Medienberichte.",
+          "headline": "Union schlägt Kompromiss bei Rente mit 63 vor",
+          "summary": "Fachpolitiker der Union haben im Streit um das Rentenpaket einen Kompromissvorschlag vorgelegt. Die abschlagsfreie Frühverrentung nach 45 Beitragsjahren soll demnach für Menschen mit unterdurchschnittlichem Einkommen als „Respekt-Rente“ erhalten bleiben. Die Union kommt damit der SPD entgegen.",
+          "perspectives": "Tagesschau berichtet über den Begriff „Respekt-Rente“ von Unionsabgeordneten. Spiegel, Zeit und Handelsblatt betonen gleichermaßen, dass die abschlagsfreie Frühverrentung für Menschen mit kleinem bzw. unterdurchschnittlichem Einkommen erhalten bleiben soll, um im Rentenstreit auf die SPD zuzugehen.",
           "sources": [
             {
               "name": "Tagesschau",
               "country": "DE",
-              "url": "https://www.tagesschau.de/ausland/amerika/usa-zoelle-122.html"
+              "url": "https://www.tagesschau.de/inland/innenpolitik/rente-kompromiss-koalition-100.html"
+            },
+            {
+              "name": "Spiegel",
+              "country": "DE",
+              "url": "https://www.spiegel.de/politik/deutschland/rente-mit-63-union-bietet-spd-kompromiss-fuer-geringverdiener-an-a-3cfcd68d-7b6c-47e5-bc21-a78860df3b49"
             },
             {
               "name": "Zeit",
               "country": "DE",
-              "url": "https://www.zeit.de/politik/ausland/2026-11/us-zoelle-china-eu-donald-trump-gerichtshof"
+              "url": "https://www.zeit.de/politik/deutschland/2026-11/rente-mit-63-cdu-bundestag-abgeordnete-abschaffung"
             },
             {
-              "name": "BBC",
-              "country": "UK",
-              "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o"
-            },
-            {
-              "name": "Financial Times",
-              "country": "UK",
-              "url": "https://www.ft.com/content/335b593d-1478-4550-ab0a-71fec6280eb0?syn-25a6b1a6=1"
+              "name": "Handelsblatt",
+              "country": "DE",
+              "url": "https://www.handelsblatt.com/politik/deutschland/reformplaene-unionspolitiker-schlagen-kompromiss-im-rentenstreit-vor/100272818.html"
             }
           ],
-          "time": "2026-11-24T16:30:35+00:00",
+          "time": "2026-11-25T16:36:00+00:00",
           "image": {
-            "url": "https://images.tagesschau.de/image/5d072283-fe47-4911-b986-8e589da8078d/AAABohCT8R4/AAABnSSvrFg/16x9-big/trump-5456.jpg?width=1024",
+            "url": "https://images.tagesschau.de/image/07ecf457-1226-48da-b757-ae26a7a83fdf/AAABoUZVZxQ/AAABnSSvrFg/16x9-big/winkel-106.jpg?width=1024",
             "source": "Tagesschau"
           }
         },
         {
           "id": "p2",
-          "headline": "EGMR schränkt Schutz bei Grenz-Zurückweisungen ein",
-          "summary": "Der Europäische Gerichtshof für Menschenrechte hat entschieden, dass Staaten Migranten an der Grenze unter bestimmten Voraussetzungen ohne Einzelprüfung zurückweisen dürfen. Dies gilt etwa, wenn Drittstaaten Migration gezielt als Druckmittel einsetzen. Dennoch wurden Polen, Lettland und Litauen im konkreten Fall verurteilt.",
-          "perspectives": "Die Zeit und die NZZ heben hervor, dass Polen, Lettland und Litauen trotz der Ausnahmeregelung verurteilt wurden. Die Tagesschau betont hingegen, dass die Rechte besonders schutzbedürftiger Menschen weiterhin gewahrt bleiben müssen. Der Spiegel verweist auf die Rolle von Belarus bei der Instrumentalisierung.",
+          "headline": "Drei Jugendliche unter Terrorverdacht festgenommen",
+          "summary": "Die Bundesanwaltschaft hat drei Jugendliche unter dem Verdacht festnehmen lassen, der rechtsextremistischen Terrorgruppe „Terror 18“ anzugehören. Die Beschuldigten sollen Anschläge auf Ausländer und eine Flüchtlingsunterkunft geplant haben. Der jüngste Tatverdächtige ist 14 Jahre alt.",
+          "perspectives": "Die FAZ stellt das junge Alter der Beschuldigten in den Mittelpunkt und betont, dass der Jüngste erst 14 Jahre alt ist. Tagesschau und Handelsblatt heben hervor, wie die Vernetzung und Radikalisierung in der Chatgruppe „Terror 18“ ablief. Die Zeit konzentriert sich auf die konkreten Tötungsabsichten gegen Ausländer.",
           "sources": [
             {
               "name": "Zeit",
               "country": "DE",
-              "url": "https://www.zeit.de/politik/ausland/2026-11/egmr-urteile-belarus-grenze-migranten-zurueckweisung-polen-lettland"
+              "url": "https://www.zeit.de/politik/deutschland/2026-11/bundesanwaltschaft-laesst-mutmassliche-rechtsterroristen-festnehmen"
             },
             {
               "name": "Tagesschau",
               "country": "DE",
-              "url": "https://www.tagesschau.de/ausland/europa/egmr-pushbacks-belarus-100.html"
+              "url": "https://www.tagesschau.de/inland/terror-18-rechtsextremistische-gruppe-100.html"
             },
             {
-              "name": "Spiegel",
+              "name": "Handelsblatt",
               "country": "DE",
-              "url": "https://www.spiegel.de/ausland/egmr-rueckfuehrungen-nach-belarus-sind-unter-bestimmten-bedingungen-nicht-automatisch-rechtswidrig-a-c22d5dc4-911c-4784-85c7-b4c92fd0b5e0"
+              "url": "https://www.handelsblatt.com/politik/deutschland/bundesanwaltschaft-anschlagsplan-jugendliche-unter-terrorverdacht-festgenommen/100272648.html"
             },
             {
-              "name": "NZZ",
-              "country": "CH",
-              "url": "https://www.nzz.ch/international/migration-pushbacks-koennen-laut-einem-urteil-bei-instrumentalisierung-legal-sein-ld.10073419"
+              "name": "FAZ",
+              "country": "DE",
+              "url": "https://www.faz.net/aktuell/politik/inland/chatgruppe-terror-18-polizei-nimmt-drei-jugendliche-fest-accg-201715698.html"
             }
           ],
-          "time": "2026-11-24T12:59:01+00:00",
+          "time": "2026-11-25T13:15:59+00:00",
           "image": {
-            "url": "https://img.zeit.de/politik/ausland/2026-11/egmr-urteile-belarus-grenze-migranten-zurueckweisung-polen-lettland-foto-1/wide__820x461",
+            "url": "https://img.zeit.de/politik/deutschland/2026-11/generalbundesanwalt-rechtsextremistische-gruppe-terror-18-bild/wide__820x461",
             "source": "Zeit"
           }
         },
         {
           "id": "p3",
-          "headline": "Mutmaßlicher Cyberangriff auf US-Geheimdienst CIA",
-          "summary": "Der US-Auslandsgeheimdienst CIA und das Büro des nationalen Geheimdienstdirektors sind Ziel eines Hackerangriffs geworden. Laut Medienberichten wurden keine als geheim eingestuften Informationen entwendet. Erste Indizien deuten laut Medien auf eine Verbindung nach China hin.",
-          "perspectives": "Die New York Times berichtet, dass auch das Office of the Director of National Intelligence betroffen war und unklassifizierte Daten erbeutet wurden. Der Spiegel verweist darauf, dass erste Indizien auf Spuren nach China hindeuten. Die Zeit und die FAZ berichten ebenfalls über den Vorfall.",
+          "headline": "Richter empfehlen Teileinstellung bei Netanjahu-Prozess",
+          "summary": "Im langjährigen Korruptionsprozess gegen Israels Ministerpräsidenten Benjamin Netanjahu haben die zuständigen Richter empfohlen, die Bestechungsvorwürfe fallenzulassen. Sie begründen dies mit einer geringen Aussicht auf eine Verurteilung. Die Anklagen wegen Betrugs und Untreue bestehen weiterhin.",
+          "perspectives": "BBC und New York Times stufen den Bestechungsvorwurf als den schwerwiegendsten Teil der Anklage ein. Laut BBC fordert Netanjahu das Ende des gesamten Prozesses. Tagesschau und Zeit betonen die Empfehlung der Richter zur teilweisen Einstellung bei den Bestechungsvorwürfen, während das Verfahren wegen weiterer Punkte wie Betrug und Untreue anhängig ist.",
           "sources": [
             {
-              "name": "FAZ",
+              "name": "Tagesschau",
               "country": "DE",
-              "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-hackerangriff-auf-us-geheimdienst-cia-laut-medien-faz-19444916.html"
-            },
-            {
-              "name": "Spiegel",
-              "country": "DE",
-              "url": "https://www.spiegel.de/ausland/usa-hacker-sollen-offenbar-cia-geheimdienst-angegriffen-haben-a-2f3378e4-e6a9-4b83-b4f6-c2ee97ab9cbf"
+              "url": "https://www.tagesschau.de/ausland/asien/israel-netanjahu-korruptionsvorwuerfe-100.html"
             },
             {
               "name": "Zeit",
               "country": "DE",
-              "url": "https://www.zeit.de/politik/2026-11/cia-hackerangriff-cyberangriff-odni-fbi"
+              "url": "https://www.zeit.de/politik/ausland/2026-11/benjamin-netanjahu-korruptionsprozess-israel-gericht-gxe"
+            },
+            {
+              "name": "BBC",
+              "country": "UK",
+              "url": "https://www.bbc.co.uk/news/articles/cxj05mv723r2o"
             },
             {
               "name": "New York Times",
               "country": "US",
-              "url": "https://www.nytimes.com/2026/11/24/us/politics/spy-agencies-computer-network-breaches.html"
+              "url": "https://www.nytimes.com/2026/11/25/world/middleeast/judges-israel-corruption-case-netanyahu.html"
             }
           ],
-          "time": "2026-11-24T23:01:09+00:00",
+          "time": "2026-11-25T15:56:06+00:00",
           "image": {
-            "url": "https://media0.faz.net/image/d3ed1c65932a/w3000h1687x0y192/202611/5ea01fb3-8a35-493f-8907-a92f0ebb8e0e/das-cia-hauptquartier-in.webp",
-            "source": "FAZ"
+            "url": "https://images.tagesschau.de/image/847c043d-5aa0-49a9-900c-a52053a5a18e/AAABohQQeJM/AAABnSSvrFg/16x9-big/netanjahu-424.jpg?width=1024",
+            "source": "Tagesschau"
           }
         },
         {
           "id": "p4",
-          "headline": "China ermittelt gegen Shanghais Parteichef",
-          "summary": "In China ist Shanghais Parteichef Chen Jining ins Visier der Ermittlungsbehörden geraten. Dem Politbüro-Mitglied werden schwere Disziplin- und Gesetzesverstöße vorgeworfen. Chen galt zuvor als potenzieller Anwärter auf höchste Führungsämter im Land.",
-          "perspectives": "Der Guardian und das Handelsblatt heben hervor, dass Chen das vierte Politbüro-Mitglied ist, gegen das seit 2025 ermittelt wird. Das Handelsblatt zieht einen Vergleich zur Ära der Kulturrevolution und spricht von historischen Ausmaßen der Säuberungen unter Xi Jinping. Die New York Times beschreibt Chen als Technokraten.",
+          "headline": "Polen plant Flugverbotszone an Grenze zur Ukraine",
+          "summary": "Polen plant nach wiederholten Luftraumverletzungen durch russische Flugkörper eine Flugverbotszone entlang seiner Ostgrenze. Die Maßnahme soll der Armee ermöglichen, eindringende Marschflugkörper und Drohnen schneller zu identifizieren und abzufangen.",
+          "perspectives": "Die Quellen berichten übereinstimmend über Polens Pläne zur Einrichtung einer Flugverbotszone an der Grenze zur Ukraine nach russischen Luftraumverletzungen.",
           "sources": [
             {
-              "name": "Guardian",
-              "country": "UK",
-              "url": "https://www.theguardian.com/world/2026/nov/25/china-investigates-politburo-chen-jining-xi-jinping-purge"
-            },
-            {
-              "name": "Handelsblatt",
+              "name": "Spiegel",
               "country": "DE",
-              "url": "https://www.handelsblatt.com/politik/international/china-xi-laesst-den-maechtigen-parteichef-von-shanghai-fallen/100272476.html"
+              "url": "https://www.spiegel.de/ausland/polen-plant-flugverbotszone-an-grenze-zur-ukraine-a-48f2a001-0790-4c83-9d83-5ef4c91a389d"
             },
             {
-              "name": "Financial Times",
-              "country": "UK",
-              "url": "https://www.ft.com/content/02240d42-ccd8-4b4d-b0e3-49a04c950eea?syn-25a6b1a6=1"
+              "name": "Zeit",
+              "country": "DE",
+              "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog"
             },
             {
-              "name": "New York Times",
-              "country": "US",
-              "url": "https://www.nytimes.com/2026/11/24/world/asia/shanghai-party-leader-investigation-china-xi.html"
+              "name": "FAZ",
+              "country": "DE",
+              "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-russische-raketen-treffen-kiew-faz-110683325.html"
             }
           ],
-          "time": "2026-11-24T14:42:31+00:00",
+          "time": "2026-11-25T14:46:19+00:00",
           "image": {
-            "url": "https://i.guim.co.uk/img/media/c4f99890561c34364853932923e32733830c648c/451_0_6570_5256/master/6570.jpg?width=700&quality=85&auto=format&fit=max&s=67ec0eb5b7208a76eb4f252562db95e7",
-            "source": "Guardian"
+            "url": "https://cdn.prod.www.spiegel.de/images/ad288de6-9ce0-4f53-a7cb-b98c28dba69f_w520_r2.08_fpx39_fpy44.jpg",
+            "source": "Spiegel"
           }
         },
         {
           "id": "p5",
-          "headline": "Berliner Linksfraktion schließt Vanessa Emde aus",
-          "summary": "Die Berliner Linksfraktion hat die Abgeordnete Vanessa Emde nach langen Debatten ausgeschlossen. Auslöser waren ihre umstrittenen Positionen zum Nahostkonflikt. Der Schritt soll den Weg für Koalitionsverhandlungen mit SPD und Grünen freimachen.",
-          "perspectives": "Handelsblatt, Spiegel und Tagesschau berichten über den Ausschluss von Emde aus der Fraktion. Der Spiegel beleuchtet zudem die Erleichterung bei den potenziellen Koalitionspartnern SPD und Grünen.",
+          "headline": "Kommission empfiehlt Strafen für Freier im Sexgewerbe",
+          "summary": "Eine Regierungskommission empfiehlt strengere Regeln im Prostitutionsrecht, um Zwangsprostitution und Ausbeutung einzudämmen. Freier sollen künftig mit Strafen rechnen müssen, wenn sie Dienste von nicht angemeldeten Prostituierten in Anspruch nehmen. Die Koalition berät nun über gesetzliche Änderungen.",
+          "perspectives": "Der Spiegel zitiert Familienministerin Prien, die von einer Chance auf einen „echten Paradigmenwechsel“ spricht. Die Zeit stellt die parteipolitischen Differenzen heraus und erwähnt, dass die Grünen ein Sexkaufverbot ablehnen, während die CDU Strafen verlangt. Die Tagesschau fokussiert auf den Schutz vor Gewalt, Ausbeutung und Zwangsprostitution.",
           "sources": [
             {
-              "name": "Handelsblatt",
+              "name": "Tagesschau",
               "country": "DE",
-              "url": "https://www.handelsblatt.com/politik/deutschland/regierungsbildung-wie-es-in-berlin-nach-emdes-ausschluss-weitergeht/100272561.html"
+              "url": "https://www.tagesschau.de/inland/innenpolitik/neue-regeln-fuer-prostituition-empfehlungen-100.html"
             },
             {
               "name": "Spiegel",
               "country": "DE",
-              "url": "https://www.spiegel.de/politik/vanessa-emde-berliner-linke-stimmt-knapp-fuer-ausschluss-aus-fraktion-a-8de561c3-e2ae-4d93-b6e1-1aa5fb438f7a"
+              "url": "https://www.spiegel.de/politik/deutschland/kommission-empfiehlt-kriminalisierung-von-freiern-wenn-prostituierte-nicht-angemeldet-sind-a-766dc637-4c74-499b-bfce-6739ea704d18"
             },
             {
-              "name": "Tagesschau",
+              "name": "Zeit",
               "country": "DE",
-              "url": "https://www.tagesschau.de/inland/innenpolitik/emde-ausschluss-berlin-linke-100.html"
+              "url": "https://www.zeit.de/politik/deutschland/2026-11/prostitutionsrecht-reform-sexkaufverbot-nordisches-modell-freier"
             }
           ],
-          "time": "2026-11-24T18:47:32+00:00",
+          "time": "2026-11-25T19:13:00+00:00",
           "image": {
-            "url": "https://images.handelsblatt.com/4gvRifbAVh19/cover/900/506/0/0/111/110/0.5/0.5/weitere-entwicklung-bei-der-berliner-linken.jpg",
-            "source": "Handelsblatt"
+            "url": "https://images.tagesschau.de/image/9a213a40-dd68-439e-b51e-09a7da050841/AAABk9ScWlg/AAABnSSvrFg/16x9-big/prostitution-highheels-100.jpg?width=1024",
+            "source": "Tagesschau"
           }
         }
       ]
@@ -178,124 +173,101 @@
       "items": [
         {
           "id": "w1",
-          "headline": "US-Gericht spricht Huawei der Geldwäsche schuldig",
-          "summary": "Ein US-Geschworenengericht hat den chinesischen Telekommunikationskonzern Huawei nach jahrelangen Ermittlungen wegen Geldwäsche, Bankbetrugs und Diebstahls von Geschäftsgeheimnissen schuldig gesprochen. Das Unternehmen wies die Vorwürfe zurück und kündigte Berufung an.",
-          "perspectives": "Die BBC stellt heraus, dass Huawei vom Vorwurf der organisierten Kriminalität freigesprochen wurde, während der Diebstahl von Geschäftsgeheimnissen bestätigt wurde. Spiegel, Zeit und Handelsblatt betonen vor allem die Schuldsprüche wegen Bankbetrugs und Sanktionsverstößen.",
+          "headline": "SpaceX erhält Erlaubnis für eine Million Datensatelliten",
+          "summary": "Die US-Behörde FCC hat SpaceX die Genehmigung erteilt, bis zu eine Million Satelliten für das Projekt „Starmind“ ins All zu bringen. Die Satelliten sollen als orbitale Rechenzentren dienen, um den rasant steigenden Energie- und Rechenbedarf für Künstliche Intelligenz abzudecken.",
+          "perspectives": "Die FAZ warnt vor den drastischen Konsequenzen für die weltweite Astronomie und beziffert die Zahl bereits kreisender Satelliten. Tagesschau und BBC stellen hingegen den Nutzen für die energieeffiziente Deckung des KI-Bedarfs in den Mittelpunkt. Das Handelsblatt beleuchtet vor allem Elon Musks strategischen Vorstoß im KI-Infrastrukturwettlauf.",
           "sources": [
             {
-              "name": "Handelsblatt",
+              "name": "Tagesschau",
               "country": "DE",
-              "url": "https://www.handelsblatt.com/technik/it-internet/jahrelanges-verfahren-us-geschworene-sprechen-huawei-der-geldwaesche-schuldig/100272536.html"
+              "url": "https://www.tagesschau.de/wirtschaft/unternehmen/spacex-eine-million-satelliten-100.html"
             },
             {
               "name": "BBC",
               "country": "UK",
-              "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo"
+              "url": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo"
             },
             {
-              "name": "Zeit",
+              "name": "FAZ",
               "country": "DE",
-              "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-11/huawei-us-prozess-anklage-schuldspruch-meng-wanzhou-iran"
+              "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/spacex-darf-eine-million-satelliten-fuer-ki-rechenzentren-ins-all-bringen-201717821.html"
             },
             {
-              "name": "Spiegel",
+              "name": "Handelsblatt",
               "country": "DE",
-              "url": "https://www.spiegel.de/ausland/huawei-us-gericht-verurteilt-telekommunikationskonzern-wegen-industriespionage-a-df491d81-9b94-430e-a73c-575ff81e9eba"
+              "url": "https://www.handelsblatt.com/technik/forschung-innovation/weltraum-spacex-darf-eine-million-satelliten-fuer-ki-rechenzentren-ins-all-bringen/100272811.html"
             }
           ],
-          "time": "2026-11-24T22:04:00+00:00",
+          "time": "2026-11-25T18:27:47+00:00",
           "image": {
-            "url": "https://images.handelsblatt.com/olYCyL9UmWyb/cover/900/506/0/0/107/106/0.5/0.5/huawei-logo.jpg",
-            "source": "Handelsblatt"
+            "url": "https://images.tagesschau.de/image/ee1320b8-70a0-4194-b749-b4edd868901c/AAABohVSmy8/AAABnSSvrFg/16x9-big/spacex-326.jpg?width=1024",
+            "source": "Tagesschau"
           }
         },
         {
           "id": "w2",
-          "headline": "Tech-Aktien geben nach Huang-Comeback wieder nach",
-          "summary": "Nach dem Anstieg durch die Rückkehr von CEO Jensen Huang haben die Aktien von Nvidia und anderen Tech-Konzernen wieder nachgegeben. Huang entschuldigte sich bei der Belegschaft für Regelverstöße durch persönliche Affären.",
-          "perspectives": "Die NZZ berichtet von einem KI-Kater bei asiatischen Chipaktien, die tiefer fielen, als sie zuvor gestiegen waren. Der Spiegel hebt Huangs Aussage hervor, über seine Therapie gesprochen zu haben. Die FAZ beleuchtet die geteilte Reaktion an den internationalen Handelsplätzen.",
+          "headline": "EU verhängt 470 Millionen Euro Strafe gegen Duftkartell",
+          "summary": "Wegen jahrelanger illegaler Preisabsprachen hat die EU-Kommission Bußgelder von mehr als 470 Millionen Euro gegen drei weltweit führende Duftstoffhersteller verhängt. Betroffen sind die Branchengrößen Firmenich, Givaudan und IFF, die über Jahre sensible Geschäftsinformationen austauschten.",
+          "perspectives": "Spiegel, Handelsblatt und FAZ nennen übereinstimmend eine EU-Geldbuße von mehr als 470 Millionen Euro. Die Financial Times beziffert die Gesamtsumme auf über 500 Millionen Euro, da sie britische Strafen miteinbezieht, und beschreibt zudem informelle Absprachen bei Bier, Curry und per WhatsApp.",
           "sources": [
-            {
-              "name": "NZZ",
-              "country": "CH",
-              "url": "https://www.nzz.ch/wirtschaft/nvidia-rausch-verfliegt-asiens-chipaktien-fallen-tiefer-als-sie-gestiegen-waren-ld.10074029"
-            },
             {
               "name": "Spiegel",
               "country": "DE",
-              "url": "https://www.spiegel.de/wirtschaft/nvidia-jensen-huang-entschuldigt-sich-bei-belegschaft-und-spricht-ueber-seine-therapie-a-b5286ad4-9ebb-4aa8-b004-d1825b9f262e"
+              "url": "https://www.spiegel.de/wirtschaft/unternehmen/eu-kommission-470-millionen-euro-strafe-gegen-parfuemkartell-a-b67298ac-ea3c-4961-8257-0d44689c4b2b"
+            },
+            {
+              "name": "Handelsblatt",
+              "country": "DE",
+              "url": "https://www.handelsblatt.com/politik/international/wirtschaft-eu-verhaengt-millionenstrafen-gegen-parfuemkartell/100272803.html"
+            },
+            {
+              "name": "Financial Times",
+              "country": "UK",
+              "url": "https://www.ft.com/content/472d6327-a693-4023-a2ab-9672ad0e71b8?syn-25a6b1a6=1"
             },
             {
               "name": "FAZ",
               "country": "DE",
-              "url": "https://www.faz.net/aktuell/finanzen/asiens-boersen-feiern-jensen-huangs-comeback-accg-201711270.html"
-            },
-            {
-              "name": "Guardian",
-              "country": "UK",
-              "url": "https://www.theguardian.com/technology/2026/nov/24/jensen-huang-nvidia-apologizes-staff"
+              "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/eu-verhaengt-millionenstrafen-gegen-duftstoff-kartell-201717161.html"
             }
           ],
-          "time": "2026-11-24T20:32:02+00:00",
+          "time": "2026-11-25T14:54:37+00:00",
           "image": {
-            "url": "https://img-msp-prod.nzz.ch/2026/11/20/4302a7fd-0f62-481c-9ec1-eebd3b2b06af.jpg?width=900&height=900&fit=bounds",
-            "source": "NZZ"
+            "url": "https://cdn.prod.www.spiegel.de/images/62d4d1d3-0001-0004-0000-000000764221_w520_r2.08_fpx30.85_fpy49.99.jpg",
+            "source": "Spiegel"
           }
         },
         {
           "id": "w3",
-          "headline": "Verhärtete Fronten zum Start der VW-Tarifrunde",
-          "summary": "Bei Volkswagen hat die Tarifrunde begonnen. Das Management fordert drastische Einsparungen und Lohnkürzungen, während die IG Metall mit Protesten reagiert. In Emden demonstrierten Tausende Mitarbeiter gegen die Pläne des Automobilkonzerns.",
-          "perspectives": "Die Zeit berichtet über die Demonstrationen zum Verhandlungsauftakt in Emden. Die FAZ zitiert die Gewerkschaft mit scharfer Kritik an der Haltung des Managements, während das Handelsblatt konkrete Sparpläne wie Nullrunden und weniger Zulagen sowie drohende Warnstreiks thematisiert.",
+          "headline": "US-Inflationsmaß PCE steigt im Oktober auf 3,8 Prozent",
+          "summary": "Das von der US-Notenbank bevorzugte Inflationsmaß PCE ist im Oktober auf eine Jahresrate von 3,8 Prozent gestiegen. Laut Notenbank-Bericht wächst die US-Wirtschaft leicht bis moderat. Die Daten erhöhen den Handlungsdruck auf die Fed.",
+          "perspectives": "Die New York Times berichtet, dass die hartnäckige Inflation Zinserhöhungen im kommenden Monat erwarten lässt. Die Financial Times betont, dass sowohl Kernrate als auch Gesamtrate leicht über den Markterwartungen lagen. Das Handelsblatt verweist auf den Konjunkturbericht Beige Book und die Besorgnis der Währungshüter über die Teuerung.",
           "sources": [
             {
               "name": "Handelsblatt",
               "country": "DE",
-              "url": "https://www.handelsblatt.com/politik/deutschland/autobauer-in-der-krise-frostiger-tarifauftakt-bei-vw-warnstreiks-drohen/100272235.html"
+              "url": "https://www.handelsblatt.com/finanzen/maerkte/konjunktur-us-wirtschaft-waechst-laut-notenbank-bericht-leicht-bis-moderat/100272820.html"
             },
             {
-              "name": "FAZ",
-              "country": "DE",
-              "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/vw-tarifstreit-volkswagen-zeigt-die-eiskalte-fratze-des-kapitalismus-201712613.html"
+              "name": "New York Times",
+              "country": "US",
+              "url": "https://www.nytimes.com/2026/11/25/business/economy/inflation-pce-interest-rates.html"
             },
             {
-              "name": "Zeit",
-              "country": "DE",
-              "url": "https://www.zeit.de/wirtschaft/2026-11/tarifrunde-volkswagen-ig-metall-thorsten-groeger-emden-gxe"
+              "name": "Financial Times",
+              "country": "UK",
+              "url": "https://www.ft.com/content/b1246731-9cc9-4d72-a619-bd520ada464d"
+            },
+            {
+              "name": "CNBC",
+              "country": "US",
+              "url": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html"
             }
           ],
-          "time": "2026-11-24T13:20:44+00:00",
+          "time": "2026-11-25T14:18:45+00:00",
           "image": {
-            "url": "https://images.handelsblatt.com/IQaOPp15XMqI/cover/900/506/0/0/107/106/0.5/0.5/beginn-der-tarifverhandlungen-bei-volkswagen.jpg",
+            "url": "https://images.handelsblatt.com/YtbXfigsG4-H/cover/900/506/141/113/176/81/0.5/0.5/fed.jpeg",
             "source": "Handelsblatt"
-          }
-        },
-        {
-          "id": "w4",
-          "headline": "Ifo-Geschäftsklima steigt den siebten Monat in Folge",
-          "summary": "Die Stimmung in der deutschen Wirtschaft hat sich im November zum siebten Mal hintereinander verbessert. Der Ifo-Geschäftsklima-Index kletterte auf den höchsten Stand seit Frühjahr 2023. Experten sehen darin Anzeichen für eine fortschreitende Konjunkturerholung.",
-          "perspectives": "Tagesschau, Zeit und Spiegel berichten übereinstimmend über den Anstieg des Index auf den Höchststand seit Frühjahr 2023. Der Spiegel hebt ergänzend hervor, dass es dem Aufschwung laut dem Ifo-Institut weiterhin an Breite fehle.",
-          "sources": [
-            {
-              "name": "Zeit",
-              "country": "DE",
-              "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-11/ifo-geschaeftsklima-konjunktur-index-unternehmen-deutschland-gxe"
-            },
-            {
-              "name": "Tagesschau",
-              "country": "DE",
-              "url": "https://www.tagesschau.de/wirtschaft/konjunktur/ifo-geschaeftsklima-110.html"
-            },
-            {
-              "name": "Spiegel",
-              "country": "DE",
-              "url": "https://www.spiegel.de/wirtschaft/unternehmen/konjunktur-ifo-geschaeftsklima-steigt-auf-hoechststand-seit-fruehjahr-2023-a-cfccd10f-85d6-4cab-b772-17222a85e822"
-            }
-          ],
-          "time": "2026-11-24T09:33:00+00:00",
-          "image": {
-            "url": "https://img.zeit.de/wirtschaft/unternehmen/2026-11/ifo-geschaeftsklima-konjunktur-index-unternehmen-deutschland-gxe-foto-1/wide__820x461",
-            "source": "Zeit"
           }
         }
       ]
@@ -304,223 +276,203 @@
   "more": [
     {
       "section": "politik",
-      "headline": "Nordkorea: Schweiz muss Vertretung in Pjöngjang schließen",
+      "headline": "Boris Pistorius: Ministerium ruft 14 Milliarden Euro aus Mega-Budget nicht ab",
       "source": "Spiegel",
       "country": "DE",
-      "url": "https://www.spiegel.de/ausland/nordkorea-schweiz-muss-vertretung-in-pjoengjang-schliessen-a-50b0dd63-9c9f-45d8-92b5-cd6d2b352e65",
-      "time": "2026-11-25T04:05:00+00:00",
+      "url": "https://www.spiegel.de/politik/deutschland/boris-pistorius-ministerium-ruft-14-milliarden-euro-aus-mega-budget-nicht-ab-a-e72550cb-0c72-4624-acb3-0c120f407461",
+      "time": "2026-11-26T04:08:00+00:00",
       "opinion": false,
-      "image": "https://cdn.prod.www.spiegel.de/images/102ce31f-2663-4286-baa2-7eebf0c7ffb2_w520_r2.08_fpx65.25_fpy45.jpg"
+      "image": "https://cdn.prod.www.spiegel.de/images/f4b91a7f-eccf-43d2-8e41-af8d0b13e2aa_w520_r2.08_fpx34_fpy61.jpg"
     },
     {
       "section": "politik",
-      "headline": "Kroatien: Tod von Psychiatriepatient nach Fixierung löst Proteste aus",
-      "source": "Spiegel",
-      "country": "DE",
-      "url": "https://www.spiegel.de/ausland/kroatien-tod-von-psychiatriepatient-nach-fixierung-loest-proteste-aus-a-7672111a-f020-4e84-970c-c926f6c9640c",
-      "time": "2026-11-25T04:02:00+00:00",
-      "opinion": false,
-      "image": "https://cdn.prod.www.spiegel.de/images/cd1914c1-93cf-4b5a-b19d-763eddfe3309_w520_r2.08_fpx46_fpy59.jpg"
-    },
-    {
-      "section": "politik",
-      "headline": "Keine schnelle Lösung bei Gewalt gegen Frauen",
+      "headline": "Ägypten: Mindestens 30 Tote bei Großbrand auf Autobahn in Gizeh",
       "source": "Tagesschau",
       "country": "DE",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/orange-day-gewalt-gegen-frauen-100.html",
-      "time": "2026-11-25T04:00:11+00:00",
+      "url": "https://www.tagesschau.de/ausland/afrika/aegypten-brand-gizeh-tote-100.html",
+      "time": "2026-11-25T21:10:04+00:00",
       "opinion": false,
-      "image": "https://images.tagesschau.de/image/cba97172-8537-4a2d-9299-6c5dc0b7f96e/AAABleqi3Wc/AAABnSSvrFg/16x9-big/frauenhaus-114.jpg?width=1024"
+      "image": "https://images.tagesschau.de/image/375a2712-4ace-4f86-8427-3a1086acaa7d/AAABohSLUM0/AAABnSSvrFg/16x9-big/aegypten-grossbrand-100.jpg?width=1024"
     },
     {
       "section": "politik",
-      "headline": "Colombia’s president arrives at scene of supermarket hostage siege in tourist city",
-      "source": "Guardian",
-      "country": "UK",
-      "url": "https://www.theguardian.com/world/2026/nov/24/cartagena-colombia-hostages-supermarket",
-      "time": "2026-11-25T03:57:11+00:00",
+      "headline": "EU-Haushalt: Kampf um bis zu zwei Billionen Euro",
+      "source": "Tagesschau",
+      "country": "DE",
+      "url": "https://www.tagesschau.de/ausland/europa/eu-haushalt-digitalsteuer-100.html",
+      "time": "2026-11-26T04:00:53+00:00",
       "opinion": false,
-      "image": "https://i.guim.co.uk/img/media/f8a8fb8355ddb1ecdb881d8269bc5511bc8d29a1/501_0_4354_3482/master/4354.jpg?width=700&quality=85&auto=format&fit=max&s=680982ba1ea2ae246faf14cfd0dc3c48"
-    },
-    {
-      "section": "politik",
-      "headline": "Abrego Garcia Will Voluntarily Leave U.S., Ending 20-Month Legal Ordeal",
-      "source": "New York Times",
-      "country": "US",
-      "url": "https://www.nytimes.com/2026/11/24/us/politics/abrego-garcia-leave-deportation.html",
-      "time": "2026-11-25T03:51:55+00:00",
-      "opinion": false,
-      "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24dc-abrego-zvwj/24dc-abrego-zvwj-mediumSquareAt3X.jpg"
-    },
-    {
-      "section": "politik",
-      "headline": "China launches first space mission with foreign astronaut",
-      "source": "Financial Times",
-      "country": "UK",
-      "url": "https://www.ft.com/content/a1d7d4bd-ecd0-4726-8f62-de75ce2b034c?syn-25a6b1a6=1",
-      "time": "2026-11-25T03:28:02+00:00",
-      "opinion": false,
-      "image": null
+      "image": "https://images.tagesschau.de/image/349c38de-c671-4dfd-bbf9-da48315e9ea2/AAABohMKa48/AAABnSSvrFg/16x9-big/eu-hauptquartier-sitzungssaal-100.jpg?width=1024"
     },
     {
       "section": "wirtschaft",
-      "headline": "Rüstung: Insider: Helsing prüft offenbar Übernahme von Marschflugkörperhersteller Destinus",
-      "source": "Handelsblatt",
-      "country": "DE",
-      "url": "https://www.handelsblatt.com/unternehmen/industrie/ruestung-helsing-prueft-offenbar-kauf-von-marschflugkoerperbauer-destinus/100271588.html",
-      "time": "2026-11-25T02:57:19+00:00",
-      "opinion": false,
-      "image": "https://images.handelsblatt.com/R4WpaqWVz1sA/cover/900/506/0/0/0/0/0.5/0.5/helsing-destinus.jpg"
-    },
-    {
-      "section": "politik",
-      "headline": "Thomas Markle Indicted in US on Charges of Possession of Child Sexual Abuse Materials",
-      "source": "New York Times",
-      "country": "US",
-      "url": "https://www.nytimes.com/2026/11/24/world/europe/thomas-markle-indicted.html",
-      "time": "2026-11-25T02:55:17+00:00",
-      "opinion": false,
-      "image": "https://static01.nyt.com/images/2026/12/10/multimedia/10xp-markle-bjgq/10xp-markle-bjgq-mediumSquareAt3X.jpg"
-    },
-    {
-      "section": "politik",
-      "headline": "Ukraine-Krieg: Selenskyj weist Lukaschenkos Moskau-Vorschlag zurück",
-      "source": "Spiegel",
-      "country": "DE",
-      "url": "https://www.spiegel.de/ausland/ukraine-krieg-selenskyj-weist-lukaschenkos-moskau-vorschlag-zurueck-a-93d67249-3b6c-427e-8281-f5b38c909950",
-      "time": "2026-11-25T01:54:00+00:00",
-      "opinion": false,
-      "image": "https://cdn.prod.www.spiegel.de/images/4052333a-0eae-4b70-99ac-208174f93c85_w520_r2.08_fpx38.7_fpy50.jpg"
-    },
-    {
-      "section": "politik",
-      "headline": "Australia’s security pact with Solomon Islands a blow to China’s influence in the Pacific",
-      "source": "Guardian",
-      "country": "UK",
-      "url": "https://www.theguardian.com/world/2026/nov/25/australia-solomon-islands-treaty-blow-to-china-pacific-influence",
-      "time": "2026-11-25T01:51:02+00:00",
-      "opinion": false,
-      "image": "https://i.guim.co.uk/img/media/b962796bea53cf339ac44ee52d0043644f41d4b1/450_0_6880_5504/master/6880.jpg?width=700&quality=85&auto=format&fit=max&s=30898d66834c6f4d0b40b047bdc99294"
-    },
-    {
-      "section": "politik",
-      "headline": "Kolumbien: Autobombe verletzt in Kolumbien mindestens 25 Menschen",
-      "source": "Zeit",
-      "country": "DE",
-      "url": "https://www.zeit.de/politik/ausland/2026-11/autobombe-villavicencio-meta-farc-emc",
-      "time": "2026-11-25T01:27:33+00:00",
-      "opinion": false,
-      "image": "https://img.zeit.de/politik/ausland/2026-11/autobombe-villavicencio-meta-farc-emc-foto-1/wide__820x461"
-    },
-    {
-      "section": "politik",
-      "headline": "WHO: Lebenserwartung in Kuba erstmals seit Beginn der Aufzeichnungen gesunken",
+      "headline": "Deutsche Wirtschaft wächst im dritten Quartal nur um 0,1 Prozent",
       "source": "Tagesschau",
       "country": "DE",
-      "url": "https://www.tagesschau.de/ausland/amerika/kuba-lebenserwartungen-who-100.html",
-      "time": "2026-11-25T00:06:58+00:00",
+      "url": "https://www.tagesschau.de/wirtschaft/konjunktur/bip-deutschland-wirtschaftsleistung-100.html",
+      "time": "2026-11-25T08:49:01+00:00",
       "opinion": false,
-      "image": "https://images.tagesschau.de/image/c1a6120d-c092-49b2-ba1a-27686aeea3be/AAABog9uOx8/AAABnSSvrFg/16x9-big/kuba-havanna-110.jpg?width=1024"
+      "image": "https://images.tagesschau.de/image/396900cc-1f7b-4550-977f-19cc8ca507be/AAABogyBELc/AAABnSSvrFg/16x9-big/konjunktur-420.jpg?width=1024"
     },
     {
       "section": "politik",
-      "headline": "Sullivan Concedes Alaska Senate Race to Peltola",
-      "source": "New York Times",
-      "country": "US",
-      "url": "https://www.nytimes.com/2026/11/24/us/politics/dan-sullivan-concedes-alaska-senate-race-mary-peltola.html",
-      "time": "2026-11-24T23:58:18+00:00",
-      "opinion": false,
-      "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24pol-alaska-concession-bpvz/24pol-alaska-concession-bpvz-mediumSquareAt3X.jpg"
-    },
-    {
-      "section": "politik",
-      "headline": "Trump Awards Rudy Giuliani Presidential Medal of Freedom",
-      "source": "New York Times",
-      "country": "US",
-      "url": "https://www.nytimes.com/2026/11/24/us/politics/trump-rudy-giuliani-presidential-medal-of-freedom.html",
-      "time": "2026-11-24T21:32:54+00:00",
-      "opinion": false,
-      "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24dc-trump-giuliani-fpzw/24dc-trump-giuliani-fpzw-mediumSquareAt3X.jpg"
-    },
-    {
-      "section": "politik",
-      "headline": "Houthi attack on Riyadh’s PIF Tower injures 11",
-      "source": "Financial Times",
-      "country": "UK",
-      "url": "https://www.ft.com/content/ecdf59b6-c78b-4703-bc26-8d085d7b9d24?syn-25a6b1a6=1",
-      "time": "2026-11-24T20:39:50+00:00",
-      "opinion": false,
-      "image": null
-    },
-    {
-      "section": "politik",
-      "headline": "EU: Neue Russland-Sanktionen treffen Altkanzler Gerhard Schröder",
-      "source": "Handelsblatt",
-      "country": "DE",
-      "url": "https://www.handelsblatt.com/politik/international/eu-neue-russland-sanktionen-treffen-altkanzler-gerhard-schroeder/100272497.html",
-      "time": "2026-11-24T19:45:19+00:00",
-      "opinion": false,
-      "image": "https://images.handelsblatt.com/jdDN4djpwofv/cover/900/506/0/0/0/307/0.5/0.5/archiv-23.10.2026-china-xiongan-alt-bundeskanzler-gerhard-schroeder-spd-nimmt-an-der-eroeffnun.jpg"
-    },
-    {
-      "section": "politik",
-      "headline": "Verbraucherschützer haben die smarte Brille im Blick",
+      "headline": "Generaldebatte im Bundestag: Nachdenkliche Töne und ein Zugeständnis",
       "source": "Tagesschau",
       "country": "DE",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/smart-glasses-klage-verbraucherschutz-100.html",
-      "time": "2026-11-24T19:06:34+00:00",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/haushalt-generaldebatte-merz-100.html",
+      "time": "2026-11-25T16:10:40+00:00",
       "opinion": false,
-      "image": "https://images.tagesschau.de/image/33e302ac-7300-474b-9e0e-03555f6e826f/AAABn7fT7sg/AAABnSSvrFg/16x9-big/smart-glasses-meta-100.jpg?width=1024"
-    },
-    {
-      "section": "politik",
-      "headline": "Nicolas Sarkozy: Frankreichs Ex-Präsident wird wegen Zeugenmanipulation angeklagt",
-      "source": "Spiegel",
-      "country": "DE",
-      "url": "https://www.spiegel.de/ausland/nicolas-sarkozy-frankreichs-ex-praesident-wird-wegen-zeugenmanipulation-angeklagt-a-df561e45-eb2a-4aa8-a0c2-ca7b7ed09337",
-      "time": "2026-11-24T17:15:00+00:00",
-      "opinion": false,
-      "image": "https://cdn.prod.www.spiegel.de/images/43f5499f-90d1-4872-898f-82d45d48ea5c_w520_r2.08_fpx50.76_fpy44.99.jpg"
-    },
-    {
-      "section": "politik",
-      "headline": "Slowakei: Parlament schafft Recht auf Briefwahl ab",
-      "source": "Spiegel",
-      "country": "DE",
-      "url": "https://www.spiegel.de/ausland/slowakei-parlament-schafft-recht-auf-briefwahl-ab-a-2aebe440-b023-46b9-8e19-e004ccbb2768",
-      "time": "2026-11-24T16:45:00+00:00",
-      "opinion": false,
-      "image": "https://cdn.prod.www.spiegel.de/images/53484f50-d30b-473b-aadd-7d2bc9493d89_w520_r2.08_fpx56.63_fpy44.97.jpg"
-    },
-    {
-      "section": "politik",
-      "headline": "Gazastreifen: Israels Armee meldet Tötung des Hamas-Sicherheitschefs nach Luftangriff",
-      "source": "Spiegel",
-      "country": "DE",
-      "url": "https://www.spiegel.de/ausland/gazastreifen-israels-armee-meldet-toetung-des-hamas-sicherheitschefs-nach-luftangriff-a-c22627ce-c517-4c35-8785-ad95dfd736b2",
-      "time": "2026-11-24T15:57:00+00:00",
-      "opinion": false,
-      "image": "https://cdn.prod.www.spiegel.de/images/b65bce83-e7b8-4417-8477-26efbae4e7c2_w520_r2.08_fpx46_fpy44.jpg"
-    },
-    {
-      "section": "politik",
-      "headline": "Taliban lassen Abschiebeflug verschieben",
-      "source": "Tagesschau",
-      "country": "DE",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/afghanistan-taliban-abschiebeflug-gestoppt-100.html",
-      "time": "2026-11-24T15:15:31+00:00",
-      "opinion": false,
-      "image": "https://images.tagesschau.de/image/b24dfb12-d5c9-429c-aa02-b0a38290d9d2/AAABmBxUEv0/AAABnSSvrFg/16x9-big/qatar-airways-polizei-100.jpg?width=1024"
+      "image": "https://images.tagesschau.de/image/09c3379e-212c-477e-9d65-2aed1e86e86f/AAABohN5NtI/AAABnSSvrFg/16x9-big/merz-1820.jpg?width=1024"
     },
     {
       "section": "wirtschaft",
-      "headline": "BYD: Autohersteller will ehemalige Smart-Fabrik in Lothringen kaufen",
+      "headline": "US-Gericht spricht Huawei wegen Betrugs schuldig",
+      "source": "Tagesschau",
+      "country": "DE",
+      "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/huawei-geldwaesche-us-gericht-urteil-100.html",
+      "time": "2026-11-25T08:25:40+00:00",
+      "opinion": false,
+      "image": "https://images.tagesschau.de/image/a768e361-de60-4895-a12e-46c8cbe8f5b8/AAABmT4zjMA/AAABnSSvrFg/16x9-big/huawei-logo-100.jpg?width=1024"
+    },
+    {
+      "section": "wirtschaft",
+      "headline": "Poundland collapses putting 11,000 jobs at risk",
+      "source": "BBC",
+      "country": "UK",
+      "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o",
+      "time": "2026-11-25T21:31:10+00:00",
+      "opinion": false,
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/5177/live/c7a2f690-e8fa-11f1-99a1-253766e7ad8b.jpg"
+    },
+    {
+      "section": "wirtschaft",
+      "headline": "Unterhaltungskonzern: US-Richterin stoppt Lizenzentzug für Disney-Sender – Rückschlag für Trump",
+      "source": "Handelsblatt",
+      "country": "DE",
+      "url": "https://www.handelsblatt.com/unternehmen/unterhaltungskonzern-us-richterin-stoppt-lizenzentzug-fuer-disney-sender-rueckschlag-fuer-trump/100272836.html",
+      "time": "2026-11-26T02:44:58+00:00",
+      "opinion": false,
+      "image": "https://images.handelsblatt.com/BRLvdJ7tt24Y/cover/900/506/40/74/0/448/0.5/0.5/neuer-disney-ceo-josh-damaro.jpg"
+    },
+    {
+      "section": "politik",
+      "headline": "Saudi-Arabien: Elf Verletzte bei erneutem Huthi-Angriff auf höchsten Wolkenkratzer in Riad",
       "source": "Spiegel",
       "country": "DE",
-      "url": "https://www.spiegel.de/wirtschaft/unternehmen/autohersteller-byd-will-ehemalige-smart-fabrik-in-lothringen-kaufen-a-44e5dc8a-e3da-4da7-a649-ee629bffa281",
-      "time": "2026-11-24T14:34:00+00:00",
+      "url": "https://www.spiegel.de/ausland/saudi-arabien-elf-verletzte-bei-erneutem-huthi-angriff-auf-hoechsten-wolkenkratzer-in-riad-a-06e934c6-275f-404b-9d3a-041e4db8478f",
+      "time": "2026-11-25T08:49:00+00:00",
       "opinion": false,
-      "image": "https://cdn.prod.www.spiegel.de/images/bfccbcfb-26d7-4bf0-8633-93972563762e_w520_r2.08_fpx65.34_fpy50.jpg"
+      "image": "https://cdn.prod.www.spiegel.de/images/2d9d86a5-baa4-445a-8a35-b3828ee65832_w520_r2.08_fpx70_fpy26.jpg"
+    },
+    {
+      "section": "wirtschaft",
+      "headline": "Energy bills to rise by 26% from January after gas prices surge",
+      "source": "BBC",
+      "country": "UK",
+      "url": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o",
+      "time": "2026-11-25T13:42:08+00:00",
+      "opinion": false,
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/654f/live/9096f7c0-e8df-11f1-a3b9-79c60ec9ab33.jpg"
+    },
+    {
+      "section": "politik",
+      "headline": "Spanien: Rekordzahl von Migranten auf El Hierro angekommen",
+      "source": "Spiegel",
+      "country": "DE",
+      "url": "https://www.spiegel.de/ausland/spanien-rekordzahl-von-migranten-auf-el-hierro-angekommen-a-8f070602-7629-40f4-a5a9-0485e86804e4",
+      "time": "2026-11-25T10:47:00+00:00",
+      "opinion": false,
+      "image": "https://cdn.prod.www.spiegel.de/images/4f36a523-d9ab-4a61-ab2b-9eae16ae334b_w520_r2.08_fpx43.31_fpy54.99.jpg"
+    },
+    {
+      "section": "wirtschaft",
+      "headline": "Energie: Finanzministerium erwägt Einstieg bei Netzbetreiber Amprion",
+      "source": "Handelsblatt",
+      "country": "DE",
+      "url": "https://www.handelsblatt.com/unternehmen/energie/energie-finanzministerium-erwaegt-einstieg-bei-netzbetreiber-amprion/100272487.html",
+      "time": "2026-11-26T03:00:00+00:00",
+      "opinion": false,
+      "image": "https://images.handelsblatt.com/sgB9eB32o3mR/cover/900/506/0/0/241/241/0.5/0.5/ueberlandleitungen-fuer-strom-sind-im-westen-von-koeln-zu-sehen.-hier-verlaeuft-die-sogenannte-ultranet.jpg"
+    },
+    {
+      "section": "politik",
+      "headline": "Chen Jining: Chinas Antikorruptionsbehörde ermittelt gegen Shanghais KP-Chef",
+      "source": "Spiegel",
+      "country": "DE",
+      "url": "https://www.spiegel.de/ausland/chen-jining-chinas-antikorruptionsbehoerde-ermittelt-gegen-shanghais-kp-chef-a-e43b07b9-34da-4daf-8b2e-f1a9c96e6e35",
+      "time": "2026-11-25T05:41:00+00:00",
+      "opinion": false,
+      "image": "https://cdn.prod.www.spiegel.de/images/b3c87de0-636d-4c2d-bcb8-f157dd7f82ec_w520_r2.08_fpx69.99_fpy44.95.jpg"
+    },
+    {
+      "section": "politik",
+      "headline": "74 Peitschenhiebe für iranische Sängerin lösen Empörung aus",
+      "source": "Tagesschau",
+      "country": "DE",
+      "url": "https://www.tagesschau.de/ausland/asien/iran-saengerin-peitschenhiebe-100.html",
+      "time": "2026-11-25T14:07:47+00:00",
+      "opinion": false,
+      "image": "https://images.tagesschau.de/image/f0d3522c-ad3d-4c22-a192-a646ea7d04ba/AAABnUmDVUA/AAABnSSvrFg/16x9-big/flagge-iran-112.jpg?width=1024"
+    },
+    {
+      "section": "politik",
+      "headline": "Türkei: Tausende demonstrieren gegen Gewalt an Frauen",
+      "source": "Spiegel",
+      "country": "DE",
+      "url": "https://www.spiegel.de/ausland/tuerkei-tausende-demonstrieren-gegen-gewalt-an-frauen-a-1cbc9fe0-4f48-495c-b616-90a1b5af9d5b",
+      "time": "2026-11-26T02:07:00+00:00",
+      "opinion": false,
+      "image": "https://cdn.prod.www.spiegel.de/images/420a497f-ae7e-4e78-aabe-747402ad7525_w520_r2.08_fpx65.36_fpy50.jpg"
+    },
+    {
+      "section": "politik",
+      "headline": "Solomon Islands Enters Security Treaty With Australia, in a Blow to China",
+      "source": "New York Times",
+      "country": "US",
+      "url": "https://www.nytimes.com/2026/11/24/world/asia/solomon-islands-security-treaty-australia-china.html",
+      "time": "2026-11-25T05:24:36+00:00",
+      "opinion": false,
+      "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25int-Oz-Solomons-01-gzjw/25int-Oz-Solomons-01-gzjw-mediumSquareAt3X.jpg"
+    },
+    {
+      "section": "politik",
+      "headline": "North Korea expels Swiss diplomat in sanctions row",
+      "source": "BBC",
+      "country": "UK",
+      "url": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o",
+      "time": "2026-11-25T21:51:17+00:00",
+      "opinion": false,
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/b4ee/live/fcd47260-e8fc-11f1-99b6-a35a62fa4264.jpg"
+    },
+    {
+      "section": "politik",
+      "headline": "Bombenanschlag vor dem Jahrestag des Friedensvertrags in Kolumbien",
+      "source": "NZZ",
+      "country": "CH",
+      "url": "https://www.nzz.ch/international/bombenanschlag-vor-dem-jahrestag-des-friedensvertrags-in-kolumbien-ld.10074120",
+      "time": "2026-11-25T07:03:02+00:00",
+      "opinion": false,
+      "image": "https://img-msp-prod.nzz.ch/2026/11/24/1e872c0f-c36a-4373-a12f-0d214897bfee.jpg?width=900&height=900&fit=bounds"
+    },
+    {
+      "section": "wirtschaft",
+      "headline": "Exklusiv: EZB-Rat streitet weiter über umstrittene Erhöhung der Mindestreserve für Banken",
+      "source": "Handelsblatt",
+      "country": "DE",
+      "url": "https://www.handelsblatt.com/finanzen/geldpolitik/ezb-streit-ueber-hoehere-mindestreserve-fuer-banken-schwelt-weiter/100271993.html",
+      "time": "2026-11-25T10:59:52+00:00",
+      "opinion": false,
+      "image": "https://images.handelsblatt.com/UncTuHCw4uWi/cover/900/506/0/0/410/75/0.5/0.5/die-europaeische-zentralbank---ezb-ist-ein-organ-der-europaeischen-union-symbolfoto-themenfoto.-frank.jpg"
+    },
+    {
+      "section": "wirtschaft",
+      "headline": "Flixtrain-Tickets bald auch bei Deutscher Bahn buchbar",
+      "source": "Tagesschau",
+      "country": "DE",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/flixtrain-deutsche-bahn-ticketverkauf-100.html",
+      "time": "2026-11-25T11:01:33+00:00",
+      "opinion": false,
+      "image": "https://images.tagesschau.de/image/62d4e2d3-1d10-4b9a-8b92-ce3bf760ee4c/AAABohKTREo/AAABnSSvrFg/16x9-big/flixtrain-120.jpg?width=1024"
     }
   ]
 }
