@@ -1,9 +1,9 @@
 {
-  "date": "2026-11-27",
-  "generatedAt": "2026-11-27T05:11:33+01:00",
+  "date": "2026-11-28",
+  "generatedAt": "2026-11-28T05:11:33+01:00",
   "notice": null,
   "aiModel": "gemini-3.6-flash",
-  "push": "EU-Haushaltsgipfel in Brüssel vorzeitig und ohne Einigung abgebrochen",
+  "push": "Bundestag verabschiedet Bundeshaushalt 2027 mit 210 Milliarden Euro Schulden",
   "breaking": [],
   "sections": [
     {
@@ -12,152 +12,152 @@
       "items": [
         {
           "id": "p1",
-          "headline": "EU-Haushaltsgipfel in Brüssel vorzeitig abgebrochen",
-          "summary": "Der EU-Sondergipfel zum langfristigen EU-Haushalt wurde ohne Ergebnis vorzeitig abgebrochen. Bundeskanzler Friedrich Merz glaubt dennoch an eine Einigung vor Jahresende, während Italiens Regierungschefin Giorgia Meloni eine Einigung in weiter Ferne sieht.",
-          "perspectives": "Während Tagesschau betont, dass Kanzler Merz das vorzeitige Ende verkündete, und FAZ berichtet, dass er an eine Einigung vor Jahresende glaubt, hebt Spiegel die Differenzen zwischen Deutschland und Frankreich hervor. Zeit zitiert Melonis Aussage, eine Einigung sei noch »Lichtjahre« entfernt.",
+          "headline": "Bundestag verabschiedet Bundeshaushalt für 2027",
+          "summary": "Der Deutsche Bundestag hat den Bundeshaushalt für das Jahr 2027 verabschiedet. Der Etat sieht Gesamtausgaben von 555,9 Milliarden Euro sowie eine Neuverschuldung von 210 Milliarden Euro vor. Während die Ausgaben für Verteidigung und Soziales steigen, wird in den Bereichen Gesundheit und Entwicklung gekürzt.",
+          "perspectives": "Handelsblatt stellt die Finanzdaten heraus und beziffert die Gesamtausgaben auf 555,9 Milliarden Euro sowie die Neuverschuldung auf 210 Milliarden Euro. Tagesschau legt den Schwerpunkt auf die Umschichtungen zugunsten von Verteidigung und Soziales sowie Kürzungen bei Gesundheit und Entwicklung. Spiegel verweist ergänzend auf zähe Verhandlungen im Vorfeld des Beschlusses. Deutschlandfunk thematisiert die ungelösten Punkte im Etat.",
           "sources": [
             {
-              "name": "Zeit",
+              "name": "Handelsblatt",
               "country": "DE",
-              "url": "https://www.zeit.de/politik/ausland/2026-11/eu-gipfel-bruessel-haushalt-friedrich-merz-antonio-costa"
-            },
-            {
-              "name": "Spiegel",
-              "country": "DE",
-              "url": "https://www.spiegel.de/wirtschaft/eu-gipfel-wie-der-milliarden-streit-ueber-das-budget-im-chaos-versank-a-2a5848d7-950e-4ab5-8faa-f2ea66bc9d62"
+              "url": "https://www.handelsblatt.com/video/politik/etat-210-milliarden-euro-neue-schulden-bundestag-verabschiedet-haushalt-fuer-2027/100273360.html"
             },
             {
               "name": "Tagesschau",
               "country": "DE",
-              "url": "https://www.tagesschau.de/ausland/europa/eu-haushalt-vorzeitig-beendet-100.html"
+              "url": "https://www.tagesschau.de/inland/innenpolitik/haushalt-2027-ueberblick-102.html"
             },
             {
-              "name": "FAZ",
+              "name": "Spiegel",
               "country": "DE",
-              "url": "https://www.faz.net/aktuell/wirtschaft/eu-haushaltsgipfel-abgebrochen-merz-bleibt-zuversichtlich-201721642.html"
+              "url": "https://www.spiegel.de/politik/deutschland/haushalt-bundestag-beschliesst-etat-fuer-2027-a-a42c379c-74eb-4ecc-9b63-71105aed94f0"
+            },
+            {
+              "name": "Deutschlandfunk",
+              "country": "DE",
+              "url": "https://www.deutschlandfunk.de/bundeshaushalt-2027-neuverschuldung-merz-kritik-100.html"
             }
           ],
-          "time": "2026-11-26T21:42:26+00:00",
+          "time": "2026-11-27T13:47:00+00:00",
           "image": {
-            "url": "https://img.zeit.de/politik/ausland/2026-11/eu-gipfel-bruessel-haushalt-friedrich-merz-antonio-costa-foto-1/wide__820x461",
-            "source": "Zeit"
+            "url": "https://images.tagesschau.de/image/dab0343c-d7b3-4621-a76a-6b2a7073eed5/AAABoh1GTlQ/AAABnSSvrFg/16x9-big/bundestag-abstimmung-142.jpg?width=1024",
+            "source": "Tagesschau"
           }
         },
         {
           "id": "p2",
-          "headline": "Konservatives Bündnis verfehlt Mehrheit in Neuseeland",
-          "summary": "Nach der Parlamentswahl in Neuseeland hat das Mitte-Rechts-Bündnis von Premierminister Christopher Luxon die absolute Mehrheit um einen Sitz verpasst. Nun ist Luxon auf die Unterstützung der Partei Opportunity angewiesen, um weiter zu regieren.",
-          "perspectives": "FAZ bezeichnet die 38-jährige Quereinsteigerin als »Königsmacherin«, während Spiegel konkret die Opportunity-Partei nennt und ihr Widerstreben gegenüber rechten Populisten erwähnt. BBC und Guardian betonen primär das knappe Ergebnis sowie das Risiko von Neuwahlen.",
-          "sources": [
-            {
-              "name": "BBC",
-              "country": "UK",
-              "url": "https://www.bbc.co.uk/news/articles/c670278qk879o"
-            },
-            {
-              "name": "FAZ",
-              "country": "DE",
-              "url": "https://www.faz.net/aktuell/politik/ausland/parlamentswahl-in-neuseeland-luxon-fehlt-ein-sitz-zur-mehrheit-accg-201721839.html"
-            },
-            {
-              "name": "Spiegel",
-              "country": "DE",
-              "url": "https://www.spiegel.de/ausland/neuseeland-konservatives-buendnis-verpasst-mehrheit-um-einen-sitz-a-9783f65d-4955-4ef5-8905-feecd02e7340"
-            },
-            {
-              "name": "Guardian",
-              "country": "UK",
-              "url": "https://www.theguardian.com/world/2026/nov/27/new-zealand-nz-election-2026-final-results"
-            }
-          ],
-          "time": "2026-11-27T02:38:15+00:00",
-          "image": {
-            "url": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/6f08/live/c2e7e400-ea01-11f1-976c-6d185a1abdb9.jpg",
-            "source": "BBC"
-          }
-        },
-        {
-          "id": "p3",
-          "headline": "Zwei Rheinmetall-Mitarbeiter bei Angriff in Kuwait getötet",
-          "summary": "Bei einem Drohnenangriff in Kuwait sind zwei italienische Mitarbeiter des deutschen Rüstungskonzerns Rheinmetall getötet worden. Italien macht den Iran für die Attacke verantwortlich, Teheran weist jegliche Verantwortung von sich.",
-          "perspectives": "Tagesschau berichtet, dass Italien die Verantwortung dem Iran zuweist. Handelsblatt und BBC heben hervor, dass Teheran jegliche Verantwortung zurückweist. BBC erwähnt zudem, dass es sich bei den Getöteten um Techniker handelte, während Spiegel lediglich die Tötung von zwei Mitarbeitern meldet.",
-          "sources": [
-            {
-              "name": "BBC",
-              "country": "UK",
-              "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o"
-            },
-            {
-              "name": "Handelsblatt",
-              "country": "DE",
-              "url": "https://www.handelsblatt.com/politik/international/nahost-iran-weist-verantwortung-fuer-angriff-in-kuwait-zurueck/100273068.html"
-            },
-            {
-              "name": "Tagesschau",
-              "country": "DE",
-              "url": "https://www.tagesschau.de/ausland/asien/kuwait-tote-angriff-kuwait-100.html"
-            },
-            {
-              "name": "Spiegel",
-              "country": "DE",
-              "url": "https://www.spiegel.de/wirtschaft/unternehmen/rheinmetall-mitarbeiter-in-kuwait-durch-drohnenangriff-getoetet-a-c745dda3-d0ef-41cf-825e-3ee0e047e575"
-            }
-          ],
-          "time": "2026-11-26T15:31:00+00:00",
-          "image": {
-            "url": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/1ece/live/c83dee70-e9f4-11f1-9c56-b1b6306ef9e3.png",
-            "source": "BBC"
-          }
-        },
-        {
-          "id": "p4",
-          "headline": "SPD weist Unions-Kompromiss zur Rente mit 63 zurück",
-          "summary": "Ein Kompromissvorschlag der Unionsfraktion zur abschlagsfreien Frührente für Geringverdiener sorgt für Streit in der Bundesregierung. Die SPD reagiert verhalten bis skeptisch auf den Vorstoß.",
-          "perspectives": "Zeit hebt hervor, dass Unionsfraktionschef Thorsten Frei den Vorstoß als Gesprächsangebot an die SPD versteht. Tagesschau berichtet, dass die Union zum Ergreifen der »ausgestreckten Hand« auffordert, während Spiegel meldet, dass die SPD verschnupft reagiere.",
+          "headline": "EU-Sondergipfel zum Haushalt endet ohne Einigung",
+          "summary": "Die Staats- und Regierungschefs der Europäischen Union haben ihren Sondergipfel zum mehrjährigen EU-Haushalt vorzeitig ohne Ergebnis beendet. Kern der Streitigkeiten waren unter anderem die Finanzierung von Hilfen für die Ukraine sowie geplante Steuermaßnahmen.",
+          "perspectives": "Deutsche Welle hebt hervor, dass die Verhandlungen an der Finanzierung der Ukraine-Hilfe sowie an einer vorgeschlagenen dreiprozentigen Steuer auf US-Tech-Konzerne scheiterten. Tagesschau verweist auf gegensätzliche Interessen zwischen dem Druck aus Frankreich und dem Widerstand aus Deutschland. Zeit betont das vorzeitige Ende des Treffens, während Handelsblatt das Scheitern des Gipfels als absehbar bezeichnet.",
           "sources": [
             {
               "name": "Zeit",
               "country": "DE",
-              "url": "https://www.zeit.de/politik/deutschland/2026-11/rente-mit-63-cdu-spd-thorsten-frei-tim-kluessendorf"
+              "url": "https://www.zeit.de/politik/2026-11/eu-gipfel-ende-haushalt-einigung-nachrichtenpodcast"
             },
             {
-              "name": "Spiegel",
+              "name": "Deutsche Welle",
               "country": "DE",
-              "url": "https://www.spiegel.de/politik/deutschland/rente-union-ueberrumpelt-spd-mit-ueberraschendem-kompromissvorschlag-a-da8cd897-8042-462c-a892-98fbe6dce2ea"
+              "url": "https://www.dw.com/en/divisions-deepen-between-eu-member-states-after-tense-budget-summit/a-80078599"
+            },
+            {
+              "name": "Handelsblatt",
+              "country": "DE",
+              "url": "https://www.handelsblatt.com/politik/international/eu-haushalt-frust-statt-fortschritt-was-der-gipfel-flop-der-eu-bedeutet/100273335.html"
             },
             {
               "name": "Tagesschau",
               "country": "DE",
-              "url": "https://www.tagesschau.de/inland/innenpolitik/rente-diskussion-104.html"
+              "url": "https://www.tagesschau.de/ausland/europa/eu-haushalt-gipfel-analyse-100.html"
             }
           ],
-          "time": "2026-11-26T10:41:10+00:00",
+          "time": "2026-11-27T13:18:17+00:00",
           "image": {
-            "url": "https://img.zeit.de/politik/deutschland/2026-11/rente-mit-63-cdu-spd-thorsten-frei-tim-kluessendorf-foto-1/wide__820x461",
+            "url": "https://img.zeit.de/politik/2026-11/eu-gipfel-ende-haushalt-einigung-nachrichtenpodcast-bild/wide__820x461",
             "source": "Zeit"
           }
         },
         {
-          "id": "p5",
-          "headline": "Erzbistum Köln muss 550.000 Euro Schmerzensgeld zahlen",
-          "summary": "Das Oberlandesgericht Köln hat einer Betroffenen von sexuellem Missbrauch ein Schmerzensgeld in Höhe von 550.000 Euro zugesprochen. Es handelt sich um die bislang höchste Summe dieser Art in Deutschland, die ein Opfer von der katholischen Kirche erhält.",
-          "perspectives": "Tagesschau und FAZ berichten weitgehend übereinstimmend über die Gerichtsentscheidung und heben hervor, dass es sich um die bisher höchste Schmerzensgeldsumme in einem Missbrauchsfall in Deutschland handelt. Tagesschau nennt exakt 550.000 Euro, während FAZ von mehr als 550.000 Euro spricht.",
+          "id": "p3",
+          "headline": "US-Militär beschießt Frachter im Golf von Oman",
+          "summary": "Das US-Militär hat nach eigenen Angaben im Golf von Oman ein Handelsschiff beschossen. Grund war der Versuch der Besatzung, eine US-Blockade iranischer Häfen zu durchbrechen. Das Schiff wurde dabei manövrierunfähig gemacht, die Besatzung blieb nach Angaben der US-Seite unverletzt.",
+          "perspectives": "Die Berichterstattung von Tagesschau und NZZ stützt sich auf Angaben des US-Militärs. Tagesschau nennt konkrete Details zum Zustand des Schiffs und zur unverletzten Besatzung, während NZZ die Geschehnisse im Rahmen des laufenden Iran-Kriegs einordnet.",
           "sources": [
             {
               "name": "Tagesschau",
               "country": "DE",
-              "url": "https://www.tagesschau.de/inland/gesellschaft/missbrauch-kirche-schmerzensgeld-102.html"
+              "url": "https://www.tagesschau.de/ausland/asien/iran-usa-frachter-beschuss-golf-oman-100.html"
             },
             {
-              "name": "FAZ",
-              "country": "DE",
-              "url": "https://www.faz.net/aktuell/politik/inland/oberlandesgericht-koeln-missbrauchsopfer-erhaelt-schmerzensgeld-in-rekordhoehe-accg-201719348.html"
+              "name": "NZZ",
+              "country": "CH",
+              "url": "https://www.nzz.ch/international/iran-krieg-bahrain-geraet-erneut-unter-iranischen-beschuss-ld.10021246"
             }
           ],
-          "time": "2026-11-26T11:51:57+00:00",
+          "time": "2026-11-27T18:00:57+00:00",
           "image": {
-            "url": "https://images.tagesschau.de/image/093349eb-4a34-4a8a-99fc-ac81d718763f/AAABlesvJWo/AAABnSSvrFg/16x9-big/kreuz-133.jpg?width=1024",
+            "url": "https://images.tagesschau.de/image/d4f33ed9-50ca-450e-b1f2-3fac2df5843b/AAABoiAxs5A/AAABnSSvrFg/16x9-big/oman-136.jpg?width=1024",
             "source": "Tagesschau"
+          }
+        },
+        {
+          "id": "p4",
+          "headline": "Kanadas Gericht stützt Religionssymbol-Verbot in Quebec",
+          "summary": "Das Oberste Gericht Kanadas hat ein umstrittenes Gesetz der Provinz Quebec weitgehend bestätigt, das Staatsbediensteten das Tragen religiöser Symbole untersagt. Das Urteil betrifft unter anderem Lehrkräfte. Kritiker befürchten eine Einschränkung von Grundrechten, während die Provinzregierung ihr säkulares Modell verteidigt.",
+          "perspectives": "New York Times hebt hervor, dass das Gericht den Einsatz einer verfassungsrechtlichen Ausnahmaklausel durch die Provinz billigte. Deutsche Welle, Financial Times und BBC rücken die Kritik von Betroffenenorganisationen und Lehrkräften in den Fokus, die im Urteil eine Schwächung des Rechtsschutzes für religiöse Minderheiten und Grundrechte sehen.",
+          "sources": [
+            {
+              "name": "New York Times",
+              "country": "US",
+              "url": "https://www.nytimes.com/2026/11/27/world/canada/canada-supreme-court-quebec-religion-bill-21.html"
+            },
+            {
+              "name": "Deutsche Welle",
+              "country": "DE",
+              "url": "https://www.dw.com/en/canada-supreme-court-largely-upholds-quebec-secularism-bill/a-80082571"
+            },
+            {
+              "name": "Financial Times",
+              "country": "UK",
+              "url": "https://www.ft.com/content/240e1fe6-6c82-4d18-b73d-b0b52e7edae4?syn-25a6b1a6=1"
+            },
+            {
+              "name": "BBC",
+              "country": "UK",
+              "url": "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o"
+            }
+          ],
+          "time": "2026-11-27T16:53:46+00:00",
+          "image": {
+            "url": "https://static01.nyt.com/images/2026/11/27/world/27canada-quebec-34567/27canada-quebec-34567-mediumSquareAt3X.jpg",
+            "source": "New York Times"
+          }
+        },
+        {
+          "id": "p5",
+          "headline": "Arbeitsminister Schweitzer legt Rentenentwurf vor",
+          "summary": "Bundesarbeitsminister Alexander Schweitzer hat einen Gesetzentwurf zur Rentenreform vorgelegt. Der Entwurf stößt jedoch bei der Union und dem Kanzleramt auf Vorbehalte. Auch Gewerkschaften und die Oppositionsfraktion Die Linke äußerten deutliche Kritik.",
+          "perspectives": "Handelsblatt bezeichnet das Vorgehen des Arbeitsministers als unabgestimmt und verweist darauf, dass die Union darin noch keinen Reformkompromiss sieht. Spiegel zitiert das Kanzleramt, das das Papier im Stadium einer Frühkoordinierung sieht. Zeit hebt die Kritik der Linken-Politikerin Heidi Reichinnek hervor, die den Entwurf als Kürzungsprogramm bezeichnet.",
+          "sources": [
+            {
+              "name": "Handelsblatt",
+              "country": "DE",
+              "url": "https://www.handelsblatt.com/politik/deutschland/zukunft-der-altersvorsorge-kein-reformkompromiss-in-sicht-ringen-um-rente-geht-weiter/100273140.html"
+            },
+            {
+              "name": "Zeit",
+              "country": "DE",
+              "url": "https://www.zeit.de/politik/deutschland/2026-11/rentenreform-alexander-schweitzer-rente-mit-63-kapitalrente"
+            },
+            {
+              "name": "Spiegel",
+              "country": "DE",
+              "url": "https://www.spiegel.de/politik/deutschland/rente-arbeitsminister-alexander-schweitzer-legt-gesetzentwurf-zur-rentenreform-vor-a-78332671-b923-4dc6-addc-399722e6d309"
+            }
+          ],
+          "time": "2026-11-27T15:18:00+00:00",
+          "image": {
+            "url": "https://images.handelsblatt.com/ejxc0zylk25e/cover/900/506/0/0/107/107/0.5/0.5/juso-bundeskongress-bochum.jpg",
+            "source": "Handelsblatt"
           }
         }
       ]
@@ -168,124 +168,119 @@
       "items": [
         {
           "id": "w1",
-          "headline": "Tarifabschluss in Metall- und Elektroindustrie erzielt",
-          "summary": "Nach stundenlangen Verhandlungen haben sich IG Metall und Arbeitgeber auf ein Lohnplus von 4,3 Prozent in zwei Stufen geeinigt. Der Pilotabschluss sieht zudem Ausnahmeregelungen von der 35-Stunden-Woche vor.",
-          "perspectives": "Tagesschau und FAZ nennen exakt die Lohnsteigerung von 4,3 Prozent, während Spiegel die Möglichkeit unbezahlter Mehrarbeit und Lohnverzicht hervorhebt. FAZ spricht von einem 24-stündigen Verhandlungsmarathon, Zeit von mehr als 24 Stunden.",
+          "headline": "OpenAI reicht Gegenklage gegen Apple ein",
+          "summary": "Im juristischen Streit zwischen OpenAI und Apple hat der ChatGPT-Entwickler eine Gegenklage eingereicht. OpenAI wirft Apple vor, Geschäfts- und Betriebsgeheimnisse entwendet sowie Druck auf gemeinsame Zulieferer ausgeübt zu haben. Zuvor hatte Apple dem KI-Unternehmen vorgeworfen, vertrauliches Wissen für die Entwicklung neuartiger Geräte abgezweigt zu haben.",
+          "perspectives": "Guardian und Financial Times stellen den Vorwurf von OpenAI in den Vordergrund, Apple übe Druck auf gemeinsame Hardware-Zulieferer aus. Zeit und Handelsblatt betonen, dass es sich um die direkte juristische Antwort auf die vorausgegangene Klage von Apple handelt.",
           "sources": [
             {
               "name": "Zeit",
               "country": "DE",
-              "url": "https://www.zeit.de/wirtschaft/2026-11/metall-tarifrunde-gewerkschaft-und-arbeitgeber-erzielen-einigung"
+              "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-11/openai-apple-klage-geschaeftsgeheimnisse-mitarbeiter-abwerbung"
             },
             {
-              "name": "Tagesschau",
-              "country": "DE",
-              "url": "https://www.tagesschau.de/wirtschaft/tarifabschluss-metall-elektroindustrie-100.html"
+              "name": "Guardian",
+              "country": "UK",
+              "url": "https://www.theguardian.com/technology/2026/nov/27/openai-countersues-apple-trade-secrets"
             },
             {
-              "name": "FAZ",
-              "country": "DE",
-              "url": "https://www.faz.net/aktuell/wirtschaft/ig-metall-und-arbeitgeber-einigen-sich-auf-4-3-prozent-mehr-gehalt-201720943.html"
+              "name": "Financial Times",
+              "country": "UK",
+              "url": "https://www.ft.com/content/af599e07-d44c-4068-ab84-6ee3c85551d4?syn-25a6b1a6=1"
             },
             {
-              "name": "Spiegel",
+              "name": "Handelsblatt",
               "country": "DE",
-              "url": "https://www.spiegel.de/wirtschaft/ig-metall-und-arbeitgeber-einigen-sich-in-tarifstreit-a-152b7f28-1470-44a8-9958-c6fe9db5d584"
+              "url": "https://www.handelsblatt.com/technik/ki/kuenstliche-intelligenz-openai-reicht-im-streit-um-ki-technologie-gegenklage-gegen-apple-ein/100273392.html"
             }
           ],
-          "time": "2026-11-26T15:28:00+00:00",
+          "time": "2026-11-27T22:13:23+00:00",
           "image": {
-            "url": "https://img.zeit.de/wirtschaft/2026-11/metall-tarifrunde-gewerkschaft-und-arbeitgeber-erzielen-einigung-foto1/wide__820x461",
+            "url": "https://img.zeit.de/wirtschaft/unternehmen/2026-11/openai-apple-klage-geschaeftsgeheimnisse-mitarbeiter-abwerbung-foto-1/wide__820x461",
             "source": "Zeit"
           }
         },
         {
           "id": "w2",
-          "headline": "Pablo Hernández de Cos soll Nachfolger von Lagarde werden",
-          "summary": "Die Staats- und Regierungschefs der EU haben sich darauf geeinigt, dass der Spanier Pablo Hernández de Cos Nachfolger von Christine Lagarde als EZB-Präsident wird. Lagarde hatte angekündigt, ihr Amt im Februar aufzugeben.",
-          "perspectives": "Zeit berichtet, dass die Entscheidung der EU-Spitzen einstimmig fiel. Guardian hebt hervor, dass de Cos die Unterstützung der größten EU-Länder gewann, während Spiegel die Bundesregierung als Befürworterin nennt. Tagesschau erwähnt ergänzend einen Deutschen als künftigen Chefvolkswirt.",
+          "headline": "Gericht erhöht Haftstrafe für René Benko auf drei Jahre",
+          "summary": "Das Oberlandesgericht Innsbruck hat die Haftstrafe für den insolventen Signa-Gründer René Benko im Zuge eines Strafverfahrens auf 36 Monate verlängert. Die Entscheidung erging wegen Schädigung von Gläubigerinteressen im Kontext des Zusammenbruchs seines Immobilien- und Handelsimperiums.",
+          "perspectives": "Spiegel und Handelsblatt berichten über die Erhöhung der Strafe auf nunmehr drei Jahre Haft durch das Oberlandesgericht Innsbruck. NZZ beziffert die Strafe auf 36 Monate und ordnet die Entscheidung in das laufende Insolvenzverfahren des Signa-Konzerns ein.",
           "sources": [
-            {
-              "name": "Zeit",
-              "country": "DE",
-              "url": "https://www.zeit.de/geld/2026-11/spanier-de-cos-wird-nachfolger-von-ezb-chefin-lagarde"
-            },
-            {
-              "name": "Guardian",
-              "country": "UK",
-              "url": "https://www.theguardian.com/business/2026/nov/26/spain-pablo-hernandez-de-cos-next-ecb-president"
-            },
-            {
-              "name": "Tagesschau",
-              "country": "DE",
-              "url": "https://www.tagesschau.de/wirtschaft/ezb-chef-de-cos-100.html"
-            },
             {
               "name": "Spiegel",
               "country": "DE",
-              "url": "https://www.spiegel.de/wirtschaft/ezb-spanier-pablo-hernandez-de-cos-soll-nachfolger-von-christine-lagarde-werden-a-9cbee37b-5d10-4e23-8cd8-6bb207ea6809"
+              "url": "https://www.spiegel.de/wirtschaft/rene-benko-gericht-korrigiert-strafe-nach-oben-nun-drei-jahre-haft-a-59000352-3bb1-4756-8b55-40e0282cf651"
+            },
+            {
+              "name": "Handelsblatt",
+              "country": "DE",
+              "url": "https://www.handelsblatt.com/unternehmen/management/signa-drei-jahre-haft-fuer-benko-nach-weiterem-urteil/100273347.html"
+            },
+            {
+              "name": "NZZ",
+              "country": "CH",
+              "url": "https://www.nzz.ch/wirtschaft/signa-krise-die-wichtigsten-meldungen-ld.1767273"
             }
           ],
-          "time": "2026-11-26T13:57:00+00:00",
+          "time": "2026-11-27T15:05:35+00:00",
           "image": {
-            "url": "https://img.zeit.de/wirtschaft/2026-11/neuer-ezb-chef-pablo-hernandez-de-cos-foto/wide__820x461",
-            "source": "Zeit"
+            "url": "https://cdn.prod.www.spiegel.de/images/37e284e4-9b0d-443d-9c56-ed8047e0320b_w520_r2.08_fpx66.63_fpy49.98.jpg",
+            "source": "Spiegel"
           }
         },
         {
           "id": "w3",
-          "headline": "UniCredit beantragt Hauptversammlung bei der Commerzbank",
-          "summary": "Nach der behördlichen Genehmigung der Übernahme verlangt die italienische Großbank UniCredit eine Hauptversammlung der Commerzbank. Ziel ist es, den Aufsichtsrat neu zu besetzen und UniCredit-Chef Andrea Orcel an die Spitze des Gremiums zu stellen.",
-          "perspectives": "Handelsblatt und Spiegel berichten über die Absicht, den Aufsichtsrat und Vorstand neu auszurichten; Handelsblatt nennt dabei konkret den Austausch von neun Aufsichtsratsmitgliedern. Tagesschau stellt vor allem den formalen Antrag auf die Hauptversammlung in den Mittelpunkt.",
+          "headline": "Billigflieger Norse Atlantic beantragt Insolvenz",
+          "summary": "Die norwegische Fluggesellschaft Norse Atlantic Airways hat Insolvenz angemeldet und sämtliche Flüge mit sofortiger Wirkung gestrichen. Das Unternehmen begründet den Schritt mit stark gestiegenen Kerosinkosten infolge des Iran-Kriegs. Von der Pleite sind 1.071 Beschäftigte direkt betroffen.",
+          "perspectives": "Handelsblatt beziffert die Zahl der betroffenen Mitarbeiter exakt auf 1.071 und nennt steigende Kerosinpreise als Ursache. Guardian betont die Aufforderung der Fluggesellschaft an Kunden, nicht mehr zu den Flughäfen zu kommen. Deutsche Welle verweist darauf, dass die junge Airline seit ihrer Gründung vor wenigen Jahren mit der Profitabilität kämpfte.",
           "sources": [
             {
               "name": "Handelsblatt",
               "country": "DE",
-              "url": "https://www.handelsblatt.com/finanzen/banken-versicherungen/unicredit-orcel-will-aufsichtsratschef-der-commerzbank-werden/100272891.html"
+              "url": "https://www.handelsblatt.com/unternehmen/dienstleister/norse-atlantic-billigflieger-streicht-alle-fluege-und-beantragt-insolvenz/100273357.html"
             },
             {
-              "name": "Spiegel",
-              "country": "DE",
-              "url": "https://www.spiegel.de/wirtschaft/unternehmen/unicredit-ist-bei-commerzbank-am-ziel-und-will-schnell-personal-austauschen-a-ca320f98-a8ad-4687-a3e5-e6930ac6ff09"
+              "name": "Guardian",
+              "country": "UK",
+              "url": "https://www.theguardian.com/business/2026/nov/27/norse-atlantic-airways-files-for-bankruptcy-cancels-all-future-flights"
             },
             {
-              "name": "Tagesschau",
+              "name": "Deutsche Welle",
               "country": "DE",
-              "url": "https://www.tagesschau.de/wirtschaft/unternehmen/unicredit-commerzbank-hauptversammlung-100.html"
+              "url": "https://www.dw.com/en/airline-norse-atlantic-files-for-bankruptcy-succumbing-to-aviation-fuel-costs/a-80076728"
             }
           ],
-          "time": "2026-11-26T08:54:54+00:00",
+          "time": "2026-11-27T14:20:00+00:00",
           "image": {
-            "url": "https://images.handelsblatt.com/3QocP97xJP0o/cover/900/506/0/0/0/208/0.5/0.5/andrea-orcel-chief-executive-officer-of-unicredit-spa-at-the-future-investment-initiative-fii-pr.jpg",
+            "url": "https://images.handelsblatt.com/qnfareN7WnYc/cover/900/506/0/0/346/346/0.5/0.5/billigflieger-norse-atlantic-meldet-insolvenz-an-und-streicht-alle-fluege.jpg",
             "source": "Handelsblatt"
           }
         },
         {
           "id": "w4",
-          "headline": "Online-Händler Temu sagt mehr Verbraucherschutz in EU zu",
-          "summary": "Der chinesische Online-Marktplatz Temu hat nach Druck der EU-Kommission Zugeständnisse beim Verbraucherschutz gemacht. Unter anderem verspricht das Unternehmen eine Abkehr von gefälschten Bewertungen, irreführenden Preisangaben und künstlichem Kaufdruck.",
-          "perspectives": "Zeit nennt konkret die Zusage von Rückerstattungen innerhalb von zwei Wochen. Tagesschau berichtet über den Verzicht auf gefälschte Bewertungen und künstlichen Kaufdruck, während Handelsblatt mehr Klarheit bei Preisen und Bewertungen betont.",
+          "headline": "SAP plant offenbar Abbau von über 10.000 Stellen",
+          "summary": "Der europäische Softwarekonzern SAP bereitet Medienberichten zufolge einen erneuten großflächigen Stellenabbau vor. Betroffen könnten mehr als 10.000 Arbeitsplätze weltweit sein. Grund für die Restrukturierung sind Anpassungen an die voranschreitende Automatisierung durch Künstliche Intelligenz.",
+          "perspectives": "FAZ und Spiegel berichten von Plänen zum Abbau von mehr als 10.000 Stellen, während Tagesschau von Tausenden Stellen spricht. FAZ hebt hervor, dass dies der zweite große Aderlass innerhalb von zwei Jahren wäre. Spiegel und Tagesschau streichen heraus, dass die Umstellung auf Künstliche Intelligenz als Hintergrund genannt wird.",
           "sources": [
             {
-              "name": "Zeit",
+              "name": "FAZ",
               "country": "DE",
-              "url": "https://www.zeit.de/wirtschaft/2026-11/temu-eu-kommission-verbraucherschutz-online-shopping"
-            },
-            {
-              "name": "Handelsblatt",
-              "country": "DE",
-              "url": "https://www.handelsblatt.com/politik/deutschland/verbraucherschutz-temu-lenkt-ein-mehr-klarheit-bei-preisen-und-bewertungen/100273054.html"
+              "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/10-000-jobs-in-gefahr-sap-plant-stellenabbau-und-meldet-hackerangriff-accg-201723017.html"
             },
             {
               "name": "Tagesschau",
               "country": "DE",
-              "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/temu-eu-verfahren-verbraucherschutz-100.html"
+              "url": "https://www.tagesschau.de/wirtschaft/unternehmen/sap-stellenabbau-geplant-100.html"
+            },
+            {
+              "name": "Spiegel",
+              "country": "DE",
+              "url": "https://www.spiegel.de/wirtschaft/sap-erwaegt-den-abbau-von-mehr-als-10-000-stellen-a-c4a7caff-a097-4ccb-867a-da1e469855fc"
             }
           ],
-          "time": "2026-11-26T14:38:50+00:00",
+          "time": "2026-11-27T10:08:00+00:00",
           "image": {
-            "url": "https://img.zeit.de/wirtschaft/2026-11/temu-eu-kommission-verbraucherschutz-online-shopping-foto-1/wide__820x461",
-            "source": "Zeit"
+            "url": "https://media0.faz.net/image/ab6c6ef8ac7a/w5202h2926x0y542/202610/6896be8e-600c-4efa-8437-e2ca127cf826/chefsache-ki-sap-vorstandschef.webp",
+            "source": "FAZ"
           }
         }
       ]
@@ -293,204 +288,214 @@
   ],
   "more": [
     {
-      "section": "wirtschaft",
-      "headline": "Klima: Globale Temperatur erstmals eine Woche über Zwei-Grad-Marke",
-      "source": "Handelsblatt",
-      "country": "DE",
-      "url": "https://www.handelsblatt.com/technik/forschung-innovation/klima-globale-temperatur-erstmals-eine-woche-ueber-zwei-grad-marke/100273161.html",
-      "time": "2026-11-27T03:30:06+00:00",
-      "opinion": false,
-      "image": "https://images.handelsblatt.com/fsRl8YKmjrz5/cover/900/506/0/0/107/106/0.5/0.5/klimaphaenomen-el-nino-in-ecuador.jpg"
-    },
-    {
       "section": "politik",
-      "headline": "Krieg gegen die Ukraine: Ukraine verteidigt Angriffe auf russische Schiffe vor Libyen",
-      "source": "Zeit",
-      "country": "DE",
-      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-      "time": "2026-11-27T03:10:31+00:00",
-      "opinion": false,
-      "image": "https://img.zeit.de/politik/ausland/2026-11/ukraine-libyen-russland-angriffe-bild/wide__820x461"
-    },
-    {
-      "section": "wirtschaft",
-      "headline": "Merkur-Sonde: Nach Problem: Nächste Manöver von „BepiColombo“ stehen an",
-      "source": "Handelsblatt",
-      "country": "DE",
-      "url": "https://www.handelsblatt.com/technik/forschung-innovation/merkur-sonde-nach-problem-naechste-manoever-von-bepicolombo-stehen-an/100273153.html",
-      "time": "2026-11-27T03:00:35+00:00",
-      "opinion": false,
-      "image": "https://images.handelsblatt.com/wGybG1iEEzqi/cover/900/506/1/1/0/0/0.5/0.5/merkur-sonde-bepicolombo-auf-zielanflug.jpg"
-    },
-    {
-      "section": "wirtschaft",
-      "headline": "Baumärkte: Kartellrechtliche Hürden könnten Fusion von Obi und Toom erschweren",
-      "source": "Handelsblatt",
-      "country": "DE",
-      "url": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/baumaerkte-kartellrecht-koennte-fusion-von-obi-und-toom-erschweren/100273004.html",
-      "time": "2026-11-27T03:00:00+00:00",
-      "opinion": false,
-      "image": "https://images.handelsblatt.com/nsR1Em-Uwvuj/cover/900/506/0/0/473/146/0.5/0.5/berlin-reinickendorf-wirtschaftsstandort-baumarkt-obi-am-oraniendamm-03.03.2025-berlin-berlin.jpg"
-    },
-    {
-      "section": "politik",
-      "headline": "Bosnien und Herzogowina: Dodik hebt Sohn auf den Thron",
-      "source": "Tagesschau",
-      "country": "DE",
-      "url": "https://www.tagesschau.de/ausland/europa/dodik-bosnien-sohn-100.html",
-      "time": "2026-11-27T01:29:29+00:00",
-      "opinion": false,
-      "image": "https://images.tagesschau.de/image/d8f49345-b179-46cd-9cab-21fe8ea4924c/AAABohp8fFo/AAABnSSvrFg/16x9-big/dodik-122.jpg?width=1024"
-    },
-    {
-      "section": "politik",
-      "headline": "Major Thanksgiving storm brings flooding, flight delays across US",
-      "source": "BBC",
-      "country": "UK",
-      "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o",
-      "time": "2026-11-27T00:52:11+00:00",
-      "opinion": false,
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/af5b/live/7a140030-e9f0-11f1-99b6-a35a62fa4264.jpg"
-    },
-    {
-      "section": "politik",
-      "headline": "Geldpolitik: Argentinien verbietet Notenbank das Gelddrucken zum Schuldenausgleich",
-      "source": "Zeit",
-      "country": "DE",
-      "url": "https://www.zeit.de/politik/ausland/2026-11/argentinien-zentralbank-kongress-gesetz-javier-milei-staatsschulden",
-      "time": "2026-11-27T00:39:04+00:00",
-      "opinion": false,
-      "image": "https://img.zeit.de/politik/ausland/2026-11/argentinien-zentralbank-gesetz-javier-milei-foto-1/wide__820x461"
-    },
-    {
-      "section": "politik",
-      "headline": "Rüstung: Russland weist Berichte über Atomwaffe im Weltraum zurück",
-      "source": "Zeit",
-      "country": "DE",
-      "url": "https://www.zeit.de/politik/ausland/2026-11/russland-satellit-atomsprengkopf-weltraumvertrag-maria-sacharowa",
-      "time": "2026-11-27T00:11:46+00:00",
-      "opinion": false,
-      "image": "https://img.zeit.de/politik/ausland/2026-11/russland-satellit-atomsprengkopf-weltraumvertrag-maria-sacharowa-foto-1/wide__820x461"
-    },
-    {
-      "section": "politik",
-      "headline": "Börsenskandal in der Türkei: Ermittlungen gegen früheren Bankenaufseher Kavcıoğlu in der Türkei",
-      "source": "Zeit",
-      "country": "DE",
-      "url": "https://www.zeit.de/politik/ausland/2026-11/boersenskandal-tuerkei-sahap-kavcioglu-investmentfonds-spk",
-      "time": "2026-11-26T21:32:47+00:00",
-      "opinion": false,
-      "image": "https://img.zeit.de/politik/ausland/2026-11/sahap-kavcioglu-tuerkei-bankenskandal/wide__820x461"
-    },
-    {
-      "section": "politik",
-      "headline": "Thanksgiving: Sturm legt Ostküste lahm – Parade in New York verschoben",
+      "headline": "KNDS: 100.000 Bewerbungen beim Panzerbauer in Deutschland",
       "source": "Spiegel",
       "country": "DE",
-      "url": "https://www.spiegel.de/ausland/thanksgiving-sturm-legt-ostkueste-lahm-parade-in-new-york-verschoben-a-91358455-f9be-4968-b156-81516d60641d",
-      "time": "2026-11-26T20:47:00+00:00",
+      "url": "https://www.spiegel.de/politik/knds-100-000-bewerbungen-beim-panzerbauer-in-deutschland-a-bc7b0841-5fb8-4e89-8570-b120045f55b1",
+      "time": "2026-11-28T04:05:00+00:00",
       "opinion": false,
-      "image": "https://cdn.prod.www.spiegel.de/images/f0346aca-6a0b-4fc2-97ef-da0e2e3b6ddb_w520_r2.08_fpx33.4_fpy49.99.jpg"
+      "image": "https://cdn.prod.www.spiegel.de/images/f0a0b3a9-fb55-4b46-b8aa-44f7591b3195_w520_r2.08_fpx30_fpy54.99.jpg"
     },
     {
       "section": "politik",
-      "headline": "Burka und NIKAB: Italien verbietet Gesichtsverschleierung an Schulen",
-      "source": "FAZ",
+      "headline": "Trotz Iran-Krieg: Mittelstand blickt wieder optimistischer auf die Geschäfte",
+      "source": "Handelsblatt",
       "country": "DE",
-      "url": "https://www.faz.net/aktuell/politik/ausland/italien-gesichtsverschleierung-an-schulen-kuenftig-verboten-201721357.html",
-      "time": "2026-11-26T17:56:13+00:00",
+      "url": "https://www.handelsblatt.com/politik/deutschland/trotz-iran-krieg-mittelstand-blickt-wieder-optimistischer-auf-die-geschaefte/100273412.html",
+      "time": "2026-11-28T04:00:10+00:00",
       "opinion": false,
-      "image": "https://media0.faz.net/image/34635fb1730e/w1736h976x0y69/201907/43600.0.16220842/eine-frau-aus-den-niederlanden.webp"
-    },
-    {
-      "section": "wirtschaft",
-      "headline": "Poundland-Pleite: Discounter-Zusammenbruch beunruhigt britische Politik",
-      "source": "FAZ",
-      "country": "DE",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/poundland-insolvenz-bedroht-fast-11-000-jobs-in-grossbritannien-201720086.html",
-      "time": "2026-11-26T15:54:23+00:00",
-      "opinion": false,
-      "image": "https://media0.faz.net/image/78b2d6959639/w7846h4413x0y816/202611/b372bc36-eac6-4bac-9cda-6c734fb02f02/fussgaenger-vor-einem.webp"
+      "image": "https://images.handelsblatt.com/AZzdugTPScQR/cover/900/506/0/0/107/106/0.5/0.5/mittelstand.jpg"
     },
     {
       "section": "politik",
-      "headline": "Polizeisoftware: Mit Palantir ist kein Staat mehr zu machen",
+      "headline": "Liveblog Nahost: Ärzte ohne Grenzen: Zwei Mitarbeiter in Gaza getötet",
       "source": "FAZ",
       "country": "DE",
-      "url": "https://www.faz.net/aktuell/politik/inland/immer-mehr-bundeslaender-nehmen-abstand-von-palantir-201718852.html",
-      "time": "2026-11-26T15:39:46+00:00",
+      "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-nahost-aerzte-ohne-grenzen-mitarbeiter-in-gaza-getoetet-israel-spricht-von-terroristen-faz-200583539.html",
+      "time": "2026-11-28T03:48:00+00:00",
       "opinion": false,
-      "image": "https://media0.faz.net/image/0803ebd407fc/w3000h1687x0y313/202511/43601.0.1452611744/bald-wieder-ohne-palantir-ein.webp"
+      "image": "https://media0.faz.net/image/d57c68a24fae/w6144h3456x0y640/202611/1f8b9124-b69d-427a-9aa0-c2d760a2fd9c/palaestinenser-gehen-eine.webp"
     },
     {
       "section": "politik",
-      "headline": "Gérard Depardieu to stand trial for alleged rape of actress in 2018, court rules",
-      "source": "BBC",
-      "country": "UK",
-      "url": "https://www.bbc.co.uk/news/articles/cmlyd76kyx44o",
-      "time": "2026-11-26T14:44:26+00:00",
-      "opinion": false,
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/c5c6/live/4c0cb100-e97d-11f1-99b6-a35a62fa4264.jpg"
-    },
-    {
-      "section": "wirtschaft",
-      "headline": "BGH stärkt Rechte von Mietern bei Balkonkraftwerken",
+      "headline": "Treibstoffkrise in Malawi: Kaum Geld - und dann der Iran-Krieg",
       "source": "Tagesschau",
       "country": "DE",
-      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/mietrecht-balkonkraftwerke-bgh-100.html",
-      "time": "2026-11-26T13:29:47+00:00",
+      "url": "https://www.tagesschau.de/ausland/afrika/malawi-treibstoffkrise-100.html",
+      "time": "2026-11-28T03:34:41+00:00",
       "opinion": false,
-      "image": "https://images.tagesschau.de/image/e12cf8fd-f364-4852-be6a-d86ae22b0001/AAABohf6rX4/AAABnSSvrFg/16x9-big/balkonkraftwerk-170.jpg?width=1024"
+      "image": "https://images.tagesschau.de/image/a9f1fee8-6eed-41fd-9fe2-7ca6f190ce94/AAABoiA4Jl0/AAABnSSvrFg/16x9-big/motorradfahrer-malawi-100.jpg?width=1024"
     },
     {
       "section": "politik",
-      "headline": "Zwei Mitglieder von früherer AfD-Jugend dürfen Waffen weiter besitzen",
+      "headline": "+++ Ukraine-Krieg +++: Russland stellt Atom-U-Boot mit Hyperschallraketen in Dienst",
+      "source": "Handelsblatt",
+      "country": "DE",
+      "url": "https://www.handelsblatt.com/politik/international/ukraine-bietet-waffenruhe-im-schwarzen-meer-an/27982126.html",
+      "time": "2026-11-28T03:08:00+00:00",
+      "opinion": false,
+      "image": "https://images.handelsblatt.com/CkEZEYkxPIbd/cover/900/506/0/0/236/235/0.5/0.5/urnnewsmldpa.com20090101261127-99-411939.jpg"
+    },
+    {
+      "section": "politik",
+      "headline": "Mobilität: 2027 werden mehr als eine Million neue Elektroautos erwartet",
+      "source": "Handelsblatt",
+      "country": "DE",
+      "url": "https://www.handelsblatt.com/politik/deutschland/mobilitaet-2027-werden-mehr-als-eine-million-neue-elektroautos-erwartet/100273405.html",
+      "time": "2026-11-28T03:00:16+00:00",
+      "opinion": false,
+      "image": "https://images.handelsblatt.com/XjXlQDT8wNnZ/cover/900/506/0/0/107/107/0.5/0.5/volkswagen-werk-in-osnabrueck-verladung-audi-neuwagen.jpg"
+    },
+    {
+      "section": "politik",
+      "headline": "Entwurf für Spritpreisdeckel liegt vor - Kabinett beschließt am Mittwoch",
       "source": "Tagesschau",
       "country": "DE",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/afd-waffen-urteil-100.html",
-      "time": "2026-11-26T11:39:55+00:00",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/spritpreisdeckel-entwurf-kabinett-100.html",
+      "time": "2026-11-27T23:35:35+00:00",
       "opinion": false,
-      "image": "https://images.tagesschau.de/image/e6b8ac05-d435-4f22-9b0d-02ba482d900d/AAABleXMVxo/AAABnSSvrFg/16x9-big/bundesverwaltungsgericht-100.jpg?width=1024"
+      "image": "https://images.tagesschau.de/image/cf5a8317-6f6d-4d52-8005-d01621cc19e2/AAABoZwyatQ/AAABnSSvrFg/16x9-big/tankstelle-394.jpg?width=1024"
     },
     {
       "section": "politik",
-      "headline": "Köln und Heidelberg: Festnahmen wegen möglicher Anschlagspläne auf Synagogen",
-      "source": "FAZ",
-      "country": "DE",
-      "url": "https://www.faz.net/aktuell/politik/inland/zwei-iraker-in-koeln-und-heidelberg-festgenommen-accg-201719222.html",
-      "time": "2026-11-26T11:20:29+00:00",
-      "opinion": false,
-      "image": "https://media0.faz.net/image/eeb4f0bd3add/w6144h3456x0y0/202611/70fd78cb-74dc-4c22-ba29-6aaa55c3e962/ein-streifenwagen-der-polizei.webp"
-    },
-    {
-      "section": "wirtschaft",
-      "headline": "Edeka ruft Kartoffeln zurück",
+      "headline": "Spanien: Mindestens acht Tote auf Flüchtlingsboot vor El Hierro",
       "source": "Spiegel",
       "country": "DE",
-      "url": "https://www.spiegel.de/wirtschaft/service/edeka-ruft-kartoffeln-zurueck-a-c151194d-a0ba-4491-b9ec-3ba7be3953bc",
-      "time": "2026-11-26T10:02:00+00:00",
+      "url": "https://www.spiegel.de/ausland/spanien-mindestens-acht-tote-auf-fluechtlingsboot-vor-el-hierro-a-cfe8e9a9-1634-409e-9390-970de196082f",
+      "time": "2026-11-27T19:01:00+00:00",
       "opinion": false,
-      "image": "https://cdn.prod.www.spiegel.de/images/476ab849-08ed-47db-afba-05aae79d71d8_w520_r2.08_fpx50.56_fpy50.jpg"
-    },
-    {
-      "section": "politik",
-      "headline": "Migration: Deutsche Firma MaRe Boote GmbH soll Ärmelkanal-Schleuser beliefert haben",
-      "source": "Spiegel",
-      "country": "DE",
-      "url": "https://www.spiegel.de/politik/deutschland/deutsche-firma-soll-aermelkanal-schleuser-beliefern-haben-a-dd3ecb91-159e-42f5-873e-08c18361ac37",
-      "time": "2026-11-26T08:50:00+00:00",
-      "opinion": false,
-      "image": "https://cdn.prod.www.spiegel.de/images/5da949a0-3c4a-46cd-811e-061d47a1de09_w520_r2.08_fpx28.92_fpy49.99.jpg"
+      "image": "https://cdn.prod.www.spiegel.de/images/e6f2be5f-9737-4590-ae06-dc3fc6a43918_w520_r2.08_fpx40.62_fpy54.98.jpg"
     },
     {
       "section": "wirtschaft",
-      "headline": "Digitaler Führerschein startet ab Mitte Dezember",
+      "headline": "Konsolidierung: Britischer Tabakkonzern Imperial ist Übernahmeziel",
+      "source": "FAZ",
+      "country": "DE",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/altria-group-will-imperial-brands-uebernehmen-201723313.html",
+      "time": "2026-11-27T17:35:37+00:00",
+      "opinion": false,
+      "image": "https://media0.faz.net/image/12fb9d18bb09/w4000h2250x0y196/202611/e2f23400-bec2-4c46-9f50-f029282b6d2e/uebernahmeziel-altria-hat-ein.webp"
+    },
+    {
+      "section": "wirtschaft",
+      "headline": "Rüstung: Rheinmetall senkt die Ziele",
+      "source": "FAZ",
+      "country": "DE",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/rheinmetall-senkt-ziele-armin-papperger-will-konservativer-planen-201723237.html",
+      "time": "2026-11-27T17:24:31+00:00",
+      "opinion": false,
+      "image": "https://media0.faz.net/image/6aa06b50b211/w5729h3223x0y97/202608/43601.0.2476808437/in-einer-produktion-des.webp"
+    },
+    {
+      "section": "politik",
+      "headline": "Bundeswehr: Generalleutnant Heico Hübner wird neuer Inspekteur des Heeres",
+      "source": "Zeit",
+      "country": "DE",
+      "url": "https://www.zeit.de/politik/deutschland/2026-11/heico-huebner-inspekteur-des-heeres-bundeswehr-boris-pistorius-gxe",
+      "time": "2026-11-27T16:28:46+00:00",
+      "opinion": false,
+      "image": "https://img.zeit.de/politik/deutschland/2026-11/heico-huebner-inspekteur-des-heeres-bundeswehr-boris-pistorius-gxe-foto-1/wide__820x461"
+    },
+    {
+      "section": "politik",
+      "headline": "Beschlüsse im Bundestag - Stromsteuer sinkt, Zuckersteuer kommt",
       "source": "Tagesschau",
       "country": "DE",
-      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/digitaler-fuehrerschein-verspaetung-start-mitte-dezember-100.html",
-      "time": "2026-11-26T07:10:45+00:00",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/beschluss-zuckersteuer-stromsteuer-100.html",
+      "time": "2026-11-27T16:09:18+00:00",
       "opinion": false,
-      "image": "https://images.tagesschau.de/image/bfc5bd39-f198-4076-9ab1-0497e5e35c3f/AAABohafN4w/AAABnSSvrFg/16x9-big/i-kfz-102.jpg?width=1024"
+      "image": "https://images.tagesschau.de/image/237b4c3c-396f-43ab-8d9a-8204407fe454/AAABoh2qjHM/AAABnSSvrFg/16x9-big/zucker-getraenke-100.jpg?width=1024"
+    },
+    {
+      "section": "wirtschaft",
+      "headline": "Kritische Infrastruktur: Telekom und Rheinmetall planen Schutzplattform",
+      "source": "Handelsblatt",
+      "country": "DE",
+      "url": "https://www.handelsblatt.com/technik/it-internet/kritische-infrastruktur-telekom-und-rheinmetall-planen-schutzplattform/100273336.html",
+      "time": "2026-11-27T15:16:00+00:00",
+      "opinion": false,
+      "image": "https://images.handelsblatt.com/Mnfz5B6W4MW8/cover/900/506/0/0/142/141/0.5/0.5/rheinmetall-digitalchef-timo-haas.jpg"
+    },
+    {
+      "section": "politik",
+      "headline": "Schiffsunglück vor Ibiza: Gefahr für Umwelt gering",
+      "source": "Tagesschau",
+      "country": "DE",
+      "url": "https://www.tagesschau.de/ausland/europa/tankerunglueck-ibiza-vorsichtige-entwarnung-100.html",
+      "time": "2026-11-27T15:03:21+00:00",
+      "opinion": false,
+      "image": "https://images.tagesschau.de/image/bf7faff1-4340-43e9-a3ff-22fff7cf333e/AAABoh0unGo/AAABnSSvrFg/16x9-big/tanker-ibiza-gekentert-100.jpg?width=1024"
+    },
+    {
+      "section": "politik",
+      "headline": "Serbien: Studierendenliste nominiert Chemieprofessor als Präsidentschaftskandidat",
+      "source": "Spiegel",
+      "country": "DE",
+      "url": "https://www.spiegel.de/ausland/serbien-studierendenliste-nominiert-chemieprofessor-als-praesidentschaftskandidat-a-a6382c22-ad83-40da-ab1c-4e60b160df20",
+      "time": "2026-11-27T14:31:00+00:00",
+      "opinion": false,
+      "image": "https://cdn.prod.www.spiegel.de/images/86b215da-55e8-4a48-89a9-4599c897a084_w520_r2.08_fpx40.67_fpy45.jpg"
+    },
+    {
+      "section": "politik",
+      "headline": "Militär gegen Banden: Wie Bukele in Haiti aufräumen will",
+      "source": "FAZ",
+      "country": "DE",
+      "url": "https://www.faz.net/aktuell/politik/ausland/kann-nayib-bukeles-sicherheitsmodell-haiti-retten-201717901.html",
+      "time": "2026-11-27T14:13:20+00:00",
+      "opinion": false,
+      "image": "https://media0.faz.net/image/0077de90e3ca/w3779h2126x0y132/202611/2e1a71b2-658b-4eb7-b2c2-595a1827fabf/praesident-nayib-bukele.webp"
+    },
+    {
+      "section": "politik",
+      "headline": "Spionageverdacht: Ex-BND-Chef Hanning bleibt in Untersuchungshaft",
+      "source": "Tagesschau",
+      "country": "DE",
+      "url": "https://www.tagesschau.de/inland/bnd-hanning-untersuchungshaft-spionageverdacht-100.html",
+      "time": "2026-11-27T14:10:01+00:00",
+      "opinion": false,
+      "image": "https://images.tagesschau.de/image/7d71ee12-a790-4843-b41a-b246c18c8ca3/AAABoh04loo/AAABnSSvrFg/16x9-big/hanning-130.jpg?width=1024"
+    },
+    {
+      "section": "wirtschaft",
+      "headline": "Delivery Hero: Uber sichert sich fast 90 Prozent der Anteile",
+      "source": "Spiegel",
+      "country": "DE",
+      "url": "https://www.spiegel.de/wirtschaft/uber-sichert-sich-fast-90-prozent-der-anteile-von-delivery-hero-a-e3ce4aeb-2c38-4e99-9069-dc1159a62ca3",
+      "time": "2026-11-27T13:08:00+00:00",
+      "opinion": false,
+      "image": "https://cdn.prod.www.spiegel.de/images/1e693c22-7600-49d0-a617-6e39732488d9_w520_r2.08_fpx56.01_fpy50.jpg"
+    },
+    {
+      "section": "politik",
+      "headline": "China: Ehemaliger Regionalpolitiker wegen Korruption zum Tode verurteilt",
+      "source": "Spiegel",
+      "country": "DE",
+      "url": "https://www.spiegel.de/ausland/china-ehemaliger-regionalpolitiker-wegen-korruption-zum-tode-verurteilt-a-2339c559-1efd-4593-b8e4-41e00d26e924",
+      "time": "2026-11-27T11:42:00+00:00",
+      "opinion": false,
+      "image": "https://cdn.prod.www.spiegel.de/images/d7aa581d-8b53-4dce-ad26-6a7dd3f3f9ce_w520_r2.08_fpx35.27_fpy50.jpg"
+    },
+    {
+      "section": "wirtschaft",
+      "headline": "Argentinien: Zentralbank darf Staat keine Kredite mehr gewähren",
+      "source": "Spiegel",
+      "country": "DE",
+      "url": "https://www.spiegel.de/wirtschaft/argentinien-zentralbank-darf-staat-keine-kredite-mehr-gewaehren-a-f9704e1e-1596-40b6-a8b6-04dbaa4af278",
+      "time": "2026-11-27T06:47:00+00:00",
+      "opinion": false,
+      "image": "https://cdn.prod.www.spiegel.de/images/ff1b52e1-c35b-43d0-8233-7801ea7a21af_w520_r2.08_fpx57.33_fpy50.jpg"
+    },
+    {
+      "section": "politik",
+      "headline": "Neuseeland: Konservative verlieren Mehrheit - Labour hat auch keine",
+      "source": "Tagesschau",
+      "country": "DE",
+      "url": "https://www.tagesschau.de/ausland/ozeanien/neuseeland-parlamentswahl-106.html",
+      "time": "2026-11-27T05:09:05+00:00",
+      "opinion": false,
+      "image": "https://images.tagesschau.de/image/4b7d0999-6ad4-4c99-9d06-eb65e0ec826d/AAABohucsjg/AAABnSSvrFg/16x9-big/neuseeland-luxon-104.jpg?width=1024"
     }
   ]
 }
